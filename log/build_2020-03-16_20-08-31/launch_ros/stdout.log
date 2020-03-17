@@ -1,0 +1,123 @@
+[4.241s] running egg_info
+[4.242s] creating /opt/workspace/build/launch_ros/launch_ros.egg-info
+[4.243s] writing /opt/workspace/build/launch_ros/launch_ros.egg-info/PKG-INFO
+[4.243s] writing dependency_links to /opt/workspace/build/launch_ros/launch_ros.egg-info/dependency_links.txt
+[4.244s] writing entry points to /opt/workspace/build/launch_ros/launch_ros.egg-info/entry_points.txt
+[4.244s] writing requirements to /opt/workspace/build/launch_ros/launch_ros.egg-info/requires.txt
+[4.244s] writing top-level names to /opt/workspace/build/launch_ros/launch_ros.egg-info/top_level.txt
+[4.256s] writing manifest file '/opt/workspace/build/launch_ros/launch_ros.egg-info/SOURCES.txt'
+[4.357s] reading manifest file '/opt/workspace/build/launch_ros/launch_ros.egg-info/SOURCES.txt'
+[4.361s] writing manifest file '/opt/workspace/build/launch_ros/launch_ros.egg-info/SOURCES.txt'
+[4.361s] running build
+[4.361s] running build_py
+[4.362s] creating /opt/workspace/build/launch_ros/build
+[4.362s] creating /opt/workspace/build/launch_ros/build/lib
+[4.362s] creating /opt/workspace/build/launch_ros/build/lib/launch_ros
+[4.362s] copying launch_ros/__init__.py -> /opt/workspace/build/launch_ros/build/lib/launch_ros
+[4.362s] copying launch_ros/remap_rule_type.py -> /opt/workspace/build/launch_ros/build/lib/launch_ros
+[4.363s] copying launch_ros/parameters_type.py -> /opt/workspace/build/launch_ros/build/lib/launch_ros
+[4.364s] copying launch_ros/default_launch_description.py -> /opt/workspace/build/launch_ros/build/lib/launch_ros
+[4.366s] creating /opt/workspace/build/launch_ros/build/lib/launch_ros/substitutions
+[4.367s] copying launch_ros/substitutions/__init__.py -> /opt/workspace/build/launch_ros/build/lib/launch_ros/substitutions
+[4.369s] copying launch_ros/substitutions/executable_in_package.py -> /opt/workspace/build/launch_ros/build/lib/launch_ros/substitutions
+[4.371s] copying launch_ros/substitutions/find_package.py -> /opt/workspace/build/launch_ros/build/lib/launch_ros/substitutions
+[4.372s] creating /opt/workspace/build/launch_ros/build/lib/launch_ros/events
+[4.373s] copying launch_ros/events/__init__.py -> /opt/workspace/build/launch_ros/build/lib/launch_ros/events
+[4.374s] creating /opt/workspace/build/launch_ros/build/lib/launch_ros/utilities
+[4.374s] copying launch_ros/utilities/__init__.py -> /opt/workspace/build/launch_ros/build/lib/launch_ros/utilities
+[4.379s] copying launch_ros/utilities/normalize_parameters.py -> /opt/workspace/build/launch_ros/build/lib/launch_ros/utilities
+[4.380s] copying launch_ros/utilities/normalize_remap_rule.py -> /opt/workspace/build/launch_ros/build/lib/launch_ros/utilities
+[4.380s] copying launch_ros/utilities/to_parameters_list.py -> /opt/workspace/build/launch_ros/build/lib/launch_ros/utilities
+[4.380s] copying launch_ros/utilities/evaluate_parameters.py -> /opt/workspace/build/launch_ros/build/lib/launch_ros/utilities
+[4.380s] creating /opt/workspace/build/launch_ros/build/lib/launch_ros/event_handlers
+[4.380s] copying launch_ros/event_handlers/on_state_transition.py -> /opt/workspace/build/launch_ros/build/lib/launch_ros/event_handlers
+[4.381s] copying launch_ros/event_handlers/__init__.py -> /opt/workspace/build/launch_ros/build/lib/launch_ros/event_handlers
+[4.381s] creating /opt/workspace/build/launch_ros/build/lib/launch_ros/actions
+[4.381s] copying launch_ros/actions/lifecycle_node.py -> /opt/workspace/build/launch_ros/build/lib/launch_ros/actions
+[4.381s] copying launch_ros/actions/push_ros_namespace.py -> /opt/workspace/build/launch_ros/build/lib/launch_ros/actions
+[4.382s] copying launch_ros/actions/__init__.py -> /opt/workspace/build/launch_ros/build/lib/launch_ros/actions
+[4.382s] copying launch_ros/actions/load_composable_nodes.py -> /opt/workspace/build/launch_ros/build/lib/launch_ros/actions
+[4.382s] copying launch_ros/actions/node.py -> /opt/workspace/build/launch_ros/build/lib/launch_ros/actions
+[4.383s] copying launch_ros/actions/composable_node_container.py -> /opt/workspace/build/launch_ros/build/lib/launch_ros/actions
+[4.383s] creating /opt/workspace/build/launch_ros/build/lib/launch_ros/descriptions
+[4.383s] copying launch_ros/descriptions/__init__.py -> /opt/workspace/build/launch_ros/build/lib/launch_ros/descriptions
+[4.384s] copying launch_ros/descriptions/composable_node.py -> /opt/workspace/build/launch_ros/build/lib/launch_ros/descriptions
+[4.384s] creating /opt/workspace/build/launch_ros/build/lib/launch_ros/events/lifecycle
+[4.384s] copying launch_ros/events/lifecycle/__init__.py -> /opt/workspace/build/launch_ros/build/lib/launch_ros/events/lifecycle
+[4.385s] copying launch_ros/events/lifecycle/state_transition.py -> /opt/workspace/build/launch_ros/build/lib/launch_ros/events/lifecycle
+[4.389s] copying launch_ros/events/lifecycle/change_state.py -> /opt/workspace/build/launch_ros/build/lib/launch_ros/events/lifecycle
+[4.389s] copying launch_ros/events/lifecycle/lifecycle_node_matchers.py -> /opt/workspace/build/launch_ros/build/lib/launch_ros/events/lifecycle
+[4.391s] running install
+[4.392s] running install_lib
+[4.393s] creating /opt/workspace/install/launch_ros/lib/python3.6/site-packages/launch_ros
+[4.394s] creating /opt/workspace/install/launch_ros/lib/python3.6/site-packages/launch_ros/substitutions
+[4.394s] copying /opt/workspace/build/launch_ros/build/lib/launch_ros/substitutions/__init__.py -> /opt/workspace/install/launch_ros/lib/python3.6/site-packages/launch_ros/substitutions
+[4.394s] copying /opt/workspace/build/launch_ros/build/lib/launch_ros/substitutions/executable_in_package.py -> /opt/workspace/install/launch_ros/lib/python3.6/site-packages/launch_ros/substitutions
+[4.394s] copying /opt/workspace/build/launch_ros/build/lib/launch_ros/substitutions/find_package.py -> /opt/workspace/install/launch_ros/lib/python3.6/site-packages/launch_ros/substitutions
+[4.395s] copying /opt/workspace/build/launch_ros/build/lib/launch_ros/__init__.py -> /opt/workspace/install/launch_ros/lib/python3.6/site-packages/launch_ros
+[4.395s] copying /opt/workspace/build/launch_ros/build/lib/launch_ros/remap_rule_type.py -> /opt/workspace/install/launch_ros/lib/python3.6/site-packages/launch_ros
+[4.395s] copying /opt/workspace/build/launch_ros/build/lib/launch_ros/parameters_type.py -> /opt/workspace/install/launch_ros/lib/python3.6/site-packages/launch_ros
+[4.395s] creating /opt/workspace/install/launch_ros/lib/python3.6/site-packages/launch_ros/events
+[4.396s] copying /opt/workspace/build/launch_ros/build/lib/launch_ros/events/__init__.py -> /opt/workspace/install/launch_ros/lib/python3.6/site-packages/launch_ros/events
+[4.396s] creating /opt/workspace/install/launch_ros/lib/python3.6/site-packages/launch_ros/events/lifecycle
+[4.396s] copying /opt/workspace/build/launch_ros/build/lib/launch_ros/events/lifecycle/__init__.py -> /opt/workspace/install/launch_ros/lib/python3.6/site-packages/launch_ros/events/lifecycle
+[4.396s] copying /opt/workspace/build/launch_ros/build/lib/launch_ros/events/lifecycle/state_transition.py -> /opt/workspace/install/launch_ros/lib/python3.6/site-packages/launch_ros/events/lifecycle
+[4.396s] copying /opt/workspace/build/launch_ros/build/lib/launch_ros/events/lifecycle/change_state.py -> /opt/workspace/install/launch_ros/lib/python3.6/site-packages/launch_ros/events/lifecycle
+[4.397s] copying /opt/workspace/build/launch_ros/build/lib/launch_ros/events/lifecycle/lifecycle_node_matchers.py -> /opt/workspace/install/launch_ros/lib/python3.6/site-packages/launch_ros/events/lifecycle
+[4.397s] creating /opt/workspace/install/launch_ros/lib/python3.6/site-packages/launch_ros/utilities
+[4.397s] copying /opt/workspace/build/launch_ros/build/lib/launch_ros/utilities/__init__.py -> /opt/workspace/install/launch_ros/lib/python3.6/site-packages/launch_ros/utilities
+[4.397s] copying /opt/workspace/build/launch_ros/build/lib/launch_ros/utilities/normalize_parameters.py -> /opt/workspace/install/launch_ros/lib/python3.6/site-packages/launch_ros/utilities
+[4.399s] copying /opt/workspace/build/launch_ros/build/lib/launch_ros/utilities/normalize_remap_rule.py -> /opt/workspace/install/launch_ros/lib/python3.6/site-packages/launch_ros/utilities
+[4.399s] copying /opt/workspace/build/launch_ros/build/lib/launch_ros/utilities/to_parameters_list.py -> /opt/workspace/install/launch_ros/lib/python3.6/site-packages/launch_ros/utilities
+[4.399s] copying /opt/workspace/build/launch_ros/build/lib/launch_ros/utilities/evaluate_parameters.py -> /opt/workspace/install/launch_ros/lib/python3.6/site-packages/launch_ros/utilities
+[4.399s] copying /opt/workspace/build/launch_ros/build/lib/launch_ros/default_launch_description.py -> /opt/workspace/install/launch_ros/lib/python3.6/site-packages/launch_ros
+[4.400s] creating /opt/workspace/install/launch_ros/lib/python3.6/site-packages/launch_ros/event_handlers
+[4.400s] copying /opt/workspace/build/launch_ros/build/lib/launch_ros/event_handlers/on_state_transition.py -> /opt/workspace/install/launch_ros/lib/python3.6/site-packages/launch_ros/event_handlers
+[4.400s] copying /opt/workspace/build/launch_ros/build/lib/launch_ros/event_handlers/__init__.py -> /opt/workspace/install/launch_ros/lib/python3.6/site-packages/launch_ros/event_handlers
+[4.400s] creating /opt/workspace/install/launch_ros/lib/python3.6/site-packages/launch_ros/actions
+[4.400s] copying /opt/workspace/build/launch_ros/build/lib/launch_ros/actions/lifecycle_node.py -> /opt/workspace/install/launch_ros/lib/python3.6/site-packages/launch_ros/actions
+[4.400s] copying /opt/workspace/build/launch_ros/build/lib/launch_ros/actions/push_ros_namespace.py -> /opt/workspace/install/launch_ros/lib/python3.6/site-packages/launch_ros/actions
+[4.401s] copying /opt/workspace/build/launch_ros/build/lib/launch_ros/actions/__init__.py -> /opt/workspace/install/launch_ros/lib/python3.6/site-packages/launch_ros/actions
+[4.401s] copying /opt/workspace/build/launch_ros/build/lib/launch_ros/actions/load_composable_nodes.py -> /opt/workspace/install/launch_ros/lib/python3.6/site-packages/launch_ros/actions
+[4.401s] copying /opt/workspace/build/launch_ros/build/lib/launch_ros/actions/node.py -> /opt/workspace/install/launch_ros/lib/python3.6/site-packages/launch_ros/actions
+[4.403s] copying /opt/workspace/build/launch_ros/build/lib/launch_ros/actions/composable_node_container.py -> /opt/workspace/install/launch_ros/lib/python3.6/site-packages/launch_ros/actions
+[4.403s] creating /opt/workspace/install/launch_ros/lib/python3.6/site-packages/launch_ros/descriptions
+[4.403s] copying /opt/workspace/build/launch_ros/build/lib/launch_ros/descriptions/__init__.py -> /opt/workspace/install/launch_ros/lib/python3.6/site-packages/launch_ros/descriptions
+[4.404s] copying /opt/workspace/build/launch_ros/build/lib/launch_ros/descriptions/composable_node.py -> /opt/workspace/install/launch_ros/lib/python3.6/site-packages/launch_ros/descriptions
+[4.409s] byte-compiling /opt/workspace/install/launch_ros/lib/python3.6/site-packages/launch_ros/substitutions/__init__.py to __init__.cpython-36.pyc
+[4.410s] byte-compiling /opt/workspace/install/launch_ros/lib/python3.6/site-packages/launch_ros/substitutions/executable_in_package.py to executable_in_package.cpython-36.pyc
+[4.411s] byte-compiling /opt/workspace/install/launch_ros/lib/python3.6/site-packages/launch_ros/substitutions/find_package.py to find_package.cpython-36.pyc
+[4.414s] byte-compiling /opt/workspace/install/launch_ros/lib/python3.6/site-packages/launch_ros/__init__.py to __init__.cpython-36.pyc
+[4.415s] byte-compiling /opt/workspace/install/launch_ros/lib/python3.6/site-packages/launch_ros/remap_rule_type.py to remap_rule_type.cpython-36.pyc
+[4.415s] byte-compiling /opt/workspace/install/launch_ros/lib/python3.6/site-packages/launch_ros/parameters_type.py to parameters_type.cpython-36.pyc
+[4.418s] byte-compiling /opt/workspace/install/launch_ros/lib/python3.6/site-packages/launch_ros/events/__init__.py to __init__.cpython-36.pyc
+[4.419s] byte-compiling /opt/workspace/install/launch_ros/lib/python3.6/site-packages/launch_ros/events/lifecycle/__init__.py to __init__.cpython-36.pyc
+[4.419s] byte-compiling /opt/workspace/install/launch_ros/lib/python3.6/site-packages/launch_ros/events/lifecycle/state_transition.py to state_transition.cpython-36.pyc
+[4.422s] byte-compiling /opt/workspace/install/launch_ros/lib/python3.6/site-packages/launch_ros/events/lifecycle/change_state.py to change_state.cpython-36.pyc
+[4.424s] byte-compiling /opt/workspace/install/launch_ros/lib/python3.6/site-packages/launch_ros/events/lifecycle/lifecycle_node_matchers.py to lifecycle_node_matchers.cpython-36.pyc
+[4.424s] byte-compiling /opt/workspace/install/launch_ros/lib/python3.6/site-packages/launch_ros/utilities/__init__.py to __init__.cpython-36.pyc
+[4.425s] byte-compiling /opt/workspace/install/launch_ros/lib/python3.6/site-packages/launch_ros/utilities/normalize_parameters.py to normalize_parameters.cpython-36.pyc
+[4.431s] byte-compiling /opt/workspace/install/launch_ros/lib/python3.6/site-packages/launch_ros/utilities/normalize_remap_rule.py to normalize_remap_rule.cpython-36.pyc
+[4.431s] byte-compiling /opt/workspace/install/launch_ros/lib/python3.6/site-packages/launch_ros/utilities/to_parameters_list.py to to_parameters_list.cpython-36.pyc
+[4.431s] byte-compiling /opt/workspace/install/launch_ros/lib/python3.6/site-packages/launch_ros/utilities/evaluate_parameters.py to evaluate_parameters.cpython-36.pyc
+[4.434s] byte-compiling /opt/workspace/install/launch_ros/lib/python3.6/site-packages/launch_ros/default_launch_description.py to default_launch_description.cpython-36.pyc
+[4.438s] byte-compiling /opt/workspace/install/launch_ros/lib/python3.6/site-packages/launch_ros/event_handlers/on_state_transition.py to on_state_transition.cpython-36.pyc
+[4.438s] byte-compiling /opt/workspace/install/launch_ros/lib/python3.6/site-packages/launch_ros/event_handlers/__init__.py to __init__.cpython-36.pyc
+[4.439s] byte-compiling /opt/workspace/install/launch_ros/lib/python3.6/site-packages/launch_ros/actions/lifecycle_node.py to lifecycle_node.cpython-36.pyc
+[4.439s] byte-compiling /opt/workspace/install/launch_ros/lib/python3.6/site-packages/launch_ros/actions/push_ros_namespace.py to push_ros_namespace.cpython-36.pyc
+[4.439s] byte-compiling /opt/workspace/install/launch_ros/lib/python3.6/site-packages/launch_ros/actions/__init__.py to __init__.cpython-36.pyc
+[4.440s] byte-compiling /opt/workspace/install/launch_ros/lib/python3.6/site-packages/launch_ros/actions/load_composable_nodes.py to load_composable_nodes.cpython-36.pyc
+[4.440s] byte-compiling /opt/workspace/install/launch_ros/lib/python3.6/site-packages/launch_ros/actions/node.py to node.cpython-36.pyc
+[4.443s] byte-compiling /opt/workspace/install/launch_ros/lib/python3.6/site-packages/launch_ros/actions/composable_node_container.py to composable_node_container.cpython-36.pyc
+[4.444s] byte-compiling /opt/workspace/install/launch_ros/lib/python3.6/site-packages/launch_ros/descriptions/__init__.py to __init__.cpython-36.pyc
+[4.444s] byte-compiling /opt/workspace/install/launch_ros/lib/python3.6/site-packages/launch_ros/descriptions/composable_node.py to composable_node.cpython-36.pyc
+[4.445s] running install_data
+[4.446s] copying package.xml -> /opt/workspace/install/launch_ros/share/launch_ros
+[4.447s] creating /opt/workspace/install/launch_ros/share/ament_index
+[4.448s] creating /opt/workspace/install/launch_ros/share/ament_index/resource_index
+[4.448s] creating /opt/workspace/install/launch_ros/share/ament_index/resource_index/packages
+[4.448s] copying resource/launch_ros -> /opt/workspace/install/launch_ros/share/ament_index/resource_index/packages
+[4.449s] running install_egg_info
+[4.452s] Copying /opt/workspace/build/launch_ros/launch_ros.egg-info to /opt/workspace/install/launch_ros/lib/python3.6/site-packages/launch_ros-0.9.5-py3.6.egg-info
+[4.454s] running install_scripts
+[4.499s] writing list of installed files to '/opt/workspace/build/launch_ros/install.log'

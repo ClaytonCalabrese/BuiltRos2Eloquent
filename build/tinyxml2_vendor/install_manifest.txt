@@ -1,0 +1,4 @@
+/opt/workspace/install/tinyxml2_vendor/share/tinyxml2_vendor/cmake/Modules/FindTinyXML2.cmake
+/opt/workspace/install/tinyxml2_vendor/share/tinyxml2_vendor/package.xml
+/opt/workspace/install/tinyxml2_vendor/share/tinyxml2_vendor/cmake/tinyxml2_vendorConfig.cmake
+/opt/workspace/install/tinyxml2_vendor/share/tinyxml2_vendor/cmake/tinyxml2_vendorConfig-version.cmake

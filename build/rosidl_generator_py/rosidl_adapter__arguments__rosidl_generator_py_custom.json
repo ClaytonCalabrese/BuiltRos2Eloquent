@@ -1,0 +1,17 @@
+{
+  "package_name": "rosidl_generator_py",
+  "non_idl_tuples": [
+    "/opt/workspace/install/test_interface_files/share/test_interface_files:msg/Arrays.msg",
+    "/opt/workspace/install/test_interface_files/share/test_interface_files:msg/BasicTypes.msg",
+    "/opt/workspace/install/test_interface_files/share/test_interface_files:msg/BoundedSequences.msg",
+    "/opt/workspace/install/test_interface_files/share/test_interface_files:msg/Constants.msg",
+    "/opt/workspace/install/test_interface_files/share/test_interface_files:msg/Defaults.msg",
+    "/opt/workspace/install/test_interface_files/share/test_interface_files:msg/Empty.msg",
+    "/opt/workspace/install/test_interface_files/share/test_interface_files:msg/MultiNested.msg",
+    "/opt/workspace/install/test_interface_files/share/test_interface_files:msg/Nested.msg",
+    "/opt/workspace/install/test_interface_files/share/test_interface_files:msg/Strings.msg",
+    "/opt/workspace/install/test_interface_files/share/test_interface_files:msg/UnboundedSequences.msg",
+    "/opt/workspace/install/test_interface_files/share/test_interface_files:msg/WStrings.msg",
+    "/opt/workspace/src/ros2/rosidl_python/rosidl_generator_py:msg/StringArrays.msg"
+  ]
+}

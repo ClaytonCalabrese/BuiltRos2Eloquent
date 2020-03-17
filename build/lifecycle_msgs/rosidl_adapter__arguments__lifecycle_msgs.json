@@ -1,0 +1,13 @@
+{
+  "package_name": "lifecycle_msgs",
+  "non_idl_tuples": [
+    "/opt/workspace/src/ros2/rcl_interfaces/lifecycle_msgs:msg/State.msg",
+    "/opt/workspace/src/ros2/rcl_interfaces/lifecycle_msgs:msg/Transition.msg",
+    "/opt/workspace/src/ros2/rcl_interfaces/lifecycle_msgs:msg/TransitionDescription.msg",
+    "/opt/workspace/src/ros2/rcl_interfaces/lifecycle_msgs:msg/TransitionEvent.msg",
+    "/opt/workspace/src/ros2/rcl_interfaces/lifecycle_msgs:srv/ChangeState.srv",
+    "/opt/workspace/src/ros2/rcl_interfaces/lifecycle_msgs:srv/GetAvailableStates.srv",
+    "/opt/workspace/src/ros2/rcl_interfaces/lifecycle_msgs:srv/GetAvailableTransitions.srv",
+    "/opt/workspace/src/ros2/rcl_interfaces/lifecycle_msgs:srv/GetState.srv"
+  ]
+}

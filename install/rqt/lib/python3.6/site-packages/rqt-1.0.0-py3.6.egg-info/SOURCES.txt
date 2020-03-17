@@ -1,0 +1,8 @@
+package.xml
+setup.py
+/opt/workspace/build/rqt/rqt.egg-info/PKG-INFO
+/opt/workspace/build/rqt/rqt.egg-info/SOURCES.txt
+/opt/workspace/build/rqt/rqt.egg-info/dependency_links.txt
+/opt/workspace/build/rqt/rqt.egg-info/top_level.txt
+/opt/workspace/build/rqt/rqt.egg-info/zip-safe
+resource/rqt

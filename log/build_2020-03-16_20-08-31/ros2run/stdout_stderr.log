@@ -1,0 +1,44 @@
+[5.269s] running egg_info
+[5.269s] creating /opt/workspace/build/ros2run/ros2run.egg-info
+[5.269s] writing /opt/workspace/build/ros2run/ros2run.egg-info/PKG-INFO
+[5.270s] writing dependency_links to /opt/workspace/build/ros2run/ros2run.egg-info/dependency_links.txt
+[5.270s] writing entry points to /opt/workspace/build/ros2run/ros2run.egg-info/entry_points.txt
+[5.270s] writing requirements to /opt/workspace/build/ros2run/ros2run.egg-info/requires.txt
+[5.271s] writing top-level names to /opt/workspace/build/ros2run/ros2run.egg-info/top_level.txt
+[5.271s] writing manifest file '/opt/workspace/build/ros2run/ros2run.egg-info/SOURCES.txt'
+[5.271s] reading manifest file '/opt/workspace/build/ros2run/ros2run.egg-info/SOURCES.txt'
+[5.271s] writing manifest file '/opt/workspace/build/ros2run/ros2run.egg-info/SOURCES.txt'
+[5.272s] running build
+[5.272s] running build_py
+[5.272s] creating /opt/workspace/build/ros2run/build
+[5.273s] creating /opt/workspace/build/ros2run/build/lib
+[5.273s] creating /opt/workspace/build/ros2run/build/lib/ros2run
+[5.273s] copying ros2run/__init__.py -> /opt/workspace/build/ros2run/build/lib/ros2run
+[5.274s] creating /opt/workspace/build/ros2run/build/lib/ros2run/api
+[5.274s] copying ros2run/api/__init__.py -> /opt/workspace/build/ros2run/build/lib/ros2run/api
+[5.274s] creating /opt/workspace/build/ros2run/build/lib/ros2run/command
+[5.274s] copying ros2run/command/__init__.py -> /opt/workspace/build/ros2run/build/lib/ros2run/command
+[5.275s] copying ros2run/command/run.py -> /opt/workspace/build/ros2run/build/lib/ros2run/command
+[5.275s] running install
+[5.275s] running install_lib
+[5.276s] creating /opt/workspace/install/ros2run/lib/python3.6/site-packages/ros2run
+[5.276s] copying /opt/workspace/build/ros2run/build/lib/ros2run/__init__.py -> /opt/workspace/install/ros2run/lib/python3.6/site-packages/ros2run
+[5.276s] creating /opt/workspace/install/ros2run/lib/python3.6/site-packages/ros2run/api
+[5.276s] copying /opt/workspace/build/ros2run/build/lib/ros2run/api/__init__.py -> /opt/workspace/install/ros2run/lib/python3.6/site-packages/ros2run/api
+[5.277s] creating /opt/workspace/install/ros2run/lib/python3.6/site-packages/ros2run/command
+[5.277s] copying /opt/workspace/build/ros2run/build/lib/ros2run/command/__init__.py -> /opt/workspace/install/ros2run/lib/python3.6/site-packages/ros2run/command
+[5.277s] copying /opt/workspace/build/ros2run/build/lib/ros2run/command/run.py -> /opt/workspace/install/ros2run/lib/python3.6/site-packages/ros2run/command
+[5.277s] byte-compiling /opt/workspace/install/ros2run/lib/python3.6/site-packages/ros2run/__init__.py to __init__.cpython-36.pyc
+[5.278s] byte-compiling /opt/workspace/install/ros2run/lib/python3.6/site-packages/ros2run/api/__init__.py to __init__.cpython-36.pyc
+[5.278s] byte-compiling /opt/workspace/install/ros2run/lib/python3.6/site-packages/ros2run/command/__init__.py to __init__.cpython-36.pyc
+[5.278s] byte-compiling /opt/workspace/install/ros2run/lib/python3.6/site-packages/ros2run/command/run.py to run.cpython-36.pyc
+[5.278s] running install_data
+[5.279s] copying package.xml -> /opt/workspace/install/ros2run/share/ros2run
+[5.279s] creating /opt/workspace/install/ros2run/share/ament_index
+[5.279s] creating /opt/workspace/install/ros2run/share/ament_index/resource_index
+[5.280s] creating /opt/workspace/install/ros2run/share/ament_index/resource_index/packages
+[5.280s] copying resource/ros2run -> /opt/workspace/install/ros2run/share/ament_index/resource_index/packages
+[5.280s] running install_egg_info
+[5.280s] Copying /opt/workspace/build/ros2run/ros2run.egg-info to /opt/workspace/install/ros2run/lib/python3.6/site-packages/ros2run-0.8.7-py3.6.egg-info
+[5.281s] running install_scripts
+[5.281s] writing list of installed files to '/opt/workspace/build/ros2run/install.log'

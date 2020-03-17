@@ -1,0 +1,7 @@
+{
+  "package_name": "test_rclcpp",
+  "non_idl_tuples": [
+    "/opt/workspace/src/ros2/system_tests/test_rclcpp:msg/UInt32.msg",
+    "/opt/workspace/src/ros2/system_tests/test_rclcpp:srv/AddTwoInts.srv"
+  ]
+}

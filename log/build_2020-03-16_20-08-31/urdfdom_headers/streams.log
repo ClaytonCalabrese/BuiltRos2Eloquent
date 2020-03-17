@@ -1,0 +1,30 @@
+[0.904s] Invoking command in '/opt/workspace/build/urdfdom_headers': /usr/bin/cmake --build /opt/workspace/build/urdfdom_headers -- -j8 -l8
+[1.012s] Invoked command in '/opt/workspace/build/urdfdom_headers' returned '0': /usr/bin/cmake --build /opt/workspace/build/urdfdom_headers -- -j8 -l8
+[1.113s] Invoking command in '/opt/workspace/build/urdfdom_headers': /usr/bin/cmake --build /opt/workspace/build/urdfdom_headers --target install -- -j8 -l8
+[1.220s] [36mInstall the project...[0m
+[1.236s] -- Install configuration: ""
+[1.236s] -- Up-to-date: /opt/workspace/install/urdfdom_headers/lib/urdfdom_headers/cmake/urdfdom_headers-config.cmake
+[1.236s] -- Up-to-date: /opt/workspace/install/urdfdom_headers/lib/urdfdom_headers/cmake/urdfdom_headers-config-version.cmake
+[1.237s] -- Up-to-date: /opt/workspace/install/urdfdom_headers/lib/pkgconfig/urdfdom_headers.pc
+[1.237s] -- Up-to-date: /opt/workspace/install/urdfdom_headers/include/urdf_sensor
+[1.237s] -- Up-to-date: /opt/workspace/install/urdfdom_headers/include/urdf_sensor/sensor.h
+[1.237s] -- Up-to-date: /opt/workspace/install/urdfdom_headers/include/urdf_sensor/types.h
+[1.238s] -- Up-to-date: /opt/workspace/install/urdfdom_headers/include/urdf_model
+[1.238s] -- Up-to-date: /opt/workspace/install/urdfdom_headers/include/urdf_model/color.h
+[1.239s] -- Up-to-date: /opt/workspace/install/urdfdom_headers/include/urdf_model/twist.h
+[1.242s] -- Up-to-date: /opt/workspace/install/urdfdom_headers/include/urdf_model/utils.h
+[1.242s] -- Up-to-date: /opt/workspace/install/urdfdom_headers/include/urdf_model/joint.h
+[1.243s] -- Up-to-date: /opt/workspace/install/urdfdom_headers/include/urdf_model/pose.h
+[1.243s] -- Up-to-date: /opt/workspace/install/urdfdom_headers/include/urdf_model/model.h
+[1.243s] -- Up-to-date: /opt/workspace/install/urdfdom_headers/include/urdf_model/link.h
+[1.244s] -- Up-to-date: /opt/workspace/install/urdfdom_headers/include/urdf_model/types.h
+[1.244s] -- Up-to-date: /opt/workspace/install/urdfdom_headers/include/urdf_model_state
+[1.244s] -- Up-to-date: /opt/workspace/install/urdfdom_headers/include/urdf_model_state/model_state.h
+[1.244s] -- Up-to-date: /opt/workspace/install/urdfdom_headers/include/urdf_model_state/twist.h
+[1.244s] -- Up-to-date: /opt/workspace/install/urdfdom_headers/include/urdf_model_state/types.h
+[1.245s] -- Up-to-date: /opt/workspace/install/urdfdom_headers/include/urdf_world
+[1.245s] -- Up-to-date: /opt/workspace/install/urdfdom_headers/include/urdf_world/world.h
+[1.245s] -- Up-to-date: /opt/workspace/install/urdfdom_headers/include/urdf_world/types.h
+[1.246s] -- Up-to-date: /opt/workspace/install/urdfdom_headers/include/urdf_exception
+[1.247s] -- Up-to-date: /opt/workspace/install/urdfdom_headers/include/urdf_exception/exception.h
+[1.355s] Invoked command in '/opt/workspace/build/urdfdom_headers' returned '0': /usr/bin/cmake --build /opt/workspace/build/urdfdom_headers --target install -- -j8 -l8

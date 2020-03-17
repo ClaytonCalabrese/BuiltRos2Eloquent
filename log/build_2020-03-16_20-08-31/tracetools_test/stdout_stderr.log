@@ -1,0 +1,121 @@
+[0.649s] -- The C compiler identification is GNU 7.4.0
+[0.787s] -- The CXX compiler identification is GNU 7.4.0
+[0.802s] -- Check for working C compiler: /usr/bin/cc
+[0.972s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.973s] -- Detecting C compiler ABI info
+[1.145s] -- Detecting C compiler ABI info - done
+[1.160s] -- Detecting C compile features
+[1.710s] -- Detecting C compile features - done
+[1.716s] -- Check for working CXX compiler: /usr/bin/c++
+[1.924s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[1.927s] -- Detecting CXX compiler ABI info
+[2.142s] -- Detecting CXX compiler ABI info - done
+[2.156s] -- Detecting CXX compile features
+[2.975s] -- Detecting CXX compile features - done
+[2.990s] -- Found ament_cmake: 0.8.2 (/opt/workspace/install/ament_cmake/share/ament_cmake/cmake)
+[3.124s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[3.125s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[3.821s] -- Found PkgConfig: /usr/bin/pkg-config (found version "0.29.1") 
+[3.824s] -- Checking for module 'lttng-ust'
+[3.834s] --   No package 'lttng-ust' found
+[3.836s] -- Found rclcpp: 0.8.4 (/opt/workspace/install/rclcpp/share/rclcpp/cmake)
+[3.953s] -- Found rosidl_adapter: 0.8.2 (/opt/workspace/install/rosidl_adapter/share/rosidl_adapter/cmake)
+[4.054s] -- Found rmw_implementation_cmake: 0.8.1 (/opt/workspace/install/rmw_implementation_cmake/share/rmw_implementation_cmake/cmake)
+[4.072s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[4.073s] -- Looking for pthread.h
+[4.250s] -- Looking for pthread.h - found
+[4.251s] -- Looking for pthread_create
+[4.431s] -- Looking for pthread_create - not found
+[4.432s] -- Looking for pthread_create in pthreads
+[4.591s] -- Looking for pthread_create in pthreads - not found
+[4.592s] -- Looking for pthread_create in pthread
+[4.782s] -- Looking for pthread_create in pthread - found
+[4.785s] -- Found Threads: TRUE  
+[4.922s] -- Found std_msgs: 0.8.1 (/opt/workspace/install/std_msgs/share/std_msgs/cmake)
+[4.931s] -- Found std_srvs: 0.8.1 (/opt/workspace/install/std_srvs/share/std_srvs/cmake)
+[5.835s] -- Found ament_lint_auto: 0.8.1 (/opt/workspace/install/ament_lint_auto/share/ament_lint_auto/cmake)
+[6.322s] -- Added test 'copyright' to check for copyright in CMake / C / C++ / Python code
+[6.328s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[6.334s] -- Configured cppcheck include dirs: 
+[6.340s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[6.344s] -- Added test 'flake8' to check Python code syntax and style conventions
+[6.348s] -- Added test 'lint_cmake' to check CMake code style
+[6.352s] -- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+[6.357s] -- Added test 'uncrustify' to check C / C++ code style
+[6.361s] -- Added test 'xmllint' to check XML markup files
+[6.371s] -- Configuring done
+[6.563s] -- Generating done
+[6.568s] -- Build files have been written to: /opt/workspace/build/tracetools_test
+[6.699s] [35m[1mScanning dependencies of target test_pong[0m
+[6.777s] [  6%] [32mBuilding CXX object CMakeFiles/test_pong.dir/src/test_pong.cpp.o[0m
+[13.333s] [ 12%] [32m[1mLinking CXX executable test_pong[0m
+[14.061s] [ 12%] Built target test_pong
+[14.090s] [35m[1mScanning dependencies of target test_service_pong[0m
+[14.180s] [ 18%] [32mBuilding CXX object CMakeFiles/test_service_pong.dir/src/test_service_pong.cpp.o[0m
+[19.105s] [ 25%] [32m[1mLinking CXX executable test_service_pong[0m
+[19.684s] [ 25%] Built target test_service_pong
+[19.714s] [35m[1mScanning dependencies of target test_service_ping[0m
+[19.801s] [ 31%] [32mBuilding CXX object CMakeFiles/test_service_ping.dir/src/test_service_ping.cpp.o[0m
+[25.090s] [ 37%] [32m[1mLinking CXX executable test_service_ping[0m
+[25.685s] [ 37%] Built target test_service_ping
+[25.717s] [35m[1mScanning dependencies of target test_intra[0m
+[25.807s] [ 43%] [32mBuilding CXX object CMakeFiles/test_intra.dir/src/test_intra.cpp.o[0m
+[33.011s] [ 50%] [32m[1mLinking CXX executable test_intra[0m
+[33.725s] [ 50%] Built target test_intra
+[33.755s] [35m[1mScanning dependencies of target test_publisher[0m
+[33.843s] [ 56%] [32mBuilding CXX object CMakeFiles/test_publisher.dir/src/test_publisher.cpp.o[0m
+[38.480s] [ 62%] [32m[1mLinking CXX executable test_publisher[0m
+[39.054s] [ 62%] Built target test_publisher
+[39.082s] [35m[1mScanning dependencies of target test_timer[0m
+[39.168s] [ 68%] [32mBuilding CXX object CMakeFiles/test_timer.dir/src/test_timer.cpp.o[0m
+[41.993s] [ 75%] [32m[1mLinking CXX executable test_timer[0m
+[42.332s] [ 75%] Built target test_timer
+[42.355s] [35m[1mScanning dependencies of target test_ping[0m
+[42.408s] [ 81%] [32mBuilding CXX object CMakeFiles/test_ping.dir/src/test_ping.cpp.o[0m
+[47.914s] [ 87%] [32m[1mLinking CXX executable test_ping[0m
+[48.390s] [ 87%] Built target test_ping
+[48.416s] [35m[1mScanning dependencies of target test_service[0m
+[48.481s] [ 93%] [32mBuilding CXX object CMakeFiles/test_service.dir/src/test_service.cpp.o[0m
+[51.431s] [100%] [32m[1mLinking CXX executable test_service[0m
+[51.846s] [100%] Built target test_service
+[52.080s] [ 12%] Built target test_pong
+[52.131s] [ 25%] Built target test_service_pong
+[52.183s] [ 37%] Built target test_service_ping
+[52.248s] [ 50%] Built target test_intra
+[52.318s] [ 62%] Built target test_publisher
+[52.381s] [ 75%] Built target test_timer
+[52.453s] [ 87%] Built target test_ping
+[52.518s] [100%] Built target test_service
+[52.569s] [36mInstall the project...[0m
+[52.593s] -- Install configuration: ""
+[52.594s] -- Installing: /opt/workspace/install/tracetools_test/lib/tracetools_test/test_intra
+[52.597s] -- Set runtime path of "/opt/workspace/install/tracetools_test/lib/tracetools_test/test_intra" to ""
+[52.598s] -- Installing: /opt/workspace/install/tracetools_test/lib/tracetools_test/test_ping
+[52.601s] -- Set runtime path of "/opt/workspace/install/tracetools_test/lib/tracetools_test/test_ping" to ""
+[52.601s] -- Installing: /opt/workspace/install/tracetools_test/lib/tracetools_test/test_pong
+[52.604s] -- Set runtime path of "/opt/workspace/install/tracetools_test/lib/tracetools_test/test_pong" to ""
+[52.605s] -- Installing: /opt/workspace/install/tracetools_test/lib/tracetools_test/test_publisher
+[52.606s] -- Set runtime path of "/opt/workspace/install/tracetools_test/lib/tracetools_test/test_publisher" to ""
+[52.607s] -- Installing: /opt/workspace/install/tracetools_test/lib/tracetools_test/test_service
+[52.608s] -- Set runtime path of "/opt/workspace/install/tracetools_test/lib/tracetools_test/test_service" to ""
+[52.608s] -- Installing: /opt/workspace/install/tracetools_test/lib/tracetools_test/test_service_ping
+[52.611s] -- Set runtime path of "/opt/workspace/install/tracetools_test/lib/tracetools_test/test_service_ping" to ""
+[52.611s] -- Installing: /opt/workspace/install/tracetools_test/lib/tracetools_test/test_service_pong
+[52.614s] -- Set runtime path of "/opt/workspace/install/tracetools_test/lib/tracetools_test/test_service_pong" to ""
+[52.614s] -- Installing: /opt/workspace/install/tracetools_test/lib/tracetools_test/test_timer
+[52.620s] -- Set runtime path of "/opt/workspace/install/tracetools_test/lib/tracetools_test/test_timer" to ""
+[52.623s] -- Installing: /opt/workspace/install/tracetools_test/share/ament_index/resource_index/package_run_dependencies/tracetools_test
+[52.624s] -- Installing: /opt/workspace/install/tracetools_test/share/ament_index/resource_index/parent_prefix_path/tracetools_test
+[52.624s] -- Installing: /opt/workspace/install/tracetools_test/share/tracetools_test/environment/ament_prefix_path.sh
+[52.625s] -- Installing: /opt/workspace/install/tracetools_test/share/tracetools_test/environment/ament_prefix_path.dsv
+[52.629s] -- Installing: /opt/workspace/install/tracetools_test/share/tracetools_test/environment/path.sh
+[52.629s] -- Installing: /opt/workspace/install/tracetools_test/share/tracetools_test/environment/path.dsv
+[52.630s] -- Installing: /opt/workspace/install/tracetools_test/share/tracetools_test/local_setup.bash
+[52.630s] -- Installing: /opt/workspace/install/tracetools_test/share/tracetools_test/local_setup.sh
+[52.630s] -- Installing: /opt/workspace/install/tracetools_test/share/tracetools_test/local_setup.zsh
+[52.631s] -- Installing: /opt/workspace/install/tracetools_test/share/tracetools_test/local_setup.dsv
+[52.631s] -- Installing: /opt/workspace/install/tracetools_test/share/tracetools_test/package.dsv
+[52.631s] -- Installing: /opt/workspace/install/tracetools_test/share/ament_index/resource_index/packages/tracetools_test
+[52.632s] -- Installing: /opt/workspace/install/tracetools_test/share/tracetools_test/cmake/tracetools_testConfig.cmake
+[52.632s] -- Installing: /opt/workspace/install/tracetools_test/share/tracetools_test/cmake/tracetools_testConfig-version.cmake
+[52.633s] -- Installing: /opt/workspace/install/tracetools_test/share/tracetools_test/package.xml

@@ -1,0 +1,2 @@
+source;share/test_cli_remapping/environment/ament_prefix_path.sh
+source;share/test_cli_remapping/environment/path.sh

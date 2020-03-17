@@ -1,0 +1,8 @@
+/opt/workspace/build/nav_msgs/rosidl_adapter/nav_msgs:msg/GridCells.idl
+/opt/workspace/build/nav_msgs/rosidl_adapter/nav_msgs:msg/MapMetaData.idl
+/opt/workspace/build/nav_msgs/rosidl_adapter/nav_msgs:msg/OccupancyGrid.idl
+/opt/workspace/build/nav_msgs/rosidl_adapter/nav_msgs:msg/Odometry.idl
+/opt/workspace/build/nav_msgs/rosidl_adapter/nav_msgs:msg/Path.idl
+/opt/workspace/build/nav_msgs/rosidl_adapter/nav_msgs:srv/GetMap.idl
+/opt/workspace/build/nav_msgs/rosidl_adapter/nav_msgs:srv/GetPlan.idl
+/opt/workspace/build/nav_msgs/rosidl_adapter/nav_msgs:srv/SetMap.idl

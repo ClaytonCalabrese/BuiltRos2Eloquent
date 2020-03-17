@@ -1,0 +1,26 @@
+[1.126s] -- The C compiler identification is GNU 7.4.0
+[1.369s] -- The CXX compiler identification is GNU 7.4.0
+[1.376s] -- Check for working C compiler: /usr/bin/cc
+[1.776s] -- Check for working C compiler: /usr/bin/cc -- works
+[1.778s] -- Detecting C compiler ABI info
+[2.198s] -- Detecting C compiler ABI info - done
+[2.210s] -- Detecting C compile features
+[3.288s] -- Detecting C compile features - done
+[3.288s] -- Check for working CXX compiler: /usr/bin/c++
+[3.652s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[3.653s] -- Detecting CXX compiler ABI info
+[4.017s] -- Detecting CXX compiler ABI info - done
+[4.029s] -- Detecting CXX compile features
+[5.673s] -- Detecting CXX compile features - done
+[5.691s] -- Found TinyXML2: /usr/lib/x86_64-linux-gnu/libtinyxml2.so  
+[5.693s] -- Configuring done
+[5.695s] -- Generating done
+[5.696s] -- Build files have been written to: /opt/workspace/build/tinyxml2_vendor
+[6.341s] [36mInstall the project...[0m
+[6.399s] -- Install configuration: ""
+[6.399s] -- Installing: /opt/workspace/install/tinyxml2_vendor/share/tinyxml2_vendor/cmake
+[6.399s] -- Installing: /opt/workspace/install/tinyxml2_vendor/share/tinyxml2_vendor/cmake/Modules
+[6.399s] -- Installing: /opt/workspace/install/tinyxml2_vendor/share/tinyxml2_vendor/cmake/Modules/FindTinyXML2.cmake
+[6.400s] -- Installing: /opt/workspace/install/tinyxml2_vendor/share/tinyxml2_vendor/package.xml
+[6.400s] -- Installing: /opt/workspace/install/tinyxml2_vendor/share/tinyxml2_vendor/cmake/tinyxml2_vendorConfig.cmake
+[6.400s] -- Installing: /opt/workspace/install/tinyxml2_vendor/share/tinyxml2_vendor/cmake/tinyxml2_vendorConfig-version.cmake

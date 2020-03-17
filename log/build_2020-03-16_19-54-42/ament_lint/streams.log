@@ -1,0 +1,36 @@
+[2.080s] Invoking command in '/opt/workspace/src/ament/ament_lint/ament_lint': PYTHONPATH=/opt/workspace/install/ament_lint/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base /opt/workspace/build/ament_lint build --build-base /opt/workspace/build/ament_lint/build install --prefix /opt/workspace/install/ament_lint --record /opt/workspace/build/ament_lint/install.log --single-version-externally-managed
+[2.569s] running egg_info
+[2.569s] creating /opt/workspace/build/ament_lint/ament_lint.egg-info
+[2.569s] writing /opt/workspace/build/ament_lint/ament_lint.egg-info/PKG-INFO
+[2.569s] writing dependency_links to /opt/workspace/build/ament_lint/ament_lint.egg-info/dependency_links.txt
+[2.570s] writing entry points to /opt/workspace/build/ament_lint/ament_lint.egg-info/entry_points.txt
+[2.570s] writing requirements to /opt/workspace/build/ament_lint/ament_lint.egg-info/requires.txt
+[2.570s] writing top-level names to /opt/workspace/build/ament_lint/ament_lint.egg-info/top_level.txt
+[2.570s] writing manifest file '/opt/workspace/build/ament_lint/ament_lint.egg-info/SOURCES.txt'
+[2.570s] reading manifest file '/opt/workspace/build/ament_lint/ament_lint.egg-info/SOURCES.txt'
+[2.570s] writing manifest file '/opt/workspace/build/ament_lint/ament_lint.egg-info/SOURCES.txt'
+[2.570s] running build
+[2.571s] running build_py
+[2.571s] creating /opt/workspace/build/ament_lint/build
+[2.571s] creating /opt/workspace/build/ament_lint/build/lib
+[2.573s] creating /opt/workspace/build/ament_lint/build/lib/ament_lint
+[2.573s] copying ament_lint/__init__.py -> /opt/workspace/build/ament_lint/build/lib/ament_lint
+[2.574s] copying ament_lint/pytest_marker.py -> /opt/workspace/build/ament_lint/build/lib/ament_lint
+[2.574s] running install
+[2.574s] running install_lib
+[2.575s] creating /opt/workspace/install/ament_lint/lib/python3.6/site-packages/ament_lint
+[2.575s] copying /opt/workspace/build/ament_lint/build/lib/ament_lint/__init__.py -> /opt/workspace/install/ament_lint/lib/python3.6/site-packages/ament_lint
+[2.575s] copying /opt/workspace/build/ament_lint/build/lib/ament_lint/pytest_marker.py -> /opt/workspace/install/ament_lint/lib/python3.6/site-packages/ament_lint
+[2.579s] byte-compiling /opt/workspace/install/ament_lint/lib/python3.6/site-packages/ament_lint/__init__.py to __init__.cpython-36.pyc
+[2.579s] byte-compiling /opt/workspace/install/ament_lint/lib/python3.6/site-packages/ament_lint/pytest_marker.py to pytest_marker.cpython-36.pyc
+[2.581s] running install_data
+[2.583s] copying package.xml -> /opt/workspace/install/ament_lint/share/ament_lint
+[2.583s] creating /opt/workspace/install/ament_lint/share/ament_index
+[2.583s] creating /opt/workspace/install/ament_lint/share/ament_index/resource_index
+[2.584s] creating /opt/workspace/install/ament_lint/share/ament_index/resource_index/packages
+[2.584s] copying resource/ament_lint -> /opt/workspace/install/ament_lint/share/ament_index/resource_index/packages
+[2.584s] running install_egg_info
+[2.585s] Copying /opt/workspace/build/ament_lint/ament_lint.egg-info to /opt/workspace/install/ament_lint/lib/python3.6/site-packages/ament_lint-0.8.1-py3.6.egg-info
+[2.585s] running install_scripts
+[2.585s] writing list of installed files to '/opt/workspace/build/ament_lint/install.log'
+[2.645s] Invoked command in '/opt/workspace/src/ament/ament_lint/ament_lint' returned '0': PYTHONPATH=/opt/workspace/install/ament_lint/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base /opt/workspace/build/ament_lint build --build-base /opt/workspace/build/ament_lint/build install --prefix /opt/workspace/install/ament_lint --record /opt/workspace/build/ament_lint/install.log --single-version-externally-managed

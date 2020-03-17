@@ -1,0 +1,129 @@
+[0.721s] -- The C compiler identification is GNU 7.4.0
+[0.907s] -- The CXX compiler identification is GNU 7.4.0
+[0.935s] -- Check for working C compiler: /usr/bin/cc
+[1.215s] -- Check for working C compiler: /usr/bin/cc -- works
+[1.223s] -- Detecting C compiler ABI info
+[1.553s] -- Detecting C compiler ABI info - done
+[1.568s] -- Detecting C compile features
+[2.456s] -- Detecting C compile features - done
+[2.461s] -- Check for working CXX compiler: /usr/bin/c++
+[2.771s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[2.773s] -- Detecting CXX compiler ABI info
+[3.129s] -- Detecting CXX compiler ABI info - done
+[3.148s] -- Detecting CXX compile features
+[4.476s] -- Detecting CXX compile features - done
+[4.502s] -- Found ament_cmake_ros: 0.8.0 (/opt/workspace/install/ament_cmake_ros/share/ament_cmake_ros/cmake)
+[4.821s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[4.822s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[5.752s] -- Found rclcpp: 0.8.4 (/opt/workspace/install/rclcpp/share/rclcpp/cmake)
+[5.862s] -- Found rosidl_adapter: 0.8.2 (/opt/workspace/install/rosidl_adapter/share/rosidl_adapter/cmake)
+[5.953s] -- Found rmw_implementation_cmake: 0.8.1 (/opt/workspace/install/rmw_implementation_cmake/share/rmw_implementation_cmake/cmake)
+[5.968s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[5.969s] -- Looking for pthread.h
+[6.300s] -- Looking for pthread.h - found
+[6.307s] -- Looking for pthread_create
+[6.633s] -- Looking for pthread_create - not found
+[6.634s] -- Looking for pthread_create in pthreads
+[6.959s] -- Looking for pthread_create in pthreads - not found
+[6.967s] -- Looking for pthread_create in pthread
+[7.331s] -- Looking for pthread_create in pthread - found
+[7.333s] -- Found Threads: TRUE  
+[7.438s] -- Found rcl_lifecycle: 0.8.4 (/opt/workspace/install/rcl_lifecycle/share/rcl_lifecycle/cmake)
+[7.582s] -- Found ament_lint_auto: 0.8.1 (/opt/workspace/install/ament_lint_auto/share/ament_lint_auto/cmake)
+[7.866s] -- Found gtest sources under '/opt/workspace/install/gtest_vendor/src/gtest_vendor': C++ tests using 'Google Test' will be built
+[7.870s] -- Check if compiler accepts -pthread
+[8.117s] -- Check if compiler accepts -pthread - yes
+[8.768s] -- Added test 'copyright' to check for copyright in CMake / C / C++ / Python code
+[8.774s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[8.780s] -- Configured cppcheck include dirs: /opt/workspace/src/ros2/rclcpp/rclcpp_lifecycle/include
+[8.785s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[8.789s] -- Added test 'lint_cmake' to check CMake code style
+[8.795s] -- Added test 'uncrustify' to check C / C++ code style
+[8.799s] -- Added test 'xmllint' to check XML markup files
+[8.811s] -- Configuring done
+[9.029s] -- Generating done
+[9.035s] -- Build files have been written to: /opt/workspace/build/rclcpp_lifecycle
+[9.195s] [35m[1mScanning dependencies of target rclcpp_lifecycle[0m
+[9.327s] [  4%] [32mBuilding CXX object CMakeFiles/rclcpp_lifecycle.dir/src/lifecycle_node.cpp.o[0m
+[15.965s] [  9%] [32mBuilding CXX object CMakeFiles/rclcpp_lifecycle.dir/src/transition.cpp.o[0m
+[16.764s] [ 14%] [32mBuilding CXX object CMakeFiles/rclcpp_lifecycle.dir/src/state.cpp.o[0m
+[17.593s] [ 19%] [32mBuilding CXX object CMakeFiles/rclcpp_lifecycle.dir/src/node_interfaces/lifecycle_node_interface.cpp.o[0m
+[18.120s] [ 23%] [32m[1mLinking CXX shared library librclcpp_lifecycle.so[0m
+[18.754s] [ 23%] Built target rclcpp_lifecycle
+[18.834s] [35m[1mScanning dependencies of target gtest[0m
+[18.935s] [ 28%] [32mBuilding CXX object gtest/CMakeFiles/gtest.dir/src/gtest-all.cc.o[0m
+[25.386s] [ 33%] [32m[1mLinking CXX static library libgtest.a[0m
+[25.681s] [ 33%] Built target gtest
+[25.753s] [35m[1mScanning dependencies of target gtest_main[0m
+[25.858s] [ 38%] [32mBuilding CXX object gtest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o[0m
+[27.381s] [ 42%] [32m[1mLinking CXX static library libgtest_main.a[0m
+[27.525s] [ 42%] Built target gtest_main
+[27.564s] [35m[1mScanning dependencies of target test_transition_wrapper[0m
+[27.670s] [ 47%] [32mBuilding CXX object CMakeFiles/test_transition_wrapper.dir/test/test_transition_wrapper.cpp.o[0m
+[30.792s] [ 52%] [32m[1mLinking CXX executable test_transition_wrapper[0m
+[31.490s] [ 52%] Built target test_transition_wrapper
+[31.528s] [35m[1mScanning dependencies of target test_register_custom_callbacks[0m
+[31.651s] [ 57%] [32mBuilding CXX object CMakeFiles/test_register_custom_callbacks.dir/test/test_register_custom_callbacks.cpp.o[0m
+[35.884s] [ 61%] [32m[1mLinking CXX executable test_register_custom_callbacks[0m
+[36.863s] [ 61%] Built target test_register_custom_callbacks
+[36.928s] [35m[1mScanning dependencies of target test_lifecycle_node[0m
+[37.072s] [ 66%] [32mBuilding CXX object CMakeFiles/test_lifecycle_node.dir/test/test_lifecycle_node.cpp.o[0m
+[44.248s] [ 71%] [32m[1mLinking CXX executable test_lifecycle_node[0m
+[45.467s] [ 71%] Built target test_lifecycle_node
+[45.507s] [35m[1mScanning dependencies of target test_state_machine_info[0m
+[45.630s] [ 76%] [32mBuilding CXX object CMakeFiles/test_state_machine_info.dir/test/test_state_machine_info.cpp.o[0m
+[50.006s] [ 80%] [32m[1mLinking CXX executable test_state_machine_info[0m
+[51.144s] [ 80%] Built target test_state_machine_info
+[51.171s] [35m[1mScanning dependencies of target test_state_wrapper[0m
+[51.267s] [ 85%] [32mBuilding CXX object CMakeFiles/test_state_wrapper.dir/test/test_state_wrapper.cpp.o[0m
+[54.519s] [ 90%] [32m[1mLinking CXX executable test_state_wrapper[0m
+[55.148s] [ 90%] Built target test_state_wrapper
+[55.186s] [35m[1mScanning dependencies of target test_callback_exceptions[0m
+[55.320s] [ 95%] [32mBuilding CXX object CMakeFiles/test_callback_exceptions.dir/test/test_callback_exceptions.cpp.o[0m
+[59.599s] [100%] [32m[1mLinking CXX executable test_callback_exceptions[0m
+[60.576s] [100%] Built target test_callback_exceptions
+[61.077s] [ 23%] Built target rclcpp_lifecycle
+[61.161s] [ 33%] Built target gtest
+[61.251s] [ 42%] Built target gtest_main
+[61.337s] [ 52%] Built target test_transition_wrapper
+[61.423s] [ 61%] Built target test_register_custom_callbacks
+[61.508s] [ 71%] Built target test_lifecycle_node
+[61.585s] [ 80%] Built target test_state_machine_info
+[61.662s] [ 90%] Built target test_state_wrapper
+[61.737s] [100%] Built target test_callback_exceptions
+[61.793s] [36mInstall the project...[0m
+[61.816s] -- Install configuration: ""
+[61.817s] -- Installing: /opt/workspace/install/rclcpp_lifecycle/lib/librclcpp_lifecycle.so
+[61.821s] -- Set runtime path of "/opt/workspace/install/rclcpp_lifecycle/lib/librclcpp_lifecycle.so" to ""
+[61.822s] -- Installing: /opt/workspace/install/rclcpp_lifecycle/share/rclcpp_lifecycle/environment/library_path.sh
+[61.822s] -- Installing: /opt/workspace/install/rclcpp_lifecycle/share/rclcpp_lifecycle/environment/library_path.dsv
+[61.822s] -- Installing: /opt/workspace/install/rclcpp_lifecycle/share/ament_index/resource_index/package_run_dependencies/rclcpp_lifecycle
+[61.822s] -- Installing: /opt/workspace/install/rclcpp_lifecycle/share/ament_index/resource_index/parent_prefix_path/rclcpp_lifecycle
+[61.823s] -- Installing: /opt/workspace/install/rclcpp_lifecycle/share/rclcpp_lifecycle/environment/ament_prefix_path.sh
+[61.823s] -- Installing: /opt/workspace/install/rclcpp_lifecycle/share/rclcpp_lifecycle/environment/ament_prefix_path.dsv
+[61.823s] -- Installing: /opt/workspace/install/rclcpp_lifecycle/share/rclcpp_lifecycle/environment/path.sh
+[61.824s] -- Installing: /opt/workspace/install/rclcpp_lifecycle/share/rclcpp_lifecycle/environment/path.dsv
+[61.824s] -- Installing: /opt/workspace/install/rclcpp_lifecycle/share/rclcpp_lifecycle/local_setup.bash
+[61.824s] -- Installing: /opt/workspace/install/rclcpp_lifecycle/share/rclcpp_lifecycle/local_setup.sh
+[61.824s] -- Installing: /opt/workspace/install/rclcpp_lifecycle/share/rclcpp_lifecycle/local_setup.zsh
+[61.825s] -- Installing: /opt/workspace/install/rclcpp_lifecycle/share/rclcpp_lifecycle/local_setup.dsv
+[61.825s] -- Installing: /opt/workspace/install/rclcpp_lifecycle/share/rclcpp_lifecycle/package.dsv
+[61.825s] -- Installing: /opt/workspace/install/rclcpp_lifecycle/share/ament_index/resource_index/packages/rclcpp_lifecycle
+[61.825s] -- Installing: /opt/workspace/install/rclcpp_lifecycle/share/rclcpp_lifecycle/cmake/ament_cmake_export_include_directories-extras.cmake
+[61.826s] -- Installing: /opt/workspace/install/rclcpp_lifecycle/share/rclcpp_lifecycle/cmake/ament_cmake_export_libraries-extras.cmake
+[61.826s] -- Installing: /opt/workspace/install/rclcpp_lifecycle/share/rclcpp_lifecycle/cmake/ament_cmake_export_dependencies-extras.cmake
+[61.826s] -- Installing: /opt/workspace/install/rclcpp_lifecycle/share/rclcpp_lifecycle/cmake/rclcpp_lifecycleConfig.cmake
+[61.826s] -- Installing: /opt/workspace/install/rclcpp_lifecycle/share/rclcpp_lifecycle/cmake/rclcpp_lifecycleConfig-version.cmake
+[61.827s] -- Installing: /opt/workspace/install/rclcpp_lifecycle/share/rclcpp_lifecycle/package.xml
+[61.827s] -- Installing: /opt/workspace/install/rclcpp_lifecycle/include
+[61.827s] -- Installing: /opt/workspace/install/rclcpp_lifecycle/include/rclcpp_lifecycle
+[61.827s] -- Installing: /opt/workspace/install/rclcpp_lifecycle/include/rclcpp_lifecycle/transition.hpp
+[61.827s] -- Installing: /opt/workspace/install/rclcpp_lifecycle/include/rclcpp_lifecycle/visibility_control.h
+[61.828s] -- Installing: /opt/workspace/install/rclcpp_lifecycle/include/rclcpp_lifecycle/lifecycle_publisher.hpp
+[61.828s] -- Installing: /opt/workspace/install/rclcpp_lifecycle/include/rclcpp_lifecycle/state.hpp
+[61.828s] -- Installing: /opt/workspace/install/rclcpp_lifecycle/include/rclcpp_lifecycle/node_interfaces
+[61.829s] -- Installing: /opt/workspace/install/rclcpp_lifecycle/include/rclcpp_lifecycle/node_interfaces/lifecycle_node_interface.hpp
+[61.829s] -- Installing: /opt/workspace/install/rclcpp_lifecycle/include/rclcpp_lifecycle/lifecycle_node_impl.hpp
+[61.829s] -- Installing: /opt/workspace/install/rclcpp_lifecycle/include/rclcpp_lifecycle/type_traits
+[61.829s] -- Installing: /opt/workspace/install/rclcpp_lifecycle/include/rclcpp_lifecycle/type_traits/is_manageable_node.hpp
+[61.830s] -- Installing: /opt/workspace/install/rclcpp_lifecycle/include/rclcpp_lifecycle/lifecycle_node.hpp

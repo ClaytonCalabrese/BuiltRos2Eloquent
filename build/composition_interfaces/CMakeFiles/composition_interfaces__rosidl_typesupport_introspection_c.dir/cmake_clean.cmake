@@ -1,0 +1,18 @@
+file(REMOVE_RECURSE
+  "rosidl_typesupport_introspection_c/composition_interfaces/srv/load_node__rosidl_typesupport_introspection_c.h"
+  "rosidl_typesupport_introspection_c/composition_interfaces/srv/list_nodes__rosidl_typesupport_introspection_c.h"
+  "rosidl_typesupport_introspection_c/composition_interfaces/srv/unload_node__rosidl_typesupport_introspection_c.h"
+  "rosidl_typesupport_introspection_c/composition_interfaces/srv/load_node__type_support.c"
+  "rosidl_typesupport_introspection_c/composition_interfaces/srv/list_nodes__type_support.c"
+  "rosidl_typesupport_introspection_c/composition_interfaces/srv/unload_node__type_support.c"
+  "CMakeFiles/composition_interfaces__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/composition_interfaces/srv/load_node__type_support.c.o"
+  "CMakeFiles/composition_interfaces__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/composition_interfaces/srv/list_nodes__type_support.c.o"
+  "CMakeFiles/composition_interfaces__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/composition_interfaces/srv/unload_node__type_support.c.o"
+  "libcomposition_interfaces__rosidl_typesupport_introspection_c.pdb"
+  "libcomposition_interfaces__rosidl_typesupport_introspection_c.so"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang C)
+  include(CMakeFiles/composition_interfaces__rosidl_typesupport_introspection_c.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

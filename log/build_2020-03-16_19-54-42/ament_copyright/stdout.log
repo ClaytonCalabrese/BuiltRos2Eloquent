@@ -1,0 +1,82 @@
+[1.832s] running egg_info
+[1.834s] creating /opt/workspace/build/ament_copyright/ament_copyright.egg-info
+[1.834s] writing /opt/workspace/build/ament_copyright/ament_copyright.egg-info/PKG-INFO
+[1.834s] writing dependency_links to /opt/workspace/build/ament_copyright/ament_copyright.egg-info/dependency_links.txt
+[1.834s] writing entry points to /opt/workspace/build/ament_copyright/ament_copyright.egg-info/entry_points.txt
+[1.835s] writing requirements to /opt/workspace/build/ament_copyright/ament_copyright.egg-info/requires.txt
+[1.835s] writing top-level names to /opt/workspace/build/ament_copyright/ament_copyright.egg-info/top_level.txt
+[1.835s] writing manifest file '/opt/workspace/build/ament_copyright/ament_copyright.egg-info/SOURCES.txt'
+[1.898s] reading manifest file '/opt/workspace/build/ament_copyright/ament_copyright.egg-info/SOURCES.txt'
+[1.901s] writing manifest file '/opt/workspace/build/ament_copyright/ament_copyright.egg-info/SOURCES.txt'
+[1.901s] running build
+[1.902s] running build_py
+[1.902s] creating /opt/workspace/build/ament_copyright/build
+[1.902s] creating /opt/workspace/build/ament_copyright/build/lib
+[1.903s] creating /opt/workspace/build/ament_copyright/build/lib/ament_copyright
+[1.903s] copying ament_copyright/__init__.py -> /opt/workspace/build/ament_copyright/build/lib/ament_copyright
+[1.903s] copying ament_copyright/pytest_marker.py -> /opt/workspace/build/ament_copyright/build/lib/ament_copyright
+[1.903s] copying ament_copyright/crawler.py -> /opt/workspace/build/ament_copyright/build/lib/ament_copyright
+[1.904s] copying ament_copyright/licenses.py -> /opt/workspace/build/ament_copyright/build/lib/ament_copyright
+[1.904s] copying ament_copyright/main.py -> /opt/workspace/build/ament_copyright/build/lib/ament_copyright
+[1.904s] copying ament_copyright/parser.py -> /opt/workspace/build/ament_copyright/build/lib/ament_copyright
+[1.905s] copying ament_copyright/copyright_names.py -> /opt/workspace/build/ament_copyright/build/lib/ament_copyright
+[1.905s] creating /opt/workspace/build/ament_copyright/build/lib/ament_copyright/template
+[1.905s] copying ament_copyright/template/mit_license.txt -> /opt/workspace/build/ament_copyright/build/lib/ament_copyright/template
+[1.905s] copying ament_copyright/template/bsd2_header.txt -> /opt/workspace/build/ament_copyright/build/lib/ament_copyright/template
+[1.906s] copying ament_copyright/template/lgplv3_contributing.txt -> /opt/workspace/build/ament_copyright/build/lib/ament_copyright/template
+[1.906s] copying ament_copyright/template/apache2_license.txt -> /opt/workspace/build/ament_copyright/build/lib/ament_copyright/template
+[1.906s] copying ament_copyright/template/lgplv3_header.txt -> /opt/workspace/build/ament_copyright/build/lib/ament_copyright/template
+[1.906s] copying ament_copyright/template/gplv3_license.txt -> /opt/workspace/build/ament_copyright/build/lib/ament_copyright/template
+[1.907s] copying ament_copyright/template/bsd2_license.txt -> /opt/workspace/build/ament_copyright/build/lib/ament_copyright/template
+[1.907s] copying ament_copyright/template/mit_contributing.txt -> /opt/workspace/build/ament_copyright/build/lib/ament_copyright/template
+[1.907s] copying ament_copyright/template/bsd2_contributing.txt -> /opt/workspace/build/ament_copyright/build/lib/ament_copyright/template
+[1.907s] copying ament_copyright/template/mit_header.txt -> /opt/workspace/build/ament_copyright/build/lib/ament_copyright/template
+[1.907s] copying ament_copyright/template/gplv3_contributing.txt -> /opt/workspace/build/ament_copyright/build/lib/ament_copyright/template
+[1.908s] copying ament_copyright/template/lgplv3_license.txt -> /opt/workspace/build/ament_copyright/build/lib/ament_copyright/template
+[1.908s] copying ament_copyright/template/apache2_contributing.txt -> /opt/workspace/build/ament_copyright/build/lib/ament_copyright/template
+[1.908s] copying ament_copyright/template/gplv3_header.txt -> /opt/workspace/build/ament_copyright/build/lib/ament_copyright/template
+[1.908s] copying ament_copyright/template/apache2_header.txt -> /opt/workspace/build/ament_copyright/build/lib/ament_copyright/template
+[1.909s] running install
+[1.909s] running install_lib
+[1.909s] creating /opt/workspace/install/ament_copyright/lib/python3.6/site-packages/ament_copyright
+[1.910s] copying /opt/workspace/build/ament_copyright/build/lib/ament_copyright/__init__.py -> /opt/workspace/install/ament_copyright/lib/python3.6/site-packages/ament_copyright
+[1.910s] copying /opt/workspace/build/ament_copyright/build/lib/ament_copyright/pytest_marker.py -> /opt/workspace/install/ament_copyright/lib/python3.6/site-packages/ament_copyright
+[1.910s] copying /opt/workspace/build/ament_copyright/build/lib/ament_copyright/crawler.py -> /opt/workspace/install/ament_copyright/lib/python3.6/site-packages/ament_copyright
+[1.911s] copying /opt/workspace/build/ament_copyright/build/lib/ament_copyright/licenses.py -> /opt/workspace/install/ament_copyright/lib/python3.6/site-packages/ament_copyright
+[1.911s] copying /opt/workspace/build/ament_copyright/build/lib/ament_copyright/main.py -> /opt/workspace/install/ament_copyright/lib/python3.6/site-packages/ament_copyright
+[1.911s] copying /opt/workspace/build/ament_copyright/build/lib/ament_copyright/parser.py -> /opt/workspace/install/ament_copyright/lib/python3.6/site-packages/ament_copyright
+[1.911s] copying /opt/workspace/build/ament_copyright/build/lib/ament_copyright/copyright_names.py -> /opt/workspace/install/ament_copyright/lib/python3.6/site-packages/ament_copyright
+[1.912s] creating /opt/workspace/install/ament_copyright/lib/python3.6/site-packages/ament_copyright/template
+[1.912s] copying /opt/workspace/build/ament_copyright/build/lib/ament_copyright/template/mit_license.txt -> /opt/workspace/install/ament_copyright/lib/python3.6/site-packages/ament_copyright/template
+[1.912s] copying /opt/workspace/build/ament_copyright/build/lib/ament_copyright/template/bsd2_header.txt -> /opt/workspace/install/ament_copyright/lib/python3.6/site-packages/ament_copyright/template
+[1.912s] copying /opt/workspace/build/ament_copyright/build/lib/ament_copyright/template/lgplv3_contributing.txt -> /opt/workspace/install/ament_copyright/lib/python3.6/site-packages/ament_copyright/template
+[1.913s] copying /opt/workspace/build/ament_copyright/build/lib/ament_copyright/template/apache2_license.txt -> /opt/workspace/install/ament_copyright/lib/python3.6/site-packages/ament_copyright/template
+[1.913s] copying /opt/workspace/build/ament_copyright/build/lib/ament_copyright/template/lgplv3_header.txt -> /opt/workspace/install/ament_copyright/lib/python3.6/site-packages/ament_copyright/template
+[1.913s] copying /opt/workspace/build/ament_copyright/build/lib/ament_copyright/template/gplv3_license.txt -> /opt/workspace/install/ament_copyright/lib/python3.6/site-packages/ament_copyright/template
+[1.913s] copying /opt/workspace/build/ament_copyright/build/lib/ament_copyright/template/bsd2_license.txt -> /opt/workspace/install/ament_copyright/lib/python3.6/site-packages/ament_copyright/template
+[1.913s] copying /opt/workspace/build/ament_copyright/build/lib/ament_copyright/template/mit_contributing.txt -> /opt/workspace/install/ament_copyright/lib/python3.6/site-packages/ament_copyright/template
+[1.914s] copying /opt/workspace/build/ament_copyright/build/lib/ament_copyright/template/bsd2_contributing.txt -> /opt/workspace/install/ament_copyright/lib/python3.6/site-packages/ament_copyright/template
+[1.914s] copying /opt/workspace/build/ament_copyright/build/lib/ament_copyright/template/mit_header.txt -> /opt/workspace/install/ament_copyright/lib/python3.6/site-packages/ament_copyright/template
+[1.914s] copying /opt/workspace/build/ament_copyright/build/lib/ament_copyright/template/gplv3_contributing.txt -> /opt/workspace/install/ament_copyright/lib/python3.6/site-packages/ament_copyright/template
+[1.914s] copying /opt/workspace/build/ament_copyright/build/lib/ament_copyright/template/lgplv3_license.txt -> /opt/workspace/install/ament_copyright/lib/python3.6/site-packages/ament_copyright/template
+[1.915s] copying /opt/workspace/build/ament_copyright/build/lib/ament_copyright/template/apache2_contributing.txt -> /opt/workspace/install/ament_copyright/lib/python3.6/site-packages/ament_copyright/template
+[1.915s] copying /opt/workspace/build/ament_copyright/build/lib/ament_copyright/template/gplv3_header.txt -> /opt/workspace/install/ament_copyright/lib/python3.6/site-packages/ament_copyright/template
+[1.915s] copying /opt/workspace/build/ament_copyright/build/lib/ament_copyright/template/apache2_header.txt -> /opt/workspace/install/ament_copyright/lib/python3.6/site-packages/ament_copyright/template
+[1.915s] byte-compiling /opt/workspace/install/ament_copyright/lib/python3.6/site-packages/ament_copyright/__init__.py to __init__.cpython-36.pyc
+[1.915s] byte-compiling /opt/workspace/install/ament_copyright/lib/python3.6/site-packages/ament_copyright/pytest_marker.py to pytest_marker.cpython-36.pyc
+[1.916s] byte-compiling /opt/workspace/install/ament_copyright/lib/python3.6/site-packages/ament_copyright/crawler.py to crawler.cpython-36.pyc
+[1.916s] byte-compiling /opt/workspace/install/ament_copyright/lib/python3.6/site-packages/ament_copyright/licenses.py to licenses.cpython-36.pyc
+[1.916s] byte-compiling /opt/workspace/install/ament_copyright/lib/python3.6/site-packages/ament_copyright/main.py to main.cpython-36.pyc
+[1.917s] byte-compiling /opt/workspace/install/ament_copyright/lib/python3.6/site-packages/ament_copyright/parser.py to parser.cpython-36.pyc
+[1.919s] byte-compiling /opt/workspace/install/ament_copyright/lib/python3.6/site-packages/ament_copyright/copyright_names.py to copyright_names.cpython-36.pyc
+[1.919s] running install_data
+[1.920s] copying package.xml -> /opt/workspace/install/ament_copyright/share/ament_copyright
+[1.920s] creating /opt/workspace/install/ament_copyright/share/ament_index
+[1.920s] creating /opt/workspace/install/ament_copyright/share/ament_index/resource_index
+[1.920s] creating /opt/workspace/install/ament_copyright/share/ament_index/resource_index/packages
+[1.921s] copying resource/ament_copyright -> /opt/workspace/install/ament_copyright/share/ament_index/resource_index/packages
+[1.921s] running install_egg_info
+[1.922s] Copying /opt/workspace/build/ament_copyright/ament_copyright.egg-info to /opt/workspace/install/ament_copyright/lib/python3.6/site-packages/ament_copyright-0.8.1-py3.6.egg-info
+[1.923s] running install_scripts
+[1.958s] Installing ament_copyright script to /opt/workspace/install/ament_copyright/bin
+[1.959s] writing list of installed files to '/opt/workspace/build/ament_copyright/install.log'

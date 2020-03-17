@@ -1,0 +1,100 @@
+[0.718s] -- The C compiler identification is GNU 7.4.0
+[0.843s] -- The CXX compiler identification is GNU 7.4.0
+[0.859s] -- Check for working C compiler: /usr/bin/cc
+[1.027s] -- Check for working C compiler: /usr/bin/cc -- works
+[1.029s] -- Detecting C compiler ABI info
+[1.206s] -- Detecting C compiler ABI info - done
+[1.218s] -- Detecting C compile features
+[1.743s] -- Detecting C compile features - done
+[1.748s] -- Check for working CXX compiler: /usr/bin/c++
+[1.929s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[1.931s] -- Detecting CXX compiler ABI info
+[2.115s] -- Detecting CXX compiler ABI info - done
+[2.128s] -- Detecting CXX compile features
+[3.045s] -- Detecting CXX compile features - done
+[3.062s] -- Found ament_cmake: 0.8.2 (/opt/workspace/install/ament_cmake/share/ament_cmake/cmake)
+[3.188s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[3.188s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[3.880s] -- Found ament_index_cpp: 0.7.2 (/opt/workspace/install/ament_index_cpp/share/ament_index_cpp/cmake)
+[3.899s] -- Found ament_cmake_gmock: 0.8.2 (/opt/workspace/install/ament_cmake_gmock/share/ament_cmake_gmock/cmake)
+[3.912s] -- Found ament_lint_auto: 0.8.1 (/opt/workspace/install/ament_lint_auto/share/ament_lint_auto/cmake)
+[3.916s] -- Found rclcpp: 0.8.4 (/opt/workspace/install/rclcpp/share/rclcpp/cmake)
+[4.033s] -- Found rosidl_adapter: 0.8.2 (/opt/workspace/install/rosidl_adapter/share/rosidl_adapter/cmake)
+[4.147s] -- Found rmw_implementation_cmake: 0.8.1 (/opt/workspace/install/rmw_implementation_cmake/share/rmw_implementation_cmake/cmake)
+[4.159s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[4.160s] -- Looking for pthread.h
+[4.339s] -- Looking for pthread.h - found
+[4.340s] -- Looking for pthread_create
+[4.516s] -- Looking for pthread_create - not found
+[4.517s] -- Looking for pthread_create in pthreads
+[4.710s] -- Looking for pthread_create in pthreads - not found
+[4.710s] -- Looking for pthread_create in pthread
+[4.894s] -- Looking for pthread_create in pthread - found
+[4.898s] -- Found Threads: TRUE  
+[5.029s] -- Found std_msgs: 0.8.1 (/opt/workspace/install/std_msgs/share/std_msgs/cmake)
+[5.043s] -- Found test_msgs: 0.8.0 (/opt/workspace/install/test_msgs/share/test_msgs/cmake)
+[5.404s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "1.1.1") 
+[5.512s] -- Found FastRTPS: /opt/workspace/install/fastrtps/include  
+[5.938s] -- Found rosbag2_storage: 0.2.4 (/opt/workspace/install/rosbag2_storage/share/rosbag2_storage/cmake)
+[5.971s] -- Found tinyxml2_vendor:  (/opt/workspace/install/tinyxml2_vendor/share/tinyxml2_vendor/cmake)
+[6.016s] -- Found TinyXML2: /usr/lib/x86_64-linux-gnu/libtinyxml2.so  
+[6.046s] -- Found poco_vendor:  (/opt/workspace/install/poco_vendor/share/poco_vendor/cmake)
+[6.111s] -- Setting yaml-cpp_DIR to: '/opt/workspace/install/yaml_cpp_vendor/share/yaml_cpp_vendor/cmake/../../../opt/yaml_cpp_vendor/lib/cmake/yaml-cpp'
+[6.116s] -- Found rosbag2_storage_default_plugins: 0.2.4 (/opt/workspace/install/rosbag2_storage_default_plugins/share/rosbag2_storage_default_plugins/cmake)
+[6.196s] -- Found rosbag2_test_common: 0.2.4 (/opt/workspace/install/rosbag2_test_common/share/rosbag2_test_common/cmake)
+[6.671s] -- Found gmock sources under '/opt/workspace/install/gmock_vendor/src/gmock_vendor': C++ tests using 'Google Mock' will be built
+[6.705s] -- Found ament_cmake_gtest: 0.8.2 (/opt/workspace/install/ament_cmake_gtest/share/ament_cmake_gtest/cmake)
+[6.708s] -- Found gtest sources under '/opt/workspace/install/gtest_vendor/src/gtest_vendor': C++ tests using 'Google Test' will be built
+[7.241s] -- Added test 'copyright' to check for copyright in CMake / C / C++ / Python code
+[7.246s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[7.250s] -- Configured cppcheck include dirs: 
+[7.255s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[7.260s] -- Added test 'lint_cmake' to check CMake code style
+[7.266s] -- Added test 'uncrustify' to check C / C++ code style
+[7.269s] -- Added test 'xmllint' to check XML markup files
+[7.283s] -- Configuring done
+[7.400s] -- Generating done
+[7.406s] -- Build files have been written to: /opt/workspace/build/rosbag2_tests
+[7.547s] [35m[1mScanning dependencies of target gmock[0m
+[7.629s] [  9%] [32mBuilding CXX object gmock/CMakeFiles/gmock.dir/opt/workspace/install/gtest_vendor/src/gtest_vendor/src/gtest-all.cc.o[0m
+[13.917s] [ 18%] [32mBuilding CXX object gmock/CMakeFiles/gmock.dir/src/gmock-all.cc.o[0m
+[17.427s] [ 27%] [32m[1mLinking CXX static library libgmock.a[0m
+[17.583s] [ 27%] Built target gmock
+[17.617s] [35m[1mScanning dependencies of target gmock_main[0m
+[17.686s] [ 36%] [32mBuilding CXX object gmock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o[0m
+[19.580s] [ 45%] [32m[1mLinking CXX static library libgmock_main.a[0m
+[19.688s] [ 45%] Built target gmock_main
+[19.722s] [35m[1mScanning dependencies of target test_converter[0m
+[19.860s] [ 54%] [32mBuilding CXX object CMakeFiles/test_converter.dir/test/rosbag2_tests/test_converter.cpp.o[0m
+[31.329s] [ 63%] [32m[1mLinking CXX executable test_converter[0m
+[32.325s] [ 63%] Built target test_converter
+[32.359s] [35m[1mScanning dependencies of target test_rosbag2_info_end_to_end[0m
+[32.434s] [ 72%] [32mBuilding CXX object CMakeFiles/test_rosbag2_info_end_to_end.dir/test/rosbag2_tests/test_rosbag2_info_end_to_end.cpp.o[0m
+[34.780s] [ 81%] [32m[1mLinking CXX executable test_rosbag2_info_end_to_end[0m
+[35.278s] [ 81%] Built target test_rosbag2_info_end_to_end
+[35.313s] [35m[1mScanning dependencies of target test_rosbag2_record_end_to_end[0m
+[35.468s] [ 90%] [32mBuilding CXX object CMakeFiles/test_rosbag2_record_end_to_end.dir/test/rosbag2_tests/test_rosbag2_record_end_to_end.cpp.o[0m
+[46.575s] [100%] [32m[1mLinking CXX executable test_rosbag2_record_end_to_end[0m
+[47.634s] [100%] Built target test_rosbag2_record_end_to_end
+[47.868s] [ 27%] Built target gmock
+[47.936s] [ 45%] Built target gmock_main
+[48.023s] [ 63%] Built target test_converter
+[48.079s] [ 81%] Built target test_rosbag2_info_end_to_end
+[48.157s] [100%] Built target test_rosbag2_record_end_to_end
+[48.197s] [36mInstall the project...[0m
+[48.214s] -- Install configuration: ""
+[48.214s] -- Installing: /opt/workspace/install/rosbag2_tests/share/ament_index/resource_index/package_run_dependencies/rosbag2_tests
+[48.214s] -- Installing: /opt/workspace/install/rosbag2_tests/share/ament_index/resource_index/parent_prefix_path/rosbag2_tests
+[48.215s] -- Installing: /opt/workspace/install/rosbag2_tests/share/rosbag2_tests/environment/ament_prefix_path.sh
+[48.215s] -- Installing: /opt/workspace/install/rosbag2_tests/share/rosbag2_tests/environment/ament_prefix_path.dsv
+[48.215s] -- Installing: /opt/workspace/install/rosbag2_tests/share/rosbag2_tests/environment/path.sh
+[48.215s] -- Installing: /opt/workspace/install/rosbag2_tests/share/rosbag2_tests/environment/path.dsv
+[48.216s] -- Installing: /opt/workspace/install/rosbag2_tests/share/rosbag2_tests/local_setup.bash
+[48.216s] -- Installing: /opt/workspace/install/rosbag2_tests/share/rosbag2_tests/local_setup.sh
+[48.216s] -- Installing: /opt/workspace/install/rosbag2_tests/share/rosbag2_tests/local_setup.zsh
+[48.216s] -- Installing: /opt/workspace/install/rosbag2_tests/share/rosbag2_tests/local_setup.dsv
+[48.217s] -- Installing: /opt/workspace/install/rosbag2_tests/share/rosbag2_tests/package.dsv
+[48.217s] -- Installing: /opt/workspace/install/rosbag2_tests/share/ament_index/resource_index/packages/rosbag2_tests
+[48.217s] -- Installing: /opt/workspace/install/rosbag2_tests/share/rosbag2_tests/cmake/rosbag2_testsConfig.cmake
+[48.217s] -- Installing: /opt/workspace/install/rosbag2_tests/share/rosbag2_tests/cmake/rosbag2_testsConfig-version.cmake
+[48.218s] -- Installing: /opt/workspace/install/rosbag2_tests/share/rosbag2_tests/package.xml

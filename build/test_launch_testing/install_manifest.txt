@@ -1,0 +1,16 @@
+/opt/workspace/install/test_launch_testing/share/ament_index/resource_index/package_run_dependencies/test_launch_testing
+/opt/workspace/install/test_launch_testing/share/ament_index/resource_index/parent_prefix_path/test_launch_testing
+/opt/workspace/install/test_launch_testing/share/test_launch_testing/environment/ament_prefix_path.sh
+/opt/workspace/install/test_launch_testing/share/test_launch_testing/environment/ament_prefix_path.dsv
+/opt/workspace/install/test_launch_testing/share/test_launch_testing/environment/path.sh
+/opt/workspace/install/test_launch_testing/share/test_launch_testing/environment/path.dsv
+/opt/workspace/install/test_launch_testing/share/test_launch_testing/local_setup.bash
+/opt/workspace/install/test_launch_testing/share/test_launch_testing/local_setup.sh
+/opt/workspace/install/test_launch_testing/share/test_launch_testing/local_setup.zsh
+/opt/workspace/install/test_launch_testing/share/test_launch_testing/local_setup.dsv
+/opt/workspace/install/test_launch_testing/share/test_launch_testing/package.dsv
+/opt/workspace/install/test_launch_testing/share/ament_index/resource_index/packages/test_launch_testing
+/opt/workspace/install/test_launch_testing/share/test_launch_testing/cmake/ament_cmake_export_dependencies-extras.cmake
+/opt/workspace/install/test_launch_testing/share/test_launch_testing/cmake/test_launch_testingConfig.cmake
+/opt/workspace/install/test_launch_testing/share/test_launch_testing/cmake/test_launch_testingConfig-version.cmake
+/opt/workspace/install/test_launch_testing/share/test_launch_testing/package.xml

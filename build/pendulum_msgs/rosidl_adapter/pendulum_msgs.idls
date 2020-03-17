@@ -1,0 +1,3 @@
+/opt/workspace/build/pendulum_msgs/rosidl_adapter/pendulum_msgs:msg/JointState.idl
+/opt/workspace/build/pendulum_msgs/rosidl_adapter/pendulum_msgs:msg/JointCommand.idl
+/opt/workspace/build/pendulum_msgs/rosidl_adapter/pendulum_msgs:msg/RttestResults.idl

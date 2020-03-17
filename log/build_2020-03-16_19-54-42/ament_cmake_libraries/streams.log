@@ -1,0 +1,34 @@
+[0.763s] Invoking command in '/opt/workspace/build/ament_cmake_libraries': AMENT_PREFIX_PATH=/opt/workspace/install/ament_cmake_core:/opt/workspace/install/ament_package:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/opt/workspace/install/ament_cmake_core:/opt/ros/eloquent PYTHONPATH=/opt/workspace/install/ament_package/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/cmake /opt/workspace/src/ament/ament_cmake/ament_cmake_libraries -DCMAKE_INSTALL_PREFIX=/opt/workspace/install/ament_cmake_libraries
+[0.872s] -- Found ament_cmake_core: 0.8.2 (/opt/workspace/install/ament_cmake_core/share/ament_cmake_core/cmake)
+[0.939s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[0.942s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.692s] -- Configuring done
+[1.693s] -- Generating done
+[1.713s] -- Build files have been written to: /opt/workspace/build/ament_cmake_libraries
+[1.721s] Invoked command in '/opt/workspace/build/ament_cmake_libraries' returned '0': AMENT_PREFIX_PATH=/opt/workspace/install/ament_cmake_core:/opt/workspace/install/ament_package:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/opt/workspace/install/ament_cmake_core:/opt/ros/eloquent PYTHONPATH=/opt/workspace/install/ament_package/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/cmake /opt/workspace/src/ament/ament_cmake/ament_cmake_libraries -DCMAKE_INSTALL_PREFIX=/opt/workspace/install/ament_cmake_libraries
+[1.729s] Invoking command in '/opt/workspace/build/ament_cmake_libraries': AMENT_PREFIX_PATH=/opt/workspace/install/ament_cmake_core:/opt/workspace/install/ament_package:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/opt/workspace/install/ament_cmake_core:/opt/ros/eloquent PYTHONPATH=/opt/workspace/install/ament_package/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/cmake --build /opt/workspace/build/ament_cmake_libraries -- -j8 -l8
+[1.997s] Invoked command in '/opt/workspace/build/ament_cmake_libraries' returned '0': AMENT_PREFIX_PATH=/opt/workspace/install/ament_cmake_core:/opt/workspace/install/ament_package:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/opt/workspace/install/ament_cmake_core:/opt/ros/eloquent PYTHONPATH=/opt/workspace/install/ament_package/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/cmake --build /opt/workspace/build/ament_cmake_libraries -- -j8 -l8
+[2.209s] Invoking command in '/opt/workspace/build/ament_cmake_libraries': AMENT_PREFIX_PATH=/opt/workspace/install/ament_cmake_core:/opt/workspace/install/ament_package:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/opt/workspace/install/ament_cmake_core:/opt/ros/eloquent PYTHONPATH=/opt/workspace/install/ament_package/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/cmake --build /opt/workspace/build/ament_cmake_libraries --target install -- -j8 -l8
+[2.501s] [36mInstall the project...[0m
+[2.555s] -- Install configuration: ""
+[2.557s] -- Installing: /opt/workspace/install/ament_cmake_libraries/share/ament_index/resource_index/package_run_dependencies/ament_cmake_libraries
+[2.560s] -- Installing: /opt/workspace/install/ament_cmake_libraries/share/ament_index/resource_index/parent_prefix_path/ament_cmake_libraries
+[2.560s] -- Installing: /opt/workspace/install/ament_cmake_libraries/share/ament_cmake_libraries/environment/ament_prefix_path.sh
+[2.569s] -- Installing: /opt/workspace/install/ament_cmake_libraries/share/ament_cmake_libraries/environment/ament_prefix_path.dsv
+[2.570s] -- Installing: /opt/workspace/install/ament_cmake_libraries/share/ament_cmake_libraries/environment/path.sh
+[2.571s] -- Installing: /opt/workspace/install/ament_cmake_libraries/share/ament_cmake_libraries/environment/path.dsv
+[2.571s] -- Installing: /opt/workspace/install/ament_cmake_libraries/share/ament_cmake_libraries/local_setup.bash
+[2.572s] -- Installing: /opt/workspace/install/ament_cmake_libraries/share/ament_cmake_libraries/local_setup.sh
+[2.573s] -- Installing: /opt/workspace/install/ament_cmake_libraries/share/ament_cmake_libraries/local_setup.zsh
+[2.577s] -- Installing: /opt/workspace/install/ament_cmake_libraries/share/ament_cmake_libraries/local_setup.dsv
+[2.577s] -- Installing: /opt/workspace/install/ament_cmake_libraries/share/ament_cmake_libraries/package.dsv
+[2.578s] -- Installing: /opt/workspace/install/ament_cmake_libraries/share/ament_index/resource_index/packages/ament_cmake_libraries
+[2.580s] -- Installing: /opt/workspace/install/ament_cmake_libraries/share/ament_cmake_libraries/cmake/ament_cmake_libraries-extras.cmake
+[2.580s] -- Installing: /opt/workspace/install/ament_cmake_libraries/share/ament_cmake_libraries/cmake/ament_cmake_librariesConfig.cmake
+[2.581s] -- Installing: /opt/workspace/install/ament_cmake_libraries/share/ament_cmake_libraries/cmake/ament_cmake_librariesConfig-version.cmake
+[2.581s] -- Installing: /opt/workspace/install/ament_cmake_libraries/share/ament_cmake_libraries/package.xml
+[2.582s] -- Up-to-date: /opt/workspace/install/ament_cmake_libraries/share/ament_cmake_libraries/cmake
+[2.583s] -- Installing: /opt/workspace/install/ament_cmake_libraries/share/ament_cmake_libraries/cmake/ament_libraries_deduplicate.cmake
+[2.583s] -- Installing: /opt/workspace/install/ament_cmake_libraries/share/ament_cmake_libraries/cmake/ament_libraries_unpack_build_configuration.cmake
+[2.584s] -- Installing: /opt/workspace/install/ament_cmake_libraries/share/ament_cmake_libraries/cmake/ament_libraries_pack_build_configuration.cmake
+[2.594s] Invoked command in '/opt/workspace/build/ament_cmake_libraries' returned '0': AMENT_PREFIX_PATH=/opt/workspace/install/ament_cmake_core:/opt/workspace/install/ament_package:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/opt/workspace/install/ament_cmake_core:/opt/ros/eloquent PYTHONPATH=/opt/workspace/install/ament_package/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/cmake --build /opt/workspace/build/ament_cmake_libraries --target install -- -j8 -l8

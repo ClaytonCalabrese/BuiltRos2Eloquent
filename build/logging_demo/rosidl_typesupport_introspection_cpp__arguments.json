@@ -1,0 +1,19 @@
+{
+  "package_name": "logging_demo",
+  "output_dir": "/opt/workspace/build/logging_demo/rosidl_typesupport_introspection_cpp/logging_demo",
+  "template_dir": "/opt/workspace/install/rosidl_typesupport_introspection_cpp/share/rosidl_typesupport_introspection_cpp/resource",
+  "idl_tuples": [
+    "/opt/workspace/build/logging_demo/rosidl_adapter/logging_demo:srv/ConfigLogger.idl"
+  ],
+  "target_dependencies": [
+    "/opt/workspace/install/rosidl_typesupport_introspection_cpp/lib/rosidl_typesupport_introspection_cpp/rosidl_typesupport_introspection_cpp",
+    "/opt/workspace/install/rosidl_typesupport_introspection_cpp/lib/python3.6/site-packages/rosidl_typesupport_introspection_cpp/__init__.py",
+    "/opt/workspace/install/rosidl_typesupport_introspection_cpp/share/rosidl_typesupport_introspection_cpp/resource/idl__rosidl_typesupport_introspection_cpp.hpp.em",
+    "/opt/workspace/install/rosidl_typesupport_introspection_cpp/share/rosidl_typesupport_introspection_cpp/resource/idl__type_support.cpp.em",
+    "/opt/workspace/install/rosidl_typesupport_introspection_cpp/share/rosidl_typesupport_introspection_cpp/resource/msg__rosidl_typesupport_introspection_cpp.hpp.em",
+    "/opt/workspace/install/rosidl_typesupport_introspection_cpp/share/rosidl_typesupport_introspection_cpp/resource/msg__type_support.cpp.em",
+    "/opt/workspace/install/rosidl_typesupport_introspection_cpp/share/rosidl_typesupport_introspection_cpp/resource/srv__rosidl_typesupport_introspection_cpp.hpp.em",
+    "/opt/workspace/install/rosidl_typesupport_introspection_cpp/share/rosidl_typesupport_introspection_cpp/resource/srv__type_support.cpp.em",
+    "/opt/workspace/build/logging_demo/rosidl_adapter/logging_demo/srv/ConfigLogger.idl"
+  ]
+}

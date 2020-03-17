@@ -1,0 +1,13 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from rosidl_generator_cpp/msg/Nested.msg
+// generated code does not contain a copyright notice
+
+#include "rosidl_generator_cpp/msg/BasicTypes.idl"
+
+module rosidl_generator_cpp {
+  module msg {
+    struct Nested {
+      rosidl_generator_cpp::msg::BasicTypes basic_types_value;
+    };
+  };
+};

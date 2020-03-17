@@ -1,0 +1,64 @@
+[3.379s] running egg_info
+[3.380s] creating /opt/workspace/build/ros2interface/ros2interface.egg-info
+[3.380s] writing /opt/workspace/build/ros2interface/ros2interface.egg-info/PKG-INFO
+[3.381s] writing dependency_links to /opt/workspace/build/ros2interface/ros2interface.egg-info/dependency_links.txt
+[3.381s] writing entry points to /opt/workspace/build/ros2interface/ros2interface.egg-info/entry_points.txt
+[3.382s] writing requirements to /opt/workspace/build/ros2interface/ros2interface.egg-info/requires.txt
+[3.382s] writing top-level names to /opt/workspace/build/ros2interface/ros2interface.egg-info/top_level.txt
+[3.389s] writing manifest file '/opt/workspace/build/ros2interface/ros2interface.egg-info/SOURCES.txt'
+[3.448s] reading manifest file '/opt/workspace/build/ros2interface/ros2interface.egg-info/SOURCES.txt'
+[3.449s] writing manifest file '/opt/workspace/build/ros2interface/ros2interface.egg-info/SOURCES.txt'
+[3.450s] running build
+[3.450s] running build_py
+[3.450s] creating /opt/workspace/build/ros2interface/build
+[3.451s] creating /opt/workspace/build/ros2interface/build/lib
+[3.451s] creating /opt/workspace/build/ros2interface/build/lib/ros2interface
+[3.451s] copying ros2interface/__init__.py -> /opt/workspace/build/ros2interface/build/lib/ros2interface
+[3.451s] creating /opt/workspace/build/ros2interface/build/lib/ros2interface/api
+[3.451s] copying ros2interface/api/__init__.py -> /opt/workspace/build/ros2interface/build/lib/ros2interface/api
+[3.452s] creating /opt/workspace/build/ros2interface/build/lib/ros2interface/verb
+[3.452s] copying ros2interface/verb/show.py -> /opt/workspace/build/ros2interface/build/lib/ros2interface/verb
+[3.452s] copying ros2interface/verb/__init__.py -> /opt/workspace/build/ros2interface/build/lib/ros2interface/verb
+[3.452s] copying ros2interface/verb/proto.py -> /opt/workspace/build/ros2interface/build/lib/ros2interface/verb
+[3.452s] copying ros2interface/verb/package.py -> /opt/workspace/build/ros2interface/build/lib/ros2interface/verb
+[3.453s] copying ros2interface/verb/list.py -> /opt/workspace/build/ros2interface/build/lib/ros2interface/verb
+[3.453s] copying ros2interface/verb/packages.py -> /opt/workspace/build/ros2interface/build/lib/ros2interface/verb
+[3.453s] creating /opt/workspace/build/ros2interface/build/lib/ros2interface/command
+[3.453s] copying ros2interface/command/__init__.py -> /opt/workspace/build/ros2interface/build/lib/ros2interface/command
+[3.453s] copying ros2interface/command/interface.py -> /opt/workspace/build/ros2interface/build/lib/ros2interface/command
+[3.454s] running install
+[3.454s] running install_lib
+[3.455s] creating /opt/workspace/install/ros2interface/lib/python3.6/site-packages/ros2interface
+[3.455s] copying /opt/workspace/build/ros2interface/build/lib/ros2interface/__init__.py -> /opt/workspace/install/ros2interface/lib/python3.6/site-packages/ros2interface
+[3.455s] creating /opt/workspace/install/ros2interface/lib/python3.6/site-packages/ros2interface/api
+[3.456s] copying /opt/workspace/build/ros2interface/build/lib/ros2interface/api/__init__.py -> /opt/workspace/install/ros2interface/lib/python3.6/site-packages/ros2interface/api
+[3.456s] creating /opt/workspace/install/ros2interface/lib/python3.6/site-packages/ros2interface/verb
+[3.456s] copying /opt/workspace/build/ros2interface/build/lib/ros2interface/verb/show.py -> /opt/workspace/install/ros2interface/lib/python3.6/site-packages/ros2interface/verb
+[3.456s] copying /opt/workspace/build/ros2interface/build/lib/ros2interface/verb/__init__.py -> /opt/workspace/install/ros2interface/lib/python3.6/site-packages/ros2interface/verb
+[3.456s] copying /opt/workspace/build/ros2interface/build/lib/ros2interface/verb/proto.py -> /opt/workspace/install/ros2interface/lib/python3.6/site-packages/ros2interface/verb
+[3.457s] copying /opt/workspace/build/ros2interface/build/lib/ros2interface/verb/package.py -> /opt/workspace/install/ros2interface/lib/python3.6/site-packages/ros2interface/verb
+[3.457s] copying /opt/workspace/build/ros2interface/build/lib/ros2interface/verb/list.py -> /opt/workspace/install/ros2interface/lib/python3.6/site-packages/ros2interface/verb
+[3.457s] copying /opt/workspace/build/ros2interface/build/lib/ros2interface/verb/packages.py -> /opt/workspace/install/ros2interface/lib/python3.6/site-packages/ros2interface/verb
+[3.457s] creating /opt/workspace/install/ros2interface/lib/python3.6/site-packages/ros2interface/command
+[3.457s] copying /opt/workspace/build/ros2interface/build/lib/ros2interface/command/__init__.py -> /opt/workspace/install/ros2interface/lib/python3.6/site-packages/ros2interface/command
+[3.458s] copying /opt/workspace/build/ros2interface/build/lib/ros2interface/command/interface.py -> /opt/workspace/install/ros2interface/lib/python3.6/site-packages/ros2interface/command
+[3.458s] byte-compiling /opt/workspace/install/ros2interface/lib/python3.6/site-packages/ros2interface/__init__.py to __init__.cpython-36.pyc
+[3.458s] byte-compiling /opt/workspace/install/ros2interface/lib/python3.6/site-packages/ros2interface/api/__init__.py to __init__.cpython-36.pyc
+[3.459s] byte-compiling /opt/workspace/install/ros2interface/lib/python3.6/site-packages/ros2interface/verb/show.py to show.cpython-36.pyc
+[3.459s] byte-compiling /opt/workspace/install/ros2interface/lib/python3.6/site-packages/ros2interface/verb/__init__.py to __init__.cpython-36.pyc
+[3.459s] byte-compiling /opt/workspace/install/ros2interface/lib/python3.6/site-packages/ros2interface/verb/proto.py to proto.cpython-36.pyc
+[3.460s] byte-compiling /opt/workspace/install/ros2interface/lib/python3.6/site-packages/ros2interface/verb/package.py to package.cpython-36.pyc
+[3.460s] byte-compiling /opt/workspace/install/ros2interface/lib/python3.6/site-packages/ros2interface/verb/list.py to list.cpython-36.pyc
+[3.460s] byte-compiling /opt/workspace/install/ros2interface/lib/python3.6/site-packages/ros2interface/verb/packages.py to packages.cpython-36.pyc
+[3.461s] byte-compiling /opt/workspace/install/ros2interface/lib/python3.6/site-packages/ros2interface/command/__init__.py to __init__.cpython-36.pyc
+[3.461s] byte-compiling /opt/workspace/install/ros2interface/lib/python3.6/site-packages/ros2interface/command/interface.py to interface.cpython-36.pyc
+[3.462s] running install_data
+[3.462s] copying package.xml -> /opt/workspace/install/ros2interface/share/ros2interface
+[3.462s] creating /opt/workspace/install/ros2interface/share/ament_index
+[3.463s] creating /opt/workspace/install/ros2interface/share/ament_index/resource_index
+[3.463s] creating /opt/workspace/install/ros2interface/share/ament_index/resource_index/packages
+[3.463s] copying resource/ros2interface -> /opt/workspace/install/ros2interface/share/ament_index/resource_index/packages
+[3.463s] running install_egg_info
+[3.466s] Copying /opt/workspace/build/ros2interface/ros2interface.egg-info to /opt/workspace/install/ros2interface/lib/python3.6/site-packages/ros2interface-0.8.7-py3.6.egg-info
+[3.467s] running install_scripts
+[3.501s] writing list of installed files to '/opt/workspace/build/ros2interface/install.log'

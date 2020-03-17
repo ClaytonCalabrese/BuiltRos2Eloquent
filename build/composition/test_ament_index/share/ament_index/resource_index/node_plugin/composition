@@ -1,0 +1,5 @@
+composition::Talker;/opt/workspace/build/composition/libtalker_component.so
+composition::Listener;/opt/workspace/build/composition/liblistener_component.so
+composition::NodeLikeListener;/opt/workspace/build/composition/libnode_like_listener_component.so
+composition::Server;/opt/workspace/build/composition/libserver_component.so
+composition::Client;/opt/workspace/build/composition/libclient_component.so

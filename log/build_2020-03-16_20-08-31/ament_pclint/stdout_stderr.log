@@ -1,0 +1,77 @@
+[3.630s] running egg_info
+[3.630s] creating /opt/workspace/build/ament_pclint/ament_pclint.egg-info
+[3.631s] writing /opt/workspace/build/ament_pclint/ament_pclint.egg-info/PKG-INFO
+[3.631s] writing dependency_links to /opt/workspace/build/ament_pclint/ament_pclint.egg-info/dependency_links.txt
+[3.631s] writing entry points to /opt/workspace/build/ament_pclint/ament_pclint.egg-info/entry_points.txt
+[3.631s] writing requirements to /opt/workspace/build/ament_pclint/ament_pclint.egg-info/requires.txt
+[3.631s] writing top-level names to /opt/workspace/build/ament_pclint/ament_pclint.egg-info/top_level.txt
+[3.632s] writing manifest file '/opt/workspace/build/ament_pclint/ament_pclint.egg-info/SOURCES.txt'
+[3.632s] reading manifest file '/opt/workspace/build/ament_pclint/ament_pclint.egg-info/SOURCES.txt'
+[3.632s] writing manifest file '/opt/workspace/build/ament_pclint/ament_pclint.egg-info/SOURCES.txt'
+[3.632s] running build
+[3.632s] running build_py
+[3.633s] creating /opt/workspace/build/ament_pclint/build
+[3.633s] creating /opt/workspace/build/ament_pclint/build/lib
+[3.633s] creating /opt/workspace/build/ament_pclint/build/lib/ament_pclint
+[3.633s] copying ament_pclint/__init__.py -> /opt/workspace/build/ament_pclint/build/lib/ament_pclint
+[3.634s] copying ament_pclint/main.py -> /opt/workspace/build/ament_pclint/build/lib/ament_pclint
+[3.634s] creating /opt/workspace/build/ament_pclint/build/lib/ament_pclint/config
+[3.634s] creating /opt/workspace/build/ament_pclint/build/lib/ament_pclint/config/gcc
+[3.634s] copying ament_pclint/config/gcc/co-g++.h -> /opt/workspace/build/ament_pclint/build/lib/ament_pclint/config/gcc
+[3.634s] copying ament_pclint/config/gcc/co-g++.lnt -> /opt/workspace/build/ament_pclint/build/lib/ament_pclint/config/gcc
+[3.635s] copying ament_pclint/config/gcc/co-gcc.h -> /opt/workspace/build/ament_pclint/build/lib/ament_pclint/config/gcc
+[3.635s] copying ament_pclint/config/gcc/co-gcc.lnt -> /opt/workspace/build/ament_pclint/build/lib/ament_pclint/config/gcc
+[3.636s] copying ament_pclint/config/gcc/co-osx-g++.h -> /opt/workspace/build/ament_pclint/build/lib/ament_pclint/config/gcc
+[3.636s] copying ament_pclint/config/gcc/co-osx-g++.lnt -> /opt/workspace/build/ament_pclint/build/lib/ament_pclint/config/gcc
+[3.636s] copying ament_pclint/config/gcc/co-osx-gcc.h -> /opt/workspace/build/ament_pclint/build/lib/ament_pclint/config/gcc
+[3.637s] copying ament_pclint/config/gcc/co-osx-gcc.lnt -> /opt/workspace/build/ament_pclint/build/lib/ament_pclint/config/gcc
+[3.637s] creating /opt/workspace/build/ament_pclint/build/lib/ament_pclint/config/msvc
+[3.637s] copying ament_pclint/config/msvc/co-cl.lnt -> /opt/workspace/build/ament_pclint/build/lib/ament_pclint/config/msvc
+[3.637s] copying ament_pclint/config/msvc/co-cl++.lnt -> /opt/workspace/build/ament_pclint/build/lib/ament_pclint/config/msvc
+[3.637s] copying ament_pclint/config/msvc/co-cl.h -> /opt/workspace/build/ament_pclint/build/lib/ament_pclint/config/msvc
+[3.638s] copying ament_pclint/config/au-misra3.lnt -> /opt/workspace/build/ament_pclint/build/lib/ament_pclint/config
+[3.638s] copying ament_pclint/config/au-misra3-amd1.lnt -> /opt/workspace/build/ament_pclint/build/lib/ament_pclint/config
+[3.638s] copying ament_pclint/config/au-misra-cpp.lnt -> /opt/workspace/build/ament_pclint/build/lib/ament_pclint/config
+[3.638s] copying ament_pclint/config/c99.lnt -> /opt/workspace/build/ament_pclint/build/lib/ament_pclint/config
+[3.638s] copying ament_pclint/config/c++.lnt -> /opt/workspace/build/ament_pclint/build/lib/ament_pclint/config
+[3.639s] copying ament_pclint/config/deprecate.lnt -> /opt/workspace/build/ament_pclint/build/lib/ament_pclint/config
+[3.639s] copying ament_pclint/config/env-xml.lnt -> /opt/workspace/build/ament_pclint/build/lib/ament_pclint/config
+[3.639s] running install
+[3.639s] running install_lib
+[3.639s] creating /opt/workspace/install/ament_pclint/lib/python3.6/site-packages/ament_pclint
+[3.639s] copying /opt/workspace/build/ament_pclint/build/lib/ament_pclint/__init__.py -> /opt/workspace/install/ament_pclint/lib/python3.6/site-packages/ament_pclint
+[3.640s] creating /opt/workspace/install/ament_pclint/lib/python3.6/site-packages/ament_pclint/config
+[3.640s] copying /opt/workspace/build/ament_pclint/build/lib/ament_pclint/config/au-misra3-amd1.lnt -> /opt/workspace/install/ament_pclint/lib/python3.6/site-packages/ament_pclint/config
+[3.640s] copying /opt/workspace/build/ament_pclint/build/lib/ament_pclint/config/c99.lnt -> /opt/workspace/install/ament_pclint/lib/python3.6/site-packages/ament_pclint/config
+[3.640s] creating /opt/workspace/install/ament_pclint/lib/python3.6/site-packages/ament_pclint/config/msvc
+[3.640s] copying /opt/workspace/build/ament_pclint/build/lib/ament_pclint/config/msvc/co-cl.lnt -> /opt/workspace/install/ament_pclint/lib/python3.6/site-packages/ament_pclint/config/msvc
+[3.641s] copying /opt/workspace/build/ament_pclint/build/lib/ament_pclint/config/msvc/co-cl++.lnt -> /opt/workspace/install/ament_pclint/lib/python3.6/site-packages/ament_pclint/config/msvc
+[3.641s] copying /opt/workspace/build/ament_pclint/build/lib/ament_pclint/config/msvc/co-cl.h -> /opt/workspace/install/ament_pclint/lib/python3.6/site-packages/ament_pclint/config/msvc
+[3.641s] copying /opt/workspace/build/ament_pclint/build/lib/ament_pclint/config/au-misra3.lnt -> /opt/workspace/install/ament_pclint/lib/python3.6/site-packages/ament_pclint/config
+[3.641s] copying /opt/workspace/build/ament_pclint/build/lib/ament_pclint/config/c++.lnt -> /opt/workspace/install/ament_pclint/lib/python3.6/site-packages/ament_pclint/config
+[3.641s] copying /opt/workspace/build/ament_pclint/build/lib/ament_pclint/config/env-xml.lnt -> /opt/workspace/install/ament_pclint/lib/python3.6/site-packages/ament_pclint/config
+[3.642s] copying /opt/workspace/build/ament_pclint/build/lib/ament_pclint/config/deprecate.lnt -> /opt/workspace/install/ament_pclint/lib/python3.6/site-packages/ament_pclint/config
+[3.642s] creating /opt/workspace/install/ament_pclint/lib/python3.6/site-packages/ament_pclint/config/gcc
+[3.642s] copying /opt/workspace/build/ament_pclint/build/lib/ament_pclint/config/gcc/co-osx-g++.h -> /opt/workspace/install/ament_pclint/lib/python3.6/site-packages/ament_pclint/config/gcc
+[3.642s] copying /opt/workspace/build/ament_pclint/build/lib/ament_pclint/config/gcc/co-gcc.h -> /opt/workspace/install/ament_pclint/lib/python3.6/site-packages/ament_pclint/config/gcc
+[3.642s] copying /opt/workspace/build/ament_pclint/build/lib/ament_pclint/config/gcc/co-osx-gcc.lnt -> /opt/workspace/install/ament_pclint/lib/python3.6/site-packages/ament_pclint/config/gcc
+[3.643s] copying /opt/workspace/build/ament_pclint/build/lib/ament_pclint/config/gcc/co-g++.h -> /opt/workspace/install/ament_pclint/lib/python3.6/site-packages/ament_pclint/config/gcc
+[3.643s] copying /opt/workspace/build/ament_pclint/build/lib/ament_pclint/config/gcc/co-gcc.lnt -> /opt/workspace/install/ament_pclint/lib/python3.6/site-packages/ament_pclint/config/gcc
+[3.643s] copying /opt/workspace/build/ament_pclint/build/lib/ament_pclint/config/gcc/co-osx-g++.lnt -> /opt/workspace/install/ament_pclint/lib/python3.6/site-packages/ament_pclint/config/gcc
+[3.643s] copying /opt/workspace/build/ament_pclint/build/lib/ament_pclint/config/gcc/co-g++.lnt -> /opt/workspace/install/ament_pclint/lib/python3.6/site-packages/ament_pclint/config/gcc
+[3.643s] copying /opt/workspace/build/ament_pclint/build/lib/ament_pclint/config/gcc/co-osx-gcc.h -> /opt/workspace/install/ament_pclint/lib/python3.6/site-packages/ament_pclint/config/gcc
+[3.643s] copying /opt/workspace/build/ament_pclint/build/lib/ament_pclint/config/au-misra-cpp.lnt -> /opt/workspace/install/ament_pclint/lib/python3.6/site-packages/ament_pclint/config
+[3.644s] copying /opt/workspace/build/ament_pclint/build/lib/ament_pclint/main.py -> /opt/workspace/install/ament_pclint/lib/python3.6/site-packages/ament_pclint
+[3.644s] byte-compiling /opt/workspace/install/ament_pclint/lib/python3.6/site-packages/ament_pclint/__init__.py to __init__.cpython-36.pyc
+[3.644s] byte-compiling /opt/workspace/install/ament_pclint/lib/python3.6/site-packages/ament_pclint/main.py to main.cpython-36.pyc
+[3.644s] running install_data
+[3.644s] copying package.xml -> /opt/workspace/install/ament_pclint/share/ament_pclint
+[3.645s] creating /opt/workspace/install/ament_pclint/share/ament_index
+[3.645s] creating /opt/workspace/install/ament_pclint/share/ament_index/resource_index
+[3.645s] creating /opt/workspace/install/ament_pclint/share/ament_index/resource_index/packages
+[3.645s] copying resource/ament_pclint -> /opt/workspace/install/ament_pclint/share/ament_index/resource_index/packages
+[3.645s] running install_egg_info
+[3.645s] Copying /opt/workspace/build/ament_pclint/ament_pclint.egg-info to /opt/workspace/install/ament_pclint/lib/python3.6/site-packages/ament_pclint-0.8.1-py3.6.egg-info
+[3.646s] running install_scripts
+[3.646s] Installing ament_pclint script to /opt/workspace/install/ament_pclint/bin
+[3.646s] writing list of installed files to '/opt/workspace/build/ament_pclint/install.log'

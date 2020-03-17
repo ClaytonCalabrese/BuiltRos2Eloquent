@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/opt/workspace/src/ros/class_loader/test/fviz_case_study/./fviz.hpp
+string
+-
+
+/opt/workspace/src/ros/class_loader/test/fviz_case_study/fviz.cpp
+./fviz.hpp
+/opt/workspace/src/ros/class_loader/test/fviz_case_study/./fviz.hpp
+cstdio
+-
+string
+-
+

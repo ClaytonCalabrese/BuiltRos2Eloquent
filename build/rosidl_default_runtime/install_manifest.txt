@@ -1,0 +1,16 @@
+/opt/workspace/install/rosidl_default_runtime/share/ament_index/resource_index/package_run_dependencies/rosidl_default_runtime
+/opt/workspace/install/rosidl_default_runtime/share/ament_index/resource_index/parent_prefix_path/rosidl_default_runtime
+/opt/workspace/install/rosidl_default_runtime/share/rosidl_default_runtime/environment/ament_prefix_path.sh
+/opt/workspace/install/rosidl_default_runtime/share/rosidl_default_runtime/environment/ament_prefix_path.dsv
+/opt/workspace/install/rosidl_default_runtime/share/rosidl_default_runtime/environment/path.sh
+/opt/workspace/install/rosidl_default_runtime/share/rosidl_default_runtime/environment/path.dsv
+/opt/workspace/install/rosidl_default_runtime/share/rosidl_default_runtime/local_setup.bash
+/opt/workspace/install/rosidl_default_runtime/share/rosidl_default_runtime/local_setup.sh
+/opt/workspace/install/rosidl_default_runtime/share/rosidl_default_runtime/local_setup.zsh
+/opt/workspace/install/rosidl_default_runtime/share/rosidl_default_runtime/local_setup.dsv
+/opt/workspace/install/rosidl_default_runtime/share/rosidl_default_runtime/package.dsv
+/opt/workspace/install/rosidl_default_runtime/share/ament_index/resource_index/packages/rosidl_default_runtime
+/opt/workspace/install/rosidl_default_runtime/share/rosidl_default_runtime/cmake/rosidl_default_runtime-extras.cmake
+/opt/workspace/install/rosidl_default_runtime/share/rosidl_default_runtime/cmake/rosidl_default_runtimeConfig.cmake
+/opt/workspace/install/rosidl_default_runtime/share/rosidl_default_runtime/cmake/rosidl_default_runtimeConfig-version.cmake
+/opt/workspace/install/rosidl_default_runtime/share/rosidl_default_runtime/package.xml

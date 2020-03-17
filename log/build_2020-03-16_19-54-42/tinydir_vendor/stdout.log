@@ -1,0 +1,73 @@
+[1.226s] -- The C compiler identification is GNU 7.4.0
+[1.310s] -- The CXX compiler identification is GNU 7.4.0
+[1.316s] -- Check for working C compiler: /usr/bin/cc
+[1.416s] -- Check for working C compiler: /usr/bin/cc -- works
+[1.417s] -- Detecting C compiler ABI info
+[1.526s] -- Detecting C compiler ABI info - done
+[1.537s] -- Detecting C compile features
+[1.867s] -- Detecting C compile features - done
+[1.872s] -- Check for working CXX compiler: /usr/bin/c++
+[1.994s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[1.996s] -- Detecting CXX compiler ABI info
+[2.134s] -- Detecting CXX compiler ABI info - done
+[2.145s] -- Detecting CXX compile features
+[2.740s] -- Detecting CXX compile features - done
+[2.788s] -- Configuring done
+[2.792s] -- Generating done
+[2.793s] -- Build files have been written to: /opt/workspace/build/tinydir_vendor
+[3.214s] [35m[1mScanning dependencies of target tinydir-1.2.4[0m
+[3.221s] [ 12%] [34m[1mCreating directories for 'tinydir-1.2.4'[0m
+[3.317s] [ 25%] [34m[1mPerforming download step (download, verify and extract) for 'tinydir-1.2.4'[0m
+[3.333s] -- Downloading...
+[3.333s]    dst='/opt/workspace/build/tinydir_vendor/tinydir-1.2.4/src/1.2.4.tar.gz'
+[3.333s]    timeout='none'
+[3.333s] -- Using src='https://github.com/cxong/tinydir/archive/1.2.4.tar.gz'
+[3.569s] -- [download 100% complete]
+[3.831s] -- verifying file...
+[3.831s]        file='/opt/workspace/build/tinydir_vendor/tinydir-1.2.4/src/1.2.4.tar.gz'
+[3.832s] -- Downloading... done
+[3.940s] -- extracting...
+[3.940s]      src='/opt/workspace/build/tinydir_vendor/tinydir-1.2.4/src/1.2.4.tar.gz'
+[3.940s]      dst='/opt/workspace/build/tinydir_vendor/tinydir-1.2.4/src/tinydir-1.2.4'
+[3.941s] -- extracting... [tar xfz]
+[3.988s] -- extracting... [analysis]
+[3.989s] -- extracting... [rename]
+[3.991s] -- extracting... [clean up]
+[3.991s] -- extracting... done
+[4.083s] [ 37%] [34m[1mPerforming patch step for 'tinydir-1.2.4'[0m
+[4.100s] [ 50%] [34m[1mNo update step for 'tinydir-1.2.4'[0m
+[4.158s] [ 62%] [34m[1mPerforming configure step for 'tinydir-1.2.4'[0m
+[4.332s] -- The C compiler identification is GNU 7.4.0
+[4.579s] -- The CXX compiler identification is GNU 7.4.0
+[4.594s] -- Check for working C compiler: /usr/bin/cc
+[4.968s] -- Check for working C compiler: /usr/bin/cc -- works
+[4.970s] -- Detecting C compiler ABI info
+[5.249s] -- Detecting C compiler ABI info - done
+[5.293s] -- Detecting C compile features
+[6.434s] -- Detecting C compile features - done
+[6.439s] -- Check for working CXX compiler: /usr/bin/c++
+[6.852s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[6.853s] -- Detecting CXX compiler ABI info
+[7.275s] -- Detecting CXX compiler ABI info - done
+[7.312s] -- Detecting CXX compile features
+[9.006s] -- Detecting CXX compile features - done
+[9.028s] -- Configuring done
+[9.036s] -- Generating done
+[9.037s] -- Build files have been written to: /opt/workspace/build/tinydir_vendor/tinydir-1.2.4/src/tinydir-1.2.4
+[9.141s] [ 75%] [34m[1mPerforming build step for 'tinydir-1.2.4'[0m
+[9.476s] [ 87%] [34m[1mPerforming install step for 'tinydir-1.2.4'[0m
+[9.722s] [36mInstall the project...[0m
+[9.765s] -- Install configuration: ""
+[9.765s] -- Installing: /opt/workspace/build/tinydir_vendor/tinydir_vendor_install/include/tinydir/tinydir.h
+[9.878s] [100%] [34m[1mCompleted 'tinydir-1.2.4'[0m
+[10.049s] [100%] Built target tinydir-1.2.4
+[10.664s] [100%] Built target tinydir-1.2.4
+[10.786s] [36mInstall the project...[0m
+[10.810s] -- Install configuration: ""
+[10.810s] -- Installing: /opt/workspace/install/tinydir_vendor
+[10.810s] -- Installing: /opt/workspace/install/tinydir_vendor/include
+[10.810s] -- Installing: /opt/workspace/install/tinydir_vendor/include/tinydir
+[10.811s] -- Installing: /opt/workspace/install/tinydir_vendor/include/tinydir/tinydir.h
+[10.817s] -- Installing: /opt/workspace/install/tinydir_vendor/share/tinydir_vendor/package.xml
+[10.817s] -- Installing: /opt/workspace/install/tinydir_vendor/share/tinydir_vendor/cmake/tinydir_vendorConfig.cmake
+[10.825s] -- Installing: /opt/workspace/install/tinydir_vendor/share/tinydir_vendor/cmake/tinydir_vendorConfig-version.cmake

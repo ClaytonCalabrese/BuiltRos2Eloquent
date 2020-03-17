@@ -1,0 +1,29 @@
+[1.618s] -- Found ament_cmake_core: 0.8.2 (/opt/workspace/install/ament_cmake_core/share/ament_cmake_core/cmake)
+[1.691s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[1.691s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[2.678s] -- Configuring done
+[2.681s] -- Generating done
+[2.682s] -- Build files have been written to: /opt/workspace/build/ament_cmake_gtest
+[4.994s] [36mInstall the project...[0m
+[5.058s] -- Install configuration: ""
+[5.059s] -- Installing: /opt/workspace/install/ament_cmake_gtest/share/ament_index/resource_index/package_run_dependencies/ament_cmake_gtest
+[5.059s] -- Installing: /opt/workspace/install/ament_cmake_gtest/share/ament_index/resource_index/parent_prefix_path/ament_cmake_gtest
+[5.065s] -- Installing: /opt/workspace/install/ament_cmake_gtest/share/ament_cmake_gtest/environment/ament_prefix_path.sh
+[5.065s] -- Installing: /opt/workspace/install/ament_cmake_gtest/share/ament_cmake_gtest/environment/ament_prefix_path.dsv
+[5.065s] -- Installing: /opt/workspace/install/ament_cmake_gtest/share/ament_cmake_gtest/environment/path.sh
+[5.066s] -- Installing: /opt/workspace/install/ament_cmake_gtest/share/ament_cmake_gtest/environment/path.dsv
+[5.066s] -- Installing: /opt/workspace/install/ament_cmake_gtest/share/ament_cmake_gtest/local_setup.bash
+[5.067s] -- Installing: /opt/workspace/install/ament_cmake_gtest/share/ament_cmake_gtest/local_setup.sh
+[5.067s] -- Installing: /opt/workspace/install/ament_cmake_gtest/share/ament_cmake_gtest/local_setup.zsh
+[5.067s] -- Installing: /opt/workspace/install/ament_cmake_gtest/share/ament_cmake_gtest/local_setup.dsv
+[5.068s] -- Installing: /opt/workspace/install/ament_cmake_gtest/share/ament_cmake_gtest/package.dsv
+[5.068s] -- Installing: /opt/workspace/install/ament_cmake_gtest/share/ament_index/resource_index/packages/ament_cmake_gtest
+[5.068s] -- Installing: /opt/workspace/install/ament_cmake_gtest/share/ament_cmake_gtest/cmake/ament_cmake_gtest-extras.cmake
+[5.069s] -- Installing: /opt/workspace/install/ament_cmake_gtest/share/ament_cmake_gtest/cmake/ament_cmake_gtestConfig.cmake
+[5.069s] -- Installing: /opt/workspace/install/ament_cmake_gtest/share/ament_cmake_gtest/cmake/ament_cmake_gtestConfig-version.cmake
+[5.069s] -- Installing: /opt/workspace/install/ament_cmake_gtest/share/ament_cmake_gtest/package.xml
+[5.069s] -- Up-to-date: /opt/workspace/install/ament_cmake_gtest/share/ament_cmake_gtest/cmake
+[5.070s] -- Installing: /opt/workspace/install/ament_cmake_gtest/share/ament_cmake_gtest/cmake/ament_add_gtest_executable.cmake
+[5.070s] -- Installing: /opt/workspace/install/ament_cmake_gtest/share/ament_cmake_gtest/cmake/ament_find_gtest.cmake
+[5.070s] -- Installing: /opt/workspace/install/ament_cmake_gtest/share/ament_cmake_gtest/cmake/ament_add_gtest_test.cmake
+[5.070s] -- Installing: /opt/workspace/install/ament_cmake_gtest/share/ament_cmake_gtest/cmake/ament_add_gtest.cmake

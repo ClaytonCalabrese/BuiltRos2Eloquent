@@ -1,0 +1,8 @@
+/opt/workspace/build/ament_cmake_copyright/CMakeFiles/install.dir
+/opt/workspace/build/ament_cmake_copyright/CMakeFiles/ament_cmake_copyright_uninstall.dir
+/opt/workspace/build/ament_cmake_copyright/CMakeFiles/edit_cache.dir
+/opt/workspace/build/ament_cmake_copyright/CMakeFiles/uninstall.dir
+/opt/workspace/build/ament_cmake_copyright/CMakeFiles/install/local.dir
+/opt/workspace/build/ament_cmake_copyright/CMakeFiles/test.dir
+/opt/workspace/build/ament_cmake_copyright/CMakeFiles/list_install_components.dir
+/opt/workspace/build/ament_cmake_copyright/CMakeFiles/rebuild_cache.dir

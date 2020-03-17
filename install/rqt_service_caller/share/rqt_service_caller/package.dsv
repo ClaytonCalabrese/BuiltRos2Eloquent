@@ -1,0 +1,11 @@
+source;share/rqt_service_caller/hook/cmake_prefix_path.ps1
+source;share/rqt_service_caller/hook/cmake_prefix_path.dsv
+source;share/rqt_service_caller/hook/cmake_prefix_path.sh
+source;share/rqt_service_caller/hook/pythonpath.ps1
+source;share/rqt_service_caller/hook/pythonpath.dsv
+source;share/rqt_service_caller/hook/pythonpath.sh
+source;share/rqt_service_caller/local_setup.bash
+source;share/rqt_service_caller/local_setup.dsv
+source;share/rqt_service_caller/local_setup.ps1
+source;share/rqt_service_caller/local_setup.sh
+source;share/rqt_service_caller/local_setup.zsh

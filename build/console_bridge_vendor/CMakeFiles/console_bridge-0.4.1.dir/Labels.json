@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/opt/workspace/build/console_bridge_vendor/CMakeFiles/console_bridge-0.4.1"
+		},
+		{
+			"file" : "/opt/workspace/build/console_bridge_vendor/CMakeFiles/console_bridge-0.4.1.rule"
+		},
+		{
+			"file" : "/opt/workspace/build/console_bridge_vendor/CMakeFiles/console_bridge-0.4.1-complete.rule"
+		},
+		{
+			"file" : "/opt/workspace/build/console_bridge_vendor/console_bridge-0.4.1-prefix/src/console_bridge-0.4.1-stamp/console_bridge-0.4.1-install.rule"
+		},
+		{
+			"file" : "/opt/workspace/build/console_bridge_vendor/console_bridge-0.4.1-prefix/src/console_bridge-0.4.1-stamp/console_bridge-0.4.1-mkdir.rule"
+		},
+		{
+			"file" : "/opt/workspace/build/console_bridge_vendor/console_bridge-0.4.1-prefix/src/console_bridge-0.4.1-stamp/console_bridge-0.4.1-download.rule"
+		},
+		{
+			"file" : "/opt/workspace/build/console_bridge_vendor/console_bridge-0.4.1-prefix/src/console_bridge-0.4.1-stamp/console_bridge-0.4.1-update.rule"
+		},
+		{
+			"file" : "/opt/workspace/build/console_bridge_vendor/console_bridge-0.4.1-prefix/src/console_bridge-0.4.1-stamp/console_bridge-0.4.1-patch.rule"
+		},
+		{
+			"file" : "/opt/workspace/build/console_bridge_vendor/console_bridge-0.4.1-prefix/src/console_bridge-0.4.1-stamp/console_bridge-0.4.1-configure.rule"
+		},
+		{
+			"file" : "/opt/workspace/build/console_bridge_vendor/console_bridge-0.4.1-prefix/src/console_bridge-0.4.1-stamp/console_bridge-0.4.1-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"console_bridge-0.4.1"
+		],
+		"name" : "console_bridge-0.4.1"
+	}
+}

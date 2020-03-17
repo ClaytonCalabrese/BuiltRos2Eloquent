@@ -1,0 +1,16 @@
+/opt/workspace/install/dummy_map_server/lib/dummy_map_server/dummy_map_server
+/opt/workspace/install/dummy_map_server/share/ament_index/resource_index/package_run_dependencies/dummy_map_server
+/opt/workspace/install/dummy_map_server/share/ament_index/resource_index/parent_prefix_path/dummy_map_server
+/opt/workspace/install/dummy_map_server/share/dummy_map_server/environment/ament_prefix_path.sh
+/opt/workspace/install/dummy_map_server/share/dummy_map_server/environment/ament_prefix_path.dsv
+/opt/workspace/install/dummy_map_server/share/dummy_map_server/environment/path.sh
+/opt/workspace/install/dummy_map_server/share/dummy_map_server/environment/path.dsv
+/opt/workspace/install/dummy_map_server/share/dummy_map_server/local_setup.bash
+/opt/workspace/install/dummy_map_server/share/dummy_map_server/local_setup.sh
+/opt/workspace/install/dummy_map_server/share/dummy_map_server/local_setup.zsh
+/opt/workspace/install/dummy_map_server/share/dummy_map_server/local_setup.dsv
+/opt/workspace/install/dummy_map_server/share/dummy_map_server/package.dsv
+/opt/workspace/install/dummy_map_server/share/ament_index/resource_index/packages/dummy_map_server
+/opt/workspace/install/dummy_map_server/share/dummy_map_server/cmake/dummy_map_serverConfig.cmake
+/opt/workspace/install/dummy_map_server/share/dummy_map_server/cmake/dummy_map_serverConfig-version.cmake
+/opt/workspace/install/dummy_map_server/share/dummy_map_server/package.xml

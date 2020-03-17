@@ -1,0 +1,33 @@
+{
+  "package_name": "sensor_msgs",
+  "non_idl_tuples": [
+    "/opt/workspace/src/ros2/common_interfaces/sensor_msgs:msg/BatteryState.msg",
+    "/opt/workspace/src/ros2/common_interfaces/sensor_msgs:msg/CameraInfo.msg",
+    "/opt/workspace/src/ros2/common_interfaces/sensor_msgs:msg/ChannelFloat32.msg",
+    "/opt/workspace/src/ros2/common_interfaces/sensor_msgs:msg/CompressedImage.msg",
+    "/opt/workspace/src/ros2/common_interfaces/sensor_msgs:msg/FluidPressure.msg",
+    "/opt/workspace/src/ros2/common_interfaces/sensor_msgs:msg/Illuminance.msg",
+    "/opt/workspace/src/ros2/common_interfaces/sensor_msgs:msg/Image.msg",
+    "/opt/workspace/src/ros2/common_interfaces/sensor_msgs:msg/Imu.msg",
+    "/opt/workspace/src/ros2/common_interfaces/sensor_msgs:msg/JointState.msg",
+    "/opt/workspace/src/ros2/common_interfaces/sensor_msgs:msg/Joy.msg",
+    "/opt/workspace/src/ros2/common_interfaces/sensor_msgs:msg/JoyFeedback.msg",
+    "/opt/workspace/src/ros2/common_interfaces/sensor_msgs:msg/JoyFeedbackArray.msg",
+    "/opt/workspace/src/ros2/common_interfaces/sensor_msgs:msg/LaserEcho.msg",
+    "/opt/workspace/src/ros2/common_interfaces/sensor_msgs:msg/LaserScan.msg",
+    "/opt/workspace/src/ros2/common_interfaces/sensor_msgs:msg/MagneticField.msg",
+    "/opt/workspace/src/ros2/common_interfaces/sensor_msgs:msg/MultiDOFJointState.msg",
+    "/opt/workspace/src/ros2/common_interfaces/sensor_msgs:msg/MultiEchoLaserScan.msg",
+    "/opt/workspace/src/ros2/common_interfaces/sensor_msgs:msg/NavSatFix.msg",
+    "/opt/workspace/src/ros2/common_interfaces/sensor_msgs:msg/NavSatStatus.msg",
+    "/opt/workspace/src/ros2/common_interfaces/sensor_msgs:msg/PointCloud.msg",
+    "/opt/workspace/src/ros2/common_interfaces/sensor_msgs:msg/PointCloud2.msg",
+    "/opt/workspace/src/ros2/common_interfaces/sensor_msgs:msg/PointField.msg",
+    "/opt/workspace/src/ros2/common_interfaces/sensor_msgs:msg/Range.msg",
+    "/opt/workspace/src/ros2/common_interfaces/sensor_msgs:msg/RegionOfInterest.msg",
+    "/opt/workspace/src/ros2/common_interfaces/sensor_msgs:msg/RelativeHumidity.msg",
+    "/opt/workspace/src/ros2/common_interfaces/sensor_msgs:msg/Temperature.msg",
+    "/opt/workspace/src/ros2/common_interfaces/sensor_msgs:msg/TimeReference.msg",
+    "/opt/workspace/src/ros2/common_interfaces/sensor_msgs:srv/SetCameraInfo.srv"
+  ]
+}

@@ -1,0 +1,27 @@
+[0.736s] Invoking command in '/opt/workspace/build/fastcdr': /usr/bin/cmake --build /opt/workspace/build/fastcdr -- -j8 -l8
+[1.149s] [100%] Built target fastcdr
+[1.155s] Invoked command in '/opt/workspace/build/fastcdr' returned '0': /usr/bin/cmake --build /opt/workspace/build/fastcdr -- -j8 -l8
+[2.285s] Invoking command in '/opt/workspace/build/fastcdr': /usr/bin/cmake --build /opt/workspace/build/fastcdr --target install -- -j8 -l8
+[2.372s] [100%] Built target fastcdr
+[2.404s] [36mInstall the project...[0m
+[2.418s] -- Install configuration: "Release"
+[2.422s] -- Up-to-date: /opt/workspace/install/fastcdr/share/fastcdr/LICENSE
+[2.423s] -- Up-to-date: /opt/workspace/install/fastcdr/include/fastcdr
+[2.423s] -- Up-to-date: /opt/workspace/install/fastcdr/include/fastcdr/FastBuffer.h
+[2.423s] -- Up-to-date: /opt/workspace/install/fastcdr/include/fastcdr/exceptions
+[2.424s] -- Up-to-date: /opt/workspace/install/fastcdr/include/fastcdr/exceptions/NotEnoughMemoryException.h
+[2.424s] -- Up-to-date: /opt/workspace/install/fastcdr/include/fastcdr/exceptions/BadParamException.h
+[2.424s] -- Up-to-date: /opt/workspace/install/fastcdr/include/fastcdr/exceptions/Exception.h
+[2.424s] -- Up-to-date: /opt/workspace/install/fastcdr/include/fastcdr/fastcdr_dll.h
+[2.425s] -- Up-to-date: /opt/workspace/install/fastcdr/include/fastcdr/eProsima_auto_link.h
+[2.425s] -- Up-to-date: /opt/workspace/install/fastcdr/include/fastcdr/FastCdr.h
+[2.425s] -- Up-to-date: /opt/workspace/install/fastcdr/include/fastcdr/Cdr.h
+[2.425s] -- Up-to-date: /opt/workspace/install/fastcdr/include/fastcdr/config.h
+[2.425s] -- Up-to-date: /opt/workspace/install/fastcdr/lib/libfastcdr.so.1.0.10
+[2.426s] -- Up-to-date: /opt/workspace/install/fastcdr/lib/libfastcdr.so.1
+[2.429s] -- Up-to-date: /opt/workspace/install/fastcdr/lib/libfastcdr.so
+[2.431s] -- Up-to-date: /opt/workspace/install/fastcdr/share/fastcdr/cmake/fastcdr-targets.cmake
+[2.431s] -- Up-to-date: /opt/workspace/install/fastcdr/share/fastcdr/cmake/fastcdr-targets-release.cmake
+[2.431s] -- Up-to-date: /opt/workspace/install/fastcdr/share/fastcdr/cmake/fastcdr-config.cmake
+[2.431s] -- Up-to-date: /opt/workspace/install/fastcdr/share/fastcdr/cmake/fastcdr-config-version.cmake
+[2.535s] Invoked command in '/opt/workspace/build/fastcdr' returned '0': /usr/bin/cmake --build /opt/workspace/build/fastcdr --target install -- -j8 -l8

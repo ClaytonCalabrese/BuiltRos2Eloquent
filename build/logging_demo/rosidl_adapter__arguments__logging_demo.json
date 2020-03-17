@@ -1,0 +1,6 @@
+{
+  "package_name": "logging_demo",
+  "non_idl_tuples": [
+    "/opt/workspace/src/ros2/demos/logging_demo:srv/ConfigLogger.srv"
+  ]
+}

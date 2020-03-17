@@ -1,0 +1,14 @@
+source;share/rclpy/hook/cmake_prefix_path.ps1
+source;share/rclpy/hook/cmake_prefix_path.dsv
+source;share/rclpy/hook/cmake_prefix_path.sh
+source;share/rclpy/hook/ld_library_path_lib.ps1
+source;share/rclpy/hook/ld_library_path_lib.dsv
+source;share/rclpy/hook/ld_library_path_lib.sh
+source;share/rclpy/hook/pythonpath.ps1
+source;share/rclpy/hook/pythonpath.dsv
+source;share/rclpy/hook/pythonpath.sh
+source;share/rclpy/local_setup.bash
+source;share/rclpy/local_setup.dsv
+source;share/rclpy/local_setup.ps1
+source;share/rclpy/local_setup.sh
+source;share/rclpy/local_setup.zsh

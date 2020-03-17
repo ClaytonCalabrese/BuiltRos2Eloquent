@@ -1,0 +1,15 @@
+{
+  "package_name": "map_msgs",
+  "non_idl_tuples": [
+    "/opt/workspace/src/ros-planning/navigation_msgs/map_msgs:msg/OccupancyGridUpdate.msg",
+    "/opt/workspace/src/ros-planning/navigation_msgs/map_msgs:msg/PointCloud2Update.msg",
+    "/opt/workspace/src/ros-planning/navigation_msgs/map_msgs:msg/ProjectedMapInfo.msg",
+    "/opt/workspace/src/ros-planning/navigation_msgs/map_msgs:msg/ProjectedMap.msg",
+    "/opt/workspace/src/ros-planning/navigation_msgs/map_msgs:srv/GetMapROI.srv",
+    "/opt/workspace/src/ros-planning/navigation_msgs/map_msgs:srv/GetPointMapROI.srv",
+    "/opt/workspace/src/ros-planning/navigation_msgs/map_msgs:srv/GetPointMap.srv",
+    "/opt/workspace/src/ros-planning/navigation_msgs/map_msgs:srv/ProjectedMapsInfo.srv",
+    "/opt/workspace/src/ros-planning/navigation_msgs/map_msgs:srv/SaveMap.srv",
+    "/opt/workspace/src/ros-planning/navigation_msgs/map_msgs:srv/SetMapProjections.srv"
+  ]
+}

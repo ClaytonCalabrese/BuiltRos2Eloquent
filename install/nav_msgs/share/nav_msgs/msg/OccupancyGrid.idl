@@ -1,0 +1,25 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from nav_msgs/msg/OccupancyGrid.msg
+// generated code does not contain a copyright notice
+
+#include "nav_msgs/msg/MapMetaData.idl"
+#include "std_msgs/msg/Header.idl"
+
+module nav_msgs {
+  module msg {
+    @verbatim (language="comment", text=
+      " This represents a 2-D grid map, in which each cell represents the probability of occupancy.")
+    struct OccupancyGrid {
+      std_msgs::msg::Header header;
+
+      @verbatim (language="comment", text=
+        " MetaData for the map")
+      nav_msgs::msg::MapMetaData info;
+
+      @verbatim (language="comment", text=
+        " The map data, in row-major order, starting with (0,0).  Occupancy" "\n"
+        " probabilities are in the range [0,100].  Unknown is -1.")
+      sequence<int8> data;
+    };
+  };
+};

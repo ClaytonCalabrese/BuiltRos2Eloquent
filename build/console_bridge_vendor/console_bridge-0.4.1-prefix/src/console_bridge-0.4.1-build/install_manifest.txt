@@ -1,0 +1,9 @@
+/opt/workspace/build/console_bridge_vendor/console_bridge_vendor_install/lib/libconsole_bridge.so.0.4
+/opt/workspace/build/console_bridge_vendor/console_bridge_vendor_install/lib/libconsole_bridge.so
+/opt/workspace/build/console_bridge_vendor/console_bridge_vendor_install/include/console_bridge/console.h
+/opt/workspace/build/console_bridge_vendor/console_bridge_vendor_install/include/console_bridge_export.h
+/opt/workspace/build/console_bridge_vendor/console_bridge_vendor_install/lib/console_bridge/cmake/console_bridge-targets.cmake
+/opt/workspace/build/console_bridge_vendor/console_bridge_vendor_install/lib/console_bridge/cmake/console_bridge-targets-release.cmake
+/opt/workspace/build/console_bridge_vendor/console_bridge_vendor_install/lib/console_bridge/cmake/console_bridge-config.cmake
+/opt/workspace/build/console_bridge_vendor/console_bridge_vendor_install/lib/console_bridge/cmake/console_bridge-config-version.cmake
+/opt/workspace/build/console_bridge_vendor/console_bridge_vendor_install/lib/pkgconfig/console_bridge.pc

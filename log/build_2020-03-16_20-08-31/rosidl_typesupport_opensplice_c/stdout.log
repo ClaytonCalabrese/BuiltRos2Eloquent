@@ -1,0 +1,40 @@
+[0.329s] -- The C compiler identification is GNU 7.4.0
+[0.463s] -- The CXX compiler identification is GNU 7.4.0
+[0.473s] -- Check for working C compiler: /usr/bin/cc
+[0.631s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.633s] -- Detecting C compiler ABI info
+[0.825s] -- Detecting C compiler ABI info - done
+[0.842s] -- Detecting C compile features
+[1.436s] -- Detecting C compile features - done
+[1.443s] -- Check for working CXX compiler: /usr/bin/c++
+[1.662s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[1.663s] -- Detecting CXX compiler ABI info
+[1.887s] -- Detecting CXX compiler ABI info - done
+[1.899s] -- Detecting CXX compile features
+[2.876s] -- Detecting CXX compile features - done
+[2.884s] -- Found ament_cmake: 0.8.2 (/opt/workspace/install/ament_cmake/share/ament_cmake/cmake)
+[2.973s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[2.974s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[3.538s] -- Found opensplice_cmake_module: 0.8.1 (/opt/workspace/install/opensplice_cmake_module/share/opensplice_cmake_module/cmake)
+[3.566s] -- Could NOT find opensplice (missing: opensplice_DIR)
+[3.568s] -- Could NOT find OpenSplice (missing: OpenSplice_INCLUDE_DIRS OpenSplice_IDLPP) 
+[3.746s] -- Configuring done
+[3.750s] -- Generating done
+[3.753s] -- Build files have been written to: /opt/workspace/build/rosidl_typesupport_opensplice_c
+[4.035s] [36mInstall the project...[0m
+[4.052s] -- Install configuration: ""
+[4.053s] -- Installing: /opt/workspace/install/rosidl_typesupport_opensplice_c/share/ament_index/resource_index/package_run_dependencies/rosidl_typesupport_opensplice_c
+[4.053s] -- Installing: /opt/workspace/install/rosidl_typesupport_opensplice_c/share/ament_index/resource_index/parent_prefix_path/rosidl_typesupport_opensplice_c
+[4.053s] -- Installing: /opt/workspace/install/rosidl_typesupport_opensplice_c/share/rosidl_typesupport_opensplice_c/environment/ament_prefix_path.sh
+[4.054s] -- Installing: /opt/workspace/install/rosidl_typesupport_opensplice_c/share/rosidl_typesupport_opensplice_c/environment/ament_prefix_path.dsv
+[4.054s] -- Installing: /opt/workspace/install/rosidl_typesupport_opensplice_c/share/rosidl_typesupport_opensplice_c/environment/path.sh
+[4.054s] -- Installing: /opt/workspace/install/rosidl_typesupport_opensplice_c/share/rosidl_typesupport_opensplice_c/environment/path.dsv
+[4.055s] -- Installing: /opt/workspace/install/rosidl_typesupport_opensplice_c/share/rosidl_typesupport_opensplice_c/local_setup.bash
+[4.055s] -- Installing: /opt/workspace/install/rosidl_typesupport_opensplice_c/share/rosidl_typesupport_opensplice_c/local_setup.sh
+[4.056s] -- Installing: /opt/workspace/install/rosidl_typesupport_opensplice_c/share/rosidl_typesupport_opensplice_c/local_setup.zsh
+[4.056s] -- Installing: /opt/workspace/install/rosidl_typesupport_opensplice_c/share/rosidl_typesupport_opensplice_c/local_setup.dsv
+[4.056s] -- Installing: /opt/workspace/install/rosidl_typesupport_opensplice_c/share/rosidl_typesupport_opensplice_c/package.dsv
+[4.057s] -- Installing: /opt/workspace/install/rosidl_typesupport_opensplice_c/share/ament_index/resource_index/packages/rosidl_typesupport_opensplice_c
+[4.057s] -- Installing: /opt/workspace/install/rosidl_typesupport_opensplice_c/share/rosidl_typesupport_opensplice_c/cmake/rosidl_typesupport_opensplice_cConfig.cmake
+[4.057s] -- Installing: /opt/workspace/install/rosidl_typesupport_opensplice_c/share/rosidl_typesupport_opensplice_c/cmake/rosidl_typesupport_opensplice_cConfig-version.cmake
+[4.057s] -- Installing: /opt/workspace/install/rosidl_typesupport_opensplice_c/share/rosidl_typesupport_opensplice_c/package.xml

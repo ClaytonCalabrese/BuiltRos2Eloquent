@@ -1,0 +1,17 @@
+/opt/workspace/install/fastcdr/share/fastcdr/LICENSE
+/opt/workspace/install/fastcdr/include/fastcdr/FastBuffer.h
+/opt/workspace/install/fastcdr/include/fastcdr/exceptions/NotEnoughMemoryException.h
+/opt/workspace/install/fastcdr/include/fastcdr/exceptions/BadParamException.h
+/opt/workspace/install/fastcdr/include/fastcdr/exceptions/Exception.h
+/opt/workspace/install/fastcdr/include/fastcdr/fastcdr_dll.h
+/opt/workspace/install/fastcdr/include/fastcdr/eProsima_auto_link.h
+/opt/workspace/install/fastcdr/include/fastcdr/FastCdr.h
+/opt/workspace/install/fastcdr/include/fastcdr/Cdr.h
+/opt/workspace/install/fastcdr/include/fastcdr/config.h
+/opt/workspace/install/fastcdr/lib/libfastcdr.so.1.0.10
+/opt/workspace/install/fastcdr/lib/libfastcdr.so.1
+/opt/workspace/install/fastcdr/lib/libfastcdr.so
+/opt/workspace/install/fastcdr/share/fastcdr/cmake/fastcdr-targets.cmake
+/opt/workspace/install/fastcdr/share/fastcdr/cmake/fastcdr-targets-release.cmake
+/opt/workspace/install/fastcdr/share/fastcdr/cmake/fastcdr-config.cmake
+/opt/workspace/install/fastcdr/share/fastcdr/cmake/fastcdr-config-version.cmake

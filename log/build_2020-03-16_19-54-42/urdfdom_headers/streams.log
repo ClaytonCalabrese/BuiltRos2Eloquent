@@ -1,0 +1,51 @@
+[0.037s] Invoking command in '/opt/workspace/build/urdfdom_headers': /usr/bin/cmake /opt/workspace/src/ros/urdfdom_headers -DCMAKE_INSTALL_PREFIX=/opt/workspace/install/urdfdom_headers
+[0.190s] -- The C compiler identification is GNU 7.4.0
+[0.359s] -- The CXX compiler identification is GNU 7.4.0
+[0.368s] -- Check for working C compiler: /usr/bin/cc
+[0.532s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.534s] -- Detecting C compiler ABI info
+[0.659s] -- Detecting C compiler ABI info - done
+[0.678s] -- Detecting C compile features
+[1.075s] -- Detecting C compile features - done
+[1.082s] -- Check for working CXX compiler: /usr/bin/c++
+[1.235s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[1.236s] -- Detecting CXX compiler ABI info
+[1.408s] -- Detecting CXX compiler ABI info - done
+[1.431s] -- Detecting CXX compile features
+[2.154s] -- Detecting CXX compile features - done
+[2.169s] -- urdfdom_headers version 1.0.4
+[2.178s] -- Configuration successful. Type make install to install urdfdom_headers.
+[2.181s] -- Configuring done
+[2.187s] -- Generating done
+[2.189s] -- Build files have been written to: /opt/workspace/build/urdfdom_headers
+[2.198s] Invoked command in '/opt/workspace/build/urdfdom_headers' returned '0': /usr/bin/cmake /opt/workspace/src/ros/urdfdom_headers -DCMAKE_INSTALL_PREFIX=/opt/workspace/install/urdfdom_headers
+[2.200s] Invoking command in '/opt/workspace/build/urdfdom_headers': /usr/bin/cmake --build /opt/workspace/build/urdfdom_headers -- -j8 -l8
+[2.291s] Invoked command in '/opt/workspace/build/urdfdom_headers' returned '0': /usr/bin/cmake --build /opt/workspace/build/urdfdom_headers -- -j8 -l8
+[2.358s] Invoking command in '/opt/workspace/build/urdfdom_headers': /usr/bin/cmake --build /opt/workspace/build/urdfdom_headers --target install -- -j8 -l8
+[2.463s] [36mInstall the project...[0m
+[2.477s] -- Install configuration: ""
+[2.478s] -- Installing: /opt/workspace/install/urdfdom_headers/lib/urdfdom_headers/cmake/urdfdom_headers-config.cmake
+[2.478s] -- Installing: /opt/workspace/install/urdfdom_headers/lib/urdfdom_headers/cmake/urdfdom_headers-config-version.cmake
+[2.478s] -- Installing: /opt/workspace/install/urdfdom_headers/lib/pkgconfig/urdfdom_headers.pc
+[2.478s] -- Installing: /opt/workspace/install/urdfdom_headers/include/urdf_sensor
+[2.479s] -- Installing: /opt/workspace/install/urdfdom_headers/include/urdf_sensor/sensor.h
+[2.479s] -- Installing: /opt/workspace/install/urdfdom_headers/include/urdf_sensor/types.h
+[2.479s] -- Installing: /opt/workspace/install/urdfdom_headers/include/urdf_model
+[2.479s] -- Installing: /opt/workspace/install/urdfdom_headers/include/urdf_model/color.h
+[2.480s] -- Installing: /opt/workspace/install/urdfdom_headers/include/urdf_model/twist.h
+[2.481s] -- Installing: /opt/workspace/install/urdfdom_headers/include/urdf_model/utils.h
+[2.481s] -- Installing: /opt/workspace/install/urdfdom_headers/include/urdf_model/joint.h
+[2.481s] -- Installing: /opt/workspace/install/urdfdom_headers/include/urdf_model/pose.h
+[2.481s] -- Installing: /opt/workspace/install/urdfdom_headers/include/urdf_model/model.h
+[2.482s] -- Installing: /opt/workspace/install/urdfdom_headers/include/urdf_model/link.h
+[2.482s] -- Installing: /opt/workspace/install/urdfdom_headers/include/urdf_model/types.h
+[2.482s] -- Installing: /opt/workspace/install/urdfdom_headers/include/urdf_model_state
+[2.483s] -- Installing: /opt/workspace/install/urdfdom_headers/include/urdf_model_state/model_state.h
+[2.483s] -- Installing: /opt/workspace/install/urdfdom_headers/include/urdf_model_state/twist.h
+[2.483s] -- Installing: /opt/workspace/install/urdfdom_headers/include/urdf_model_state/types.h
+[2.483s] -- Installing: /opt/workspace/install/urdfdom_headers/include/urdf_world
+[2.483s] -- Installing: /opt/workspace/install/urdfdom_headers/include/urdf_world/world.h
+[2.483s] -- Installing: /opt/workspace/install/urdfdom_headers/include/urdf_world/types.h
+[2.484s] -- Installing: /opt/workspace/install/urdfdom_headers/include/urdf_exception
+[2.484s] -- Installing: /opt/workspace/install/urdfdom_headers/include/urdf_exception/exception.h
+[2.490s] Invoked command in '/opt/workspace/build/urdfdom_headers' returned '0': /usr/bin/cmake --build /opt/workspace/build/urdfdom_headers --target install -- -j8 -l8

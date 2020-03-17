@@ -1,0 +1,44 @@
+[1.066s] Invoking command in '/opt/workspace/src/ament/ament_lint/ament_mypy': AMENT_PREFIX_PATH=/opt/workspace/install/ament_flake8:/opt/workspace/install/ament_lint:${AMENT_PREFIX_PATH} PATH=/opt/workspace/install/ament_flake8/bin:${PATH} PYTHONPATH=/opt/workspace/install/ament_mypy/lib/python3.6/site-packages:/opt/workspace/install/ament_flake8/lib/python3.6/site-packages:/opt/workspace/install/ament_lint/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base /opt/workspace/build/ament_mypy build --build-base /opt/workspace/build/ament_mypy/build install --prefix /opt/workspace/install/ament_mypy --record /opt/workspace/build/ament_mypy/install.log --single-version-externally-managed
+[1.498s] running egg_info
+[1.499s] creating /opt/workspace/build/ament_mypy/ament_mypy.egg-info
+[1.499s] writing /opt/workspace/build/ament_mypy/ament_mypy.egg-info/PKG-INFO
+[1.500s] writing dependency_links to /opt/workspace/build/ament_mypy/ament_mypy.egg-info/dependency_links.txt
+[1.501s] writing entry points to /opt/workspace/build/ament_mypy/ament_mypy.egg-info/entry_points.txt
+[1.501s] writing requirements to /opt/workspace/build/ament_mypy/ament_mypy.egg-info/requires.txt
+[1.501s] writing top-level names to /opt/workspace/build/ament_mypy/ament_mypy.egg-info/top_level.txt
+[1.502s] writing manifest file '/opt/workspace/build/ament_mypy/ament_mypy.egg-info/SOURCES.txt'
+[1.580s] reading manifest file '/opt/workspace/build/ament_mypy/ament_mypy.egg-info/SOURCES.txt'
+[1.582s] writing manifest file '/opt/workspace/build/ament_mypy/ament_mypy.egg-info/SOURCES.txt'
+[1.582s] running build
+[1.582s] running build_py
+[1.583s] creating /opt/workspace/build/ament_mypy/build
+[1.583s] creating /opt/workspace/build/ament_mypy/build/lib
+[1.583s] creating /opt/workspace/build/ament_mypy/build/lib/ament_mypy
+[1.583s] copying ament_mypy/__init__.py -> /opt/workspace/build/ament_mypy/build/lib/ament_mypy
+[1.583s] copying ament_mypy/pytest_marker.py -> /opt/workspace/build/ament_mypy/build/lib/ament_mypy
+[1.583s] copying ament_mypy/main.py -> /opt/workspace/build/ament_mypy/build/lib/ament_mypy
+[1.584s] creating /opt/workspace/build/ament_mypy/build/lib/ament_mypy/configuration
+[1.584s] copying ament_mypy/configuration/ament_mypy.ini -> /opt/workspace/build/ament_mypy/build/lib/ament_mypy/configuration
+[1.584s] running install
+[1.584s] running install_lib
+[1.586s] creating /opt/workspace/install/ament_mypy/lib/python3.6/site-packages/ament_mypy
+[1.586s] copying /opt/workspace/build/ament_mypy/build/lib/ament_mypy/__init__.py -> /opt/workspace/install/ament_mypy/lib/python3.6/site-packages/ament_mypy
+[1.586s] copying /opt/workspace/build/ament_mypy/build/lib/ament_mypy/pytest_marker.py -> /opt/workspace/install/ament_mypy/lib/python3.6/site-packages/ament_mypy
+[1.587s] copying /opt/workspace/build/ament_mypy/build/lib/ament_mypy/main.py -> /opt/workspace/install/ament_mypy/lib/python3.6/site-packages/ament_mypy
+[1.587s] creating /opt/workspace/install/ament_mypy/lib/python3.6/site-packages/ament_mypy/configuration
+[1.587s] copying /opt/workspace/build/ament_mypy/build/lib/ament_mypy/configuration/ament_mypy.ini -> /opt/workspace/install/ament_mypy/lib/python3.6/site-packages/ament_mypy/configuration
+[1.588s] byte-compiling /opt/workspace/install/ament_mypy/lib/python3.6/site-packages/ament_mypy/__init__.py to __init__.cpython-36.pyc
+[1.588s] byte-compiling /opt/workspace/install/ament_mypy/lib/python3.6/site-packages/ament_mypy/pytest_marker.py to pytest_marker.cpython-36.pyc
+[1.588s] byte-compiling /opt/workspace/install/ament_mypy/lib/python3.6/site-packages/ament_mypy/main.py to main.cpython-36.pyc
+[1.591s] running install_data
+[1.591s] copying package.xml -> /opt/workspace/install/ament_mypy/share/ament_mypy
+[1.592s] creating /opt/workspace/install/ament_mypy/share/ament_index
+[1.592s] creating /opt/workspace/install/ament_mypy/share/ament_index/resource_index
+[1.592s] creating /opt/workspace/install/ament_mypy/share/ament_index/resource_index/packages
+[1.592s] copying resource/ament_mypy -> /opt/workspace/install/ament_mypy/share/ament_index/resource_index/packages
+[1.592s] running install_egg_info
+[1.595s] Copying /opt/workspace/build/ament_mypy/ament_mypy.egg-info to /opt/workspace/install/ament_mypy/lib/python3.6/site-packages/ament_mypy-0.8.1-py3.6.egg-info
+[1.597s] running install_scripts
+[1.633s] Installing ament_mypy script to /opt/workspace/install/ament_mypy/bin
+[1.633s] writing list of installed files to '/opt/workspace/build/ament_mypy/install.log'
+[1.672s] Invoked command in '/opt/workspace/src/ament/ament_lint/ament_mypy' returned '0': AMENT_PREFIX_PATH=/opt/workspace/install/ament_flake8:/opt/workspace/install/ament_lint:${AMENT_PREFIX_PATH} PATH=/opt/workspace/install/ament_flake8/bin:${PATH} PYTHONPATH=/opt/workspace/install/ament_mypy/lib/python3.6/site-packages:/opt/workspace/install/ament_flake8/lib/python3.6/site-packages:/opt/workspace/install/ament_lint/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base /opt/workspace/build/ament_mypy build --build-base /opt/workspace/build/ament_mypy/build install --prefix /opt/workspace/install/ament_mypy --record /opt/workspace/build/ament_mypy/install.log --single-version-externally-managed

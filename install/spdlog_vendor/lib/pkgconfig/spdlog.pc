@@ -1,0 +1,6 @@
+prefix=/opt/workspace/build/spdlog_vendor/spdlog_vendor_install
+includedir=${prefix}/include
+
+Name: spdlog
+Description: Super fast C++ logging library. 
+Version: 1.3.1

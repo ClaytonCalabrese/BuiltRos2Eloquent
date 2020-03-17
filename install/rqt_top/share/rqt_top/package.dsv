@@ -1,0 +1,11 @@
+source;share/rqt_top/hook/cmake_prefix_path.ps1
+source;share/rqt_top/hook/cmake_prefix_path.dsv
+source;share/rqt_top/hook/cmake_prefix_path.sh
+source;share/rqt_top/hook/pythonpath.ps1
+source;share/rqt_top/hook/pythonpath.dsv
+source;share/rqt_top/hook/pythonpath.sh
+source;share/rqt_top/local_setup.bash
+source;share/rqt_top/local_setup.dsv
+source;share/rqt_top/local_setup.ps1
+source;share/rqt_top/local_setup.sh
+source;share/rqt_top/local_setup.zsh

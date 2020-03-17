@@ -1,0 +1,50 @@
+[3.705s] running egg_info
+[3.707s] creating /opt/workspace/build/rqt_graph/rqt_graph.egg-info
+[3.707s] writing /opt/workspace/build/rqt_graph/rqt_graph.egg-info/PKG-INFO
+[3.707s] writing dependency_links to /opt/workspace/build/rqt_graph/rqt_graph.egg-info/dependency_links.txt
+[3.708s] writing entry points to /opt/workspace/build/rqt_graph/rqt_graph.egg-info/entry_points.txt
+[3.708s] writing requirements to /opt/workspace/build/rqt_graph/rqt_graph.egg-info/requires.txt
+[3.708s] writing top-level names to /opt/workspace/build/rqt_graph/rqt_graph.egg-info/top_level.txt
+[3.718s] writing manifest file '/opt/workspace/build/rqt_graph/rqt_graph.egg-info/SOURCES.txt'
+[3.805s] reading manifest file '/opt/workspace/build/rqt_graph/rqt_graph.egg-info/SOURCES.txt'
+[3.805s] writing manifest file '/opt/workspace/build/rqt_graph/rqt_graph.egg-info/SOURCES.txt'
+[3.805s] running build
+[3.806s] running build_py
+[3.806s] creating /opt/workspace/build/rqt_graph/build
+[3.806s] creating /opt/workspace/build/rqt_graph/build/lib
+[3.806s] creating /opt/workspace/build/rqt_graph/build/lib/rqt_graph
+[3.806s] copying src/rqt_graph/rosgraph2_impl.py -> /opt/workspace/build/rqt_graph/build/lib/rqt_graph
+[3.807s] copying src/rqt_graph/__init__.py -> /opt/workspace/build/rqt_graph/build/lib/rqt_graph
+[3.807s] copying src/rqt_graph/ros_graph.py -> /opt/workspace/build/rqt_graph/build/lib/rqt_graph
+[3.809s] copying src/rqt_graph/interactive_graphics_view.py -> /opt/workspace/build/rqt_graph/build/lib/rqt_graph
+[3.810s] copying src/rqt_graph/dotcode.py -> /opt/workspace/build/rqt_graph/build/lib/rqt_graph
+[3.811s] copying src/rqt_graph/main.py -> /opt/workspace/build/rqt_graph/build/lib/rqt_graph
+[3.812s] running install
+[3.813s] running install_lib
+[3.815s] creating /opt/workspace/install/rqt_graph/lib/python3.6/site-packages/rqt_graph
+[3.815s] copying /opt/workspace/build/rqt_graph/build/lib/rqt_graph/rosgraph2_impl.py -> /opt/workspace/install/rqt_graph/lib/python3.6/site-packages/rqt_graph
+[3.816s] copying /opt/workspace/build/rqt_graph/build/lib/rqt_graph/__init__.py -> /opt/workspace/install/rqt_graph/lib/python3.6/site-packages/rqt_graph
+[3.816s] copying /opt/workspace/build/rqt_graph/build/lib/rqt_graph/ros_graph.py -> /opt/workspace/install/rqt_graph/lib/python3.6/site-packages/rqt_graph
+[3.816s] copying /opt/workspace/build/rqt_graph/build/lib/rqt_graph/interactive_graphics_view.py -> /opt/workspace/install/rqt_graph/lib/python3.6/site-packages/rqt_graph
+[3.816s] copying /opt/workspace/build/rqt_graph/build/lib/rqt_graph/dotcode.py -> /opt/workspace/install/rqt_graph/lib/python3.6/site-packages/rqt_graph
+[3.816s] copying /opt/workspace/build/rqt_graph/build/lib/rqt_graph/main.py -> /opt/workspace/install/rqt_graph/lib/python3.6/site-packages/rqt_graph
+[3.818s] byte-compiling /opt/workspace/install/rqt_graph/lib/python3.6/site-packages/rqt_graph/rosgraph2_impl.py to rosgraph2_impl.cpython-36.pyc
+[3.823s] byte-compiling /opt/workspace/install/rqt_graph/lib/python3.6/site-packages/rqt_graph/__init__.py to __init__.cpython-36.pyc
+[3.823s] byte-compiling /opt/workspace/install/rqt_graph/lib/python3.6/site-packages/rqt_graph/ros_graph.py to ros_graph.cpython-36.pyc
+[3.828s] byte-compiling /opt/workspace/install/rqt_graph/lib/python3.6/site-packages/rqt_graph/interactive_graphics_view.py to interactive_graphics_view.cpython-36.pyc
+[3.830s] byte-compiling /opt/workspace/install/rqt_graph/lib/python3.6/site-packages/rqt_graph/dotcode.py to dotcode.cpython-36.pyc
+[3.840s] byte-compiling /opt/workspace/install/rqt_graph/lib/python3.6/site-packages/rqt_graph/main.py to main.cpython-36.pyc
+[3.840s] running install_data
+[3.841s] creating /opt/workspace/install/rqt_graph/share/ament_index
+[3.841s] creating /opt/workspace/install/rqt_graph/share/ament_index/resource_index
+[3.842s] creating /opt/workspace/install/rqt_graph/share/ament_index/resource_index/packages
+[3.842s] copying resource/rqt_graph -> /opt/workspace/install/rqt_graph/share/ament_index/resource_index/packages
+[3.842s] creating /opt/workspace/install/rqt_graph/share/rqt_graph/resource
+[3.842s] copying resource/RosGraph.ui -> /opt/workspace/install/rqt_graph/share/rqt_graph/resource
+[3.843s] copying package.xml -> /opt/workspace/install/rqt_graph/share/rqt_graph
+[3.843s] copying plugin.xml -> /opt/workspace/install/rqt_graph/share/rqt_graph
+[3.844s] running install_egg_info
+[3.848s] Copying /opt/workspace/build/rqt_graph/rqt_graph.egg-info to /opt/workspace/install/rqt_graph/lib/python3.6/site-packages/rqt_graph-1.0.4-py3.6.egg-info
+[3.850s] running install_scripts
+[3.891s] Installing rqt_graph script to /opt/workspace/install/rqt_graph/bin
+[3.892s] writing list of installed files to '/opt/workspace/build/rqt_graph/install.log'

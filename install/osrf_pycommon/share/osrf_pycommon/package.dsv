@@ -1,0 +1,6 @@
+source;share/osrf_pycommon/hook/pythonpath.ps1
+source;share/osrf_pycommon/hook/pythonpath.dsv
+source;share/osrf_pycommon/hook/pythonpath.sh
+source;share/osrf_pycommon/hook/ament_prefix_path.ps1
+source;share/osrf_pycommon/hook/ament_prefix_path.dsv
+source;share/osrf_pycommon/hook/ament_prefix_path.sh

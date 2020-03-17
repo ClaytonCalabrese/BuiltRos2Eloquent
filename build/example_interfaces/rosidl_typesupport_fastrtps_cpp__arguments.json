@@ -1,0 +1,37 @@
+{
+  "package_name": "example_interfaces",
+  "output_dir": "/opt/workspace/build/example_interfaces/rosidl_typesupport_fastrtps_cpp/example_interfaces",
+  "template_dir": "/opt/workspace/install/rosidl_typesupport_fastrtps_cpp/share/rosidl_typesupport_fastrtps_cpp/resource",
+  "idl_tuples": [
+    "/opt/workspace/build/example_interfaces/rosidl_adapter/example_interfaces:action/Fibonacci.idl",
+    "/opt/workspace/build/example_interfaces/rosidl_adapter/example_interfaces:srv/AddTwoInts.idl"
+  ],
+  "ros_interface_dependencies": [
+    "action_msgs:/opt/workspace/install/action_msgs/share/action_msgs/msg/GoalInfo.idl",
+    "action_msgs:/opt/workspace/install/action_msgs/share/action_msgs/msg/GoalStatus.idl",
+    "action_msgs:/opt/workspace/install/action_msgs/share/action_msgs/msg/GoalStatusArray.idl",
+    "action_msgs:/opt/workspace/install/action_msgs/share/action_msgs/srv/CancelGoal.idl",
+    "builtin_interfaces:/opt/workspace/install/builtin_interfaces/share/builtin_interfaces/msg/Duration.idl",
+    "builtin_interfaces:/opt/workspace/install/builtin_interfaces/share/builtin_interfaces/msg/Time.idl",
+    "unique_identifier_msgs:/opt/workspace/install/unique_identifier_msgs/share/unique_identifier_msgs/msg/UUID.idl"
+  ],
+  "target_dependencies": [
+    "/opt/workspace/install/rosidl_typesupport_fastrtps_cpp/lib/rosidl_typesupport_fastrtps_cpp/rosidl_typesupport_fastrtps_cpp",
+    "/opt/workspace/install/rosidl_typesupport_fastrtps_cpp/lib/python3.6/site-packages/rosidl_typesupport_fastrtps_cpp/__init__.py",
+    "/opt/workspace/install/rosidl_typesupport_fastrtps_cpp/share/rosidl_typesupport_fastrtps_cpp/resource/idl__rosidl_typesupport_fastrtps_cpp.hpp.em",
+    "/opt/workspace/install/rosidl_typesupport_fastrtps_cpp/share/rosidl_typesupport_fastrtps_cpp/resource/idl__type_support.cpp.em",
+    "/opt/workspace/install/rosidl_typesupport_fastrtps_cpp/share/rosidl_typesupport_fastrtps_cpp/resource/msg__rosidl_typesupport_fastrtps_cpp.hpp.em",
+    "/opt/workspace/install/rosidl_typesupport_fastrtps_cpp/share/rosidl_typesupport_fastrtps_cpp/resource/msg__type_support.cpp.em",
+    "/opt/workspace/install/rosidl_typesupport_fastrtps_cpp/share/rosidl_typesupport_fastrtps_cpp/resource/srv__rosidl_typesupport_fastrtps_cpp.hpp.em",
+    "/opt/workspace/install/rosidl_typesupport_fastrtps_cpp/share/rosidl_typesupport_fastrtps_cpp/resource/srv__type_support.cpp.em",
+    "/opt/workspace/build/example_interfaces/rosidl_adapter/example_interfaces/action/Fibonacci.idl",
+    "/opt/workspace/build/example_interfaces/rosidl_adapter/example_interfaces/srv/AddTwoInts.idl",
+    "/opt/workspace/install/action_msgs/share/action_msgs/msg/GoalInfo.idl",
+    "/opt/workspace/install/action_msgs/share/action_msgs/msg/GoalStatus.idl",
+    "/opt/workspace/install/action_msgs/share/action_msgs/msg/GoalStatusArray.idl",
+    "/opt/workspace/install/action_msgs/share/action_msgs/srv/CancelGoal.idl",
+    "/opt/workspace/install/builtin_interfaces/share/builtin_interfaces/msg/Duration.idl",
+    "/opt/workspace/install/builtin_interfaces/share/builtin_interfaces/msg/Time.idl",
+    "/opt/workspace/install/unique_identifier_msgs/share/unique_identifier_msgs/msg/UUID.idl"
+  ]
+}

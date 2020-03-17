@@ -1,0 +1,109 @@
+[0.622s] -- The C compiler identification is GNU 7.4.0
+[0.822s] -- The CXX compiler identification is GNU 7.4.0
+[0.831s] -- Check for working C compiler: /usr/bin/cc
+[1.104s] -- Check for working C compiler: /usr/bin/cc -- works
+[1.106s] -- Detecting C compiler ABI info
+[1.349s] -- Detecting C compiler ABI info - done
+[1.362s] -- Detecting C compile features
+[2.239s] -- Detecting C compile features - done
+[2.244s] -- Check for working CXX compiler: /usr/bin/c++
+[2.648s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[2.650s] -- Detecting CXX compiler ABI info
+[3.054s] -- Detecting CXX compiler ABI info - done
+[3.067s] -- Detecting CXX compile features
+[4.683s] -- Detecting CXX compile features - done
+[4.702s] -- Found ament_cmake_ros: 0.8.0 (/opt/workspace/install/ament_cmake_ros/share/ament_cmake_ros/cmake)
+[4.965s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[4.965s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[6.102s] -- Found lifecycle_msgs: 0.8.0 (/opt/workspace/install/lifecycle_msgs/share/lifecycle_msgs/cmake)
+[6.187s] -- Found rosidl_adapter: 0.8.2 (/opt/workspace/install/rosidl_adapter/share/rosidl_adapter/cmake)
+[6.249s] -- Found rcl: 0.8.4 (/opt/workspace/install/rcl/share/rcl/cmake)
+[6.297s] -- Found rmw_implementation_cmake: 0.8.1 (/opt/workspace/install/rmw_implementation_cmake/share/rmw_implementation_cmake/cmake)
+[6.314s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[6.316s] -- Looking for pthread.h
+[6.741s] -- Looking for pthread.h - found
+[6.741s] -- Looking for pthread_create
+[7.169s] -- Looking for pthread_create - not found
+[7.169s] -- Looking for pthread_create in pthreads
+[7.511s] -- Looking for pthread_create in pthreads - not found
+[7.511s] -- Looking for pthread_create in pthread
+[7.772s] -- Looking for pthread_create in pthread - found
+[7.774s] -- Found Threads: TRUE  
+[7.898s] -- Found ament_lint_auto: 0.8.1 (/opt/workspace/install/ament_lint_auto/share/ament_lint_auto/cmake)
+[8.233s] -- Found gtest sources under '/opt/workspace/install/gtest_vendor/src/gtest_vendor': C++ tests using 'Google Test' will be built
+[8.237s] -- Check if compiler accepts -pthread
+[8.529s] -- Check if compiler accepts -pthread - yes
+[8.727s] -- Added test 'copyright' to check for copyright in CMake / C / C++ / Python code
+[8.732s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[8.736s] -- Configured cppcheck include dirs: /opt/workspace/src/ros2/rcl/rcl_lifecycle/include
+[8.740s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[8.744s] -- Added test 'lint_cmake' to check CMake code style
+[8.749s] -- Added test 'uncrustify' to check C / C++ code style
+[8.752s] -- Added test 'xmllint' to check XML markup files
+[8.764s] -- Configuring done
+[8.873s] -- Generating done
+[8.878s] -- Build files have been written to: /opt/workspace/build/rcl_lifecycle
+[9.106s] [35m[1mScanning dependencies of target rcl_lifecycle[0m
+[9.254s] [  6%] [32mBuilding C object CMakeFiles/rcl_lifecycle.dir/src/com_interface.c.o[0m
+[9.472s] [ 13%] [32mBuilding C object CMakeFiles/rcl_lifecycle.dir/src/transition_map.c.o[0m
+[9.643s] [ 20%] [32mBuilding C object CMakeFiles/rcl_lifecycle.dir/src/rcl_lifecycle.c.o[0m
+[9.850s] [ 26%] [32mBuilding C object CMakeFiles/rcl_lifecycle.dir/src/default_state_machine.c.o[0m
+[9.972s] [ 33%] [32m[1mLinking C shared library librcl_lifecycle.so[0m
+[10.151s] [ 33%] Built target rcl_lifecycle
+[10.186s] [35m[1mScanning dependencies of target gtest_main[0m
+[10.229s] [ 40%] [32mBuilding CXX object gtest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o[0m
+[11.621s] [ 46%] [32m[1mLinking CXX static library libgtest_main.a[0m
+[11.716s] [ 46%] Built target gtest_main
+[11.745s] [35m[1mScanning dependencies of target gtest[0m
+[11.793s] [ 53%] [32mBuilding CXX object gtest/CMakeFiles/gtest.dir/src/gtest-all.cc.o[0m
+[17.529s] [ 60%] [32m[1mLinking CXX static library libgtest.a[0m
+[17.669s] [ 60%] Built target gtest
+[17.691s] [35m[1mScanning dependencies of target test_default_state_machine[0m
+[17.740s] [ 66%] [32mBuilding CXX object CMakeFiles/test_default_state_machine.dir/test/test_default_state_machine.cpp.o[0m
+[19.505s] [ 73%] [32m[1mLinking CXX executable test_default_state_machine[0m
+[19.890s] [ 73%] Built target test_default_state_machine
+[19.921s] [35m[1mScanning dependencies of target test_multiple_instances[0m
+[19.988s] [ 80%] [32mBuilding CXX object CMakeFiles/test_multiple_instances.dir/test/test_multiple_instances.cpp.o[0m
+[21.664s] [ 86%] [32m[1mLinking CXX executable test_multiple_instances[0m
+[22.075s] [ 86%] Built target test_multiple_instances
+[22.107s] [35m[1mScanning dependencies of target test_transition_map[0m
+[22.168s] [ 93%] [32mBuilding CXX object CMakeFiles/test_transition_map.dir/test/test_transition_map.cpp.o[0m
+[23.769s] [100%] [32m[1mLinking CXX executable test_transition_map[0m
+[24.187s] [100%] Built target test_transition_map
+[24.458s] [ 33%] Built target rcl_lifecycle
+[24.517s] [ 46%] Built target gtest_main
+[24.576s] [ 60%] Built target gtest
+[24.637s] [ 73%] Built target test_default_state_machine
+[24.693s] [ 86%] Built target test_multiple_instances
+[24.752s] [100%] Built target test_transition_map
+[24.800s] [36mInstall the project...[0m
+[24.822s] -- Install configuration: ""
+[24.822s] -- Installing: /opt/workspace/install/rcl_lifecycle/lib/librcl_lifecycle.so
+[24.823s] -- Set runtime path of "/opt/workspace/install/rcl_lifecycle/lib/librcl_lifecycle.so" to ""
+[24.823s] -- Installing: /opt/workspace/install/rcl_lifecycle/share/rcl_lifecycle/environment/library_path.sh
+[24.824s] -- Installing: /opt/workspace/install/rcl_lifecycle/share/rcl_lifecycle/environment/library_path.dsv
+[24.824s] -- Installing: /opt/workspace/install/rcl_lifecycle/share/ament_index/resource_index/package_run_dependencies/rcl_lifecycle
+[24.824s] -- Installing: /opt/workspace/install/rcl_lifecycle/share/ament_index/resource_index/parent_prefix_path/rcl_lifecycle
+[24.825s] -- Installing: /opt/workspace/install/rcl_lifecycle/share/rcl_lifecycle/environment/ament_prefix_path.sh
+[24.825s] -- Installing: /opt/workspace/install/rcl_lifecycle/share/rcl_lifecycle/environment/ament_prefix_path.dsv
+[24.825s] -- Installing: /opt/workspace/install/rcl_lifecycle/share/rcl_lifecycle/environment/path.sh
+[24.825s] -- Installing: /opt/workspace/install/rcl_lifecycle/share/rcl_lifecycle/environment/path.dsv
+[24.825s] -- Installing: /opt/workspace/install/rcl_lifecycle/share/rcl_lifecycle/local_setup.bash
+[24.826s] -- Installing: /opt/workspace/install/rcl_lifecycle/share/rcl_lifecycle/local_setup.sh
+[24.826s] -- Installing: /opt/workspace/install/rcl_lifecycle/share/rcl_lifecycle/local_setup.zsh
+[24.826s] -- Installing: /opt/workspace/install/rcl_lifecycle/share/rcl_lifecycle/local_setup.dsv
+[24.826s] -- Installing: /opt/workspace/install/rcl_lifecycle/share/rcl_lifecycle/package.dsv
+[24.827s] -- Installing: /opt/workspace/install/rcl_lifecycle/share/ament_index/resource_index/packages/rcl_lifecycle
+[24.827s] -- Installing: /opt/workspace/install/rcl_lifecycle/share/rcl_lifecycle/cmake/ament_cmake_export_include_directories-extras.cmake
+[24.827s] -- Installing: /opt/workspace/install/rcl_lifecycle/share/rcl_lifecycle/cmake/ament_cmake_export_libraries-extras.cmake
+[24.827s] -- Installing: /opt/workspace/install/rcl_lifecycle/share/rcl_lifecycle/cmake/ament_cmake_export_dependencies-extras.cmake
+[24.828s] -- Installing: /opt/workspace/install/rcl_lifecycle/share/rcl_lifecycle/cmake/rcl_lifecycleConfig.cmake
+[24.828s] -- Installing: /opt/workspace/install/rcl_lifecycle/share/rcl_lifecycle/cmake/rcl_lifecycleConfig-version.cmake
+[24.828s] -- Installing: /opt/workspace/install/rcl_lifecycle/share/rcl_lifecycle/package.xml
+[24.828s] -- Installing: /opt/workspace/install/rcl_lifecycle/include
+[24.831s] -- Installing: /opt/workspace/install/rcl_lifecycle/include/rcl_lifecycle
+[24.831s] -- Installing: /opt/workspace/install/rcl_lifecycle/include/rcl_lifecycle/default_state_machine.h
+[24.831s] -- Installing: /opt/workspace/install/rcl_lifecycle/include/rcl_lifecycle/rcl_lifecycle.h
+[24.831s] -- Installing: /opt/workspace/install/rcl_lifecycle/include/rcl_lifecycle/visibility_control.h
+[24.832s] -- Installing: /opt/workspace/install/rcl_lifecycle/include/rcl_lifecycle/data_types.h
+[24.832s] -- Installing: /opt/workspace/install/rcl_lifecycle/include/rcl_lifecycle/transition_map.h

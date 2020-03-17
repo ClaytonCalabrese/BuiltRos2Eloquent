@@ -1,0 +1,4 @@
+[0.516s] Invoking command in '/opt/workspace/build/osrf_testing_tools_cpp': CMAKE_PREFIX_PATH=/opt/ros/eloquent /usr/bin/cmake --build /opt/workspace/build/osrf_testing_tools_cpp -- -j8 -l8
+[1.652s] Invoked command in '/opt/workspace/build/osrf_testing_tools_cpp' returned '0': CMAKE_PREFIX_PATH=/opt/ros/eloquent /usr/bin/cmake --build /opt/workspace/build/osrf_testing_tools_cpp -- -j8 -l8
+[2.553s] Invoking command in '/opt/workspace/build/osrf_testing_tools_cpp': CMAKE_PREFIX_PATH=/opt/ros/eloquent /usr/bin/cmake --build /opt/workspace/build/osrf_testing_tools_cpp --target install -- -j8 -l8
+[3.509s] Invoked command in '/opt/workspace/build/osrf_testing_tools_cpp' returned '0': CMAKE_PREFIX_PATH=/opt/ros/eloquent /usr/bin/cmake --build /opt/workspace/build/osrf_testing_tools_cpp --target install -- -j8 -l8

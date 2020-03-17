@@ -1,0 +1,70 @@
+[0.625s] -- The C compiler identification is GNU 7.4.0
+[0.750s] -- The CXX compiler identification is GNU 7.4.0
+[0.762s] -- Check for working C compiler: /usr/bin/cc
+[0.929s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.931s] -- Detecting C compiler ABI info
+[1.092s] -- Detecting C compiler ABI info - done
+[1.105s] -- Detecting C compile features
+[1.622s] -- Detecting C compile features - done
+[1.628s] -- Check for working CXX compiler: /usr/bin/c++
+[1.822s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[1.824s] -- Detecting CXX compiler ABI info
+[2.017s] -- Detecting CXX compiler ABI info - done
+[2.031s] -- Detecting CXX compile features
+[2.824s] -- Detecting CXX compile features - done
+[2.837s] -- Found ament_cmake_auto: 0.8.2 (/opt/workspace/install/ament_cmake_auto/share/ament_cmake_auto/cmake)
+[2.970s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[2.970s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[3.833s] -- Found test_msgs: 0.8.0 (/opt/workspace/install/test_msgs/share/test_msgs/cmake)
+[3.918s] -- Found rosidl_adapter: 0.8.2 (/opt/workspace/install/rosidl_adapter/share/rosidl_adapter/cmake)
+[4.037s] -- Found ament_lint_auto: 0.8.1 (/opt/workspace/install/ament_lint_auto/share/ament_lint_auto/cmake)
+[4.246s] -- Found python_cmake_module: 0.8.0 (/opt/workspace/install/python_cmake_module/share/python_cmake_module/cmake)
+[4.334s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3.5") 
+[4.367s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.6m.so (found suitable version "3.6.9", minimum required is "3.5") 
+[4.367s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[4.368s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.6m
+[4.368s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.6m.so
+[4.454s] -- Found PythonExtra: .so  
+[4.503s] -- Found rmw_implementation_cmake: 0.8.1 (/opt/workspace/install/rmw_implementation_cmake/share/rmw_implementation_cmake/cmake)
+[4.524s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[4.527s] -- Looking for pthread.h
+[4.730s] -- Looking for pthread.h - found
+[4.730s] -- Looking for pthread_create
+[4.924s] -- Looking for pthread_create - not found
+[4.924s] -- Looking for pthread_create in pthreads
+[5.071s] -- Looking for pthread_create in pthreads - not found
+[5.071s] -- Looking for pthread_create in pthread
+[5.248s] -- Looking for pthread_create in pthread - found
+[5.249s] -- Found Threads: TRUE  
+[5.456s] -- Found rmw_cyclonedds_cpp: 0.5.1 (/opt/workspace/install/rmw_cyclonedds_cpp/share/rmw_cyclonedds_cpp/cmake)
+[5.470s] -- Found rmw_fastrtps_cpp: 0.8.1 (/opt/workspace/install/rmw_fastrtps_cpp/share/rmw_fastrtps_cpp/cmake)
+[5.718s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "1.1.1") 
+[5.800s] -- Found FastRTPS: /opt/workspace/install/fastrtps/include  
+[6.216s] -- Found rmw_fastrtps_dynamic_cpp: 0.8.1 (/opt/workspace/install/rmw_fastrtps_dynamic_cpp/share/rmw_fastrtps_dynamic_cpp/cmake)
+[6.368s] -- Added test 'copyright' to check for copyright in CMake / C / C++ / Python code
+[6.373s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[6.373s] -- Configured cppcheck include dirs: 
+[6.378s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[6.382s] -- Added test 'lint_cmake' to check CMake code style
+[6.387s] -- Added test 'uncrustify' to check C / C++ code style
+[6.390s] -- Added test 'xmllint' to check XML markup files
+[6.401s] -- Configuring done
+[6.406s] -- Generating done
+[6.411s] -- Build files have been written to: /opt/workspace/build/test_security
+[6.784s] [36mInstall the project...[0m
+[6.810s] -- Install configuration: ""
+[6.811s] -- Installing: /opt/workspace/install/test_security/share/ament_index/resource_index/package_run_dependencies/test_security
+[6.812s] -- Installing: /opt/workspace/install/test_security/share/ament_index/resource_index/parent_prefix_path/test_security
+[6.812s] -- Installing: /opt/workspace/install/test_security/share/test_security/environment/ament_prefix_path.sh
+[6.813s] -- Installing: /opt/workspace/install/test_security/share/test_security/environment/ament_prefix_path.dsv
+[6.813s] -- Installing: /opt/workspace/install/test_security/share/test_security/environment/path.sh
+[6.814s] -- Installing: /opt/workspace/install/test_security/share/test_security/environment/path.dsv
+[6.814s] -- Installing: /opt/workspace/install/test_security/share/test_security/local_setup.bash
+[6.814s] -- Installing: /opt/workspace/install/test_security/share/test_security/local_setup.sh
+[6.817s] -- Installing: /opt/workspace/install/test_security/share/test_security/local_setup.zsh
+[6.817s] -- Installing: /opt/workspace/install/test_security/share/test_security/local_setup.dsv
+[6.818s] -- Installing: /opt/workspace/install/test_security/share/test_security/package.dsv
+[6.818s] -- Installing: /opt/workspace/install/test_security/share/ament_index/resource_index/packages/test_security
+[6.818s] -- Installing: /opt/workspace/install/test_security/share/test_security/cmake/test_securityConfig.cmake
+[6.819s] -- Installing: /opt/workspace/install/test_security/share/test_security/cmake/test_securityConfig-version.cmake
+[6.819s] -- Installing: /opt/workspace/install/test_security/share/test_security/package.xml

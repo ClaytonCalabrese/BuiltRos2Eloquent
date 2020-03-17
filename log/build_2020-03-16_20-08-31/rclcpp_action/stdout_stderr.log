@@ -1,0 +1,118 @@
+[0.699s] -- The C compiler identification is GNU 7.4.0
+[0.871s] -- The CXX compiler identification is GNU 7.4.0
+[0.884s] -- Check for working C compiler: /usr/bin/cc
+[1.196s] -- Check for working C compiler: /usr/bin/cc -- works
+[1.197s] -- Detecting C compiler ABI info
+[1.526s] -- Detecting C compiler ABI info - done
+[1.540s] -- Detecting C compile features
+[2.426s] -- Detecting C compile features - done
+[2.426s] -- Check for working CXX compiler: /usr/bin/c++
+[2.710s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[2.712s] -- Detecting CXX compiler ABI info
+[3.014s] -- Detecting CXX compiler ABI info - done
+[3.030s] -- Detecting CXX compile features
+[4.290s] -- Detecting CXX compile features - done
+[4.301s] -- Found ament_cmake_ros: 0.8.0 (/opt/workspace/install/ament_cmake_ros/share/ament_cmake_ros/cmake)
+[4.494s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[4.494s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[5.405s] -- Found action_msgs: 0.8.0 (/opt/workspace/install/action_msgs/share/action_msgs/cmake)
+[5.503s] -- Found rosidl_adapter: 0.8.2 (/opt/workspace/install/rosidl_adapter/share/rosidl_adapter/cmake)
+[5.639s] -- Found rclcpp: 0.8.4 (/opt/workspace/install/rclcpp/share/rclcpp/cmake)
+[5.693s] -- Found rmw_implementation_cmake: 0.8.1 (/opt/workspace/install/rmw_implementation_cmake/share/rmw_implementation_cmake/cmake)
+[5.724s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[5.726s] -- Looking for pthread.h
+[6.125s] -- Looking for pthread.h - found
+[6.125s] -- Looking for pthread_create
+[6.433s] -- Looking for pthread_create - not found
+[6.434s] -- Looking for pthread_create in pthreads
+[6.663s] -- Looking for pthread_create in pthreads - not found
+[6.663s] -- Looking for pthread_create in pthread
+[6.970s] -- Looking for pthread_create in pthread - found
+[6.971s] -- Found Threads: TRUE  
+[7.097s] -- Found rcl_action: 0.8.4 (/opt/workspace/install/rcl_action/share/rcl_action/cmake)
+[7.369s] -- Found ament_lint_auto: 0.8.1 (/opt/workspace/install/ament_lint_auto/share/ament_lint_auto/cmake)
+[7.718s] -- Found gtest sources under '/opt/workspace/install/gtest_vendor/src/gtest_vendor': C++ tests using 'Google Test' will be built
+[7.722s] -- Check if compiler accepts -pthread
+[7.919s] -- Check if compiler accepts -pthread - yes
+[8.034s] -- Added test 'copyright' to check for copyright in CMake / C / C++ / Python code
+[8.040s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[8.043s] -- Configured cppcheck include dirs: /opt/workspace/src/ros2/rclcpp/rclcpp_action/include
+[8.050s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[8.054s] -- Added test 'lint_cmake' to check CMake code style
+[8.058s] -- Added test 'uncrustify' to check C / C++ code style
+[8.061s] -- Added test 'xmllint' to check XML markup files
+[8.072s] -- Configuring done
+[8.217s] -- Generating done
+[8.221s] -- Build files have been written to: /opt/workspace/build/rclcpp_action
+[8.361s] [35m[1mScanning dependencies of target rclcpp_action[0m
+[8.469s] [  6%] [32mBuilding CXX object CMakeFiles/rclcpp_action.dir/src/client.cpp.o[0m
+[11.272s] [ 12%] [32mBuilding CXX object CMakeFiles/rclcpp_action.dir/src/types.cpp.o[0m
+[12.198s] [ 18%] [32mBuilding CXX object CMakeFiles/rclcpp_action.dir/src/server_goal_handle.cpp.o[0m
+[13.186s] [ 25%] [32mBuilding CXX object CMakeFiles/rclcpp_action.dir/src/server.cpp.o[0m
+[16.496s] [ 31%] [32mBuilding CXX object CMakeFiles/rclcpp_action.dir/src/qos.cpp.o[0m
+[17.101s] [ 37%] [32m[1mLinking CXX shared library librclcpp_action.so[0m
+[17.682s] [ 37%] Built target rclcpp_action
+[17.711s] [35m[1mScanning dependencies of target gtest[0m
+[17.783s] [ 43%] [32mBuilding CXX object gtest/CMakeFiles/gtest.dir/src/gtest-all.cc.o[0m
+[24.179s] [ 50%] [32m[1mLinking CXX static library libgtest.a[0m
+[24.444s] [ 50%] Built target gtest
+[24.544s] [35m[1mScanning dependencies of target gtest_main[0m
+[24.664s] [ 56%] [32mBuilding CXX object gtest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o[0m
+[26.166s] [ 62%] [32m[1mLinking CXX static library libgtest_main.a[0m
+[26.413s] [ 62%] Built target gtest_main
+[26.469s] [35m[1mScanning dependencies of target test_client[0m
+[26.618s] [ 68%] [32mBuilding CXX object CMakeFiles/test_client.dir/test/test_client.cpp.o[0m
+[38.756s] [ 75%] [32m[1mLinking CXX executable test_client[0m
+[39.968s] [ 75%] Built target test_client
+[39.999s] [35m[1mScanning dependencies of target test_server[0m
+[40.130s] [ 81%] [32mBuilding CXX object CMakeFiles/test_server.dir/test/test_server.cpp.o[0m
+[56.446s] [ 87%] [32m[1mLinking CXX executable test_server[0m
+[57.929s] [ 87%] Built target test_server
+[57.979s] [35m[1mScanning dependencies of target test_traits[0m
+[58.050s] [ 93%] [32mBuilding CXX object CMakeFiles/test_traits.dir/test/test_traits.cpp.o[0m
+[59.796s] [100%] [32m[1mLinking CXX executable test_traits[0m
+[60.236s] [100%] Built target test_traits
+[60.765s] [ 37%] Built target rclcpp_action
+[60.847s] [ 50%] Built target gtest
+[60.912s] [ 62%] Built target gtest_main
+[60.995s] [ 75%] Built target test_client
+[61.093s] [ 87%] Built target test_server
+[61.178s] [100%] Built target test_traits
+[61.258s] [36mInstall the project...[0m
+[61.283s] -- Install configuration: ""
+[61.284s] -- Installing: /opt/workspace/install/rclcpp_action/include
+[61.284s] -- Installing: /opt/workspace/install/rclcpp_action/include/rclcpp_action
+[61.285s] -- Installing: /opt/workspace/install/rclcpp_action/include/rclcpp_action/client_goal_handle.hpp
+[61.285s] -- Installing: /opt/workspace/install/rclcpp_action/include/rclcpp_action/server_goal_handle.hpp
+[61.286s] -- Installing: /opt/workspace/install/rclcpp_action/include/rclcpp_action/visibility_control.hpp
+[61.286s] -- Installing: /opt/workspace/install/rclcpp_action/include/rclcpp_action/client.hpp
+[61.287s] -- Installing: /opt/workspace/install/rclcpp_action/include/rclcpp_action/qos.hpp
+[61.288s] -- Installing: /opt/workspace/install/rclcpp_action/include/rclcpp_action/rclcpp_action.hpp
+[61.289s] -- Installing: /opt/workspace/install/rclcpp_action/include/rclcpp_action/server.hpp
+[61.289s] -- Installing: /opt/workspace/install/rclcpp_action/include/rclcpp_action/create_client.hpp
+[61.291s] -- Installing: /opt/workspace/install/rclcpp_action/include/rclcpp_action/client_goal_handle_impl.hpp
+[61.291s] -- Installing: /opt/workspace/install/rclcpp_action/include/rclcpp_action/exceptions.hpp
+[61.292s] -- Installing: /opt/workspace/install/rclcpp_action/include/rclcpp_action/create_server.hpp
+[61.293s] -- Installing: /opt/workspace/install/rclcpp_action/include/rclcpp_action/types.hpp
+[61.293s] -- Installing: /opt/workspace/install/rclcpp_action/lib/librclcpp_action.so
+[61.296s] -- Set runtime path of "/opt/workspace/install/rclcpp_action/lib/librclcpp_action.so" to ""
+[61.297s] -- Installing: /opt/workspace/install/rclcpp_action/share/rclcpp_action/environment/library_path.sh
+[61.297s] -- Installing: /opt/workspace/install/rclcpp_action/share/rclcpp_action/environment/library_path.dsv
+[61.299s] -- Installing: /opt/workspace/install/rclcpp_action/share/ament_index/resource_index/package_run_dependencies/rclcpp_action
+[61.299s] -- Installing: /opt/workspace/install/rclcpp_action/share/ament_index/resource_index/parent_prefix_path/rclcpp_action
+[61.300s] -- Installing: /opt/workspace/install/rclcpp_action/share/rclcpp_action/environment/ament_prefix_path.sh
+[61.301s] -- Installing: /opt/workspace/install/rclcpp_action/share/rclcpp_action/environment/ament_prefix_path.dsv
+[61.301s] -- Installing: /opt/workspace/install/rclcpp_action/share/rclcpp_action/environment/path.sh
+[61.302s] -- Installing: /opt/workspace/install/rclcpp_action/share/rclcpp_action/environment/path.dsv
+[61.303s] -- Installing: /opt/workspace/install/rclcpp_action/share/rclcpp_action/local_setup.bash
+[61.303s] -- Installing: /opt/workspace/install/rclcpp_action/share/rclcpp_action/local_setup.sh
+[61.304s] -- Installing: /opt/workspace/install/rclcpp_action/share/rclcpp_action/local_setup.zsh
+[61.305s] -- Installing: /opt/workspace/install/rclcpp_action/share/rclcpp_action/local_setup.dsv
+[61.305s] -- Installing: /opt/workspace/install/rclcpp_action/share/rclcpp_action/package.dsv
+[61.306s] -- Installing: /opt/workspace/install/rclcpp_action/share/ament_index/resource_index/packages/rclcpp_action
+[61.307s] -- Installing: /opt/workspace/install/rclcpp_action/share/rclcpp_action/cmake/ament_cmake_export_include_directories-extras.cmake
+[61.307s] -- Installing: /opt/workspace/install/rclcpp_action/share/rclcpp_action/cmake/ament_cmake_export_libraries-extras.cmake
+[61.308s] -- Installing: /opt/workspace/install/rclcpp_action/share/rclcpp_action/cmake/ament_cmake_export_dependencies-extras.cmake
+[61.309s] -- Installing: /opt/workspace/install/rclcpp_action/share/rclcpp_action/cmake/rclcpp_actionConfig.cmake
+[61.310s] -- Installing: /opt/workspace/install/rclcpp_action/share/rclcpp_action/cmake/rclcpp_actionConfig-version.cmake
+[61.310s] -- Installing: /opt/workspace/install/rclcpp_action/share/rclcpp_action/package.xml

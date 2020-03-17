@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC   -shared -Wl,-soname,libyaml.so -o libyaml.so CMakeFiles/yaml.dir/src/api.c.o CMakeFiles/yaml.dir/src/dumper.c.o CMakeFiles/yaml.dir/src/emitter.c.o CMakeFiles/yaml.dir/src/loader.c.o CMakeFiles/yaml.dir/src/parser.c.o CMakeFiles/yaml.dir/src/reader.c.o CMakeFiles/yaml.dir/src/scanner.c.o CMakeFiles/yaml.dir/src/writer.c.o 

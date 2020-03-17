@@ -1,0 +1,35 @@
+Determining if the pthread_create exist failed with the following output:
+Change Dir: /opt/workspace/build/rcl_yaml_param_parser/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_cf5cd/fast"
+/usr/bin/make -f CMakeFiles/cmTC_cf5cd.dir/build.make CMakeFiles/cmTC_cf5cd.dir/build
+make[1]: Entering directory '/opt/workspace/build/rcl_yaml_param_parser/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_cf5cd.dir/CheckSymbolExists.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_cf5cd.dir/CheckSymbolExists.c.o   -c /opt/workspace/build/rcl_yaml_param_parser/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_cf5cd
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_cf5cd.dir/link.txt --verbose=1
+/usr/bin/cc      CMakeFiles/cmTC_cf5cd.dir/CheckSymbolExists.c.o  -o cmTC_cf5cd 
+CMakeFiles/cmTC_cf5cd.dir/CheckSymbolExists.c.o: In function `main':
+CheckSymbolExists.c:(.text+0x1b): undefined reference to `pthread_create'
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_cf5cd.dir/build.make:97: recipe for target 'cmTC_cf5cd' failed
+make[1]: *** [cmTC_cf5cd] Error 1
+make[1]: Leaving directory '/opt/workspace/build/rcl_yaml_param_parser/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_cf5cd/fast' failed
+make: *** [cmTC_cf5cd/fast] Error 2
+
+File /opt/workspace/build/rcl_yaml_param_parser/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+

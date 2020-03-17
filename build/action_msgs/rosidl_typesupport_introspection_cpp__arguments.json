@@ -1,0 +1,33 @@
+{
+  "package_name": "action_msgs",
+  "output_dir": "/opt/workspace/build/action_msgs/rosidl_typesupport_introspection_cpp/action_msgs",
+  "template_dir": "/opt/workspace/install/rosidl_typesupport_introspection_cpp/share/rosidl_typesupport_introspection_cpp/resource",
+  "idl_tuples": [
+    "/opt/workspace/build/action_msgs/rosidl_adapter/action_msgs:msg/GoalInfo.idl",
+    "/opt/workspace/build/action_msgs/rosidl_adapter/action_msgs:msg/GoalStatus.idl",
+    "/opt/workspace/build/action_msgs/rosidl_adapter/action_msgs:msg/GoalStatusArray.idl",
+    "/opt/workspace/build/action_msgs/rosidl_adapter/action_msgs:srv/CancelGoal.idl"
+  ],
+  "ros_interface_dependencies": [
+    "builtin_interfaces:/opt/workspace/install/builtin_interfaces/share/builtin_interfaces/msg/Duration.idl",
+    "builtin_interfaces:/opt/workspace/install/builtin_interfaces/share/builtin_interfaces/msg/Time.idl",
+    "unique_identifier_msgs:/opt/workspace/install/unique_identifier_msgs/share/unique_identifier_msgs/msg/UUID.idl"
+  ],
+  "target_dependencies": [
+    "/opt/workspace/install/rosidl_typesupport_introspection_cpp/lib/rosidl_typesupport_introspection_cpp/rosidl_typesupport_introspection_cpp",
+    "/opt/workspace/install/rosidl_typesupport_introspection_cpp/lib/python3.6/site-packages/rosidl_typesupport_introspection_cpp/__init__.py",
+    "/opt/workspace/install/rosidl_typesupport_introspection_cpp/share/rosidl_typesupport_introspection_cpp/resource/idl__rosidl_typesupport_introspection_cpp.hpp.em",
+    "/opt/workspace/install/rosidl_typesupport_introspection_cpp/share/rosidl_typesupport_introspection_cpp/resource/idl__type_support.cpp.em",
+    "/opt/workspace/install/rosidl_typesupport_introspection_cpp/share/rosidl_typesupport_introspection_cpp/resource/msg__rosidl_typesupport_introspection_cpp.hpp.em",
+    "/opt/workspace/install/rosidl_typesupport_introspection_cpp/share/rosidl_typesupport_introspection_cpp/resource/msg__type_support.cpp.em",
+    "/opt/workspace/install/rosidl_typesupport_introspection_cpp/share/rosidl_typesupport_introspection_cpp/resource/srv__rosidl_typesupport_introspection_cpp.hpp.em",
+    "/opt/workspace/install/rosidl_typesupport_introspection_cpp/share/rosidl_typesupport_introspection_cpp/resource/srv__type_support.cpp.em",
+    "/opt/workspace/build/action_msgs/rosidl_adapter/action_msgs/msg/GoalInfo.idl",
+    "/opt/workspace/build/action_msgs/rosidl_adapter/action_msgs/msg/GoalStatus.idl",
+    "/opt/workspace/build/action_msgs/rosidl_adapter/action_msgs/msg/GoalStatusArray.idl",
+    "/opt/workspace/build/action_msgs/rosidl_adapter/action_msgs/srv/CancelGoal.idl",
+    "/opt/workspace/install/builtin_interfaces/share/builtin_interfaces/msg/Duration.idl",
+    "/opt/workspace/install/builtin_interfaces/share/builtin_interfaces/msg/Time.idl",
+    "/opt/workspace/install/unique_identifier_msgs/share/unique_identifier_msgs/msg/UUID.idl"
+  ]
+}

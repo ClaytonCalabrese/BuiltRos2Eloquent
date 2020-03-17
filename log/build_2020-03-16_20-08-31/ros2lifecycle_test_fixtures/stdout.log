@@ -1,0 +1,65 @@
+[1.339s] -- The C compiler identification is GNU 7.4.0
+[1.519s] -- The CXX compiler identification is GNU 7.4.0
+[1.533s] -- Check for working C compiler: /usr/bin/cc
+[1.835s] -- Check for working C compiler: /usr/bin/cc -- works
+[1.836s] -- Detecting C compiler ABI info
+[2.081s] -- Detecting C compiler ABI info - done
+[2.094s] -- Detecting C compile features
+[2.837s] -- Detecting C compile features - done
+[2.842s] -- Check for working CXX compiler: /usr/bin/c++
+[3.134s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[3.134s] -- Detecting CXX compiler ABI info
+[3.349s] -- Detecting CXX compiler ABI info - done
+[3.363s] -- Detecting CXX compile features
+[4.671s] -- Detecting CXX compile features - done
+[4.684s] -- Found ament_cmake: 0.8.2 (/opt/workspace/install/ament_cmake/share/ament_cmake/cmake)
+[4.803s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[4.803s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[5.508s] -- Found rclcpp_lifecycle: 0.8.4 (/opt/workspace/install/rclcpp_lifecycle/share/rclcpp_lifecycle/cmake)
+[5.622s] -- Found rosidl_adapter: 0.8.2 (/opt/workspace/install/rosidl_adapter/share/rosidl_adapter/cmake)
+[5.721s] -- Found rmw_implementation_cmake: 0.8.1 (/opt/workspace/install/rmw_implementation_cmake/share/rmw_implementation_cmake/cmake)
+[5.741s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[5.743s] -- Looking for pthread.h
+[6.116s] -- Looking for pthread.h - found
+[6.117s] -- Looking for pthread_create
+[6.331s] -- Looking for pthread_create - not found
+[6.336s] -- Looking for pthread_create in pthreads
+[6.570s] -- Looking for pthread_create in pthreads - not found
+[6.570s] -- Looking for pthread_create in pthread
+[6.938s] -- Looking for pthread_create in pthread - found
+[6.940s] -- Found Threads: TRUE  
+[7.179s] -- Found ament_lint_auto: 0.8.1 (/opt/workspace/install/ament_lint_auto/share/ament_lint_auto/cmake)
+[7.448s] -- Added test 'copyright' to check for copyright in CMake / C / C++ / Python code
+[7.453s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[7.457s] -- Configured cppcheck include dirs: 
+[7.461s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[7.464s] -- Added test 'lint_cmake' to check CMake code style
+[7.469s] -- Added test 'uncrustify' to check C / C++ code style
+[7.470s] -- Added test 'xmllint' to check XML markup files
+[7.477s] -- Configuring done
+[7.517s] -- Generating done
+[7.520s] -- Build files have been written to: /opt/workspace/build/ros2lifecycle_test_fixtures
+[7.794s] [35m[1mScanning dependencies of target simple_lifecycle_node[0m
+[7.930s] [ 50%] [32mBuilding CXX object CMakeFiles/simple_lifecycle_node.dir/src/simple_lifecycle_node.cpp.o[0m
+[11.104s] [100%] [32m[1mLinking CXX executable simple_lifecycle_node[0m
+[12.264s] [100%] Built target simple_lifecycle_node
+[13.095s] [100%] Built target simple_lifecycle_node
+[13.236s] [36mInstall the project...[0m
+[13.285s] -- Install configuration: ""
+[13.285s] -- Installing: /opt/workspace/install/ros2lifecycle_test_fixtures/lib/ros2lifecycle_test_fixtures/simple_lifecycle_node
+[13.286s] -- Set runtime path of "/opt/workspace/install/ros2lifecycle_test_fixtures/lib/ros2lifecycle_test_fixtures/simple_lifecycle_node" to ""
+[13.286s] -- Installing: /opt/workspace/install/ros2lifecycle_test_fixtures/share/ament_index/resource_index/package_run_dependencies/ros2lifecycle_test_fixtures
+[13.286s] -- Installing: /opt/workspace/install/ros2lifecycle_test_fixtures/share/ament_index/resource_index/parent_prefix_path/ros2lifecycle_test_fixtures
+[13.287s] -- Installing: /opt/workspace/install/ros2lifecycle_test_fixtures/share/ros2lifecycle_test_fixtures/environment/ament_prefix_path.sh
+[13.287s] -- Installing: /opt/workspace/install/ros2lifecycle_test_fixtures/share/ros2lifecycle_test_fixtures/environment/ament_prefix_path.dsv
+[13.287s] -- Installing: /opt/workspace/install/ros2lifecycle_test_fixtures/share/ros2lifecycle_test_fixtures/environment/path.sh
+[13.287s] -- Installing: /opt/workspace/install/ros2lifecycle_test_fixtures/share/ros2lifecycle_test_fixtures/environment/path.dsv
+[13.288s] -- Installing: /opt/workspace/install/ros2lifecycle_test_fixtures/share/ros2lifecycle_test_fixtures/local_setup.bash
+[13.288s] -- Installing: /opt/workspace/install/ros2lifecycle_test_fixtures/share/ros2lifecycle_test_fixtures/local_setup.sh
+[13.288s] -- Installing: /opt/workspace/install/ros2lifecycle_test_fixtures/share/ros2lifecycle_test_fixtures/local_setup.zsh
+[13.288s] -- Installing: /opt/workspace/install/ros2lifecycle_test_fixtures/share/ros2lifecycle_test_fixtures/local_setup.dsv
+[13.289s] -- Installing: /opt/workspace/install/ros2lifecycle_test_fixtures/share/ros2lifecycle_test_fixtures/package.dsv
+[13.296s] -- Installing: /opt/workspace/install/ros2lifecycle_test_fixtures/share/ament_index/resource_index/packages/ros2lifecycle_test_fixtures
+[13.296s] -- Installing: /opt/workspace/install/ros2lifecycle_test_fixtures/share/ros2lifecycle_test_fixtures/cmake/ros2lifecycle_test_fixturesConfig.cmake
+[13.297s] -- Installing: /opt/workspace/install/ros2lifecycle_test_fixtures/share/ros2lifecycle_test_fixtures/cmake/ros2lifecycle_test_fixturesConfig-version.cmake
+[13.297s] -- Installing: /opt/workspace/install/ros2lifecycle_test_fixtures/share/ros2lifecycle_test_fixtures/package.xml

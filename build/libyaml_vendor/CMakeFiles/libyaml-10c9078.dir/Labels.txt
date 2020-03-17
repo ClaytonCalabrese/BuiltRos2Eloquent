@@ -1,0 +1,13 @@
+# Target labels
+ libyaml-10c9078
+# Source files and their labels
+/opt/workspace/build/libyaml_vendor/CMakeFiles/libyaml-10c9078
+/opt/workspace/build/libyaml_vendor/CMakeFiles/libyaml-10c9078.rule
+/opt/workspace/build/libyaml_vendor/CMakeFiles/libyaml-10c9078-complete.rule
+/opt/workspace/build/libyaml_vendor/libyaml-10c9078-prefix/src/libyaml-10c9078-stamp/libyaml-10c9078-install.rule
+/opt/workspace/build/libyaml_vendor/libyaml-10c9078-prefix/src/libyaml-10c9078-stamp/libyaml-10c9078-mkdir.rule
+/opt/workspace/build/libyaml_vendor/libyaml-10c9078-prefix/src/libyaml-10c9078-stamp/libyaml-10c9078-download.rule
+/opt/workspace/build/libyaml_vendor/libyaml-10c9078-prefix/src/libyaml-10c9078-stamp/libyaml-10c9078-update.rule
+/opt/workspace/build/libyaml_vendor/libyaml-10c9078-prefix/src/libyaml-10c9078-stamp/libyaml-10c9078-patch.rule
+/opt/workspace/build/libyaml_vendor/libyaml-10c9078-prefix/src/libyaml-10c9078-stamp/libyaml-10c9078-configure.rule
+/opt/workspace/build/libyaml_vendor/libyaml-10c9078-prefix/src/libyaml-10c9078-stamp/libyaml-10c9078-build.rule

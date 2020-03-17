@@ -1,0 +1,15 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from rosidl_generator_cpp/srv/Empty.srv
+// generated code does not contain a copyright notice
+
+
+module rosidl_generator_cpp {
+  module srv {
+    struct Empty_Request {
+      uint8 structure_needs_at_least_one_member;
+    };
+    struct Empty_Response {
+      uint8 structure_needs_at_least_one_member;
+    };
+  };
+};

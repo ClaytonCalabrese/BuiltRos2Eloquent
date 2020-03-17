@@ -1,0 +1,2 @@
+/opt/workspace/build/test_rclcpp/rosidl_adapter/test_rclcpp:msg/UInt32.idl
+/opt/workspace/build/test_rclcpp/rosidl_adapter/test_rclcpp:srv/AddTwoInts.idl

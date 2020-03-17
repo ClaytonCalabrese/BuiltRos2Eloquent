@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/status.dir/src/status.c.o  -o status -Wl,-rpath,/opt/workspace/build/tracetools: libtracetools.so 

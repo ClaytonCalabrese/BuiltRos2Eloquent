@@ -1,0 +1,40 @@
+[0.328s] -- The C compiler identification is GNU 7.4.0
+[0.447s] -- The CXX compiler identification is GNU 7.4.0
+[0.460s] -- Check for working C compiler: /usr/bin/cc
+[0.617s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.618s] -- Detecting C compiler ABI info
+[0.778s] -- Detecting C compiler ABI info - done
+[0.798s] -- Detecting C compile features
+[1.366s] -- Detecting C compile features - done
+[1.370s] -- Check for working CXX compiler: /usr/bin/c++
+[1.567s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[1.568s] -- Detecting CXX compiler ABI info
+[1.773s] -- Detecting CXX compiler ABI info - done
+[1.787s] -- Detecting CXX compile features
+[2.464s] -- Detecting CXX compile features - done
+[2.470s] -- Found ament_cmake: 0.8.2 (/opt/workspace/install/ament_cmake/share/ament_cmake/cmake)
+[2.548s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[2.549s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[3.168s] -- Found opensplice_cmake_module: 0.8.1 (/opt/workspace/install/opensplice_cmake_module/share/opensplice_cmake_module/cmake)
+[3.196s] -- Could NOT find opensplice (missing: opensplice_DIR)
+[3.198s] -- Could NOT find OpenSplice (missing: OpenSplice_INCLUDE_DIRS OpenSplice_IDLPP) 
+[3.379s] -- Configuring done
+[3.385s] -- Generating done
+[3.386s] -- Build files have been written to: /opt/workspace/build/rmw_opensplice_cpp
+[3.693s] [36mInstall the project...[0m
+[3.713s] -- Install configuration: ""
+[3.714s] -- Installing: /opt/workspace/install/rmw_opensplice_cpp/share/ament_index/resource_index/package_run_dependencies/rmw_opensplice_cpp
+[3.714s] -- Installing: /opt/workspace/install/rmw_opensplice_cpp/share/ament_index/resource_index/parent_prefix_path/rmw_opensplice_cpp
+[3.715s] -- Installing: /opt/workspace/install/rmw_opensplice_cpp/share/rmw_opensplice_cpp/environment/ament_prefix_path.sh
+[3.716s] -- Installing: /opt/workspace/install/rmw_opensplice_cpp/share/rmw_opensplice_cpp/environment/ament_prefix_path.dsv
+[3.716s] -- Installing: /opt/workspace/install/rmw_opensplice_cpp/share/rmw_opensplice_cpp/environment/path.sh
+[3.716s] -- Installing: /opt/workspace/install/rmw_opensplice_cpp/share/rmw_opensplice_cpp/environment/path.dsv
+[3.717s] -- Installing: /opt/workspace/install/rmw_opensplice_cpp/share/rmw_opensplice_cpp/local_setup.bash
+[3.717s] -- Installing: /opt/workspace/install/rmw_opensplice_cpp/share/rmw_opensplice_cpp/local_setup.sh
+[3.717s] -- Installing: /opt/workspace/install/rmw_opensplice_cpp/share/rmw_opensplice_cpp/local_setup.zsh
+[3.717s] -- Installing: /opt/workspace/install/rmw_opensplice_cpp/share/rmw_opensplice_cpp/local_setup.dsv
+[3.718s] -- Installing: /opt/workspace/install/rmw_opensplice_cpp/share/rmw_opensplice_cpp/package.dsv
+[3.718s] -- Installing: /opt/workspace/install/rmw_opensplice_cpp/share/ament_index/resource_index/packages/rmw_opensplice_cpp
+[3.718s] -- Installing: /opt/workspace/install/rmw_opensplice_cpp/share/rmw_opensplice_cpp/cmake/rmw_opensplice_cppConfig.cmake
+[3.718s] -- Installing: /opt/workspace/install/rmw_opensplice_cpp/share/rmw_opensplice_cpp/cmake/rmw_opensplice_cppConfig-version.cmake
+[3.719s] -- Installing: /opt/workspace/install/rmw_opensplice_cpp/share/rmw_opensplice_cpp/package.xml

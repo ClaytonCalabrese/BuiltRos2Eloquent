@@ -1,0 +1,3 @@
+/opt/workspace/install/poco_vendor/share/poco_vendor/package.xml
+/opt/workspace/install/poco_vendor/share/poco_vendor/cmake/poco_vendorConfig.cmake
+/opt/workspace/install/poco_vendor/share/poco_vendor/cmake/poco_vendorConfig-version.cmake

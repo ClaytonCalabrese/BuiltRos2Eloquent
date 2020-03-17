@@ -1,0 +1,15 @@
+/opt/workspace/install/common_interfaces/share/ament_index/resource_index/package_run_dependencies/common_interfaces
+/opt/workspace/install/common_interfaces/share/ament_index/resource_index/parent_prefix_path/common_interfaces
+/opt/workspace/install/common_interfaces/share/common_interfaces/environment/ament_prefix_path.sh
+/opt/workspace/install/common_interfaces/share/common_interfaces/environment/ament_prefix_path.dsv
+/opt/workspace/install/common_interfaces/share/common_interfaces/environment/path.sh
+/opt/workspace/install/common_interfaces/share/common_interfaces/environment/path.dsv
+/opt/workspace/install/common_interfaces/share/common_interfaces/local_setup.bash
+/opt/workspace/install/common_interfaces/share/common_interfaces/local_setup.sh
+/opt/workspace/install/common_interfaces/share/common_interfaces/local_setup.zsh
+/opt/workspace/install/common_interfaces/share/common_interfaces/local_setup.dsv
+/opt/workspace/install/common_interfaces/share/common_interfaces/package.dsv
+/opt/workspace/install/common_interfaces/share/ament_index/resource_index/packages/common_interfaces
+/opt/workspace/install/common_interfaces/share/common_interfaces/cmake/common_interfacesConfig.cmake
+/opt/workspace/install/common_interfaces/share/common_interfaces/cmake/common_interfacesConfig-version.cmake
+/opt/workspace/install/common_interfaces/share/common_interfaces/package.xml

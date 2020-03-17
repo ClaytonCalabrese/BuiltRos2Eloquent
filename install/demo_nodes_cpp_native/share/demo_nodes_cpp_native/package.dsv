@@ -1,0 +1,11 @@
+source;share/demo_nodes_cpp_native/hook/cmake_prefix_path.ps1
+source;share/demo_nodes_cpp_native/hook/cmake_prefix_path.dsv
+source;share/demo_nodes_cpp_native/hook/cmake_prefix_path.sh
+source;share/demo_nodes_cpp_native/hook/ld_library_path_lib.ps1
+source;share/demo_nodes_cpp_native/hook/ld_library_path_lib.dsv
+source;share/demo_nodes_cpp_native/hook/ld_library_path_lib.sh
+source;share/demo_nodes_cpp_native/local_setup.bash
+source;share/demo_nodes_cpp_native/local_setup.dsv
+source;share/demo_nodes_cpp_native/local_setup.ps1
+source;share/demo_nodes_cpp_native/local_setup.sh
+source;share/demo_nodes_cpp_native/local_setup.zsh

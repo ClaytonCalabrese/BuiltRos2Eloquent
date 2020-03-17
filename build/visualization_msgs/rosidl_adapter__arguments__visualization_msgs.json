@@ -1,0 +1,16 @@
+{
+  "package_name": "visualization_msgs",
+  "non_idl_tuples": [
+    "/opt/workspace/src/ros2/common_interfaces/visualization_msgs:msg/ImageMarker.msg",
+    "/opt/workspace/src/ros2/common_interfaces/visualization_msgs:msg/InteractiveMarker.msg",
+    "/opt/workspace/src/ros2/common_interfaces/visualization_msgs:msg/InteractiveMarkerControl.msg",
+    "/opt/workspace/src/ros2/common_interfaces/visualization_msgs:msg/InteractiveMarkerFeedback.msg",
+    "/opt/workspace/src/ros2/common_interfaces/visualization_msgs:msg/InteractiveMarkerInit.msg",
+    "/opt/workspace/src/ros2/common_interfaces/visualization_msgs:msg/InteractiveMarkerPose.msg",
+    "/opt/workspace/src/ros2/common_interfaces/visualization_msgs:msg/InteractiveMarkerUpdate.msg",
+    "/opt/workspace/src/ros2/common_interfaces/visualization_msgs:msg/Marker.msg",
+    "/opt/workspace/src/ros2/common_interfaces/visualization_msgs:msg/MarkerArray.msg",
+    "/opt/workspace/src/ros2/common_interfaces/visualization_msgs:msg/MenuEntry.msg",
+    "/opt/workspace/src/ros2/common_interfaces/visualization_msgs:srv/GetInteractiveMarkers.srv"
+  ]
+}

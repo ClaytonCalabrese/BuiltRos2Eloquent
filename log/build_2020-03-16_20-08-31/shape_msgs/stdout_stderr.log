@@ -1,0 +1,279 @@
+[0.636s] -- The C compiler identification is GNU 7.4.0
+[0.770s] -- The CXX compiler identification is GNU 7.4.0
+[0.787s] -- Check for working C compiler: /usr/bin/cc
+[0.938s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.939s] -- Detecting C compiler ABI info
+[1.101s] -- Detecting C compiler ABI info - done
+[1.117s] -- Detecting C compile features
+[1.737s] -- Detecting C compile features - done
+[1.743s] -- Check for working CXX compiler: /usr/bin/c++
+[1.928s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[1.930s] -- Detecting CXX compiler ABI info
+[2.136s] -- Detecting CXX compiler ABI info - done
+[2.150s] -- Detecting CXX compile features
+[3.126s] -- Detecting CXX compile features - done
+[3.139s] -- Found ament_cmake: 0.8.2 (/opt/workspace/install/ament_cmake/share/ament_cmake/cmake)
+[3.285s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[3.285s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[3.901s] -- Found geometry_msgs: 0.8.1 (/opt/workspace/install/geometry_msgs/share/geometry_msgs/cmake)
+[3.993s] -- Found rosidl_adapter: 0.8.2 (/opt/workspace/install/rosidl_adapter/share/rosidl_adapter/cmake)
+[4.084s] -- Found rosidl_default_generators: 0.8.0 (/opt/workspace/install/rosidl_default_generators/share/rosidl_default_generators/cmake)
+[4.407s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "1.1.1") 
+[4.472s] -- Found FastRTPS: /opt/workspace/install/fastrtps/include  
+[4.734s] -- Found PythonInterp: /usr/bin/python3 (found version "3.6.9") 
+[5.346s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_introspection_cpp;rosidl_typesupport_fastrtps_cpp
+[5.434s] -- Found ament_cmake_cppcheck: 0.8.1 (/opt/workspace/install/ament_cmake_cppcheck/share/ament_cmake_cppcheck/cmake)
+[5.446s] -- Found ament_cmake_cpplint: 0.8.1 (/opt/workspace/install/ament_cmake_cpplint/share/ament_cmake_cpplint/cmake)
+[5.456s] -- Found ament_cmake_uncrustify: 0.8.1 (/opt/workspace/install/ament_cmake_uncrustify/share/ament_cmake_uncrustify/cmake)
+[5.585s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[6.952s] -- Found rmw_implementation_cmake: 0.8.1 (/opt/workspace/install/rmw_implementation_cmake/share/rmw_implementation_cmake/cmake)
+[7.028s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3.5") 
+[7.036s] -- Found python_cmake_module: 0.8.0 (/opt/workspace/install/python_cmake_module/share/python_cmake_module/cmake)
+[7.132s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.6m.so (found suitable version "3.6.9", minimum required is "3.5") 
+[7.133s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[7.133s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.6m
+[7.134s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.6m.so
+[7.220s] -- Found PythonExtra: .so  
+[8.184s] -- Found ament_cmake_flake8: 0.8.1 (/opt/workspace/install/ament_cmake_flake8/share/ament_cmake_flake8/cmake)
+[8.195s] -- Found ament_cmake_pep257: 0.8.1 (/opt/workspace/install/ament_cmake_pep257/share/ament_cmake_pep257/cmake)
+[8.218s] -- Configuring done
+[8.614s] -- Generating done
+[8.622s] -- Build files have been written to: /opt/workspace/build/shape_msgs
+[8.799s] [35m[1mScanning dependencies of target shape_msgs__cpp[0m
+[8.831s] [  1%] [34m[1mGenerating C++ code for ROS interfaces[0m
+[10.716s] [  1%] Built target shape_msgs__cpp
+[10.758s] [  3%] [34m[1mGenerating C code for ROS interfaces[0m
+[12.945s] [35m[1mScanning dependencies of target shape_msgs__rosidl_generator_c[0m
+[12.983s] [  5%] [32mBuilding C object CMakeFiles/shape_msgs__rosidl_generator_c.dir/rosidl_generator_c/shape_msgs/msg/mesh__functions.c.o[0m
+[13.077s] [  7%] [32mBuilding C object CMakeFiles/shape_msgs__rosidl_generator_c.dir/rosidl_generator_c/shape_msgs/msg/solid_primitive__functions.c.o[0m
+[13.172s] [  9%] [32mBuilding C object CMakeFiles/shape_msgs__rosidl_generator_c.dir/rosidl_generator_c/shape_msgs/msg/plane__functions.c.o[0m
+[13.285s] [ 10%] [32mBuilding C object CMakeFiles/shape_msgs__rosidl_generator_c.dir/rosidl_generator_c/shape_msgs/msg/mesh_triangle__functions.c.o[0m
+[13.375s] [ 12%] [32m[1mLinking C shared library libshape_msgs__rosidl_generator_c.so[0m
+[13.469s] [ 12%] Built target shape_msgs__rosidl_generator_c
+[13.499s] [ 14%] [34m[1mGenerating C++ introspection for ROS interfaces[0m
+[15.149s] [35m[1mScanning dependencies of target shape_msgs__rosidl_typesupport_introspection_cpp[0m
+[15.188s] [ 16%] [32mBuilding CXX object CMakeFiles/shape_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/shape_msgs/msg/mesh__type_support.cpp.o[0m
+[15.912s] [ 18%] [32mBuilding CXX object CMakeFiles/shape_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/shape_msgs/msg/solid_primitive__type_support.cpp.o[0m
+[16.488s] [ 20%] [32mBuilding CXX object CMakeFiles/shape_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/shape_msgs/msg/plane__type_support.cpp.o[0m
+[16.963s] [ 21%] [32mBuilding CXX object CMakeFiles/shape_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/shape_msgs/msg/mesh_triangle__type_support.cpp.o[0m
+[17.484s] [ 23%] [32m[1mLinking CXX shared library libshape_msgs__rosidl_typesupport_introspection_cpp.so[0m
+[17.650s] [ 23%] Built target shape_msgs__rosidl_typesupport_introspection_cpp
+[17.681s] [ 25%] [34m[1mGenerating C introspection for ROS interfaces[0m
+[19.370s] [35m[1mScanning dependencies of target shape_msgs__rosidl_typesupport_introspection_c[0m
+[19.419s] [ 27%] [32mBuilding C object CMakeFiles/shape_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/shape_msgs/msg/mesh__type_support.c.o[0m
+[19.515s] [ 29%] [32mBuilding C object CMakeFiles/shape_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/shape_msgs/msg/solid_primitive__type_support.c.o[0m
+[19.597s] [ 30%] [32mBuilding C object CMakeFiles/shape_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/shape_msgs/msg/plane__type_support.c.o[0m
+[19.664s] [ 32%] [32mBuilding C object CMakeFiles/shape_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/shape_msgs/msg/mesh_triangle__type_support.c.o[0m
+[19.731s] [ 34%] [32m[1mLinking C shared library libshape_msgs__rosidl_typesupport_introspection_c.so[0m
+[19.827s] [ 34%] Built target shape_msgs__rosidl_typesupport_introspection_c
+[19.863s] [ 36%] [34m[1mGenerating C type support dispatch for ROS interfaces[0m
+[21.347s] [35m[1mScanning dependencies of target shape_msgs__rosidl_typesupport_c[0m
+[21.382s] [ 38%] [32mBuilding CXX object CMakeFiles/shape_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/shape_msgs/msg/mesh__type_support.cpp.o[0m
+[21.478s] [ 40%] [32mBuilding CXX object CMakeFiles/shape_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/shape_msgs/msg/solid_primitive__type_support.cpp.o[0m
+[21.570s] [ 41%] [32mBuilding CXX object CMakeFiles/shape_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/shape_msgs/msg/plane__type_support.cpp.o[0m
+[21.656s] [ 43%] [32mBuilding CXX object CMakeFiles/shape_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/shape_msgs/msg/mesh_triangle__type_support.cpp.o[0m
+[21.734s] [ 45%] [32m[1mLinking CXX shared library libshape_msgs__rosidl_typesupport_c.so[0m
+[21.851s] [ 45%] Built target shape_msgs__rosidl_typesupport_c
+[21.883s] [ 47%] [34m[1mGenerating C++ type support dispatch for ROS interfaces[0m
+[23.432s] [35m[1mScanning dependencies of target shape_msgs__rosidl_typesupport_cpp[0m
+[23.471s] [ 49%] [32mBuilding CXX object CMakeFiles/shape_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/shape_msgs/msg/mesh__type_support.cpp.o[0m
+[23.973s] [ 50%] [32mBuilding CXX object CMakeFiles/shape_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/shape_msgs/msg/solid_primitive__type_support.cpp.o[0m
+[24.499s] [ 52%] [32mBuilding CXX object CMakeFiles/shape_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/shape_msgs/msg/plane__type_support.cpp.o[0m
+[25.007s] [ 54%] [32mBuilding CXX object CMakeFiles/shape_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/shape_msgs/msg/mesh_triangle__type_support.cpp.o[0m
+[25.516s] [ 56%] [32m[1mLinking CXX shared library libshape_msgs__rosidl_typesupport_cpp.so[0m
+[25.624s] [ 56%] Built target shape_msgs__rosidl_typesupport_cpp
+[25.650s] [ 58%] [34m[1mGenerating C++ type support for eProsima Fast-RTPS[0m
+[27.423s] [35m[1mScanning dependencies of target shape_msgs__rosidl_typesupport_fastrtps_cpp[0m
+[27.471s] [ 60%] [32mBuilding CXX object CMakeFiles/shape_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/shape_msgs/msg/dds_fastrtps/mesh__type_support.cpp.o[0m
+[28.353s] [ 61%] [32mBuilding CXX object CMakeFiles/shape_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/shape_msgs/msg/dds_fastrtps/solid_primitive__type_support.cpp.o[0m
+[29.201s] [ 63%] [32mBuilding CXX object CMakeFiles/shape_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/shape_msgs/msg/dds_fastrtps/plane__type_support.cpp.o[0m
+[29.982s] [ 65%] [32mBuilding CXX object CMakeFiles/shape_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/shape_msgs/msg/dds_fastrtps/mesh_triangle__type_support.cpp.o[0m
+[30.761s] [ 67%] [32m[1mLinking CXX shared library libshape_msgs__rosidl_typesupport_fastrtps_cpp.so[0m
+[30.969s] [ 67%] Built target shape_msgs__rosidl_typesupport_fastrtps_cpp
+[30.997s] [ 69%] [34m[1mGenerating C type support for eProsima Fast-RTPS[0m
+[32.717s] [35m[1mScanning dependencies of target shape_msgs__rosidl_typesupport_fastrtps_c[0m
+[32.799s] [ 70%] [32mBuilding CXX object CMakeFiles/shape_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/shape_msgs/msg/mesh__type_support_c.cpp.o[0m
+[33.460s] [ 72%] [32mBuilding CXX object CMakeFiles/shape_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/shape_msgs/msg/solid_primitive__type_support_c.cpp.o[0m
+[34.167s] [ 74%] [32mBuilding CXX object CMakeFiles/shape_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/shape_msgs/msg/plane__type_support_c.cpp.o[0m
+[34.903s] [ 76%] [32mBuilding CXX object CMakeFiles/shape_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/shape_msgs/msg/mesh_triangle__type_support_c.cpp.o[0m
+[35.559s] [ 78%] [32m[1mLinking CXX shared library libshape_msgs__rosidl_typesupport_fastrtps_c.so[0m
+[35.788s] [ 78%] Built target shape_msgs__rosidl_typesupport_fastrtps_c
+[35.815s] [35m[1mScanning dependencies of target shape_msgs[0m
+[35.844s] [ 78%] Built target shape_msgs
+[35.871s] [35m[1mScanning dependencies of target shape_msgs__py[0m
+[35.900s] [ 80%] [34m[1mGenerating Python code for ROS interfaces[0m
+[39.299s] [ 80%] Built target shape_msgs__py
+[39.332s] [35m[1mScanning dependencies of target shape_msgs__python[0m
+[39.419s] [ 81%] [32mBuilding C object CMakeFiles/shape_msgs__python.dir/rosidl_generator_py/shape_msgs/msg/_mesh_s.c.o[0m
+[39.676s] [ 83%] [32mBuilding C object CMakeFiles/shape_msgs__python.dir/rosidl_generator_py/shape_msgs/msg/_solid_primitive_s.c.o[0m
+[39.891s] [ 85%] [32mBuilding C object CMakeFiles/shape_msgs__python.dir/rosidl_generator_py/shape_msgs/msg/_plane_s.c.o[0m
+[40.080s] [ 87%] [32mBuilding C object CMakeFiles/shape_msgs__python.dir/rosidl_generator_py/shape_msgs/msg/_mesh_triangle_s.c.o[0m
+[40.312s] [ 89%] [32m[1mLinking C shared library rosidl_generator_py/shape_msgs/libshape_msgs__python.so[0m
+[40.444s] [ 89%] Built target shape_msgs__python
+[40.468s] [35m[1mScanning dependencies of target shape_msgs__rosidl_typesupport_introspection_c__pyext[0m
+[40.529s] [ 90%] [32mBuilding C object CMakeFiles/shape_msgs__rosidl_typesupport_introspection_c__pyext.dir/rosidl_generator_py/shape_msgs/_shape_msgs_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[40.725s] [ 92%] [32m[1mLinking C shared library rosidl_generator_py/shape_msgs/shape_msgs_s__rosidl_typesupport_introspection_c.cpython-36m-x86_64-linux-gnu.so[0m
+[40.862s] [ 92%] Built target shape_msgs__rosidl_typesupport_introspection_c__pyext
+[40.892s] [35m[1mScanning dependencies of target shape_msgs__rosidl_typesupport_fastrtps_c__pyext[0m
+[40.966s] [ 94%] [32mBuilding C object CMakeFiles/shape_msgs__rosidl_typesupport_fastrtps_c__pyext.dir/rosidl_generator_py/shape_msgs/_shape_msgs_s.ep.rosidl_typesupport_fastrtps_c.c.o[0m
+[41.181s] [ 96%] [32m[1mLinking CXX shared library rosidl_generator_py/shape_msgs/shape_msgs_s__rosidl_typesupport_fastrtps_c.cpython-36m-x86_64-linux-gnu.so[0m
+[41.370s] [ 96%] Built target shape_msgs__rosidl_typesupport_fastrtps_c__pyext
+[41.399s] [35m[1mScanning dependencies of target shape_msgs__rosidl_typesupport_c__pyext[0m
+[41.468s] [ 98%] [32mBuilding C object CMakeFiles/shape_msgs__rosidl_typesupport_c__pyext.dir/rosidl_generator_py/shape_msgs/_shape_msgs_s.ep.rosidl_typesupport_c.c.o[0m
+[41.663s] [100%] [32m[1mLinking C shared library rosidl_generator_py/shape_msgs/shape_msgs_s__rosidl_typesupport_c.cpython-36m-x86_64-linux-gnu.so[0m
+[41.818s] [100%] Built target shape_msgs__rosidl_typesupport_c__pyext
+[42.327s] [  1%] Built target shape_msgs__cpp
+[42.393s] [ 12%] Built target shape_msgs__rosidl_generator_c
+[42.471s] [ 23%] Built target shape_msgs__rosidl_typesupport_introspection_cpp
+[42.546s] [ 34%] Built target shape_msgs__rosidl_typesupport_introspection_c
+[42.621s] [ 45%] Built target shape_msgs__rosidl_typesupport_c
+[42.691s] [ 56%] Built target shape_msgs__rosidl_typesupport_cpp
+[42.771s] [ 67%] Built target shape_msgs__rosidl_typesupport_fastrtps_cpp
+[42.848s] [ 78%] Built target shape_msgs__rosidl_typesupport_fastrtps_c
+[42.903s] [ 78%] Built target shape_msgs
+[42.959s] [ 80%] Built target shape_msgs__py
+[43.038s] [ 89%] Built target shape_msgs__python
+[43.109s] [ 92%] Built target shape_msgs__rosidl_typesupport_introspection_c__pyext
+[43.179s] [ 96%] Built target shape_msgs__rosidl_typesupport_fastrtps_c__pyext
+[43.313s] [100%] Built target shape_msgs__rosidl_typesupport_c__pyext
+[43.358s] [36mInstall the project...[0m
+[43.378s] -- Install configuration: ""
+[43.378s] -- Installing: /opt/workspace/install/shape_msgs/share/ament_index/resource_index/rosidl_interfaces/shape_msgs
+[43.379s] -- Installing: /opt/workspace/install/shape_msgs/lib/libshape_msgs__rosidl_typesupport_cpp.so
+[43.379s] -- Set runtime path of "/opt/workspace/install/shape_msgs/lib/libshape_msgs__rosidl_typesupport_cpp.so" to ""
+[43.379s] -- Installing: /opt/workspace/install/shape_msgs/share/shape_msgs/environment/library_path.sh
+[43.380s] -- Installing: /opt/workspace/install/shape_msgs/share/shape_msgs/environment/library_path.dsv
+[43.380s] -- Installing: /opt/workspace/install/shape_msgs/lib/libshape_msgs__rosidl_typesupport_c.so
+[43.380s] -- Set runtime path of "/opt/workspace/install/shape_msgs/lib/libshape_msgs__rosidl_typesupport_c.so" to ""
+[43.381s] -- Installing: /opt/workspace/install/shape_msgs/include/shape_msgs
+[43.381s] -- Installing: /opt/workspace/install/shape_msgs/include/shape_msgs/msg
+[43.382s] -- Installing: /opt/workspace/install/shape_msgs/include/shape_msgs/msg/mesh__rosidl_typesupport_introspection_cpp.hpp
+[43.382s] -- Installing: /opt/workspace/install/shape_msgs/include/shape_msgs/msg/solid_primitive__rosidl_typesupport_introspection_cpp.hpp
+[43.383s] -- Installing: /opt/workspace/install/shape_msgs/include/shape_msgs/msg/plane__rosidl_typesupport_introspection_cpp.hpp
+[43.384s] -- Installing: /opt/workspace/install/shape_msgs/include/shape_msgs/msg/plane__type_support.cpp
+[43.385s] -- Installing: /opt/workspace/install/shape_msgs/include/shape_msgs/msg/solid_primitive__type_support.cpp
+[43.385s] -- Installing: /opt/workspace/install/shape_msgs/include/shape_msgs/msg/mesh_triangle__rosidl_typesupport_introspection_cpp.hpp
+[43.386s] -- Installing: /opt/workspace/install/shape_msgs/include/shape_msgs/msg/mesh__type_support.cpp
+[43.386s] -- Installing: /opt/workspace/install/shape_msgs/include/shape_msgs/msg/mesh_triangle__type_support.cpp
+[43.386s] -- Installing: /opt/workspace/install/shape_msgs/lib/libshape_msgs__rosidl_typesupport_introspection_cpp.so
+[43.389s] -- Set runtime path of "/opt/workspace/install/shape_msgs/lib/libshape_msgs__rosidl_typesupport_introspection_cpp.so" to ""
+[43.389s] -- Up-to-date: /opt/workspace/install/shape_msgs/include/shape_msgs
+[43.390s] -- Up-to-date: /opt/workspace/install/shape_msgs/include/shape_msgs/msg
+[43.391s] -- Installing: /opt/workspace/install/shape_msgs/include/shape_msgs/msg/mesh__functions.h
+[43.392s] -- Installing: /opt/workspace/install/shape_msgs/include/shape_msgs/msg/plane.h
+[43.392s] -- Installing: /opt/workspace/install/shape_msgs/include/shape_msgs/msg/solid_primitive.h
+[43.392s] -- Installing: /opt/workspace/install/shape_msgs/include/shape_msgs/msg/solid_primitive__struct.h
+[43.393s] -- Installing: /opt/workspace/install/shape_msgs/include/shape_msgs/msg/solid_primitive__functions.h
+[43.395s] -- Installing: /opt/workspace/install/shape_msgs/include/shape_msgs/msg/mesh.h
+[43.395s] -- Installing: /opt/workspace/install/shape_msgs/include/shape_msgs/msg/mesh_triangle__type_support.h
+[43.395s] -- Installing: /opt/workspace/install/shape_msgs/include/shape_msgs/msg/mesh__struct.h
+[43.396s] -- Installing: /opt/workspace/install/shape_msgs/include/shape_msgs/msg/mesh_triangle__functions.h
+[43.396s] -- Installing: /opt/workspace/install/shape_msgs/include/shape_msgs/msg/solid_primitive__functions.c
+[43.396s] -- Installing: /opt/workspace/install/shape_msgs/include/shape_msgs/msg/plane__functions.h
+[43.397s] -- Installing: /opt/workspace/install/shape_msgs/include/shape_msgs/msg/mesh__functions.c
+[43.397s] -- Installing: /opt/workspace/install/shape_msgs/include/shape_msgs/msg/mesh_triangle__struct.h
+[43.397s] -- Installing: /opt/workspace/install/shape_msgs/include/shape_msgs/msg/plane__type_support.h
+[43.397s] -- Installing: /opt/workspace/install/shape_msgs/include/shape_msgs/msg/solid_primitive__type_support.h
+[43.397s] -- Installing: /opt/workspace/install/shape_msgs/include/shape_msgs/msg/mesh_triangle__functions.c
+[43.397s] -- Installing: /opt/workspace/install/shape_msgs/include/shape_msgs/msg/plane__functions.c
+[43.398s] -- Installing: /opt/workspace/install/shape_msgs/include/shape_msgs/msg/mesh__type_support.h
+[43.400s] -- Installing: /opt/workspace/install/shape_msgs/include/shape_msgs/msg/plane__struct.h
+[43.400s] -- Installing: /opt/workspace/install/shape_msgs/include/shape_msgs/msg/rosidl_generator_c__visibility_control.h
+[43.401s] -- Installing: /opt/workspace/install/shape_msgs/include/shape_msgs/msg/mesh_triangle.h
+[43.401s] -- Installing: /opt/workspace/install/shape_msgs/lib/libshape_msgs__rosidl_generator_c.so
+[43.403s] -- Set runtime path of "/opt/workspace/install/shape_msgs/lib/libshape_msgs__rosidl_generator_c.so" to ""
+[43.403s] -- Up-to-date: /opt/workspace/install/shape_msgs/include/shape_msgs
+[43.404s] -- Up-to-date: /opt/workspace/install/shape_msgs/include/shape_msgs/msg
+[43.404s] -- Installing: /opt/workspace/install/shape_msgs/include/shape_msgs/msg/plane__traits.hpp
+[43.404s] -- Installing: /opt/workspace/install/shape_msgs/include/shape_msgs/msg/mesh_triangle__struct.hpp
+[43.404s] -- Installing: /opt/workspace/install/shape_msgs/include/shape_msgs/msg/plane.hpp
+[43.404s] -- Installing: /opt/workspace/install/shape_msgs/include/shape_msgs/msg/solid_primitive__traits.hpp
+[43.430s] -- Installing: /opt/workspace/install/shape_msgs/include/shape_msgs/msg/plane__struct.hpp
+[43.430s] -- Installing: /opt/workspace/install/shape_msgs/include/shape_msgs/msg/mesh__struct.hpp
+[43.431s] -- Installing: /opt/workspace/install/shape_msgs/include/shape_msgs/msg/mesh_triangle.hpp
+[43.432s] -- Installing: /opt/workspace/install/shape_msgs/include/shape_msgs/msg/mesh_triangle__traits.hpp
+[43.432s] -- Installing: /opt/workspace/install/shape_msgs/include/shape_msgs/msg/mesh.hpp
+[43.432s] -- Installing: /opt/workspace/install/shape_msgs/include/shape_msgs/msg/solid_primitive.hpp
+[43.432s] -- Installing: /opt/workspace/install/shape_msgs/include/shape_msgs/msg/solid_primitive__struct.hpp
+[43.433s] -- Installing: /opt/workspace/install/shape_msgs/include/shape_msgs/msg/mesh__traits.hpp
+[43.433s] -- Up-to-date: /opt/workspace/install/shape_msgs/include/shape_msgs
+[43.433s] -- Up-to-date: /opt/workspace/install/shape_msgs/include/shape_msgs/msg
+[43.433s] -- Installing: /opt/workspace/install/shape_msgs/include/shape_msgs/msg/solid_primitive__type_support.c
+[43.434s] -- Installing: /opt/workspace/install/shape_msgs/include/shape_msgs/msg/plane__type_support.c
+[43.434s] -- Installing: /opt/workspace/install/shape_msgs/include/shape_msgs/msg/mesh__type_support.c
+[43.434s] -- Installing: /opt/workspace/install/shape_msgs/include/shape_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[43.434s] -- Installing: /opt/workspace/install/shape_msgs/include/shape_msgs/msg/mesh_triangle__type_support.c
+[43.435s] -- Installing: /opt/workspace/install/shape_msgs/include/shape_msgs/msg/solid_primitive__rosidl_typesupport_introspection_c.h
+[43.439s] -- Installing: /opt/workspace/install/shape_msgs/include/shape_msgs/msg/plane__rosidl_typesupport_introspection_c.h
+[43.440s] -- Installing: /opt/workspace/install/shape_msgs/include/shape_msgs/msg/mesh_triangle__rosidl_typesupport_introspection_c.h
+[43.440s] -- Installing: /opt/workspace/install/shape_msgs/include/shape_msgs/msg/mesh__rosidl_typesupport_introspection_c.h
+[43.441s] -- Installing: /opt/workspace/install/shape_msgs/lib/libshape_msgs__rosidl_typesupport_introspection_c.so
+[43.442s] -- Set runtime path of "/opt/workspace/install/shape_msgs/lib/libshape_msgs__rosidl_typesupport_introspection_c.so" to ""
+[43.443s] -- Up-to-date: /opt/workspace/install/shape_msgs/include/shape_msgs
+[43.443s] -- Up-to-date: /opt/workspace/install/shape_msgs/include/shape_msgs/msg
+[43.444s] -- Installing: /opt/workspace/install/shape_msgs/include/shape_msgs/msg/solid_primitive__rosidl_typesupport_fastrtps_c.h
+[43.444s] -- Installing: /opt/workspace/install/shape_msgs/include/shape_msgs/msg/mesh__rosidl_typesupport_fastrtps_c.h
+[43.444s] -- Installing: /opt/workspace/install/shape_msgs/include/shape_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[43.445s] -- Installing: /opt/workspace/install/shape_msgs/include/shape_msgs/msg/mesh_triangle__rosidl_typesupport_fastrtps_c.h
+[43.445s] -- Installing: /opt/workspace/install/shape_msgs/include/shape_msgs/msg/plane__rosidl_typesupport_fastrtps_c.h
+[43.445s] -- Installing: /opt/workspace/install/shape_msgs/lib/libshape_msgs__rosidl_typesupport_fastrtps_c.so
+[43.451s] -- Set runtime path of "/opt/workspace/install/shape_msgs/lib/libshape_msgs__rosidl_typesupport_fastrtps_c.so" to ""
+[43.451s] -- Up-to-date: /opt/workspace/install/shape_msgs/include/shape_msgs
+[43.451s] -- Up-to-date: /opt/workspace/install/shape_msgs/include/shape_msgs/msg
+[43.452s] -- Installing: /opt/workspace/install/shape_msgs/include/shape_msgs/msg/solid_primitive__rosidl_typesupport_fastrtps_cpp.hpp
+[43.452s] -- Installing: /opt/workspace/install/shape_msgs/include/shape_msgs/msg/mesh__rosidl_typesupport_fastrtps_cpp.hpp
+[43.453s] -- Installing: /opt/workspace/install/shape_msgs/include/shape_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[43.458s] -- Installing: /opt/workspace/install/shape_msgs/include/shape_msgs/msg/plane__rosidl_typesupport_fastrtps_cpp.hpp
+[43.458s] -- Installing: /opt/workspace/install/shape_msgs/include/shape_msgs/msg/mesh_triangle__rosidl_typesupport_fastrtps_cpp.hpp
+[43.459s] -- Installing: /opt/workspace/install/shape_msgs/include/shape_msgs/msg/dds_fastrtps
+[43.459s] -- Installing: /opt/workspace/install/shape_msgs/lib/libshape_msgs__rosidl_typesupport_fastrtps_cpp.so
+[43.459s] -- Set runtime path of "/opt/workspace/install/shape_msgs/lib/libshape_msgs__rosidl_typesupport_fastrtps_cpp.so" to ""
+[43.459s] -- Installing: /opt/workspace/install/shape_msgs/share/shape_msgs/environment/pythonpath.sh
+[43.459s] -- Installing: /opt/workspace/install/shape_msgs/share/shape_msgs/environment/pythonpath.dsv
+[43.460s] -- Installing: /opt/workspace/install/shape_msgs/lib/python3.6/site-packages/shape_msgs/__init__.py
+[43.521s] Compiling '/opt/workspace/install/shape_msgs/lib/python3.6/site-packages/shape_msgs/__init__.py'...
+[43.529s] -- Installing: /opt/workspace/install/shape_msgs/lib/python3.6/site-packages/shape_msgs/msg
+[43.529s] -- Installing: /opt/workspace/install/shape_msgs/lib/python3.6/site-packages/shape_msgs/msg/__init__.py
+[43.529s] -- Installing: /opt/workspace/install/shape_msgs/lib/python3.6/site-packages/shape_msgs/msg/_mesh_triangle_s.c
+[43.530s] -- Installing: /opt/workspace/install/shape_msgs/lib/python3.6/site-packages/shape_msgs/msg/_mesh.py
+[43.530s] -- Installing: /opt/workspace/install/shape_msgs/lib/python3.6/site-packages/shape_msgs/msg/_mesh_s.c
+[43.530s] -- Installing: /opt/workspace/install/shape_msgs/lib/python3.6/site-packages/shape_msgs/msg/_plane_s.c
+[43.533s] -- Installing: /opt/workspace/install/shape_msgs/lib/python3.6/site-packages/shape_msgs/msg/_plane.py
+[43.533s] -- Installing: /opt/workspace/install/shape_msgs/lib/python3.6/site-packages/shape_msgs/msg/_solid_primitive.py
+[43.533s] -- Installing: /opt/workspace/install/shape_msgs/lib/python3.6/site-packages/shape_msgs/msg/_solid_primitive_s.c
+[43.533s] -- Installing: /opt/workspace/install/shape_msgs/lib/python3.6/site-packages/shape_msgs/msg/_mesh_triangle.py
+[43.533s] -- Installing: /opt/workspace/install/shape_msgs/lib/python3.6/site-packages/shape_msgs/shape_msgs_s__rosidl_typesupport_c.cpython-36m-x86_64-linux-gnu.so
+[43.534s] -- Set runtime path of "/opt/workspace/install/shape_msgs/lib/python3.6/site-packages/shape_msgs/shape_msgs_s__rosidl_typesupport_c.cpython-36m-x86_64-linux-gnu.so" to ""
+[43.535s] -- Installing: /opt/workspace/install/shape_msgs/lib/python3.6/site-packages/shape_msgs/shape_msgs_s__rosidl_typesupport_introspection_c.cpython-36m-x86_64-linux-gnu.so
+[43.536s] -- Set runtime path of "/opt/workspace/install/shape_msgs/lib/python3.6/site-packages/shape_msgs/shape_msgs_s__rosidl_typesupport_introspection_c.cpython-36m-x86_64-linux-gnu.so" to ""
+[43.537s] -- Installing: /opt/workspace/install/shape_msgs/lib/python3.6/site-packages/shape_msgs/shape_msgs_s__rosidl_typesupport_fastrtps_c.cpython-36m-x86_64-linux-gnu.so
+[43.545s] -- Set runtime path of "/opt/workspace/install/shape_msgs/lib/python3.6/site-packages/shape_msgs/shape_msgs_s__rosidl_typesupport_fastrtps_c.cpython-36m-x86_64-linux-gnu.so" to ""
+[43.545s] -- Installing: /opt/workspace/install/shape_msgs/lib/libshape_msgs__python.so
+[43.547s] -- Set runtime path of "/opt/workspace/install/shape_msgs/lib/libshape_msgs__python.so" to ""
+[43.547s] -- Installing: /opt/workspace/install/shape_msgs/share/shape_msgs/msg/Mesh.idl
+[43.547s] -- Installing: /opt/workspace/install/shape_msgs/share/shape_msgs/msg/MeshTriangle.idl
+[43.547s] -- Installing: /opt/workspace/install/shape_msgs/share/shape_msgs/msg/Plane.idl
+[43.548s] -- Installing: /opt/workspace/install/shape_msgs/share/shape_msgs/msg/SolidPrimitive.idl
+[43.548s] -- Installing: /opt/workspace/install/shape_msgs/share/shape_msgs/msg/Mesh.msg
+[43.548s] -- Installing: /opt/workspace/install/shape_msgs/share/shape_msgs/msg/MeshTriangle.msg
+[43.549s] -- Installing: /opt/workspace/install/shape_msgs/share/shape_msgs/msg/Plane.msg
+[43.549s] -- Installing: /opt/workspace/install/shape_msgs/share/shape_msgs/msg/SolidPrimitive.msg
+[43.549s] -- Installing: /opt/workspace/install/shape_msgs/share/ament_index/resource_index/package_run_dependencies/shape_msgs
+[43.549s] -- Installing: /opt/workspace/install/shape_msgs/share/ament_index/resource_index/parent_prefix_path/shape_msgs
+[43.549s] -- Installing: /opt/workspace/install/shape_msgs/share/shape_msgs/environment/ament_prefix_path.sh
+[43.550s] -- Installing: /opt/workspace/install/shape_msgs/share/shape_msgs/environment/ament_prefix_path.dsv
+[43.550s] -- Installing: /opt/workspace/install/shape_msgs/share/shape_msgs/environment/path.sh
+[43.551s] -- Installing: /opt/workspace/install/shape_msgs/share/shape_msgs/environment/path.dsv
+[43.552s] -- Installing: /opt/workspace/install/shape_msgs/share/shape_msgs/local_setup.bash
+[43.552s] -- Installing: /opt/workspace/install/shape_msgs/share/shape_msgs/local_setup.sh
+[43.552s] -- Installing: /opt/workspace/install/shape_msgs/share/shape_msgs/local_setup.zsh
+[43.552s] -- Installing: /opt/workspace/install/shape_msgs/share/shape_msgs/local_setup.dsv
+[43.553s] -- Installing: /opt/workspace/install/shape_msgs/share/shape_msgs/package.dsv
+[43.553s] -- Installing: /opt/workspace/install/shape_msgs/share/ament_index/resource_index/packages/shape_msgs
+[43.553s] -- Installing: /opt/workspace/install/shape_msgs/share/shape_msgs/cmake/rosidl_cmake-extras.cmake
+[43.553s] -- Installing: /opt/workspace/install/shape_msgs/share/shape_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[43.554s] -- Installing: /opt/workspace/install/shape_msgs/share/shape_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[43.554s] -- Installing: /opt/workspace/install/shape_msgs/share/shape_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[43.555s] -- Installing: /opt/workspace/install/shape_msgs/share/shape_msgs/cmake/shape_msgsConfig.cmake
+[43.555s] -- Installing: /opt/workspace/install/shape_msgs/share/shape_msgs/cmake/shape_msgsConfig-version.cmake
+[43.555s] -- Installing: /opt/workspace/install/shape_msgs/share/shape_msgs/package.xml

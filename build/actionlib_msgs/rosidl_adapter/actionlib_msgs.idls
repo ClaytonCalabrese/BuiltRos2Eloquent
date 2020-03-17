@@ -1,0 +1,3 @@
+/opt/workspace/build/actionlib_msgs/rosidl_adapter/actionlib_msgs:msg/GoalID.idl
+/opt/workspace/build/actionlib_msgs/rosidl_adapter/actionlib_msgs:msg/GoalStatus.idl
+/opt/workspace/build/actionlib_msgs/rosidl_adapter/actionlib_msgs:msg/GoalStatusArray.idl

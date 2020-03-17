@@ -1,0 +1,16 @@
+/opt/workspace/install/test_rclcpp/share/ament_index/resource_index/package_run_dependencies/test_rclcpp
+/opt/workspace/install/test_rclcpp/share/ament_index/resource_index/parent_prefix_path/test_rclcpp
+/opt/workspace/install/test_rclcpp/share/test_rclcpp/environment/ament_prefix_path.sh
+/opt/workspace/install/test_rclcpp/share/test_rclcpp/environment/ament_prefix_path.dsv
+/opt/workspace/install/test_rclcpp/share/test_rclcpp/environment/path.sh
+/opt/workspace/install/test_rclcpp/share/test_rclcpp/environment/path.dsv
+/opt/workspace/install/test_rclcpp/share/test_rclcpp/local_setup.bash
+/opt/workspace/install/test_rclcpp/share/test_rclcpp/local_setup.sh
+/opt/workspace/install/test_rclcpp/share/test_rclcpp/local_setup.zsh
+/opt/workspace/install/test_rclcpp/share/test_rclcpp/local_setup.dsv
+/opt/workspace/install/test_rclcpp/share/test_rclcpp/package.dsv
+/opt/workspace/install/test_rclcpp/share/ament_index/resource_index/packages/test_rclcpp
+/opt/workspace/install/test_rclcpp/share/test_rclcpp/cmake/rosidl_cmake-extras.cmake
+/opt/workspace/install/test_rclcpp/share/test_rclcpp/cmake/test_rclcppConfig.cmake
+/opt/workspace/install/test_rclcpp/share/test_rclcpp/cmake/test_rclcppConfig-version.cmake
+/opt/workspace/install/test_rclcpp/share/test_rclcpp/package.xml

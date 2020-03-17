@@ -1,0 +1,46 @@
+[0.811s] Invoking command in '/opt/workspace/build/gmock_vendor': CMAKE_PREFIX_PATH=/opt/workspace/install/gtest_vendor:/opt/ros/eloquent PKG_CONFIG_PATH=/opt/workspace/install/gtest_vendor/lib/x86_64-linux-gnu/pkgconfig:/opt/workspace/install/gtest_vendor/lib/pkgconfig /usr/bin/cmake --build /opt/workspace/build/gmock_vendor -- -j8 -l8
+[1.359s] Invoked command in '/opt/workspace/build/gmock_vendor' returned '0': CMAKE_PREFIX_PATH=/opt/workspace/install/gtest_vendor:/opt/ros/eloquent PKG_CONFIG_PATH=/opt/workspace/install/gtest_vendor/lib/x86_64-linux-gnu/pkgconfig:/opt/workspace/install/gtest_vendor/lib/pkgconfig /usr/bin/cmake --build /opt/workspace/build/gmock_vendor -- -j8 -l8
+[1.456s] Invoking command in '/opt/workspace/build/gmock_vendor': CMAKE_PREFIX_PATH=/opt/workspace/install/gtest_vendor:/opt/ros/eloquent PKG_CONFIG_PATH=/opt/workspace/install/gtest_vendor/lib/x86_64-linux-gnu/pkgconfig:/opt/workspace/install/gtest_vendor/lib/pkgconfig /usr/bin/cmake --build /opt/workspace/build/gmock_vendor --target install -- -j8 -l8
+[1.569s] [36mInstall the project...[0m
+[1.580s] -- Install configuration: ""
+[1.580s] -- Up-to-date: /opt/workspace/install/gmock_vendor/share/gmock_vendor/cmake/gmock_vendorConfig.cmake
+[1.581s] -- Up-to-date: /opt/workspace/install/gmock_vendor/share/gmock_vendor/package.xml
+[1.582s] -- Up-to-date: /opt/workspace/install/gmock_vendor/src/gmock_vendor/CMakeLists.txt
+[1.582s] -- Up-to-date: /opt/workspace/install/gmock_vendor/src/gmock_vendor/include/gmock
+[1.582s] -- Up-to-date: /opt/workspace/install/gmock_vendor/src/gmock_vendor/include/gmock/gmock-generated-function-mockers.h.pump
+[1.582s] -- Up-to-date: /opt/workspace/install/gmock_vendor/src/gmock_vendor/include/gmock/gmock-more-matchers.h
+[1.583s] -- Up-to-date: /opt/workspace/install/gmock_vendor/src/gmock_vendor/include/gmock/gmock-generated-matchers.h.pump
+[1.583s] -- Up-to-date: /opt/workspace/install/gmock_vendor/src/gmock_vendor/include/gmock/gmock-generated-actions.h.pump
+[1.586s] -- Up-to-date: /opt/workspace/install/gmock_vendor/src/gmock_vendor/include/gmock/gmock-spec-builders.h
+[1.587s] -- Up-to-date: /opt/workspace/install/gmock_vendor/src/gmock_vendor/include/gmock/gmock-generated-nice-strict.h
+[1.587s] -- Up-to-date: /opt/workspace/install/gmock_vendor/src/gmock_vendor/include/gmock/gmock-function-mocker.h
+[1.590s] -- Up-to-date: /opt/workspace/install/gmock_vendor/src/gmock_vendor/include/gmock/gmock-more-actions.h
+[1.595s] -- Up-to-date: /opt/workspace/install/gmock_vendor/src/gmock_vendor/include/gmock/gmock-generated-matchers.h
+[1.595s] -- Up-to-date: /opt/workspace/install/gmock_vendor/src/gmock_vendor/include/gmock/gmock-actions.h
+[1.596s] -- Up-to-date: /opt/workspace/install/gmock_vendor/src/gmock_vendor/include/gmock/internal
+[1.597s] -- Up-to-date: /opt/workspace/install/gmock_vendor/src/gmock_vendor/include/gmock/internal/gmock-generated-internal-utils.h
+[1.597s] -- Up-to-date: /opt/workspace/install/gmock_vendor/src/gmock_vendor/include/gmock/internal/gmock-generated-internal-utils.h.pump
+[1.599s] -- Up-to-date: /opt/workspace/install/gmock_vendor/src/gmock_vendor/include/gmock/internal/gmock-pp.h
+[1.599s] -- Up-to-date: /opt/workspace/install/gmock_vendor/src/gmock_vendor/include/gmock/internal/custom
+[1.600s] -- Up-to-date: /opt/workspace/install/gmock_vendor/src/gmock_vendor/include/gmock/internal/custom/gmock-generated-actions.h.pump
+[1.600s] -- Up-to-date: /opt/workspace/install/gmock_vendor/src/gmock_vendor/include/gmock/internal/custom/README.md
+[1.600s] -- Up-to-date: /opt/workspace/install/gmock_vendor/src/gmock_vendor/include/gmock/internal/custom/gmock-matchers.h
+[1.601s] -- Up-to-date: /opt/workspace/install/gmock_vendor/src/gmock_vendor/include/gmock/internal/custom/gmock-port.h
+[1.606s] -- Up-to-date: /opt/workspace/install/gmock_vendor/src/gmock_vendor/include/gmock/internal/custom/gmock-generated-actions.h
+[1.607s] -- Up-to-date: /opt/workspace/install/gmock_vendor/src/gmock_vendor/include/gmock/internal/gmock-port.h
+[1.607s] -- Up-to-date: /opt/workspace/install/gmock_vendor/src/gmock_vendor/include/gmock/internal/gmock-internal-utils.h
+[1.607s] -- Up-to-date: /opt/workspace/install/gmock_vendor/src/gmock_vendor/include/gmock/gmock-matchers.h
+[1.607s] -- Up-to-date: /opt/workspace/install/gmock_vendor/src/gmock_vendor/include/gmock/gmock-generated-nice-strict.h.pump
+[1.608s] -- Up-to-date: /opt/workspace/install/gmock_vendor/src/gmock_vendor/include/gmock/gmock-cardinalities.h
+[1.608s] -- Up-to-date: /opt/workspace/install/gmock_vendor/src/gmock_vendor/include/gmock/gmock-generated-function-mockers.h
+[1.609s] -- Up-to-date: /opt/workspace/install/gmock_vendor/src/gmock_vendor/include/gmock/gmock-generated-actions.h
+[1.613s] -- Up-to-date: /opt/workspace/install/gmock_vendor/src/gmock_vendor/include/gmock/gmock.h
+[1.613s] -- Up-to-date: /opt/workspace/install/gmock_vendor/src/gmock_vendor/src
+[1.613s] -- Up-to-date: /opt/workspace/install/gmock_vendor/src/gmock_vendor/src/gmock_main.cc
+[1.614s] -- Up-to-date: /opt/workspace/install/gmock_vendor/src/gmock_vendor/src/gmock-matchers.cc
+[1.614s] -- Up-to-date: /opt/workspace/install/gmock_vendor/src/gmock_vendor/src/gmock-spec-builders.cc
+[1.614s] -- Up-to-date: /opt/workspace/install/gmock_vendor/src/gmock_vendor/src/gmock.cc
+[1.615s] -- Up-to-date: /opt/workspace/install/gmock_vendor/src/gmock_vendor/src/gmock-internal-utils.cc
+[1.615s] -- Up-to-date: /opt/workspace/install/gmock_vendor/src/gmock_vendor/src/gmock-all.cc
+[1.616s] -- Up-to-date: /opt/workspace/install/gmock_vendor/src/gmock_vendor/src/gmock-cardinalities.cc
+[1.677s] Invoked command in '/opt/workspace/build/gmock_vendor' returned '0': CMAKE_PREFIX_PATH=/opt/workspace/install/gtest_vendor:/opt/ros/eloquent PKG_CONFIG_PATH=/opt/workspace/install/gtest_vendor/lib/x86_64-linux-gnu/pkgconfig:/opt/workspace/install/gtest_vendor/lib/pkgconfig /usr/bin/cmake --build /opt/workspace/build/gmock_vendor --target install -- -j8 -l8

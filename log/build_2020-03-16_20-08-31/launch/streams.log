@@ -1,0 +1,19 @@
+[2.544s] Invoking command in '/opt/workspace/src/ros2/launch/launch': AMENT_PREFIX_PATH=/opt/workspace/install/ament_index_python:/opt/workspace/install/ament_copyright:/opt/workspace/install/ament_pep257:/opt/workspace/install/ament_flake8:/opt/workspace/install/osrf_pycommon:/opt/workspace/install/ament_lint:${AMENT_PREFIX_PATH} PATH=/opt/workspace/install/ament_index_python/bin:/opt/workspace/install/ament_copyright/bin:/opt/workspace/install/ament_pep257/bin:/opt/workspace/install/ament_flake8/bin:${PATH} PYTHONPATH=/opt/workspace/install/launch/lib/python3.6/site-packages:/opt/workspace/install/ament_index_python/lib/python3.6/site-packages:/opt/workspace/install/ament_copyright/lib/python3.6/site-packages:/opt/workspace/install/ament_pep257/lib/python3.6/site-packages:/opt/workspace/install/ament_flake8/lib/python3.6/site-packages:/opt/workspace/install/osrf_pycommon/lib/python3.6/site-packages:/opt/workspace/install/ament_lint/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base /opt/workspace/build/launch build --build-base /opt/workspace/build/launch/build install --prefix /opt/workspace/install/launch --record /opt/workspace/build/launch/install.log --single-version-externally-managed
+[2.881s] running egg_info
+[2.882s] writing /opt/workspace/build/launch/launch.egg-info/PKG-INFO
+[2.882s] writing dependency_links to /opt/workspace/build/launch/launch.egg-info/dependency_links.txt
+[2.882s] writing requirements to /opt/workspace/build/launch/launch.egg-info/requires.txt
+[2.883s] writing top-level names to /opt/workspace/build/launch/launch.egg-info/top_level.txt
+[2.946s] reading manifest file '/opt/workspace/build/launch/launch.egg-info/SOURCES.txt'
+[2.951s] writing manifest file '/opt/workspace/build/launch/launch.egg-info/SOURCES.txt'
+[2.951s] running build
+[2.952s] running build_py
+[2.963s] running install
+[2.964s] running install_lib
+[2.972s] running install_data
+[2.973s] running install_egg_info
+[2.976s] removing '/opt/workspace/install/launch/lib/python3.6/site-packages/launch-0.9.6-py3.6.egg-info' (and everything under it)
+[2.976s] Copying /opt/workspace/build/launch/launch.egg-info to /opt/workspace/install/launch/lib/python3.6/site-packages/launch-0.9.6-py3.6.egg-info
+[2.977s] running install_scripts
+[3.013s] writing list of installed files to '/opt/workspace/build/launch/install.log'
+[3.493s] Invoked command in '/opt/workspace/src/ros2/launch/launch' returned '0': AMENT_PREFIX_PATH=/opt/workspace/install/ament_index_python:/opt/workspace/install/ament_copyright:/opt/workspace/install/ament_pep257:/opt/workspace/install/ament_flake8:/opt/workspace/install/osrf_pycommon:/opt/workspace/install/ament_lint:${AMENT_PREFIX_PATH} PATH=/opt/workspace/install/ament_index_python/bin:/opt/workspace/install/ament_copyright/bin:/opt/workspace/install/ament_pep257/bin:/opt/workspace/install/ament_flake8/bin:${PATH} PYTHONPATH=/opt/workspace/install/launch/lib/python3.6/site-packages:/opt/workspace/install/ament_index_python/lib/python3.6/site-packages:/opt/workspace/install/ament_copyright/lib/python3.6/site-packages:/opt/workspace/install/ament_pep257/lib/python3.6/site-packages:/opt/workspace/install/ament_flake8/lib/python3.6/site-packages:/opt/workspace/install/osrf_pycommon/lib/python3.6/site-packages:/opt/workspace/install/ament_lint/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base /opt/workspace/build/launch build --build-base /opt/workspace/build/launch/build install --prefix /opt/workspace/install/launch --record /opt/workspace/build/launch/install.log --single-version-externally-managed

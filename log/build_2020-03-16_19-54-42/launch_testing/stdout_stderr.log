@@ -1,0 +1,162 @@
+[3.032s] running egg_info
+[3.037s] creating /opt/workspace/build/launch_testing/launch_testing.egg-info
+[3.038s] writing /opt/workspace/build/launch_testing/launch_testing.egg-info/PKG-INFO
+[3.038s] writing dependency_links to /opt/workspace/build/launch_testing/launch_testing.egg-info/dependency_links.txt
+[3.038s] writing entry points to /opt/workspace/build/launch_testing/launch_testing.egg-info/entry_points.txt
+[3.039s] writing requirements to /opt/workspace/build/launch_testing/launch_testing.egg-info/requires.txt
+[3.040s] writing top-level names to /opt/workspace/build/launch_testing/launch_testing.egg-info/top_level.txt
+[3.040s] writing manifest file '/opt/workspace/build/launch_testing/launch_testing.egg-info/SOURCES.txt'
+[3.148s] reading manifest file '/opt/workspace/build/launch_testing/launch_testing.egg-info/SOURCES.txt'
+[3.160s] writing manifest file '/opt/workspace/build/launch_testing/launch_testing.egg-info/SOURCES.txt'
+[3.161s] running build
+[3.161s] running build_py
+[3.161s] creating /opt/workspace/build/launch_testing/build
+[3.161s] creating /opt/workspace/build/launch_testing/build/lib
+[3.161s] creating /opt/workspace/build/launch_testing/build/lib/launch_testing
+[3.162s] copying launch_testing/test_result.py -> /opt/workspace/build/launch_testing/build/lib/launch_testing
+[3.162s] copying launch_testing/loader.py -> /opt/workspace/build/launch_testing/build/lib/launch_testing
+[3.162s] copying launch_testing/decorator.py -> /opt/workspace/build/launch_testing/build/lib/launch_testing
+[3.162s] copying launch_testing/__init__.py -> /opt/workspace/build/launch_testing/build/lib/launch_testing
+[3.163s] copying launch_testing/io_handler.py -> /opt/workspace/build/launch_testing/build/lib/launch_testing
+[3.163s] copying launch_testing/ready_aggregator.py -> /opt/workspace/build/launch_testing/build/lib/launch_testing
+[3.163s] copying launch_testing/parametrize.py -> /opt/workspace/build/launch_testing/build/lib/launch_testing
+[3.163s] copying launch_testing/junitxml.py -> /opt/workspace/build/launch_testing/build/lib/launch_testing
+[3.163s] copying launch_testing/parse_arguments.py -> /opt/workspace/build/launch_testing/build/lib/launch_testing
+[3.164s] copying launch_testing/proc_info_handler.py -> /opt/workspace/build/launch_testing/build/lib/launch_testing
+[3.164s] copying launch_testing/print_arguments.py -> /opt/workspace/build/launch_testing/build/lib/launch_testing
+[3.164s] copying launch_testing/test_runner.py -> /opt/workspace/build/launch_testing/build/lib/launch_testing
+[3.164s] copying launch_testing/launch_test.py -> /opt/workspace/build/launch_testing/build/lib/launch_testing
+[3.164s] copying launch_testing/markers.py -> /opt/workspace/build/launch_testing/build/lib/launch_testing
+[3.165s] creating /opt/workspace/build/launch_testing/build/lib/launch_testing/pytest
+[3.165s] copying launch_testing/pytest/__init__.py -> /opt/workspace/build/launch_testing/build/lib/launch_testing/pytest
+[3.165s] copying launch_testing/pytest/hooks.py -> /opt/workspace/build/launch_testing/build/lib/launch_testing/pytest
+[3.165s] copying launch_testing/pytest/hookspecs.py -> /opt/workspace/build/launch_testing/build/lib/launch_testing/pytest
+[3.165s] creating /opt/workspace/build/launch_testing/build/lib/launch_testing/asserts
+[3.165s] copying launch_testing/asserts/__init__.py -> /opt/workspace/build/launch_testing/build/lib/launch_testing/asserts
+[3.166s] copying launch_testing/asserts/assert_exit_codes.py -> /opt/workspace/build/launch_testing/build/lib/launch_testing/asserts
+[3.166s] copying launch_testing/asserts/assert_sequential_output.py -> /opt/workspace/build/launch_testing/build/lib/launch_testing/asserts
+[3.166s] copying launch_testing/asserts/assert_output.py -> /opt/workspace/build/launch_testing/build/lib/launch_testing/asserts
+[3.166s] creating /opt/workspace/build/launch_testing/build/lib/launch_testing/legacy
+[3.166s] copying launch_testing/legacy/__init__.py -> /opt/workspace/build/launch_testing/build/lib/launch_testing/legacy
+[3.167s] copying launch_testing/legacy/output.py -> /opt/workspace/build/launch_testing/build/lib/launch_testing/legacy
+[3.180s] creating /opt/workspace/build/launch_testing/build/lib/launch_testing/util
+[3.180s] copying launch_testing/util/__init__.py -> /opt/workspace/build/launch_testing/build/lib/launch_testing/util
+[3.180s] copying launch_testing/util/proc_lookup.py -> /opt/workspace/build/launch_testing/build/lib/launch_testing/util
+[3.182s] creating /opt/workspace/build/launch_testing/build/lib/launch_testing/event_handlers
+[3.184s] copying launch_testing/event_handlers/__init__.py -> /opt/workspace/build/launch_testing/build/lib/launch_testing/event_handlers
+[3.188s] copying launch_testing/event_handlers/stdout_ready_listener.py -> /opt/workspace/build/launch_testing/build/lib/launch_testing/event_handlers
+[3.188s] creating /opt/workspace/build/launch_testing/build/lib/launch_testing/actions
+[3.188s] copying launch_testing/actions/__init__.py -> /opt/workspace/build/launch_testing/build/lib/launch_testing/actions
+[3.188s] copying launch_testing/actions/gtest.py -> /opt/workspace/build/launch_testing/build/lib/launch_testing/actions
+[3.189s] copying launch_testing/actions/ready.py -> /opt/workspace/build/launch_testing/build/lib/launch_testing/actions
+[3.189s] copying launch_testing/actions/test.py -> /opt/workspace/build/launch_testing/build/lib/launch_testing/actions
+[3.189s] copying launch_testing/actions/pytest.py -> /opt/workspace/build/launch_testing/build/lib/launch_testing/actions
+[3.190s] creating /opt/workspace/build/launch_testing/build/lib/launch_testing/tools
+[3.190s] copying launch_testing/tools/__init__.py -> /opt/workspace/build/launch_testing/build/lib/launch_testing/tools
+[3.190s] copying launch_testing/tools/text.py -> /opt/workspace/build/launch_testing/build/lib/launch_testing/tools
+[3.190s] copying launch_testing/tools/output.py -> /opt/workspace/build/launch_testing/build/lib/launch_testing/tools
+[3.190s] copying launch_testing/tools/process.py -> /opt/workspace/build/launch_testing/build/lib/launch_testing/tools
+[3.191s] running install
+[3.191s] running install_lib
+[3.191s] creating /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing
+[3.191s] copying /opt/workspace/build/launch_testing/build/lib/launch_testing/test_result.py -> /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing
+[3.191s] creating /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing/pytest
+[3.192s] copying /opt/workspace/build/launch_testing/build/lib/launch_testing/pytest/__init__.py -> /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing/pytest
+[3.192s] copying /opt/workspace/build/launch_testing/build/lib/launch_testing/pytest/hooks.py -> /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing/pytest
+[3.198s] copying /opt/workspace/build/launch_testing/build/lib/launch_testing/pytest/hookspecs.py -> /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing/pytest
+[3.198s] copying /opt/workspace/build/launch_testing/build/lib/launch_testing/loader.py -> /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing
+[3.199s] copying /opt/workspace/build/launch_testing/build/lib/launch_testing/decorator.py -> /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing
+[3.199s] copying /opt/workspace/build/launch_testing/build/lib/launch_testing/__init__.py -> /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing
+[3.204s] copying /opt/workspace/build/launch_testing/build/lib/launch_testing/io_handler.py -> /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing
+[3.204s] creating /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing/asserts
+[3.204s] copying /opt/workspace/build/launch_testing/build/lib/launch_testing/asserts/__init__.py -> /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing/asserts
+[3.205s] copying /opt/workspace/build/launch_testing/build/lib/launch_testing/asserts/assert_exit_codes.py -> /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing/asserts
+[3.205s] copying /opt/workspace/build/launch_testing/build/lib/launch_testing/asserts/assert_sequential_output.py -> /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing/asserts
+[3.205s] copying /opt/workspace/build/launch_testing/build/lib/launch_testing/asserts/assert_output.py -> /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing/asserts
+[3.205s] copying /opt/workspace/build/launch_testing/build/lib/launch_testing/ready_aggregator.py -> /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing
+[3.205s] copying /opt/workspace/build/launch_testing/build/lib/launch_testing/parametrize.py -> /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing
+[3.205s] creating /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing/legacy
+[3.206s] copying /opt/workspace/build/launch_testing/build/lib/launch_testing/legacy/__init__.py -> /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing/legacy
+[3.206s] copying /opt/workspace/build/launch_testing/build/lib/launch_testing/legacy/output.py -> /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing/legacy
+[3.206s] copying /opt/workspace/build/launch_testing/build/lib/launch_testing/junitxml.py -> /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing
+[3.206s] copying /opt/workspace/build/launch_testing/build/lib/launch_testing/parse_arguments.py -> /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing
+[3.206s] copying /opt/workspace/build/launch_testing/build/lib/launch_testing/proc_info_handler.py -> /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing
+[3.206s] copying /opt/workspace/build/launch_testing/build/lib/launch_testing/print_arguments.py -> /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing
+[3.207s] creating /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing/util
+[3.207s] copying /opt/workspace/build/launch_testing/build/lib/launch_testing/util/__init__.py -> /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing/util
+[3.207s] copying /opt/workspace/build/launch_testing/build/lib/launch_testing/util/proc_lookup.py -> /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing/util
+[3.207s] copying /opt/workspace/build/launch_testing/build/lib/launch_testing/test_runner.py -> /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing
+[3.207s] creating /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing/event_handlers
+[3.208s] copying /opt/workspace/build/launch_testing/build/lib/launch_testing/event_handlers/__init__.py -> /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing/event_handlers
+[3.208s] copying /opt/workspace/build/launch_testing/build/lib/launch_testing/event_handlers/stdout_ready_listener.py -> /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing/event_handlers
+[3.208s] copying /opt/workspace/build/launch_testing/build/lib/launch_testing/launch_test.py -> /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing
+[3.208s] creating /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing/actions
+[3.208s] copying /opt/workspace/build/launch_testing/build/lib/launch_testing/actions/__init__.py -> /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing/actions
+[3.209s] copying /opt/workspace/build/launch_testing/build/lib/launch_testing/actions/gtest.py -> /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing/actions
+[3.209s] copying /opt/workspace/build/launch_testing/build/lib/launch_testing/actions/ready.py -> /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing/actions
+[3.209s] copying /opt/workspace/build/launch_testing/build/lib/launch_testing/actions/test.py -> /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing/actions
+[3.209s] copying /opt/workspace/build/launch_testing/build/lib/launch_testing/actions/pytest.py -> /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing/actions
+[3.209s] copying /opt/workspace/build/launch_testing/build/lib/launch_testing/markers.py -> /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing
+[3.210s] creating /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing/tools
+[3.210s] copying /opt/workspace/build/launch_testing/build/lib/launch_testing/tools/__init__.py -> /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing/tools
+[3.210s] copying /opt/workspace/build/launch_testing/build/lib/launch_testing/tools/text.py -> /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing/tools
+[3.210s] copying /opt/workspace/build/launch_testing/build/lib/launch_testing/tools/output.py -> /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing/tools
+[3.210s] copying /opt/workspace/build/launch_testing/build/lib/launch_testing/tools/process.py -> /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing/tools
+[3.210s] byte-compiling /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing/test_result.py to test_result.cpython-36.pyc
+[3.211s] byte-compiling /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing/pytest/__init__.py to __init__.cpython-36.pyc
+[3.211s] byte-compiling /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing/pytest/hooks.py to hooks.cpython-36.pyc
+[3.211s] byte-compiling /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing/pytest/hookspecs.py to hookspecs.cpython-36.pyc
+[3.212s] byte-compiling /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing/loader.py to loader.cpython-36.pyc
+[3.215s] byte-compiling /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing/decorator.py to decorator.cpython-36.pyc
+[3.216s] byte-compiling /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing/__init__.py to __init__.cpython-36.pyc
+[3.216s] byte-compiling /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing/io_handler.py to io_handler.cpython-36.pyc
+[3.218s] byte-compiling /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing/asserts/__init__.py to __init__.cpython-36.pyc
+[3.219s] byte-compiling /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing/asserts/assert_exit_codes.py to assert_exit_codes.cpython-36.pyc
+[3.222s] byte-compiling /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing/asserts/assert_sequential_output.py to assert_sequential_output.cpython-36.pyc
+[3.225s] byte-compiling /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing/asserts/assert_output.py to assert_output.cpython-36.pyc
+[3.226s] byte-compiling /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing/ready_aggregator.py to ready_aggregator.cpython-36.pyc
+[3.226s] byte-compiling /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing/parametrize.py to parametrize.cpython-36.pyc
+[3.227s] byte-compiling /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing/legacy/__init__.py to __init__.cpython-36.pyc
+[3.230s] byte-compiling /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing/legacy/output.py to output.cpython-36.pyc
+[3.232s] byte-compiling /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing/junitxml.py to junitxml.cpython-36.pyc
+[3.234s] byte-compiling /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing/parse_arguments.py to parse_arguments.cpython-36.pyc
+[3.235s] byte-compiling /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing/proc_info_handler.py to proc_info_handler.cpython-36.pyc
+[3.237s] byte-compiling /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing/print_arguments.py to print_arguments.cpython-36.pyc
+[3.240s] byte-compiling /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing/util/__init__.py to __init__.cpython-36.pyc
+[3.241s] byte-compiling /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing/util/proc_lookup.py to proc_lookup.cpython-36.pyc
+[3.245s] byte-compiling /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing/test_runner.py to test_runner.cpython-36.pyc
+[3.247s] byte-compiling /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing/event_handlers/__init__.py to __init__.cpython-36.pyc
+[3.248s] byte-compiling /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing/event_handlers/stdout_ready_listener.py to stdout_ready_listener.cpython-36.pyc
+[3.249s] byte-compiling /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing/launch_test.py to launch_test.cpython-36.pyc
+[3.251s] byte-compiling /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing/actions/__init__.py to __init__.cpython-36.pyc
+[3.253s] byte-compiling /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing/actions/gtest.py to gtest.cpython-36.pyc
+[3.255s] byte-compiling /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing/actions/ready.py to ready.cpython-36.pyc
+[3.256s] byte-compiling /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing/actions/test.py to test.cpython-36.pyc
+[3.257s] byte-compiling /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing/actions/pytest.py to pytest.cpython-36.pyc
+[3.258s] byte-compiling /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing/markers.py to markers.cpython-36.pyc
+[3.259s] byte-compiling /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing/tools/__init__.py to __init__.cpython-36.pyc
+[3.260s] byte-compiling /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing/tools/text.py to text.cpython-36.pyc
+[3.262s] byte-compiling /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing/tools/output.py to output.cpython-36.pyc
+[3.264s] byte-compiling /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing/tools/process.py to process.cpython-36.pyc
+[3.266s] running install_data
+[3.268s] creating /opt/workspace/install/launch_testing/share/ament_index
+[3.280s] creating /opt/workspace/install/launch_testing/share/ament_index/resource_index
+[3.280s] creating /opt/workspace/install/launch_testing/share/ament_index/resource_index/packages
+[3.281s] copying resource/launch_testing -> /opt/workspace/install/launch_testing/share/ament_index/resource_index/packages
+[3.281s] creating /opt/workspace/install/launch_testing/lib/launch_testing
+[3.282s] copying example_processes/good_proc -> /opt/workspace/install/launch_testing/lib/launch_testing
+[3.282s] copying example_processes/terminating_proc -> /opt/workspace/install/launch_testing/lib/launch_testing
+[3.283s] copying example_processes/exit_code_proc -> /opt/workspace/install/launch_testing/lib/launch_testing
+[3.284s] copying package.xml -> /opt/workspace/install/launch_testing/share/launch_testing
+[3.284s] creating /opt/workspace/install/launch_testing/share/launch_testing/examples
+[3.285s] copying test/launch_testing/examples/context_launch_test.py -> /opt/workspace/install/launch_testing/share/launch_testing/examples
+[3.285s] copying test/launch_testing/examples/args_launch_test.py -> /opt/workspace/install/launch_testing/share/launch_testing/examples
+[3.286s] copying test/launch_testing/examples/good_proc_launch_test.py -> /opt/workspace/install/launch_testing/share/launch_testing/examples
+[3.286s] copying test/launch_testing/examples/terminating_proc_launch_test.py -> /opt/workspace/install/launch_testing/share/launch_testing/examples
+[3.287s] copying test/launch_testing/examples/ready_action_test.py -> /opt/workspace/install/launch_testing/share/launch_testing/examples
+[3.287s] copying test/launch_testing/examples/parameters_launch_test.py -> /opt/workspace/install/launch_testing/share/launch_testing/examples
+[3.288s] running install_egg_info
+[3.294s] Copying /opt/workspace/build/launch_testing/launch_testing.egg-info to /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing-0.9.6-py3.6.egg-info
+[3.296s] running install_scripts
+[3.403s] Installing launch_test script to /opt/workspace/install/launch_testing/bin
+[3.403s] writing list of installed files to '/opt/workspace/build/launch_testing/install.log'

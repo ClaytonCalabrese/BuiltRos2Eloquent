@@ -1,0 +1,30 @@
+[0.380s] -- Found ament_cmake_core: 0.8.2 (/opt/workspace/install/ament_cmake_core/share/ament_cmake_core/cmake)
+[0.454s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[0.455s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.072s] -- Found ament_cmake_test: 0.8.2 (/opt/workspace/install/ament_cmake_test/share/ament_cmake_test/cmake)
+[1.343s] -- Found ament_cmake_copyright: 0.8.1 (/opt/workspace/install/ament_cmake_copyright/share/ament_cmake_copyright/cmake)
+[1.344s] -- Found ament_cmake_lint_cmake: 0.8.1 (/opt/workspace/install/ament_cmake_lint_cmake/share/ament_cmake_lint_cmake/cmake)
+[1.352s] -- Configuring done
+[1.372s] -- Generating done
+[1.374s] -- Build files have been written to: /opt/workspace/build/ament_cmake_cpplint
+[2.355s] [36mInstall the project...[0m
+[2.413s] -- Install configuration: ""
+[2.413s] -- Installing: /opt/workspace/install/ament_cmake_cpplint/share/ament_index/resource_index/package_run_dependencies/ament_cmake_cpplint
+[2.413s] -- Installing: /opt/workspace/install/ament_cmake_cpplint/share/ament_index/resource_index/parent_prefix_path/ament_cmake_cpplint
+[2.414s] -- Installing: /opt/workspace/install/ament_cmake_cpplint/share/ament_cmake_cpplint/environment/ament_prefix_path.sh
+[2.414s] -- Installing: /opt/workspace/install/ament_cmake_cpplint/share/ament_cmake_cpplint/environment/ament_prefix_path.dsv
+[2.414s] -- Installing: /opt/workspace/install/ament_cmake_cpplint/share/ament_cmake_cpplint/environment/path.sh
+[2.415s] -- Installing: /opt/workspace/install/ament_cmake_cpplint/share/ament_cmake_cpplint/environment/path.dsv
+[2.416s] -- Installing: /opt/workspace/install/ament_cmake_cpplint/share/ament_cmake_cpplint/local_setup.bash
+[2.416s] -- Installing: /opt/workspace/install/ament_cmake_cpplint/share/ament_cmake_cpplint/local_setup.sh
+[2.417s] -- Installing: /opt/workspace/install/ament_cmake_cpplint/share/ament_cmake_cpplint/local_setup.zsh
+[2.417s] -- Installing: /opt/workspace/install/ament_cmake_cpplint/share/ament_cmake_cpplint/local_setup.dsv
+[2.418s] -- Installing: /opt/workspace/install/ament_cmake_cpplint/share/ament_cmake_cpplint/package.dsv
+[2.418s] -- Installing: /opt/workspace/install/ament_cmake_cpplint/share/ament_index/resource_index/packages/ament_cmake_cpplint
+[2.418s] -- Installing: /opt/workspace/install/ament_cmake_cpplint/share/ament_cmake_cpplint/cmake/ament_cmake_cpplint-extras.cmake
+[2.418s] -- Installing: /opt/workspace/install/ament_cmake_cpplint/share/ament_cmake_cpplint/cmake/ament_cmake_cpplintConfig.cmake
+[2.419s] -- Installing: /opt/workspace/install/ament_cmake_cpplint/share/ament_cmake_cpplint/cmake/ament_cmake_cpplintConfig-version.cmake
+[2.419s] -- Installing: /opt/workspace/install/ament_cmake_cpplint/share/ament_cmake_cpplint/package.xml
+[2.419s] -- Up-to-date: /opt/workspace/install/ament_cmake_cpplint/share/ament_cmake_cpplint/cmake
+[2.419s] -- Installing: /opt/workspace/install/ament_cmake_cpplint/share/ament_cmake_cpplint/cmake/ament_cmake_cpplint_lint_hook.cmake
+[2.420s] -- Installing: /opt/workspace/install/ament_cmake_cpplint/share/ament_cmake_cpplint/cmake/ament_cpplint.cmake

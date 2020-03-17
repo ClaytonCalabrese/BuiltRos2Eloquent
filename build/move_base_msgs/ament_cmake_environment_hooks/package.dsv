@@ -1,0 +1,4 @@
+source;share/move_base_msgs/local_setup.bash
+source;share/move_base_msgs/local_setup.dsv
+source;share/move_base_msgs/local_setup.sh
+source;share/move_base_msgs/local_setup.zsh

@@ -1,0 +1,1 @@
+cmd='/usr/bin/cmake;-DCMAKE_INSTALL_PREFIX=/opt/workspace/build/libyaml_vendor/libyaml_install;-DCMAKE_BUILD_TYPE=;-DBUILD_SHARED_LIBS=ON;-DBUILD_TESTING=OFF;-GUnix Makefiles;<SOURCE_DIR><SOURCE_SUBDIR>'

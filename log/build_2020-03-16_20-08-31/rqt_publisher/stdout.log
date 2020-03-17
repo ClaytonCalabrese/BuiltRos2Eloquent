@@ -1,0 +1,55 @@
+[0.444s] -- The C compiler identification is GNU 7.4.0
+[0.557s] -- The CXX compiler identification is GNU 7.4.0
+[0.575s] -- Check for working C compiler: /usr/bin/cc
+[0.749s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.750s] -- Detecting C compiler ABI info
+[0.917s] -- Detecting C compiler ABI info - done
+[0.930s] -- Detecting C compile features
+[1.400s] -- Detecting C compile features - done
+[1.405s] -- Check for working CXX compiler: /usr/bin/c++
+[1.569s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[1.571s] -- Detecting CXX compiler ABI info
+[1.761s] -- Detecting CXX compiler ABI info - done
+[1.774s] -- Detecting CXX compile features
+[2.480s] -- Detecting CXX compile features - done
+[2.490s] -- Found ament_cmake: 0.8.2 (/opt/workspace/install/ament_cmake/share/ament_cmake/cmake)
+[2.592s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[2.593s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[3.463s] -- Configuring done
+[3.470s] -- Generating done
+[3.473s] -- Build files have been written to: /opt/workspace/build/rqt_publisher
+[3.814s] [36mInstall the project...[0m
+[3.836s] -- Install configuration: ""
+[3.836s] -- Installing: /opt/workspace/install/rqt_publisher/share/rqt_publisher/environment/pythonpath.sh
+[3.837s] -- Installing: /opt/workspace/install/rqt_publisher/share/rqt_publisher/environment/pythonpath.dsv
+[3.837s] -- Installing: /opt/workspace/install/rqt_publisher/lib/python3.6/site-packages/rqt_publisher
+[3.837s] -- Installing: /opt/workspace/install/rqt_publisher/lib/python3.6/site-packages/rqt_publisher/publisher_tree_widget.py
+[3.837s] -- Installing: /opt/workspace/install/rqt_publisher/lib/python3.6/site-packages/rqt_publisher/__init__.py
+[3.837s] -- Installing: /opt/workspace/install/rqt_publisher/lib/python3.6/site-packages/rqt_publisher/publisher_widget.py
+[3.838s] -- Installing: /opt/workspace/install/rqt_publisher/lib/python3.6/site-packages/rqt_publisher/publisher.py
+[3.838s] -- Installing: /opt/workspace/install/rqt_publisher/lib/python3.6/site-packages/rqt_publisher/publisher_tree_model.py
+[3.958s] Listing '/opt/workspace/install/rqt_publisher/lib/python3.6/site-packages/rqt_publisher'...
+[3.959s] Compiling '/opt/workspace/install/rqt_publisher/lib/python3.6/site-packages/rqt_publisher/__init__.py'...
+[3.959s] Compiling '/opt/workspace/install/rqt_publisher/lib/python3.6/site-packages/rqt_publisher/publisher.py'...
+[3.959s] Compiling '/opt/workspace/install/rqt_publisher/lib/python3.6/site-packages/rqt_publisher/publisher_tree_model.py'...
+[3.959s] Compiling '/opt/workspace/install/rqt_publisher/lib/python3.6/site-packages/rqt_publisher/publisher_tree_widget.py'...
+[3.959s] Compiling '/opt/workspace/install/rqt_publisher/lib/python3.6/site-packages/rqt_publisher/publisher_widget.py'...
+[3.966s] -- Installing: /opt/workspace/install/rqt_publisher/share/rqt_publisher/plugin.xml
+[3.966s] -- Installing: /opt/workspace/install/rqt_publisher/share/rqt_publisher/resource
+[3.967s] -- Installing: /opt/workspace/install/rqt_publisher/share/rqt_publisher/resource/Publisher.ui
+[3.967s] -- Installing: /opt/workspace/install/rqt_publisher/lib/rqt_publisher/rqt_publisher
+[3.968s] -- Installing: /opt/workspace/install/rqt_publisher/share/ament_index/resource_index/package_run_dependencies/rqt_publisher
+[3.968s] -- Installing: /opt/workspace/install/rqt_publisher/share/ament_index/resource_index/parent_prefix_path/rqt_publisher
+[3.968s] -- Installing: /opt/workspace/install/rqt_publisher/share/rqt_publisher/environment/ament_prefix_path.sh
+[3.969s] -- Installing: /opt/workspace/install/rqt_publisher/share/rqt_publisher/environment/ament_prefix_path.dsv
+[3.969s] -- Installing: /opt/workspace/install/rqt_publisher/share/rqt_publisher/environment/path.sh
+[3.970s] -- Installing: /opt/workspace/install/rqt_publisher/share/rqt_publisher/environment/path.dsv
+[3.970s] -- Installing: /opt/workspace/install/rqt_publisher/share/rqt_publisher/local_setup.bash
+[3.970s] -- Installing: /opt/workspace/install/rqt_publisher/share/rqt_publisher/local_setup.sh
+[3.974s] -- Installing: /opt/workspace/install/rqt_publisher/share/rqt_publisher/local_setup.zsh
+[3.975s] -- Installing: /opt/workspace/install/rqt_publisher/share/rqt_publisher/local_setup.dsv
+[3.975s] -- Installing: /opt/workspace/install/rqt_publisher/share/rqt_publisher/package.dsv
+[3.975s] -- Installing: /opt/workspace/install/rqt_publisher/share/ament_index/resource_index/packages/rqt_publisher
+[3.975s] -- Installing: /opt/workspace/install/rqt_publisher/share/rqt_publisher/cmake/rqt_publisherConfig.cmake
+[3.975s] -- Installing: /opt/workspace/install/rqt_publisher/share/rqt_publisher/cmake/rqt_publisherConfig-version.cmake
+[3.975s] -- Installing: /opt/workspace/install/rqt_publisher/share/rqt_publisher/package.xml

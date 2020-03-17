@@ -1,0 +1,5 @@
+[2.374s] [36mInstall the project...[0m
+[2.393s] -- Install configuration: ""
+[2.396s] -- Up-to-date: /opt/workspace/install/poco_vendor/share/poco_vendor/package.xml
+[2.397s] -- Up-to-date: /opt/workspace/install/poco_vendor/share/poco_vendor/cmake/poco_vendorConfig.cmake
+[2.397s] -- Up-to-date: /opt/workspace/install/poco_vendor/share/poco_vendor/cmake/poco_vendorConfig-version.cmake

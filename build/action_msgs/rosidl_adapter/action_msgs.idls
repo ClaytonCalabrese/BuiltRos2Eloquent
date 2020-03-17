@@ -1,0 +1,4 @@
+/opt/workspace/build/action_msgs/rosidl_adapter/action_msgs:msg/GoalInfo.idl
+/opt/workspace/build/action_msgs/rosidl_adapter/action_msgs:msg/GoalStatus.idl
+/opt/workspace/build/action_msgs/rosidl_adapter/action_msgs:msg/GoalStatusArray.idl
+/opt/workspace/build/action_msgs/rosidl_adapter/action_msgs:srv/CancelGoal.idl

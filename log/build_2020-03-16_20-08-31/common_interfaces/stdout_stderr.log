@@ -1,0 +1,23 @@
+[1.417s] -- Found ament_cmake: 0.8.2 (/opt/workspace/install/ament_cmake/share/ament_cmake/cmake)
+[1.523s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[1.523s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[2.170s] -- Configuring done
+[2.173s] -- Generating done
+[2.174s] -- Build files have been written to: /opt/workspace/build/common_interfaces
+[2.440s] [36mInstall the project...[0m
+[2.462s] -- Install configuration: ""
+[2.462s] -- Installing: /opt/workspace/install/common_interfaces/share/ament_index/resource_index/package_run_dependencies/common_interfaces
+[2.463s] -- Installing: /opt/workspace/install/common_interfaces/share/ament_index/resource_index/parent_prefix_path/common_interfaces
+[2.463s] -- Installing: /opt/workspace/install/common_interfaces/share/common_interfaces/environment/ament_prefix_path.sh
+[2.463s] -- Installing: /opt/workspace/install/common_interfaces/share/common_interfaces/environment/ament_prefix_path.dsv
+[2.463s] -- Installing: /opt/workspace/install/common_interfaces/share/common_interfaces/environment/path.sh
+[2.464s] -- Installing: /opt/workspace/install/common_interfaces/share/common_interfaces/environment/path.dsv
+[2.464s] -- Installing: /opt/workspace/install/common_interfaces/share/common_interfaces/local_setup.bash
+[2.464s] -- Installing: /opt/workspace/install/common_interfaces/share/common_interfaces/local_setup.sh
+[2.464s] -- Installing: /opt/workspace/install/common_interfaces/share/common_interfaces/local_setup.zsh
+[2.465s] -- Installing: /opt/workspace/install/common_interfaces/share/common_interfaces/local_setup.dsv
+[2.465s] -- Installing: /opt/workspace/install/common_interfaces/share/common_interfaces/package.dsv
+[2.465s] -- Installing: /opt/workspace/install/common_interfaces/share/ament_index/resource_index/packages/common_interfaces
+[2.465s] -- Installing: /opt/workspace/install/common_interfaces/share/common_interfaces/cmake/common_interfacesConfig.cmake
+[2.465s] -- Installing: /opt/workspace/install/common_interfaces/share/common_interfaces/cmake/common_interfacesConfig-version.cmake
+[2.466s] -- Installing: /opt/workspace/install/common_interfaces/share/common_interfaces/package.xml

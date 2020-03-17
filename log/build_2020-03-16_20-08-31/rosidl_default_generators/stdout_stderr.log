@@ -1,0 +1,28 @@
+[0.275s] -- Found ament_cmake: 0.8.2 (/opt/workspace/install/ament_cmake/share/ament_cmake/cmake)
+[0.366s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[0.366s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.945s] -- Found ament_lint_auto: 0.8.1 (/opt/workspace/install/ament_lint_auto/share/ament_lint_auto/cmake)
+[1.192s] -- Added test 'lint_cmake' to check CMake code style
+[1.195s] -- Added test 'xmllint' to check XML markup files
+[1.203s] -- Configuring done
+[1.207s] -- Generating done
+[1.209s] -- Build files have been written to: /opt/workspace/build/rosidl_default_generators
+[1.483s] [36mInstall the project...[0m
+[1.503s] -- Install configuration: ""
+[1.504s] -- Installing: /opt/workspace/install/rosidl_default_generators/share/ament_index/resource_index/package_run_dependencies/rosidl_default_generators
+[1.504s] -- Installing: /opt/workspace/install/rosidl_default_generators/share/ament_index/resource_index/parent_prefix_path/rosidl_default_generators
+[1.504s] -- Installing: /opt/workspace/install/rosidl_default_generators/share/rosidl_default_generators/environment/ament_prefix_path.sh
+[1.505s] -- Installing: /opt/workspace/install/rosidl_default_generators/share/rosidl_default_generators/environment/ament_prefix_path.dsv
+[1.505s] -- Installing: /opt/workspace/install/rosidl_default_generators/share/rosidl_default_generators/environment/path.sh
+[1.505s] -- Installing: /opt/workspace/install/rosidl_default_generators/share/rosidl_default_generators/environment/path.dsv
+[1.505s] -- Installing: /opt/workspace/install/rosidl_default_generators/share/rosidl_default_generators/local_setup.bash
+[1.505s] -- Installing: /opt/workspace/install/rosidl_default_generators/share/rosidl_default_generators/local_setup.sh
+[1.506s] -- Installing: /opt/workspace/install/rosidl_default_generators/share/rosidl_default_generators/local_setup.zsh
+[1.506s] -- Installing: /opt/workspace/install/rosidl_default_generators/share/rosidl_default_generators/local_setup.dsv
+[1.506s] -- Installing: /opt/workspace/install/rosidl_default_generators/share/rosidl_default_generators/package.dsv
+[1.506s] -- Installing: /opt/workspace/install/rosidl_default_generators/share/ament_index/resource_index/packages/rosidl_default_generators
+[1.507s] -- Installing: /opt/workspace/install/rosidl_default_generators/share/rosidl_default_generators/cmake/rosidl_default_generators-extras.cmake
+[1.507s] -- Installing: /opt/workspace/install/rosidl_default_generators/share/rosidl_default_generators/cmake/ament_cmake_export_dependencies-extras.cmake
+[1.507s] -- Installing: /opt/workspace/install/rosidl_default_generators/share/rosidl_default_generators/cmake/rosidl_default_generatorsConfig.cmake
+[1.507s] -- Installing: /opt/workspace/install/rosidl_default_generators/share/rosidl_default_generators/cmake/rosidl_default_generatorsConfig-version.cmake
+[1.508s] -- Installing: /opt/workspace/install/rosidl_default_generators/share/rosidl_default_generators/package.xml

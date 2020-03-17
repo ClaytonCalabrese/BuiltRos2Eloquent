@@ -1,0 +1,297 @@
+[0.077s] Invoking command in '/opt/workspace/build/rviz_rendering_tests': AMENT_PREFIX_PATH=/opt/workspace/install/rviz_rendering:/opt/workspace/install/resource_retriever:/opt/workspace/install/ament_index_cpp:/opt/workspace/install/eigen3_cmake_module:/opt/workspace/install/ament_cmake_uncrustify:/opt/workspace/install/ament_cmake_cpplint:/opt/workspace/install/ament_cmake_cppcheck:/opt/workspace/install/ament_uncrustify:/opt/workspace/install/uncrustify_vendor:/opt/workspace/install/rviz_ogre_vendor:/opt/workspace/install/rviz_assimp_vendor:/opt/workspace/install/libcurl_vendor:/opt/workspace/install/ament_cmake_lint_cmake:/opt/workspace/install/ament_cmake_gmock:/opt/workspace/install/ament_lint_cmake:/opt/workspace/install/ament_cpplint:/opt/workspace/install/ament_cmake_gtest:/opt/workspace/install/ament_cmake:/opt/workspace/install/ament_cmake_test:/opt/workspace/install/ament_cmake_target_dependencies:/opt/workspace/install/ament_cmake_export_interfaces:/opt/workspace/install/ament_cmake_export_dependencies:/opt/workspace/install/ament_cmake_version:/opt/workspace/install/ament_cmake_python:/opt/workspace/install/ament_cmake_libraries:/opt/workspace/install/ament_cmake_include_directories:/opt/workspace/install/ament_cmake_export_link_flags:/opt/workspace/install/ament_cmake_export_libraries:/opt/workspace/install/ament_cmake_export_include_directories:/opt/workspace/install/ament_cmake_export_definitions:/opt/workspace/install/ament_cmake_core:/opt/workspace/install/ament_package:/opt/workspace/install/ament_cppcheck:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/opt/workspace/install/rviz_rendering:/opt/workspace/install/resource_retriever:/opt/workspace/install/ament_index_cpp:/opt/workspace/install/eigen3_cmake_module:/opt/workspace/install/ament_cmake_uncrustify:/opt/workspace/install/ament_cmake_cpplint:/opt/workspace/install/ament_cmake_cppcheck:/opt/workspace/install/uncrustify_vendor:/opt/workspace/install/rviz_ogre_vendor:/opt/workspace/install/rviz_assimp_vendor:/opt/workspace/install/libcurl_vendor:/opt/workspace/install/ament_cmake_lint_cmake:/opt/workspace/install/ament_cmake_gmock:/opt/workspace/install/ament_cmake_gtest:/opt/workspace/install/ament_cmake:/opt/workspace/install/ament_cmake_test:/opt/workspace/install/ament_cmake_target_dependencies:/opt/workspace/install/ament_cmake_export_interfaces:/opt/workspace/install/ament_cmake_export_dependencies:/opt/workspace/install/ament_cmake_version:/opt/workspace/install/ament_cmake_python:/opt/workspace/install/ament_cmake_libraries:/opt/workspace/install/ament_cmake_include_directories:/opt/workspace/install/ament_cmake_export_link_flags:/opt/workspace/install/ament_cmake_export_libraries:/opt/workspace/install/ament_cmake_export_include_directories:/opt/workspace/install/ament_cmake_export_definitions:/opt/workspace/install/gmock_vendor:/opt/workspace/install/ament_cmake_core:/opt/workspace/install/gtest_vendor:/opt/ros/eloquent LD_LIBRARY_PATH=/opt/workspace/install/rviz_rendering/lib:/opt/workspace/install/resource_retriever/lib:/opt/workspace/install/ament_index_cpp/lib:/opt/workspace/install/rviz_ogre_vendor/opt/rviz_ogre_vendor/lib:/opt/workspace/install/rviz_assimp_vendor/opt/rviz_assimp_vendor/lib:/opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib:${LD_LIBRARY_PATH} PATH=/opt/workspace/install/ament_uncrustify/bin:/opt/workspace/install/ament_lint_cmake/bin:/opt/workspace/install/ament_cpplint/bin:/opt/workspace/install/ament_cppcheck/bin:${PATH} PKG_CONFIG_PATH=/opt/workspace/install/gmock_vendor/lib/x86_64-linux-gnu/pkgconfig:/opt/workspace/install/gmock_vendor/lib/pkgconfig:/opt/workspace/install/gtest_vendor/lib/x86_64-linux-gnu/pkgconfig:/opt/workspace/install/gtest_vendor/lib/pkgconfig PYTHONPATH=/opt/workspace/install/ament_uncrustify/lib/python3.6/site-packages:/opt/workspace/install/ament_lint_cmake/lib/python3.6/site-packages:/opt/workspace/install/ament_cpplint/lib/python3.6/site-packages:/opt/workspace/install/ament_cmake_test/lib/python3.6/site-packages:/opt/workspace/install/ament_package/lib/python3.6/site-packages:/opt/workspace/install/ament_cppcheck/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/cmake /opt/workspace/src/ros2/rviz/rviz_rendering_tests -DCMAKE_INSTALL_PREFIX=/opt/workspace/install/rviz_rendering_tests
+[0.082s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[0.169s] -- The C compiler identification is GNU 7.4.0
+[0.262s] -- The CXX compiler identification is GNU 7.4.0
+[0.274s] -- Check for working C compiler: /usr/bin/cc
+[0.410s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.411s] -- Detecting C compiler ABI info
+[0.513s] -- Detecting C compiler ABI info - done
+[0.521s] -- Detecting C compile features
+[0.829s] -- Detecting C compile features - done
+[0.833s] -- Check for working CXX compiler: /usr/bin/c++
+[0.949s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.950s] -- Detecting CXX compiler ABI info
+[1.113s] -- Detecting CXX compiler ABI info - done
+[1.125s] -- Detecting CXX compile features
+[1.676s] -- Detecting CXX compile features - done
+[1.681s] -- Found ament_cmake: 0.8.2 (/opt/workspace/install/ament_cmake/share/ament_cmake/cmake)
+[1.744s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[1.744s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[2.118s] -- Found rviz_ogre_vendor: 7.0.4 (/opt/workspace/install/rviz_ogre_vendor/share/rviz_ogre_vendor/cmake)
+[2.119s] -- Setting OGRE_DIR to: '/opt/workspace/install/rviz_ogre_vendor/share/rviz_ogre_vendor/cmake/../../../opt/rviz_ogre_vendor/lib/OGRE/cmake'
+[2.124s] -- Found OGRE
+[2.124s] --   static     : OFF
+[2.124s] --   components : HLMS;MeshLodGenerator;Overlay;Paging;Property;RTShaderSystem;Terrain;Volume
+[2.124s] --   plugins    : Plugin_BSPSceneManager;Plugin_OctreeSceneManager;Plugin_PCZSceneManager;Plugin_ParticleFX;RenderSystem_GL;RenderSystem_GL3Plus;Codec_STBI;Codec_EXR
+[2.125s] --   media      : /opt/workspace/install/rviz_ogre_vendor/opt/rviz_ogre_vendor/share/OGRE/Media
+[2.125s] -- OGRE_LIBRARIES: OgreHLMS;OgreMeshLodGenerator;OgreOverlay;OgrePaging;OgreProperty;OgreRTShaderSystem;OgreTerrain;OgreVolume;OgreMain
+[2.125s] -- OGRE_LIBRARY_DIRS: /opt/workspace/install/rviz_ogre_vendor/opt/rviz_ogre_vendor/lib
+[2.125s] -- OGRE_PLUGINS: Plugin_BSPSceneManager;Plugin_OctreeSceneManager;Plugin_PCZSceneManager;Plugin_ParticleFX;RenderSystem_GL;RenderSystem_GL3Plus;Codec_STBI;Codec_EXR
+[2.125s] -- OGRE_PLUGIN_DIR: /opt/workspace/install/rviz_ogre_vendor/opt/rviz_ogre_vendor/lib/OGRE
+[2.125s] -- rviz_ogre_vendor::OgreOverlay for IMPORTED_LOCATION_RELEASE: /opt/workspace/install/rviz_ogre_vendor/opt/rviz_ogre_vendor/lib/libOgreOverlay.so
+[2.126s] -- rviz_ogre_vendor::OgreOverlay for IMPORTED_LOCATION_DEBUG: /opt/workspace/install/rviz_ogre_vendor/opt/rviz_ogre_vendor/lib/libOgreOverlay.so
+[2.126s] -- rviz_ogre_vendor::OgreMain for IMPORTED_LOCATION_RELEASE: /opt/workspace/install/rviz_ogre_vendor/opt/rviz_ogre_vendor/lib/libOgreMain.so
+[2.126s] -- rviz_ogre_vendor::OgreMain for IMPORTED_LOCATION_DEBUG: /opt/workspace/install/rviz_ogre_vendor/opt/rviz_ogre_vendor/lib/libOgreMain.so
+[2.136s] -- Could not find freeimage library
+[2.175s] -- Found ZLIB: /usr/lib/x86_64-linux-gnu/libz.so (found version "1.2.11") 
+[2.189s] -- Found OpenGL: /usr/lib/x86_64-linux-gnu/libOpenGL.so   
+[2.249s] -- Looking for XOpenDisplay in /usr/lib/x86_64-linux-gnu/libX11.so;/usr/lib/x86_64-linux-gnu/libXext.so
+[2.371s] -- Looking for XOpenDisplay in /usr/lib/x86_64-linux-gnu/libX11.so;/usr/lib/x86_64-linux-gnu/libXext.so - found
+[2.372s] -- Looking for gethostbyname
+[2.502s] -- Looking for gethostbyname - found
+[2.502s] -- Looking for connect
+[2.613s] -- Looking for connect - found
+[2.613s] -- Looking for remove
+[2.715s] -- Looking for remove - found
+[2.715s] -- Looking for shmat
+[2.826s] -- Looking for shmat - found
+[2.826s] -- Looking for IceConnectionNumber in ICE
+[2.924s] -- Looking for IceConnectionNumber in ICE - found
+[2.925s] -- Found X11: /usr/lib/x86_64-linux-gnu/libX11.so
+[2.928s] -- rviz_ogre_vendor::RenderSystem_GL for IMPORTED_LOCATION_RELEASE: _render_system_gl_static_library_abs-NOTFOUND
+[2.928s] -- rviz_ogre_vendor::RenderSystem_GL for IMPORTED_LOCATION_DEBUG: _render_system_gl_static_library_abs-NOTFOUND
+[2.953s] -- Found rviz_rendering: 7.0.4 (/opt/workspace/install/rviz_rendering/share/rviz_rendering/cmake)
+[2.986s] -- library: /usr/lib/x86_64-linux-gnu/libcurl.so
+[2.992s] -- Found ament_cmake_cppcheck: 0.8.1 (/opt/workspace/install/ament_cmake_cppcheck/share/ament_cmake_cppcheck/cmake)
+[2.995s] -- Found ament_cmake_cpplint: 0.8.1 (/opt/workspace/install/ament_cmake_cpplint/share/ament_cmake_cpplint/cmake)
+[2.998s] -- Found ament_cmake_lint_cmake: 0.8.1 (/opt/workspace/install/ament_cmake_lint_cmake/share/ament_cmake_lint_cmake/cmake)
+[3.000s] -- Found ament_cmake_uncrustify: 0.8.1 (/opt/workspace/install/ament_cmake_uncrustify/share/ament_cmake_uncrustify/cmake)
+[3.008s] -- Found ament_cmake_gtest: 0.8.2 (/opt/workspace/install/ament_cmake_gtest/share/ament_cmake_gtest/cmake)
+[3.011s] -- Found ament_cmake_gmock: 0.8.2 (/opt/workspace/install/ament_cmake_gmock/share/ament_cmake_gmock/cmake)
+[3.018s] -- Found gmock sources under '/opt/workspace/install/gmock_vendor/src/gmock_vendor': C++ tests using 'Google Mock' will be built
+[3.026s] -- Found gtest sources under '/opt/workspace/install/gtest_vendor/src/gtest_vendor': C++ tests using 'Google Test' will be built
+[3.031s] -- Looking for pthread.h
+[3.129s] -- Looking for pthread.h - found
+[3.129s] -- Looking for pthread_create
+[3.246s] -- Looking for pthread_create - not found
+[3.246s] -- Check if compiler accepts -pthread
+[3.383s] -- Check if compiler accepts -pthread - yes
+[3.385s] -- Found Threads: TRUE  
+[3.516s] -- Deploy OGRE media
+[3.521s] -- Configuring done
+[3.571s] -- Generating done
+[3.577s] -- Build files have been written to: /opt/workspace/build/rviz_rendering_tests
+[3.582s] Invoked command in '/opt/workspace/build/rviz_rendering_tests' returned '0': AMENT_PREFIX_PATH=/opt/workspace/install/rviz_rendering:/opt/workspace/install/resource_retriever:/opt/workspace/install/ament_index_cpp:/opt/workspace/install/eigen3_cmake_module:/opt/workspace/install/ament_cmake_uncrustify:/opt/workspace/install/ament_cmake_cpplint:/opt/workspace/install/ament_cmake_cppcheck:/opt/workspace/install/ament_uncrustify:/opt/workspace/install/uncrustify_vendor:/opt/workspace/install/rviz_ogre_vendor:/opt/workspace/install/rviz_assimp_vendor:/opt/workspace/install/libcurl_vendor:/opt/workspace/install/ament_cmake_lint_cmake:/opt/workspace/install/ament_cmake_gmock:/opt/workspace/install/ament_lint_cmake:/opt/workspace/install/ament_cpplint:/opt/workspace/install/ament_cmake_gtest:/opt/workspace/install/ament_cmake:/opt/workspace/install/ament_cmake_test:/opt/workspace/install/ament_cmake_target_dependencies:/opt/workspace/install/ament_cmake_export_interfaces:/opt/workspace/install/ament_cmake_export_dependencies:/opt/workspace/install/ament_cmake_version:/opt/workspace/install/ament_cmake_python:/opt/workspace/install/ament_cmake_libraries:/opt/workspace/install/ament_cmake_include_directories:/opt/workspace/install/ament_cmake_export_link_flags:/opt/workspace/install/ament_cmake_export_libraries:/opt/workspace/install/ament_cmake_export_include_directories:/opt/workspace/install/ament_cmake_export_definitions:/opt/workspace/install/ament_cmake_core:/opt/workspace/install/ament_package:/opt/workspace/install/ament_cppcheck:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/opt/workspace/install/rviz_rendering:/opt/workspace/install/resource_retriever:/opt/workspace/install/ament_index_cpp:/opt/workspace/install/eigen3_cmake_module:/opt/workspace/install/ament_cmake_uncrustify:/opt/workspace/install/ament_cmake_cpplint:/opt/workspace/install/ament_cmake_cppcheck:/opt/workspace/install/uncrustify_vendor:/opt/workspace/install/rviz_ogre_vendor:/opt/workspace/install/rviz_assimp_vendor:/opt/workspace/install/libcurl_vendor:/opt/workspace/install/ament_cmake_lint_cmake:/opt/workspace/install/ament_cmake_gmock:/opt/workspace/install/ament_cmake_gtest:/opt/workspace/install/ament_cmake:/opt/workspace/install/ament_cmake_test:/opt/workspace/install/ament_cmake_target_dependencies:/opt/workspace/install/ament_cmake_export_interfaces:/opt/workspace/install/ament_cmake_export_dependencies:/opt/workspace/install/ament_cmake_version:/opt/workspace/install/ament_cmake_python:/opt/workspace/install/ament_cmake_libraries:/opt/workspace/install/ament_cmake_include_directories:/opt/workspace/install/ament_cmake_export_link_flags:/opt/workspace/install/ament_cmake_export_libraries:/opt/workspace/install/ament_cmake_export_include_directories:/opt/workspace/install/ament_cmake_export_definitions:/opt/workspace/install/gmock_vendor:/opt/workspace/install/ament_cmake_core:/opt/workspace/install/gtest_vendor:/opt/ros/eloquent LD_LIBRARY_PATH=/opt/workspace/install/rviz_rendering/lib:/opt/workspace/install/resource_retriever/lib:/opt/workspace/install/ament_index_cpp/lib:/opt/workspace/install/rviz_ogre_vendor/opt/rviz_ogre_vendor/lib:/opt/workspace/install/rviz_assimp_vendor/opt/rviz_assimp_vendor/lib:/opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib:${LD_LIBRARY_PATH} PATH=/opt/workspace/install/ament_uncrustify/bin:/opt/workspace/install/ament_lint_cmake/bin:/opt/workspace/install/ament_cpplint/bin:/opt/workspace/install/ament_cppcheck/bin:${PATH} PKG_CONFIG_PATH=/opt/workspace/install/gmock_vendor/lib/x86_64-linux-gnu/pkgconfig:/opt/workspace/install/gmock_vendor/lib/pkgconfig:/opt/workspace/install/gtest_vendor/lib/x86_64-linux-gnu/pkgconfig:/opt/workspace/install/gtest_vendor/lib/pkgconfig PYTHONPATH=/opt/workspace/install/ament_uncrustify/lib/python3.6/site-packages:/opt/workspace/install/ament_lint_cmake/lib/python3.6/site-packages:/opt/workspace/install/ament_cpplint/lib/python3.6/site-packages:/opt/workspace/install/ament_cmake_test/lib/python3.6/site-packages:/opt/workspace/install/ament_package/lib/python3.6/site-packages:/opt/workspace/install/ament_cppcheck/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/cmake /opt/workspace/src/ros2/rviz/rviz_rendering_tests -DCMAKE_INSTALL_PREFIX=/opt/workspace/install/rviz_rendering_tests
+[3.585s] Invoking command in '/opt/workspace/build/rviz_rendering_tests': AMENT_PREFIX_PATH=/opt/workspace/install/rviz_rendering:/opt/workspace/install/resource_retriever:/opt/workspace/install/ament_index_cpp:/opt/workspace/install/eigen3_cmake_module:/opt/workspace/install/ament_cmake_uncrustify:/opt/workspace/install/ament_cmake_cpplint:/opt/workspace/install/ament_cmake_cppcheck:/opt/workspace/install/ament_uncrustify:/opt/workspace/install/uncrustify_vendor:/opt/workspace/install/rviz_ogre_vendor:/opt/workspace/install/rviz_assimp_vendor:/opt/workspace/install/libcurl_vendor:/opt/workspace/install/ament_cmake_lint_cmake:/opt/workspace/install/ament_cmake_gmock:/opt/workspace/install/ament_lint_cmake:/opt/workspace/install/ament_cpplint:/opt/workspace/install/ament_cmake_gtest:/opt/workspace/install/ament_cmake:/opt/workspace/install/ament_cmake_test:/opt/workspace/install/ament_cmake_target_dependencies:/opt/workspace/install/ament_cmake_export_interfaces:/opt/workspace/install/ament_cmake_export_dependencies:/opt/workspace/install/ament_cmake_version:/opt/workspace/install/ament_cmake_python:/opt/workspace/install/ament_cmake_libraries:/opt/workspace/install/ament_cmake_include_directories:/opt/workspace/install/ament_cmake_export_link_flags:/opt/workspace/install/ament_cmake_export_libraries:/opt/workspace/install/ament_cmake_export_include_directories:/opt/workspace/install/ament_cmake_export_definitions:/opt/workspace/install/ament_cmake_core:/opt/workspace/install/ament_package:/opt/workspace/install/ament_cppcheck:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/opt/workspace/install/rviz_rendering:/opt/workspace/install/resource_retriever:/opt/workspace/install/ament_index_cpp:/opt/workspace/install/eigen3_cmake_module:/opt/workspace/install/ament_cmake_uncrustify:/opt/workspace/install/ament_cmake_cpplint:/opt/workspace/install/ament_cmake_cppcheck:/opt/workspace/install/uncrustify_vendor:/opt/workspace/install/rviz_ogre_vendor:/opt/workspace/install/rviz_assimp_vendor:/opt/workspace/install/libcurl_vendor:/opt/workspace/install/ament_cmake_lint_cmake:/opt/workspace/install/ament_cmake_gmock:/opt/workspace/install/ament_cmake_gtest:/opt/workspace/install/ament_cmake:/opt/workspace/install/ament_cmake_test:/opt/workspace/install/ament_cmake_target_dependencies:/opt/workspace/install/ament_cmake_export_interfaces:/opt/workspace/install/ament_cmake_export_dependencies:/opt/workspace/install/ament_cmake_version:/opt/workspace/install/ament_cmake_python:/opt/workspace/install/ament_cmake_libraries:/opt/workspace/install/ament_cmake_include_directories:/opt/workspace/install/ament_cmake_export_link_flags:/opt/workspace/install/ament_cmake_export_libraries:/opt/workspace/install/ament_cmake_export_include_directories:/opt/workspace/install/ament_cmake_export_definitions:/opt/workspace/install/gmock_vendor:/opt/workspace/install/ament_cmake_core:/opt/workspace/install/gtest_vendor:/opt/ros/eloquent LD_LIBRARY_PATH=/opt/workspace/install/rviz_rendering/lib:/opt/workspace/install/resource_retriever/lib:/opt/workspace/install/ament_index_cpp/lib:/opt/workspace/install/rviz_ogre_vendor/opt/rviz_ogre_vendor/lib:/opt/workspace/install/rviz_assimp_vendor/opt/rviz_assimp_vendor/lib:/opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib:${LD_LIBRARY_PATH} PATH=/opt/workspace/install/ament_uncrustify/bin:/opt/workspace/install/ament_lint_cmake/bin:/opt/workspace/install/ament_cpplint/bin:/opt/workspace/install/ament_cppcheck/bin:${PATH} PKG_CONFIG_PATH=/opt/workspace/install/gmock_vendor/lib/x86_64-linux-gnu/pkgconfig:/opt/workspace/install/gmock_vendor/lib/pkgconfig:/opt/workspace/install/gtest_vendor/lib/x86_64-linux-gnu/pkgconfig:/opt/workspace/install/gtest_vendor/lib/pkgconfig PYTHONPATH=/opt/workspace/install/ament_uncrustify/lib/python3.6/site-packages:/opt/workspace/install/ament_lint_cmake/lib/python3.6/site-packages:/opt/workspace/install/ament_cpplint/lib/python3.6/site-packages:/opt/workspace/install/ament_cmake_test/lib/python3.6/site-packages:/opt/workspace/install/ament_package/lib/python3.6/site-packages:/opt/workspace/install/ament_cppcheck/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/cmake --build /opt/workspace/build/rviz_rendering_tests -- -j8 -l8
+[3.594s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[3.610s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[3.628s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[3.646s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[3.647s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[3.655s] [35m[1mScanning dependencies of target gmock_autogen[0m
+[3.655s] [35m[1mScanning dependencies of target gmock_main_autogen[0m
+[3.663s] /usr/bin/cmake/usr/bin/cmake: : /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[3.664s] /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[3.672s] [  8%] [34m[1mAutomatic MOC for target gmock[0m
+[3.672s] [  8%] [34m[1mAutomatic MOC for target gmock_main[0m
+[3.677s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[3.677s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[3.703s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[3.703s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[3.711s] [  8%] Built target gmock_autogen
+[3.711s] [  8%] Built target gmock_main_autogen
+[3.719s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[3.727s] [35m[1mScanning dependencies of target gtest_main_autogen[0m
+[3.736s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[3.744s] [ 12%] [34m[1mAutomatic MOC for target gtest_main[0m
+[3.749s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[3.773s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[3.779s] [ 12%] Built target gtest_main_autogen
+[3.785s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[3.791s] [35m[1mScanning dependencies of target gmock[0m
+[3.825s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[3.827s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[3.832s] [ 16%] [32mBuilding CXX object gmock/CMakeFiles/gmock.dir/src/gmock-all.cc.o[0m
+[3.833s] [ 20%] [32mBuilding CXX object gmock/CMakeFiles/gmock.dir/opt/workspace/install/gtest_vendor/src/gtest_vendor/src/gtest-all.cc.o[0m
+[6.476s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[6.486s] [ 24%] [32mBuilding CXX object gmock/CMakeFiles/gmock.dir/gmock_autogen/mocs_compilation.cpp.o[0m
+[8.876s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[8.886s] [ 28%] [32m[1mLinking CXX static library libgmock.a[0m
+[8.893s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[8.943s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[9.070s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[9.079s] [ 28%] Built target gmock
+[9.128s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[9.143s] [35m[1mScanning dependencies of target gtest_main[0m
+[9.160s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[9.174s] [35m[1mScanning dependencies of target gmock_main[0m
+[9.216s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[9.217s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[9.229s] [ 32%] [32mBuilding CXX object gtest/CMakeFiles/gtest_main.dir/gtest_main_autogen/mocs_compilation.cpp.o[0m
+[9.231s] [ 36%] [32mBuilding CXX object gmock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o[0m
+[9.243s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[9.263s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[9.273s] [ 40%] [32mBuilding CXX object gtest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o[0m
+[9.287s] [ 44%] [32mBuilding CXX object gmock/CMakeFiles/gmock_main.dir/gmock_main_autogen/mocs_compilation.cpp.o[0m
+[11.318s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[11.343s] [ 48%] [32m[1mLinking CXX static library libgtest_main.a[0m
+[11.402s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[11.471s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[11.583s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[11.592s] [ 48%] Built target gtest_main
+[11.666s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[11.677s] [ 52%] [32m[1mLinking CXX static library libgmock_main.a[0m
+[11.711s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[11.747s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[11.843s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[11.854s] [ 52%] Built target gmock_main
+[11.943s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[11.953s] [35m[1mScanning dependencies of target gtest_autogen[0m
+[12.031s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[12.040s] [ 56%] [34m[1mAutomatic MOC for target gtest[0m
+[12.069s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[12.179s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[12.197s] [ 56%] Built target gtest_autogen
+[12.247s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[12.256s] [35m[1mScanning dependencies of target mesh_loader_test_target_autogen[0m
+[12.276s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[12.285s] [ 60%] [34m[1mAutomatic MOC for target mesh_loader_test_target[0m
+[12.292s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[12.322s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[12.331s] [ 60%] Built target mesh_loader_test_target_autogen
+[12.341s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[12.351s] [35m[1mScanning dependencies of target gtest[0m
+[12.383s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[12.392s] [ 64%] [32mBuilding CXX object gtest/CMakeFiles/gtest.dir/src/gtest-all.cc.o[0m
+[17.029s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[17.038s] [ 68%] [32mBuilding CXX object gtest/CMakeFiles/gtest.dir/gtest_autogen/mocs_compilation.cpp.o[0m
+[17.064s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[17.073s] [ 72%] [32m[1mLinking CXX static library libgtest.a[0m
+[17.079s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[17.095s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[17.157s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[17.163s] [ 72%] Built target gtest
+[17.171s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[17.178s] [35m[1mScanning dependencies of target mesh_loader_test_target[0m
+[17.253s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[17.259s] [ 76%] [32mBuilding CXX object CMakeFiles/mesh_loader_test_target.dir/test/mesh_loader_test.cpp.o[0m
+[20.518s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[20.524s] [ 80%] [32mBuilding CXX object CMakeFiles/mesh_loader_test_target.dir/mesh_loader_test_target_autogen/mocs_compilation.cpp.o[0m
+[20.543s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[20.549s] [ 84%] [32m[1mLinking CXX executable mesh_loader_test_target[0m
+[20.552s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[21.102s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[21.107s] [ 84%] Built target mesh_loader_test_target
+[21.113s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[21.119s] [35m[1mScanning dependencies of target test_rviz_rendering_tests_autogen[0m
+[21.126s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[21.134s] [ 88%] [34m[1mAutomatic MOC for target test_rviz_rendering_tests[0m
+[21.139s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[21.160s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[21.169s] [ 88%] Built target test_rviz_rendering_tests_autogen
+[21.175s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[21.181s] [35m[1mScanning dependencies of target test_rviz_rendering_tests[0m
+[21.197s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[21.198s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[21.202s] [ 92%] [32mBuilding CXX object CMakeFiles/test_rviz_rendering_tests.dir/test/test_rviz_ogre_media_exports.cpp.o[0m
+[21.203s] [ 96%] [32mBuilding CXX object CMakeFiles/test_rviz_rendering_tests.dir/test_rviz_rendering_tests_autogen/mocs_compilation.cpp.o[0m
+[22.229s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[22.234s] [100%] [32m[1mLinking CXX executable test_rviz_rendering_tests[0m
+[22.239s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[22.443s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[22.449s] [100%] Built target test_rviz_rendering_tests
+[22.453s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[22.463s] Invoked command in '/opt/workspace/build/rviz_rendering_tests' returned '0': AMENT_PREFIX_PATH=/opt/workspace/install/rviz_rendering:/opt/workspace/install/resource_retriever:/opt/workspace/install/ament_index_cpp:/opt/workspace/install/eigen3_cmake_module:/opt/workspace/install/ament_cmake_uncrustify:/opt/workspace/install/ament_cmake_cpplint:/opt/workspace/install/ament_cmake_cppcheck:/opt/workspace/install/ament_uncrustify:/opt/workspace/install/uncrustify_vendor:/opt/workspace/install/rviz_ogre_vendor:/opt/workspace/install/rviz_assimp_vendor:/opt/workspace/install/libcurl_vendor:/opt/workspace/install/ament_cmake_lint_cmake:/opt/workspace/install/ament_cmake_gmock:/opt/workspace/install/ament_lint_cmake:/opt/workspace/install/ament_cpplint:/opt/workspace/install/ament_cmake_gtest:/opt/workspace/install/ament_cmake:/opt/workspace/install/ament_cmake_test:/opt/workspace/install/ament_cmake_target_dependencies:/opt/workspace/install/ament_cmake_export_interfaces:/opt/workspace/install/ament_cmake_export_dependencies:/opt/workspace/install/ament_cmake_version:/opt/workspace/install/ament_cmake_python:/opt/workspace/install/ament_cmake_libraries:/opt/workspace/install/ament_cmake_include_directories:/opt/workspace/install/ament_cmake_export_link_flags:/opt/workspace/install/ament_cmake_export_libraries:/opt/workspace/install/ament_cmake_export_include_directories:/opt/workspace/install/ament_cmake_export_definitions:/opt/workspace/install/ament_cmake_core:/opt/workspace/install/ament_package:/opt/workspace/install/ament_cppcheck:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/opt/workspace/install/rviz_rendering:/opt/workspace/install/resource_retriever:/opt/workspace/install/ament_index_cpp:/opt/workspace/install/eigen3_cmake_module:/opt/workspace/install/ament_cmake_uncrustify:/opt/workspace/install/ament_cmake_cpplint:/opt/workspace/install/ament_cmake_cppcheck:/opt/workspace/install/uncrustify_vendor:/opt/workspace/install/rviz_ogre_vendor:/opt/workspace/install/rviz_assimp_vendor:/opt/workspace/install/libcurl_vendor:/opt/workspace/install/ament_cmake_lint_cmake:/opt/workspace/install/ament_cmake_gmock:/opt/workspace/install/ament_cmake_gtest:/opt/workspace/install/ament_cmake:/opt/workspace/install/ament_cmake_test:/opt/workspace/install/ament_cmake_target_dependencies:/opt/workspace/install/ament_cmake_export_interfaces:/opt/workspace/install/ament_cmake_export_dependencies:/opt/workspace/install/ament_cmake_version:/opt/workspace/install/ament_cmake_python:/opt/workspace/install/ament_cmake_libraries:/opt/workspace/install/ament_cmake_include_directories:/opt/workspace/install/ament_cmake_export_link_flags:/opt/workspace/install/ament_cmake_export_libraries:/opt/workspace/install/ament_cmake_export_include_directories:/opt/workspace/install/ament_cmake_export_definitions:/opt/workspace/install/gmock_vendor:/opt/workspace/install/ament_cmake_core:/opt/workspace/install/gtest_vendor:/opt/ros/eloquent LD_LIBRARY_PATH=/opt/workspace/install/rviz_rendering/lib:/opt/workspace/install/resource_retriever/lib:/opt/workspace/install/ament_index_cpp/lib:/opt/workspace/install/rviz_ogre_vendor/opt/rviz_ogre_vendor/lib:/opt/workspace/install/rviz_assimp_vendor/opt/rviz_assimp_vendor/lib:/opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib:${LD_LIBRARY_PATH} PATH=/opt/workspace/install/ament_uncrustify/bin:/opt/workspace/install/ament_lint_cmake/bin:/opt/workspace/install/ament_cpplint/bin:/opt/workspace/install/ament_cppcheck/bin:${PATH} PKG_CONFIG_PATH=/opt/workspace/install/gmock_vendor/lib/x86_64-linux-gnu/pkgconfig:/opt/workspace/install/gmock_vendor/lib/pkgconfig:/opt/workspace/install/gtest_vendor/lib/x86_64-linux-gnu/pkgconfig:/opt/workspace/install/gtest_vendor/lib/pkgconfig PYTHONPATH=/opt/workspace/install/ament_uncrustify/lib/python3.6/site-packages:/opt/workspace/install/ament_lint_cmake/lib/python3.6/site-packages:/opt/workspace/install/ament_cpplint/lib/python3.6/site-packages:/opt/workspace/install/ament_cmake_test/lib/python3.6/site-packages:/opt/workspace/install/ament_package/lib/python3.6/site-packages:/opt/workspace/install/ament_cppcheck/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/cmake --build /opt/workspace/build/rviz_rendering_tests -- -j8 -l8
+[22.517s] Invoking command in '/opt/workspace/build/rviz_rendering_tests': AMENT_PREFIX_PATH=/opt/workspace/install/rviz_rendering:/opt/workspace/install/resource_retriever:/opt/workspace/install/ament_index_cpp:/opt/workspace/install/eigen3_cmake_module:/opt/workspace/install/ament_cmake_uncrustify:/opt/workspace/install/ament_cmake_cpplint:/opt/workspace/install/ament_cmake_cppcheck:/opt/workspace/install/ament_uncrustify:/opt/workspace/install/uncrustify_vendor:/opt/workspace/install/rviz_ogre_vendor:/opt/workspace/install/rviz_assimp_vendor:/opt/workspace/install/libcurl_vendor:/opt/workspace/install/ament_cmake_lint_cmake:/opt/workspace/install/ament_cmake_gmock:/opt/workspace/install/ament_lint_cmake:/opt/workspace/install/ament_cpplint:/opt/workspace/install/ament_cmake_gtest:/opt/workspace/install/ament_cmake:/opt/workspace/install/ament_cmake_test:/opt/workspace/install/ament_cmake_target_dependencies:/opt/workspace/install/ament_cmake_export_interfaces:/opt/workspace/install/ament_cmake_export_dependencies:/opt/workspace/install/ament_cmake_version:/opt/workspace/install/ament_cmake_python:/opt/workspace/install/ament_cmake_libraries:/opt/workspace/install/ament_cmake_include_directories:/opt/workspace/install/ament_cmake_export_link_flags:/opt/workspace/install/ament_cmake_export_libraries:/opt/workspace/install/ament_cmake_export_include_directories:/opt/workspace/install/ament_cmake_export_definitions:/opt/workspace/install/ament_cmake_core:/opt/workspace/install/ament_package:/opt/workspace/install/ament_cppcheck:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/opt/workspace/install/rviz_rendering:/opt/workspace/install/resource_retriever:/opt/workspace/install/ament_index_cpp:/opt/workspace/install/eigen3_cmake_module:/opt/workspace/install/ament_cmake_uncrustify:/opt/workspace/install/ament_cmake_cpplint:/opt/workspace/install/ament_cmake_cppcheck:/opt/workspace/install/uncrustify_vendor:/opt/workspace/install/rviz_ogre_vendor:/opt/workspace/install/rviz_assimp_vendor:/opt/workspace/install/libcurl_vendor:/opt/workspace/install/ament_cmake_lint_cmake:/opt/workspace/install/ament_cmake_gmock:/opt/workspace/install/ament_cmake_gtest:/opt/workspace/install/ament_cmake:/opt/workspace/install/ament_cmake_test:/opt/workspace/install/ament_cmake_target_dependencies:/opt/workspace/install/ament_cmake_export_interfaces:/opt/workspace/install/ament_cmake_export_dependencies:/opt/workspace/install/ament_cmake_version:/opt/workspace/install/ament_cmake_python:/opt/workspace/install/ament_cmake_libraries:/opt/workspace/install/ament_cmake_include_directories:/opt/workspace/install/ament_cmake_export_link_flags:/opt/workspace/install/ament_cmake_export_libraries:/opt/workspace/install/ament_cmake_export_include_directories:/opt/workspace/install/ament_cmake_export_definitions:/opt/workspace/install/gmock_vendor:/opt/workspace/install/ament_cmake_core:/opt/workspace/install/gtest_vendor:/opt/ros/eloquent LD_LIBRARY_PATH=/opt/workspace/install/rviz_rendering/lib:/opt/workspace/install/resource_retriever/lib:/opt/workspace/install/ament_index_cpp/lib:/opt/workspace/install/rviz_ogre_vendor/opt/rviz_ogre_vendor/lib:/opt/workspace/install/rviz_assimp_vendor/opt/rviz_assimp_vendor/lib:/opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib:${LD_LIBRARY_PATH} PATH=/opt/workspace/install/ament_uncrustify/bin:/opt/workspace/install/ament_lint_cmake/bin:/opt/workspace/install/ament_cpplint/bin:/opt/workspace/install/ament_cppcheck/bin:${PATH} PKG_CONFIG_PATH=/opt/workspace/install/gmock_vendor/lib/x86_64-linux-gnu/pkgconfig:/opt/workspace/install/gmock_vendor/lib/pkgconfig:/opt/workspace/install/gtest_vendor/lib/x86_64-linux-gnu/pkgconfig:/opt/workspace/install/gtest_vendor/lib/pkgconfig PYTHONPATH=/opt/workspace/install/ament_uncrustify/lib/python3.6/site-packages:/opt/workspace/install/ament_lint_cmake/lib/python3.6/site-packages:/opt/workspace/install/ament_cpplint/lib/python3.6/site-packages:/opt/workspace/install/ament_cmake_test/lib/python3.6/site-packages:/opt/workspace/install/ament_package/lib/python3.6/site-packages:/opt/workspace/install/ament_cppcheck/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/cmake --build /opt/workspace/build/rviz_rendering_tests --target install -- -j8 -l8
+[22.524s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[22.542s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[22.561s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[22.579s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[22.580s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[22.597s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[22.600s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[22.607s] [  4%] [34m[1mAutomatic MOC for target gmock_main[0m
+[22.609s] [  8%] [34m[1mAutomatic MOC for target gmock[0m
+[22.615s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[22.616s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[22.633s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[22.634s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[22.643s] [  8%] Built target gmock_autogen
+[22.645s] [  8%] Built target gmock_main_autogen
+[22.653s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[22.656s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[22.671s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[22.678s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[22.681s] [ 12%] [34m[1mAutomatic MOC for target gtest_main[0m
+[22.687s] [ 28%] Built target gmock
+[22.688s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[22.697s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[22.706s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[22.717s] [ 28%] Built target gtest_main_autogen
+[22.719s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[22.727s] [ 40%] Built target gmock_main
+[22.731s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[22.737s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[22.753s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[22.759s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[22.763s] [ 44%] [34m[1mAutomatic MOC for target gtest[0m
+[22.769s] [ 56%] Built target gtest_main
+[22.770s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[22.784s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[22.786s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[22.794s] [ 56%] Built target gtest_autogen
+[22.804s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[22.805s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[22.814s] [ 60%] [34m[1mAutomatic MOC for target mesh_loader_test_target[0m
+[22.821s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[22.843s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[22.850s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[22.852s] [ 72%] Built target gtest
+[22.863s] [ 72%] Built target mesh_loader_test_target_autogen
+[22.873s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[22.876s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[22.894s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[22.903s] [ 76%] [34m[1mAutomatic MOC for target test_rviz_rendering_tests[0m
+[22.910s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[22.911s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[22.921s] [ 88%] Built target mesh_loader_test_target
+[22.928s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[22.938s] [ 88%] Built target test_rviz_rendering_tests_autogen
+[22.948s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[22.970s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[22.979s] [100%] Built target test_rviz_rendering_tests
+[22.987s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[23.008s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[23.018s] [36mInstall the project...[0m
+[23.026s] /usr/bin/cmake: /opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+[23.037s] -- Install configuration: ""
+[23.037s] -- Installing: /opt/workspace/install/rviz_rendering_tests/share/rviz_rendering_tests/test_meshes
+[23.038s] -- Installing: /opt/workspace/install/rviz_rendering_tests/share/rviz_rendering_tests/test_meshes/ax12_box.stl
+[23.043s] -- Installing: /opt/workspace/install/rviz_rendering_tests/share/rviz_rendering_tests/test_meshes/base_normals.png
+[23.044s] -- Installing: /opt/workspace/install/rviz_rendering_tests/share/rviz_rendering_tests/test_meshes/16bit_vs_32bit_should_fail.stl
+[23.045s] -- Installing: /opt/workspace/install/rviz_rendering_tests/share/rviz_rendering_tests/test_meshes/base_color.png
+[23.046s] -- Installing: /opt/workspace/install/rviz_rendering_tests/share/rviz_rendering_tests/test_meshes/finger.stl
+[23.047s] -- Installing: /opt/workspace/install/rviz_rendering_tests/share/rviz_rendering_tests/test_meshes/F4.stl
+[23.050s] -- Installing: /opt/workspace/install/rviz_rendering_tests/share/rviz_rendering_tests/test_meshes/F10.stl
+[23.052s] -- Installing: /opt/workspace/install/rviz_rendering_tests/share/rviz_rendering_tests/test_meshes/test.urdf
+[23.052s] -- Installing: /opt/workspace/install/rviz_rendering_tests/share/rviz_rendering_tests/test_meshes/F3.stl
+[23.053s] -- Installing: /opt/workspace/install/rviz_rendering_tests/share/rviz_rendering_tests/test_meshes/pr2-base.dae
+[23.054s] -- Installing: /opt/workspace/install/rviz_rendering_tests/share/rviz_rendering_tests/test_meshes/README
+[23.054s] -- Installing: /opt/workspace/install/rviz_rendering_tests/share/rviz_rendering_tests/test_meshes/invalid_short.stl
+[23.054s] -- Installing: /opt/workspace/install/rviz_rendering_tests/share/rviz_rendering_tests/test_meshes/ascii.stl
+[23.055s] -- Installing: /opt/workspace/install/rviz_rendering_tests/share/rviz_rendering_tests/test_meshes/F2.stl
+[23.056s] -- Installing: /opt/workspace/install/rviz_rendering_tests/share/rviz_rendering_tests/test_meshes/valid_extra.stl
+[23.057s] -- Installing: /opt/workspace/install/rviz_rendering_tests/share/rviz_rendering_tests/test_meshes/valid.stl
+[23.057s] -- Installing: /opt/workspace/install/rviz_rendering_tests/share/rviz_rendering_tests/test_meshes/invalid.stl
+[23.058s] -- Installing: /opt/workspace/install/rviz_rendering_tests/share/rviz_rendering_tests/test_meshes/pr2-base_large.dae
+[23.060s] -- Installing: /opt/workspace/install/rviz_rendering_tests/share/ament_index/resource_index/package_run_dependencies/rviz_rendering_tests
+[23.060s] -- Installing: /opt/workspace/install/rviz_rendering_tests/share/ament_index/resource_index/parent_prefix_path/rviz_rendering_tests
+[23.061s] -- Installing: /opt/workspace/install/rviz_rendering_tests/share/rviz_rendering_tests/environment/ament_prefix_path.sh
+[23.061s] -- Installing: /opt/workspace/install/rviz_rendering_tests/share/rviz_rendering_tests/environment/ament_prefix_path.dsv
+[23.061s] -- Installing: /opt/workspace/install/rviz_rendering_tests/share/rviz_rendering_tests/environment/path.sh
+[23.062s] -- Installing: /opt/workspace/install/rviz_rendering_tests/share/rviz_rendering_tests/environment/path.dsv
+[23.062s] -- Installing: /opt/workspace/install/rviz_rendering_tests/share/rviz_rendering_tests/local_setup.bash
+[23.062s] -- Installing: /opt/workspace/install/rviz_rendering_tests/share/rviz_rendering_tests/local_setup.sh
+[23.063s] -- Installing: /opt/workspace/install/rviz_rendering_tests/share/rviz_rendering_tests/local_setup.zsh
+[23.063s] -- Installing: /opt/workspace/install/rviz_rendering_tests/share/rviz_rendering_tests/local_setup.dsv
+[23.063s] -- Installing: /opt/workspace/install/rviz_rendering_tests/share/rviz_rendering_tests/package.dsv
+[23.064s] -- Installing: /opt/workspace/install/rviz_rendering_tests/share/ament_index/resource_index/packages/rviz_rendering_tests
+[23.065s] -- Installing: /opt/workspace/install/rviz_rendering_tests/share/rviz_rendering_tests/ogre_media_resources/scripts
+[23.065s] -- Installing: /opt/workspace/install/rviz_rendering_tests/share/rviz_rendering_tests/ogre_media_resources/scripts/test
+[23.065s] -- Installing: /opt/workspace/install/rviz_rendering_tests/share/rviz_rendering_tests/ogre_media_resources/meshes
+[23.065s] -- Installing: /opt/workspace/install/rviz_rendering_tests/share/rviz_rendering_tests/ogre_media_resources/meshes/test
+[23.066s] -- Installing: /opt/workspace/install/rviz_rendering_tests/share/ament_index/resource_index/rviz_ogre_media_exports/rviz_rendering_tests
+[23.066s] -- Installing: /opt/workspace/install/rviz_rendering_tests/share/rviz_rendering_tests/cmake/rviz_rendering_testsConfig.cmake
+[23.066s] -- Installing: /opt/workspace/install/rviz_rendering_tests/share/rviz_rendering_tests/cmake/rviz_rendering_testsConfig-version.cmake
+[23.067s] -- Installing: /opt/workspace/install/rviz_rendering_tests/share/rviz_rendering_tests/package.xml
+[23.079s] Invoked command in '/opt/workspace/build/rviz_rendering_tests' returned '0': AMENT_PREFIX_PATH=/opt/workspace/install/rviz_rendering:/opt/workspace/install/resource_retriever:/opt/workspace/install/ament_index_cpp:/opt/workspace/install/eigen3_cmake_module:/opt/workspace/install/ament_cmake_uncrustify:/opt/workspace/install/ament_cmake_cpplint:/opt/workspace/install/ament_cmake_cppcheck:/opt/workspace/install/ament_uncrustify:/opt/workspace/install/uncrustify_vendor:/opt/workspace/install/rviz_ogre_vendor:/opt/workspace/install/rviz_assimp_vendor:/opt/workspace/install/libcurl_vendor:/opt/workspace/install/ament_cmake_lint_cmake:/opt/workspace/install/ament_cmake_gmock:/opt/workspace/install/ament_lint_cmake:/opt/workspace/install/ament_cpplint:/opt/workspace/install/ament_cmake_gtest:/opt/workspace/install/ament_cmake:/opt/workspace/install/ament_cmake_test:/opt/workspace/install/ament_cmake_target_dependencies:/opt/workspace/install/ament_cmake_export_interfaces:/opt/workspace/install/ament_cmake_export_dependencies:/opt/workspace/install/ament_cmake_version:/opt/workspace/install/ament_cmake_python:/opt/workspace/install/ament_cmake_libraries:/opt/workspace/install/ament_cmake_include_directories:/opt/workspace/install/ament_cmake_export_link_flags:/opt/workspace/install/ament_cmake_export_libraries:/opt/workspace/install/ament_cmake_export_include_directories:/opt/workspace/install/ament_cmake_export_definitions:/opt/workspace/install/ament_cmake_core:/opt/workspace/install/ament_package:/opt/workspace/install/ament_cppcheck:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/opt/workspace/install/rviz_rendering:/opt/workspace/install/resource_retriever:/opt/workspace/install/ament_index_cpp:/opt/workspace/install/eigen3_cmake_module:/opt/workspace/install/ament_cmake_uncrustify:/opt/workspace/install/ament_cmake_cpplint:/opt/workspace/install/ament_cmake_cppcheck:/opt/workspace/install/uncrustify_vendor:/opt/workspace/install/rviz_ogre_vendor:/opt/workspace/install/rviz_assimp_vendor:/opt/workspace/install/libcurl_vendor:/opt/workspace/install/ament_cmake_lint_cmake:/opt/workspace/install/ament_cmake_gmock:/opt/workspace/install/ament_cmake_gtest:/opt/workspace/install/ament_cmake:/opt/workspace/install/ament_cmake_test:/opt/workspace/install/ament_cmake_target_dependencies:/opt/workspace/install/ament_cmake_export_interfaces:/opt/workspace/install/ament_cmake_export_dependencies:/opt/workspace/install/ament_cmake_version:/opt/workspace/install/ament_cmake_python:/opt/workspace/install/ament_cmake_libraries:/opt/workspace/install/ament_cmake_include_directories:/opt/workspace/install/ament_cmake_export_link_flags:/opt/workspace/install/ament_cmake_export_libraries:/opt/workspace/install/ament_cmake_export_include_directories:/opt/workspace/install/ament_cmake_export_definitions:/opt/workspace/install/gmock_vendor:/opt/workspace/install/ament_cmake_core:/opt/workspace/install/gtest_vendor:/opt/ros/eloquent LD_LIBRARY_PATH=/opt/workspace/install/rviz_rendering/lib:/opt/workspace/install/resource_retriever/lib:/opt/workspace/install/ament_index_cpp/lib:/opt/workspace/install/rviz_ogre_vendor/opt/rviz_ogre_vendor/lib:/opt/workspace/install/rviz_assimp_vendor/opt/rviz_assimp_vendor/lib:/opt/workspace/install/libcurl_vendor/opt/libcurl_vendor/lib:${LD_LIBRARY_PATH} PATH=/opt/workspace/install/ament_uncrustify/bin:/opt/workspace/install/ament_lint_cmake/bin:/opt/workspace/install/ament_cpplint/bin:/opt/workspace/install/ament_cppcheck/bin:${PATH} PKG_CONFIG_PATH=/opt/workspace/install/gmock_vendor/lib/x86_64-linux-gnu/pkgconfig:/opt/workspace/install/gmock_vendor/lib/pkgconfig:/opt/workspace/install/gtest_vendor/lib/x86_64-linux-gnu/pkgconfig:/opt/workspace/install/gtest_vendor/lib/pkgconfig PYTHONPATH=/opt/workspace/install/ament_uncrustify/lib/python3.6/site-packages:/opt/workspace/install/ament_lint_cmake/lib/python3.6/site-packages:/opt/workspace/install/ament_cpplint/lib/python3.6/site-packages:/opt/workspace/install/ament_cmake_test/lib/python3.6/site-packages:/opt/workspace/install/ament_package/lib/python3.6/site-packages:/opt/workspace/install/ament_cppcheck/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/cmake --build /opt/workspace/build/rviz_rendering_tests --target install -- -j8 -l8

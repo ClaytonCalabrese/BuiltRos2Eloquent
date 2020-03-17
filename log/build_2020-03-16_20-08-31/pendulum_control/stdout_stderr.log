@@ -1,0 +1,92 @@
+[0.641s] -- The C compiler identification is GNU 7.4.0
+[0.770s] -- The CXX compiler identification is GNU 7.4.0
+[0.783s] -- Check for working C compiler: /usr/bin/cc
+[0.950s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.952s] -- Detecting C compiler ABI info
+[1.188s] -- Detecting C compiler ABI info - done
+[1.202s] -- Detecting C compile features
+[1.755s] -- Detecting C compile features - done
+[1.761s] -- Check for working CXX compiler: /usr/bin/c++
+[1.982s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[1.984s] -- Detecting CXX compiler ABI info
+[2.196s] -- Detecting CXX compiler ABI info - done
+[2.209s] -- Detecting CXX compile features
+[3.092s] -- Detecting CXX compile features - done
+[3.107s] -- Found ament_cmake: 0.8.2 (/opt/workspace/install/ament_cmake/share/ament_cmake/cmake)
+[3.232s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[3.233s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[3.925s] -- Found rclcpp: 0.8.4 (/opt/workspace/install/rclcpp/share/rclcpp/cmake)
+[4.059s] -- Found rosidl_adapter: 0.8.2 (/opt/workspace/install/rosidl_adapter/share/rosidl_adapter/cmake)
+[4.158s] -- Found rmw_implementation_cmake: 0.8.1 (/opt/workspace/install/rmw_implementation_cmake/share/rmw_implementation_cmake/cmake)
+[4.177s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[4.179s] -- Looking for pthread.h
+[4.352s] -- Looking for pthread.h - found
+[4.353s] -- Looking for pthread_create
+[4.536s] -- Looking for pthread_create - not found
+[4.537s] -- Looking for pthread_create in pthreads
+[4.705s] -- Looking for pthread_create in pthreads - not found
+[4.706s] -- Looking for pthread_create in pthread
+[4.899s] -- Looking for pthread_create in pthread - found
+[4.902s] -- Found Threads: TRUE  
+[5.041s] -- Found pendulum_msgs: 0.8.4 (/opt/workspace/install/pendulum_msgs/share/pendulum_msgs/cmake)
+[5.066s] -- Found rttest: 0.8.2 (/opt/workspace/install/rttest/share/rttest/cmake)
+[5.090s] -- Found tlsf_cpp: 0.8.2 (/opt/workspace/install/tlsf_cpp/share/tlsf_cpp/cmake)
+[5.554s] -- Found ament_lint_auto: 0.8.1 (/opt/workspace/install/ament_lint_auto/share/ament_lint_auto/cmake)
+[5.988s] -- Found python_cmake_module: 0.8.0 (/opt/workspace/install/python_cmake_module/share/python_cmake_module/cmake)
+[6.088s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3.5") 
+[6.107s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.6m.so (found suitable version "3.6.9", minimum required is "3.5") 
+[6.108s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[6.108s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.6m
+[6.108s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.6m.so
+[6.205s] -- Found PythonExtra: .so  
+[6.325s] -- Added test 'copyright' to check for copyright in CMake / C / C++ / Python code
+[6.331s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[6.334s] -- Configured cppcheck include dirs: /opt/workspace/src/ros2/demos/pendulum_control/include
+[6.340s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[6.344s] -- Added test 'flake8' to check Python code syntax and style conventions
+[6.348s] -- Added test 'lint_cmake' to check CMake code style
+[6.351s] -- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+[6.359s] -- Added test 'uncrustify' to check C / C++ code style
+[6.363s] -- Added test 'xmllint' to check XML markup files
+[6.373s] -- Configuring done
+[6.450s] -- Generating done
+[6.456s] -- Build files have been written to: /opt/workspace/build/pendulum_control
+[6.596s] [35m[1mScanning dependencies of target pendulum_demo[0m
+[6.708s] [ 16%] [32mBuilding CXX object CMakeFiles/pendulum_demo.dir/src/pendulum_demo.cpp.o[0m
+[18.868s] [ 33%] [32m[1mLinking CXX executable pendulum_demo[0m
+[19.762s] [ 33%] Built target pendulum_demo
+[19.794s] [35m[1mScanning dependencies of target pendulum_teleop[0m
+[19.889s] [ 50%] [32mBuilding CXX object CMakeFiles/pendulum_teleop.dir/src/pendulum_teleop.cpp.o[0m
+[24.815s] [ 66%] [32m[1mLinking CXX executable pendulum_teleop[0m
+[25.364s] [ 66%] Built target pendulum_teleop
+[25.394s] [35m[1mScanning dependencies of target pendulum_logger[0m
+[25.485s] [ 83%] [32mBuilding CXX object CMakeFiles/pendulum_logger.dir/src/pendulum_logger.cpp.o[0m
+[31.347s] [100%] [32m[1mLinking CXX executable pendulum_logger[0m
+[31.972s] [100%] Built target pendulum_logger
+[32.252s] [ 33%] Built target pendulum_demo
+[32.336s] [ 66%] Built target pendulum_teleop
+[32.416s] [100%] Built target pendulum_logger
+[32.469s] [36mInstall the project...[0m
+[32.492s] -- Install configuration: ""
+[32.493s] -- Installing: /opt/workspace/install/pendulum_control/bin/pendulum_demo
+[32.497s] -- Set runtime path of "/opt/workspace/install/pendulum_control/bin/pendulum_demo" to ""
+[32.497s] -- Installing: /opt/workspace/install/pendulum_control/bin/pendulum_logger
+[32.499s] -- Set runtime path of "/opt/workspace/install/pendulum_control/bin/pendulum_logger" to ""
+[32.500s] -- Installing: /opt/workspace/install/pendulum_control/bin/pendulum_teleop
+[32.501s] -- Set runtime path of "/opt/workspace/install/pendulum_control/bin/pendulum_teleop" to ""
+[32.501s] -- Installing: /opt/workspace/install/pendulum_control/bin/pendulum_launch.bash
+[32.502s] -- Installing: /opt/workspace/install/pendulum_control/share/ament_index/resource_index/package_run_dependencies/pendulum_control
+[32.502s] -- Installing: /opt/workspace/install/pendulum_control/share/ament_index/resource_index/parent_prefix_path/pendulum_control
+[32.502s] -- Installing: /opt/workspace/install/pendulum_control/share/pendulum_control/environment/ament_prefix_path.sh
+[32.503s] -- Installing: /opt/workspace/install/pendulum_control/share/pendulum_control/environment/ament_prefix_path.dsv
+[32.503s] -- Installing: /opt/workspace/install/pendulum_control/share/pendulum_control/environment/path.sh
+[32.503s] -- Installing: /opt/workspace/install/pendulum_control/share/pendulum_control/environment/path.dsv
+[32.503s] -- Installing: /opt/workspace/install/pendulum_control/share/pendulum_control/local_setup.bash
+[32.504s] -- Installing: /opt/workspace/install/pendulum_control/share/pendulum_control/local_setup.sh
+[32.504s] -- Installing: /opt/workspace/install/pendulum_control/share/pendulum_control/local_setup.zsh
+[32.504s] -- Installing: /opt/workspace/install/pendulum_control/share/pendulum_control/local_setup.dsv
+[32.504s] -- Installing: /opt/workspace/install/pendulum_control/share/pendulum_control/package.dsv
+[32.505s] -- Installing: /opt/workspace/install/pendulum_control/share/ament_index/resource_index/packages/pendulum_control
+[32.505s] -- Installing: /opt/workspace/install/pendulum_control/share/pendulum_control/cmake/pendulum_controlConfig.cmake
+[32.505s] -- Installing: /opt/workspace/install/pendulum_control/share/pendulum_control/cmake/pendulum_controlConfig-version.cmake
+[32.505s] -- Installing: /opt/workspace/install/pendulum_control/share/pendulum_control/package.xml

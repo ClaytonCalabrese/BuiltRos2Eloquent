@@ -1,0 +1,77 @@
+[0.732s] -- The C compiler identification is GNU 7.4.0
+[0.866s] -- The CXX compiler identification is GNU 7.4.0
+[0.881s] -- Check for working C compiler: /usr/bin/cc
+[1.068s] -- Check for working C compiler: /usr/bin/cc -- works
+[1.070s] -- Detecting C compiler ABI info
+[1.263s] -- Detecting C compiler ABI info - done
+[1.277s] -- Detecting C compile features
+[1.772s] -- Detecting C compile features - done
+[1.778s] -- Check for working CXX compiler: /usr/bin/c++
+[1.975s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[1.977s] -- Detecting CXX compiler ABI info
+[2.181s] -- Detecting CXX compiler ABI info - done
+[2.196s] -- Detecting CXX compile features
+[3.093s] -- Detecting CXX compile features - done
+[3.108s] -- Found ament_cmake: 0.8.2 (/opt/workspace/install/ament_cmake/share/ament_cmake/cmake)
+[3.221s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[3.221s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[3.879s] -- Found geometry_msgs: 0.8.1 (/opt/workspace/install/geometry_msgs/share/geometry_msgs/cmake)
+[3.996s] -- Found rosidl_adapter: 0.8.2 (/opt/workspace/install/rosidl_adapter/share/rosidl_adapter/cmake)
+[4.094s] -- Found tf2: 0.12.5 (/opt/workspace/install/tf2/share/tf2/cmake)
+[4.115s] -- Found tf2_ros: 0.12.5 (/opt/workspace/install/tf2_ros/share/tf2_ros/cmake)
+[4.186s] -- Found rmw_implementation_cmake: 0.8.1 (/opt/workspace/install/rmw_implementation_cmake/share/rmw_implementation_cmake/cmake)
+[4.202s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[4.204s] -- Looking for pthread.h
+[4.393s] -- Looking for pthread.h - found
+[4.394s] -- Looking for pthread_create
+[4.606s] -- Looking for pthread_create - not found
+[4.607s] -- Looking for pthread_create in pthreads
+[4.772s] -- Looking for pthread_create in pthreads - not found
+[4.772s] -- Looking for pthread_create in pthread
+[4.943s] -- Looking for pthread_create in pthread - found
+[4.946s] -- Found Threads: TRUE  
+[5.223s] -- Found eigen3_cmake_module: 0.1.1 (/opt/workspace/install/eigen3_cmake_module/share/eigen3_cmake_module/cmake)
+[5.246s] -- Found Eigen3: TRUE (found version "3.3.4") 
+[5.259s] -- Found ament_cmake_gtest: 0.8.2 (/opt/workspace/install/ament_cmake_gtest/share/ament_cmake_gtest/cmake)
+[5.277s] -- Found gtest sources under '/opt/workspace/install/gtest_vendor/src/gtest_vendor': C++ tests using 'Google Test' will be built
+[5.282s] -- Check if compiler accepts -pthread
+[5.484s] -- Check if compiler accepts -pthread - yes
+[5.813s] -- Configuring done
+[5.870s] -- Generating done
+[5.875s] -- Build files have been written to: /opt/workspace/build/tf2_eigen
+[6.035s] [35m[1mScanning dependencies of target gtest_main[0m
+[6.083s] [ 16%] [32mBuilding CXX object gtest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o[0m
+[7.571s] [ 33%] [32m[1mLinking CXX static library libgtest_main.a[0m
+[7.660s] [ 33%] Built target gtest_main
+[7.691s] [35m[1mScanning dependencies of target gtest[0m
+[7.742s] [ 50%] [32mBuilding CXX object gtest/CMakeFiles/gtest.dir/src/gtest-all.cc.o[0m
+[13.492s] [ 66%] [32m[1mLinking CXX static library libgtest.a[0m
+[13.615s] [ 66%] Built target gtest
+[13.643s] [35m[1mScanning dependencies of target tf2_eigen-test[0m
+[13.827s] [ 83%] [32mBuilding CXX object CMakeFiles/tf2_eigen-test.dir/test/tf2_eigen-test.cpp.o[0m
+[22.068s] [100%] [32m[1mLinking CXX executable tf2_eigen-test[0m
+[22.596s] [100%] Built target tf2_eigen-test
+[22.871s] [ 33%] Built target gtest_main
+[22.942s] [ 66%] Built target gtest
+[23.044s] [100%] Built target tf2_eigen-test
+[23.105s] [36mInstall the project...[0m
+[23.133s] -- Install configuration: ""
+[23.134s] -- Installing: /opt/workspace/install/tf2_eigen/include/tf2_eigen
+[23.135s] -- Installing: /opt/workspace/install/tf2_eigen/include/tf2_eigen/tf2_eigen.h
+[23.136s] -- Installing: /opt/workspace/install/tf2_eigen/share/ament_index/resource_index/package_run_dependencies/tf2_eigen
+[23.137s] -- Installing: /opt/workspace/install/tf2_eigen/share/ament_index/resource_index/parent_prefix_path/tf2_eigen
+[23.138s] -- Installing: /opt/workspace/install/tf2_eigen/share/tf2_eigen/environment/ament_prefix_path.sh
+[23.139s] -- Installing: /opt/workspace/install/tf2_eigen/share/tf2_eigen/environment/ament_prefix_path.dsv
+[23.140s] -- Installing: /opt/workspace/install/tf2_eigen/share/tf2_eigen/environment/path.sh
+[23.141s] -- Installing: /opt/workspace/install/tf2_eigen/share/tf2_eigen/environment/path.dsv
+[23.141s] -- Installing: /opt/workspace/install/tf2_eigen/share/tf2_eigen/local_setup.bash
+[23.142s] -- Installing: /opt/workspace/install/tf2_eigen/share/tf2_eigen/local_setup.sh
+[23.143s] -- Installing: /opt/workspace/install/tf2_eigen/share/tf2_eigen/local_setup.zsh
+[23.144s] -- Installing: /opt/workspace/install/tf2_eigen/share/tf2_eigen/local_setup.dsv
+[23.145s] -- Installing: /opt/workspace/install/tf2_eigen/share/tf2_eigen/package.dsv
+[23.145s] -- Installing: /opt/workspace/install/tf2_eigen/share/ament_index/resource_index/packages/tf2_eigen
+[23.146s] -- Installing: /opt/workspace/install/tf2_eigen/share/tf2_eigen/cmake/ament_cmake_export_include_directories-extras.cmake
+[23.147s] -- Installing: /opt/workspace/install/tf2_eigen/share/tf2_eigen/cmake/ament_cmake_export_dependencies-extras.cmake
+[23.148s] -- Installing: /opt/workspace/install/tf2_eigen/share/tf2_eigen/cmake/tf2_eigenConfig.cmake
+[23.149s] -- Installing: /opt/workspace/install/tf2_eigen/share/tf2_eigen/cmake/tf2_eigenConfig-version.cmake
+[23.149s] -- Installing: /opt/workspace/install/tf2_eigen/share/tf2_eigen/package.xml

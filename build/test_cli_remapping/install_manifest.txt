@@ -1,0 +1,15 @@
+/opt/workspace/install/test_cli_remapping/share/ament_index/resource_index/package_run_dependencies/test_cli_remapping
+/opt/workspace/install/test_cli_remapping/share/ament_index/resource_index/parent_prefix_path/test_cli_remapping
+/opt/workspace/install/test_cli_remapping/share/test_cli_remapping/environment/ament_prefix_path.sh
+/opt/workspace/install/test_cli_remapping/share/test_cli_remapping/environment/ament_prefix_path.dsv
+/opt/workspace/install/test_cli_remapping/share/test_cli_remapping/environment/path.sh
+/opt/workspace/install/test_cli_remapping/share/test_cli_remapping/environment/path.dsv
+/opt/workspace/install/test_cli_remapping/share/test_cli_remapping/local_setup.bash
+/opt/workspace/install/test_cli_remapping/share/test_cli_remapping/local_setup.sh
+/opt/workspace/install/test_cli_remapping/share/test_cli_remapping/local_setup.zsh
+/opt/workspace/install/test_cli_remapping/share/test_cli_remapping/local_setup.dsv
+/opt/workspace/install/test_cli_remapping/share/test_cli_remapping/package.dsv
+/opt/workspace/install/test_cli_remapping/share/ament_index/resource_index/packages/test_cli_remapping
+/opt/workspace/install/test_cli_remapping/share/test_cli_remapping/cmake/test_cli_remappingConfig.cmake
+/opt/workspace/install/test_cli_remapping/share/test_cli_remapping/cmake/test_cli_remappingConfig-version.cmake
+/opt/workspace/install/test_cli_remapping/share/test_cli_remapping/package.xml

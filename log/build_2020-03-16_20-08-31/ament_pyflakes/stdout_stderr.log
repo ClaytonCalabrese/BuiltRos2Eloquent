@@ -1,0 +1,19 @@
+[2.075s] running egg_info
+[2.076s] writing /opt/workspace/build/ament_pyflakes/ament_pyflakes.egg-info/PKG-INFO
+[2.077s] writing dependency_links to /opt/workspace/build/ament_pyflakes/ament_pyflakes.egg-info/dependency_links.txt
+[2.077s] writing entry points to /opt/workspace/build/ament_pyflakes/ament_pyflakes.egg-info/entry_points.txt
+[2.078s] writing requirements to /opt/workspace/build/ament_pyflakes/ament_pyflakes.egg-info/requires.txt
+[2.078s] writing top-level names to /opt/workspace/build/ament_pyflakes/ament_pyflakes.egg-info/top_level.txt
+[2.140s] reading manifest file '/opt/workspace/build/ament_pyflakes/ament_pyflakes.egg-info/SOURCES.txt'
+[2.142s] writing manifest file '/opt/workspace/build/ament_pyflakes/ament_pyflakes.egg-info/SOURCES.txt'
+[2.142s] running build
+[2.143s] running build_py
+[2.143s] running install
+[2.144s] running install_lib
+[2.145s] running install_data
+[2.146s] running install_egg_info
+[2.149s] removing '/opt/workspace/install/ament_pyflakes/lib/python3.6/site-packages/ament_pyflakes-0.8.1-py3.6.egg-info' (and everything under it)
+[2.149s] Copying /opt/workspace/build/ament_pyflakes/ament_pyflakes.egg-info to /opt/workspace/install/ament_pyflakes/lib/python3.6/site-packages/ament_pyflakes-0.8.1-py3.6.egg-info
+[2.150s] running install_scripts
+[2.176s] Installing ament_pyflakes script to /opt/workspace/install/ament_pyflakes/bin
+[2.176s] writing list of installed files to '/opt/workspace/build/ament_pyflakes/install.log'

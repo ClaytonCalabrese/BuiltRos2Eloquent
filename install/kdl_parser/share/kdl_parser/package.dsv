@@ -1,0 +1,11 @@
+source;share/kdl_parser/hook/cmake_prefix_path.ps1
+source;share/kdl_parser/hook/cmake_prefix_path.dsv
+source;share/kdl_parser/hook/cmake_prefix_path.sh
+source;share/kdl_parser/hook/ld_library_path_lib.ps1
+source;share/kdl_parser/hook/ld_library_path_lib.dsv
+source;share/kdl_parser/hook/ld_library_path_lib.sh
+source;share/kdl_parser/local_setup.bash
+source;share/kdl_parser/local_setup.dsv
+source;share/kdl_parser/local_setup.ps1
+source;share/kdl_parser/local_setup.sh
+source;share/kdl_parser/local_setup.zsh

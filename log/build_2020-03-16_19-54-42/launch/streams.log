@@ -1,0 +1,348 @@
+[1.974s] Invoking command in '/opt/workspace/src/ros2/launch/launch': AMENT_PREFIX_PATH=/opt/workspace/install/ament_index_python:/opt/workspace/install/ament_copyright:/opt/workspace/install/ament_pep257:/opt/workspace/install/ament_flake8:/opt/workspace/install/osrf_pycommon:/opt/workspace/install/ament_lint:${AMENT_PREFIX_PATH} PATH=/opt/workspace/install/ament_index_python/bin:/opt/workspace/install/ament_copyright/bin:/opt/workspace/install/ament_pep257/bin:/opt/workspace/install/ament_flake8/bin:${PATH} PYTHONPATH=/opt/workspace/install/launch/lib/python3.6/site-packages:/opt/workspace/install/ament_index_python/lib/python3.6/site-packages:/opt/workspace/install/ament_copyright/lib/python3.6/site-packages:/opt/workspace/install/ament_pep257/lib/python3.6/site-packages:/opt/workspace/install/ament_flake8/lib/python3.6/site-packages:/opt/workspace/install/osrf_pycommon/lib/python3.6/site-packages:/opt/workspace/install/ament_lint/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base /opt/workspace/build/launch build --build-base /opt/workspace/build/launch/build install --prefix /opt/workspace/install/launch --record /opt/workspace/build/launch/install.log --single-version-externally-managed
+[2.883s] running egg_info
+[2.883s] creating /opt/workspace/build/launch/launch.egg-info
+[2.917s] writing /opt/workspace/build/launch/launch.egg-info/PKG-INFO
+[2.918s] writing dependency_links to /opt/workspace/build/launch/launch.egg-info/dependency_links.txt
+[2.918s] writing requirements to /opt/workspace/build/launch/launch.egg-info/requires.txt
+[2.918s] writing top-level names to /opt/workspace/build/launch/launch.egg-info/top_level.txt
+[2.918s] writing manifest file '/opt/workspace/build/launch/launch.egg-info/SOURCES.txt'
+[3.108s] reading manifest file '/opt/workspace/build/launch/launch.egg-info/SOURCES.txt'
+[3.113s] writing manifest file '/opt/workspace/build/launch/launch.egg-info/SOURCES.txt'
+[3.114s] running build
+[3.114s] running build_py
+[3.114s] creating /opt/workspace/build/launch/build
+[3.115s] creating /opt/workspace/build/launch/build/lib
+[3.115s] creating /opt/workspace/build/launch/build/lib/launch
+[3.115s] copying launch/event_handler.py -> /opt/workspace/build/launch/build/lib/launch
+[3.116s] copying launch/__init__.py -> /opt/workspace/build/launch/build/lib/launch
+[3.117s] copying launch/launch_description_entity.py -> /opt/workspace/build/launch/build/lib/launch
+[3.118s] copying launch/launch_context.py -> /opt/workspace/build/launch/build/lib/launch
+[3.119s] copying launch/launch_introspector.py -> /opt/workspace/build/launch/build/lib/launch
+[3.119s] copying launch/launch_description.py -> /opt/workspace/build/launch/build/lib/launch
+[3.120s] copying launch/action.py -> /opt/workspace/build/launch/build/lib/launch
+[3.121s] copying launch/some_actions_type.py -> /opt/workspace/build/launch/build/lib/launch
+[3.121s] copying launch/substitution.py -> /opt/workspace/build/launch/build/lib/launch
+[3.122s] copying launch/launch_service.py -> /opt/workspace/build/launch/build/lib/launch
+[3.123s] copying launch/event.py -> /opt/workspace/build/launch/build/lib/launch
+[3.124s] copying launch/condition.py -> /opt/workspace/build/launch/build/lib/launch
+[3.125s] copying launch/launch_description_source.py -> /opt/workspace/build/launch/build/lib/launch
+[3.125s] copying launch/some_substitutions_type.py -> /opt/workspace/build/launch/build/lib/launch
+[3.126s] copying launch/invalid_launch_file_error.py -> /opt/workspace/build/launch/build/lib/launch
+[3.127s] creating /opt/workspace/build/launch/build/lib/launch/substitutions
+[3.128s] copying launch/substitutions/path_join_substitution.py -> /opt/workspace/build/launch/build/lib/launch/substitutions
+[3.128s] copying launch/substitutions/__init__.py -> /opt/workspace/build/launch/build/lib/launch/substitutions
+[3.129s] copying launch/substitutions/environment_variable.py -> /opt/workspace/build/launch/build/lib/launch/substitutions
+[3.130s] copying launch/substitutions/find_executable.py -> /opt/workspace/build/launch/build/lib/launch/substitutions
+[3.130s] copying launch/substitutions/substitution_failure.py -> /opt/workspace/build/launch/build/lib/launch/substitutions
+[3.131s] copying launch/substitutions/python_expression.py -> /opt/workspace/build/launch/build/lib/launch/substitutions
+[3.132s] copying launch/substitutions/this_launch_file.py -> /opt/workspace/build/launch/build/lib/launch/substitutions
+[3.132s] copying launch/substitutions/text_substitution.py -> /opt/workspace/build/launch/build/lib/launch/substitutions
+[3.133s] copying launch/substitutions/this_launch_file_dir.py -> /opt/workspace/build/launch/build/lib/launch/substitutions
+[3.134s] copying launch/substitutions/local_substitution.py -> /opt/workspace/build/launch/build/lib/launch/substitutions
+[3.134s] copying launch/substitutions/launch_configuration.py -> /opt/workspace/build/launch/build/lib/launch/substitutions
+[3.135s] creating /opt/workspace/build/launch/build/lib/launch/conditions
+[3.136s] copying launch/conditions/unless_condition.py -> /opt/workspace/build/launch/build/lib/launch/conditions
+[3.137s] copying launch/conditions/__init__.py -> /opt/workspace/build/launch/build/lib/launch/conditions
+[3.137s] copying launch/conditions/invalid_condition_expression_error.py -> /opt/workspace/build/launch/build/lib/launch/conditions
+[3.146s] copying launch/conditions/evaluate_condition_expression_impl.py -> /opt/workspace/build/launch/build/lib/launch/conditions
+[3.147s] copying launch/conditions/if_condition.py -> /opt/workspace/build/launch/build/lib/launch/conditions
+[3.147s] creating /opt/workspace/build/launch/build/lib/launch/launch_description_sources
+[3.148s] copying launch/launch_description_sources/frontend_launch_description_source.py -> /opt/workspace/build/launch/build/lib/launch/launch_description_sources
+[3.148s] copying launch/launch_description_sources/__init__.py -> /opt/workspace/build/launch/build/lib/launch/launch_description_sources
+[3.148s] copying launch/launch_description_sources/any_launch_description_source.py -> /opt/workspace/build/launch/build/lib/launch/launch_description_sources
+[3.149s] copying launch/launch_description_sources/any_launch_file_utilities.py -> /opt/workspace/build/launch/build/lib/launch/launch_description_sources
+[3.149s] copying launch/launch_description_sources/frontend_launch_file_utilities.py -> /opt/workspace/build/launch/build/lib/launch/launch_description_sources
+[3.149s] copying launch/launch_description_sources/python_launch_description_source.py -> /opt/workspace/build/launch/build/lib/launch/launch_description_sources
+[3.151s] copying launch/launch_description_sources/python_launch_file_utilities.py -> /opt/workspace/build/launch/build/lib/launch/launch_description_sources
+[3.152s] creating /opt/workspace/build/launch/build/lib/launch/events
+[3.152s] copying launch/events/__init__.py -> /opt/workspace/build/launch/build/lib/launch/events
+[3.152s] copying launch/events/matchers.py -> /opt/workspace/build/launch/build/lib/launch/events
+[3.153s] copying launch/events/timer_event.py -> /opt/workspace/build/launch/build/lib/launch/events
+[3.153s] copying launch/events/include_launch_description.py -> /opt/workspace/build/launch/build/lib/launch/events
+[3.153s] copying launch/events/execution_complete.py -> /opt/workspace/build/launch/build/lib/launch/events
+[3.154s] copying launch/events/shutdown.py -> /opt/workspace/build/launch/build/lib/launch/events
+[3.157s] creating /opt/workspace/build/launch/build/lib/launch/utilities
+[3.158s] copying launch/utilities/__init__.py -> /opt/workspace/build/launch/build/lib/launch/utilities
+[3.159s] copying launch/utilities/class_tools_impl.py -> /opt/workspace/build/launch/build/lib/launch/utilities
+[3.159s] copying launch/utilities/create_future_impl.py -> /opt/workspace/build/launch/build/lib/launch/utilities
+[3.159s] copying launch/utilities/visit_all_entities_and_collect_futures_impl.py -> /opt/workspace/build/launch/build/lib/launch/utilities
+[3.160s] copying launch/utilities/signal_management.py -> /opt/workspace/build/launch/build/lib/launch/utilities
+[3.160s] copying launch/utilities/perform_substitutions_impl.py -> /opt/workspace/build/launch/build/lib/launch/utilities
+[3.161s] copying launch/utilities/normalize_to_list_of_substitutions_impl.py -> /opt/workspace/build/launch/build/lib/launch/utilities
+[3.161s] copying launch/utilities/ensure_argument_type_impl.py -> /opt/workspace/build/launch/build/lib/launch/utilities
+[3.161s] creating /opt/workspace/build/launch/build/lib/launch/logging
+[3.161s] copying launch/logging/__init__.py -> /opt/workspace/build/launch/build/lib/launch/logging
+[3.162s] copying launch/logging/handlers.py -> /opt/workspace/build/launch/build/lib/launch/logging
+[3.164s] creating /opt/workspace/build/launch/build/lib/launch/event_handlers
+[3.164s] copying launch/event_handlers/on_include_launch_description.py -> /opt/workspace/build/launch/build/lib/launch/event_handlers
+[3.164s] copying launch/event_handlers/__init__.py -> /opt/workspace/build/launch/build/lib/launch/event_handlers
+[3.165s] copying launch/event_handlers/on_execution_complete.py -> /opt/workspace/build/launch/build/lib/launch/event_handlers
+[3.165s] copying launch/event_handlers/on_process_exit.py -> /opt/workspace/build/launch/build/lib/launch/event_handlers
+[3.169s] copying launch/event_handlers/on_process_io.py -> /opt/workspace/build/launch/build/lib/launch/event_handlers
+[3.170s] copying launch/event_handlers/event_named.py -> /opt/workspace/build/launch/build/lib/launch/event_handlers
+[3.170s] copying launch/event_handlers/on_shutdown.py -> /opt/workspace/build/launch/build/lib/launch/event_handlers
+[3.170s] copying launch/event_handlers/on_process_start.py -> /opt/workspace/build/launch/build/lib/launch/event_handlers
+[3.171s] creating /opt/workspace/build/launch/build/lib/launch/frontend
+[3.171s] copying launch/frontend/__init__.py -> /opt/workspace/build/launch/build/lib/launch/frontend
+[3.172s] copying launch/frontend/expose.py -> /opt/workspace/build/launch/build/lib/launch/frontend
+[3.172s] copying launch/frontend/entity.py -> /opt/workspace/build/launch/build/lib/launch/frontend
+[3.172s] copying launch/frontend/type_utils.py -> /opt/workspace/build/launch/build/lib/launch/frontend
+[3.173s] copying launch/frontend/parser.py -> /opt/workspace/build/launch/build/lib/launch/frontend
+[3.173s] copying launch/frontend/parse_substitution.py -> /opt/workspace/build/launch/build/lib/launch/frontend
+[3.173s] creating /opt/workspace/build/launch/build/lib/launch/actions
+[3.174s] copying launch/actions/opaque_function.py -> /opt/workspace/build/launch/build/lib/launch/actions
+[3.179s] copying launch/actions/emit_event.py -> /opt/workspace/build/launch/build/lib/launch/actions
+[3.180s] copying launch/actions/timer_action.py -> /opt/workspace/build/launch/build/lib/launch/actions
+[3.180s] copying launch/actions/__init__.py -> /opt/workspace/build/launch/build/lib/launch/actions
+[3.180s] copying launch/actions/set_launch_configuration.py -> /opt/workspace/build/launch/build/lib/launch/actions
+[3.181s] copying launch/actions/execute_process.py -> /opt/workspace/build/launch/build/lib/launch/actions
+[3.181s] copying launch/actions/declare_launch_argument.py -> /opt/workspace/build/launch/build/lib/launch/actions
+[3.185s] copying launch/actions/pop_launch_configurations.py -> /opt/workspace/build/launch/build/lib/launch/actions
+[3.186s] copying launch/actions/group_action.py -> /opt/workspace/build/launch/build/lib/launch/actions
+[3.189s] copying launch/actions/push_launch_configurations.py -> /opt/workspace/build/launch/build/lib/launch/actions
+[3.189s] copying launch/actions/unset_environment_variable.py -> /opt/workspace/build/launch/build/lib/launch/actions
+[3.190s] copying launch/actions/unregister_event_handler.py -> /opt/workspace/build/launch/build/lib/launch/actions
+[3.190s] copying launch/actions/include_launch_description.py -> /opt/workspace/build/launch/build/lib/launch/actions
+[3.190s] copying launch/actions/unset_launch_configuration.py -> /opt/workspace/build/launch/build/lib/launch/actions
+[3.190s] copying launch/actions/log_info.py -> /opt/workspace/build/launch/build/lib/launch/actions
+[3.191s] copying launch/actions/shutdown_action.py -> /opt/workspace/build/launch/build/lib/launch/actions
+[3.191s] copying launch/actions/register_event_handler.py -> /opt/workspace/build/launch/build/lib/launch/actions
+[3.191s] copying launch/actions/opaque_coroutine.py -> /opt/workspace/build/launch/build/lib/launch/actions
+[3.197s] copying launch/actions/set_environment_variable.py -> /opt/workspace/build/launch/build/lib/launch/actions
+[3.197s] creating /opt/workspace/build/launch/build/lib/launch/events/process
+[3.198s] copying launch/events/process/shutdown_process.py -> /opt/workspace/build/launch/build/lib/launch/events/process
+[3.198s] copying launch/events/process/running_process_event.py -> /opt/workspace/build/launch/build/lib/launch/events/process
+[3.198s] copying launch/events/process/__init__.py -> /opt/workspace/build/launch/build/lib/launch/events/process
+[3.198s] copying launch/events/process/process_stdin.py -> /opt/workspace/build/launch/build/lib/launch/events/process
+[3.199s] copying launch/events/process/process_io.py -> /opt/workspace/build/launch/build/lib/launch/events/process
+[3.199s] copying launch/events/process/process_targeted_event.py -> /opt/workspace/build/launch/build/lib/launch/events/process
+[3.199s] copying launch/events/process/process_stdout.py -> /opt/workspace/build/launch/build/lib/launch/events/process
+[3.199s] copying launch/events/process/signal_process.py -> /opt/workspace/build/launch/build/lib/launch/events/process
+[3.199s] copying launch/events/process/process_exited.py -> /opt/workspace/build/launch/build/lib/launch/events/process
+[3.200s] copying launch/events/process/process_stderr.py -> /opt/workspace/build/launch/build/lib/launch/events/process
+[3.200s] copying launch/events/process/process_matchers.py -> /opt/workspace/build/launch/build/lib/launch/events/process
+[3.200s] copying launch/events/process/process_started.py -> /opt/workspace/build/launch/build/lib/launch/events/process
+[3.204s] running install
+[3.205s] running install_lib
+[3.206s] creating /opt/workspace/install/launch/lib/python3.6/site-packages/launch
+[3.207s] creating /opt/workspace/install/launch/lib/python3.6/site-packages/launch/substitutions
+[3.207s] copying /opt/workspace/build/launch/build/lib/launch/substitutions/path_join_substitution.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/substitutions
+[3.207s] copying /opt/workspace/build/launch/build/lib/launch/substitutions/__init__.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/substitutions
+[3.207s] copying /opt/workspace/build/launch/build/lib/launch/substitutions/environment_variable.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/substitutions
+[3.208s] copying /opt/workspace/build/launch/build/lib/launch/substitutions/find_executable.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/substitutions
+[3.208s] copying /opt/workspace/build/launch/build/lib/launch/substitutions/substitution_failure.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/substitutions
+[3.208s] copying /opt/workspace/build/launch/build/lib/launch/substitutions/python_expression.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/substitutions
+[3.208s] copying /opt/workspace/build/launch/build/lib/launch/substitutions/this_launch_file.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/substitutions
+[3.209s] copying /opt/workspace/build/launch/build/lib/launch/substitutions/text_substitution.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/substitutions
+[3.209s] copying /opt/workspace/build/launch/build/lib/launch/substitutions/this_launch_file_dir.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/substitutions
+[3.209s] copying /opt/workspace/build/launch/build/lib/launch/substitutions/local_substitution.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/substitutions
+[3.209s] copying /opt/workspace/build/launch/build/lib/launch/substitutions/launch_configuration.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/substitutions
+[3.210s] copying /opt/workspace/build/launch/build/lib/launch/event_handler.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch
+[3.210s] creating /opt/workspace/install/launch/lib/python3.6/site-packages/launch/conditions
+[3.210s] copying /opt/workspace/build/launch/build/lib/launch/conditions/unless_condition.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/conditions
+[3.210s] copying /opt/workspace/build/launch/build/lib/launch/conditions/__init__.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/conditions
+[3.210s] copying /opt/workspace/build/launch/build/lib/launch/conditions/invalid_condition_expression_error.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/conditions
+[3.211s] copying /opt/workspace/build/launch/build/lib/launch/conditions/evaluate_condition_expression_impl.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/conditions
+[3.211s] copying /opt/workspace/build/launch/build/lib/launch/conditions/if_condition.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/conditions
+[3.211s] copying /opt/workspace/build/launch/build/lib/launch/__init__.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch
+[3.221s] copying /opt/workspace/build/launch/build/lib/launch/launch_description_entity.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch
+[3.227s] copying /opt/workspace/build/launch/build/lib/launch/launch_context.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch
+[3.227s] copying /opt/workspace/build/launch/build/lib/launch/launch_introspector.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch
+[3.228s] creating /opt/workspace/install/launch/lib/python3.6/site-packages/launch/launch_description_sources
+[3.228s] copying /opt/workspace/build/launch/build/lib/launch/launch_description_sources/frontend_launch_description_source.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/launch_description_sources
+[3.228s] copying /opt/workspace/build/launch/build/lib/launch/launch_description_sources/__init__.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/launch_description_sources
+[3.228s] copying /opt/workspace/build/launch/build/lib/launch/launch_description_sources/any_launch_description_source.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/launch_description_sources
+[3.228s] copying /opt/workspace/build/launch/build/lib/launch/launch_description_sources/any_launch_file_utilities.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/launch_description_sources
+[3.229s] copying /opt/workspace/build/launch/build/lib/launch/launch_description_sources/frontend_launch_file_utilities.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/launch_description_sources
+[3.229s] copying /opt/workspace/build/launch/build/lib/launch/launch_description_sources/python_launch_description_source.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/launch_description_sources
+[3.242s] copying /opt/workspace/build/launch/build/lib/launch/launch_description_sources/python_launch_file_utilities.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/launch_description_sources
+[3.242s] copying /opt/workspace/build/launch/build/lib/launch/launch_description.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch
+[3.243s] creating /opt/workspace/install/launch/lib/python3.6/site-packages/launch/events
+[3.243s] copying /opt/workspace/build/launch/build/lib/launch/events/__init__.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/events
+[3.243s] creating /opt/workspace/install/launch/lib/python3.6/site-packages/launch/events/process
+[3.244s] copying /opt/workspace/build/launch/build/lib/launch/events/process/shutdown_process.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/events/process
+[3.244s] copying /opt/workspace/build/launch/build/lib/launch/events/process/running_process_event.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/events/process
+[3.249s] copying /opt/workspace/build/launch/build/lib/launch/events/process/__init__.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/events/process
+[3.250s] copying /opt/workspace/build/launch/build/lib/launch/events/process/process_stdin.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/events/process
+[3.250s] copying /opt/workspace/build/launch/build/lib/launch/events/process/process_io.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/events/process
+[3.250s] copying /opt/workspace/build/launch/build/lib/launch/events/process/process_targeted_event.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/events/process
+[3.251s] copying /opt/workspace/build/launch/build/lib/launch/events/process/process_stdout.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/events/process
+[3.251s] copying /opt/workspace/build/launch/build/lib/launch/events/process/signal_process.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/events/process
+[3.251s] copying /opt/workspace/build/launch/build/lib/launch/events/process/process_exited.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/events/process
+[3.251s] copying /opt/workspace/build/launch/build/lib/launch/events/process/process_stderr.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/events/process
+[3.252s] copying /opt/workspace/build/launch/build/lib/launch/events/process/process_matchers.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/events/process
+[3.252s] copying /opt/workspace/build/launch/build/lib/launch/events/process/process_started.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/events/process
+[3.252s] copying /opt/workspace/build/launch/build/lib/launch/events/matchers.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/events
+[3.252s] copying /opt/workspace/build/launch/build/lib/launch/events/timer_event.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/events
+[3.253s] copying /opt/workspace/build/launch/build/lib/launch/events/include_launch_description.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/events
+[3.253s] copying /opt/workspace/build/launch/build/lib/launch/events/execution_complete.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/events
+[3.253s] copying /opt/workspace/build/launch/build/lib/launch/events/shutdown.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/events
+[3.253s] copying /opt/workspace/build/launch/build/lib/launch/action.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch
+[3.253s] creating /opt/workspace/install/launch/lib/python3.6/site-packages/launch/utilities
+[3.254s] copying /opt/workspace/build/launch/build/lib/launch/utilities/__init__.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/utilities
+[3.261s] copying /opt/workspace/build/launch/build/lib/launch/utilities/class_tools_impl.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/utilities
+[3.262s] copying /opt/workspace/build/launch/build/lib/launch/utilities/create_future_impl.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/utilities
+[3.262s] copying /opt/workspace/build/launch/build/lib/launch/utilities/visit_all_entities_and_collect_futures_impl.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/utilities
+[3.263s] copying /opt/workspace/build/launch/build/lib/launch/utilities/signal_management.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/utilities
+[3.263s] copying /opt/workspace/build/launch/build/lib/launch/utilities/perform_substitutions_impl.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/utilities
+[3.263s] copying /opt/workspace/build/launch/build/lib/launch/utilities/normalize_to_list_of_substitutions_impl.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/utilities
+[3.264s] copying /opt/workspace/build/launch/build/lib/launch/utilities/ensure_argument_type_impl.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/utilities
+[3.264s] creating /opt/workspace/install/launch/lib/python3.6/site-packages/launch/logging
+[3.264s] copying /opt/workspace/build/launch/build/lib/launch/logging/__init__.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/logging
+[3.265s] copying /opt/workspace/build/launch/build/lib/launch/logging/handlers.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/logging
+[3.268s] copying /opt/workspace/build/launch/build/lib/launch/some_actions_type.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch
+[3.268s] copying /opt/workspace/build/launch/build/lib/launch/substitution.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch
+[3.268s] copying /opt/workspace/build/launch/build/lib/launch/launch_service.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch
+[3.269s] copying /opt/workspace/build/launch/build/lib/launch/event.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch
+[3.272s] creating /opt/workspace/install/launch/lib/python3.6/site-packages/launch/event_handlers
+[3.272s] copying /opt/workspace/build/launch/build/lib/launch/event_handlers/on_include_launch_description.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/event_handlers
+[3.272s] copying /opt/workspace/build/launch/build/lib/launch/event_handlers/__init__.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/event_handlers
+[3.272s] copying /opt/workspace/build/launch/build/lib/launch/event_handlers/on_execution_complete.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/event_handlers
+[3.273s] copying /opt/workspace/build/launch/build/lib/launch/event_handlers/on_process_exit.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/event_handlers
+[3.273s] copying /opt/workspace/build/launch/build/lib/launch/event_handlers/on_process_io.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/event_handlers
+[3.277s] copying /opt/workspace/build/launch/build/lib/launch/event_handlers/event_named.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/event_handlers
+[3.279s] copying /opt/workspace/build/launch/build/lib/launch/event_handlers/on_shutdown.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/event_handlers
+[3.279s] copying /opt/workspace/build/launch/build/lib/launch/event_handlers/on_process_start.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/event_handlers
+[3.279s] copying /opt/workspace/build/launch/build/lib/launch/condition.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch
+[3.280s] creating /opt/workspace/install/launch/lib/python3.6/site-packages/launch/frontend
+[3.285s] copying /opt/workspace/build/launch/build/lib/launch/frontend/__init__.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/frontend
+[3.285s] copying /opt/workspace/build/launch/build/lib/launch/frontend/expose.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/frontend
+[3.286s] copying /opt/workspace/build/launch/build/lib/launch/frontend/entity.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/frontend
+[3.286s] copying /opt/workspace/build/launch/build/lib/launch/frontend/type_utils.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/frontend
+[3.286s] copying /opt/workspace/build/launch/build/lib/launch/frontend/parser.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/frontend
+[3.286s] copying /opt/workspace/build/launch/build/lib/launch/frontend/parse_substitution.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/frontend
+[3.286s] creating /opt/workspace/install/launch/lib/python3.6/site-packages/launch/actions
+[3.287s] copying /opt/workspace/build/launch/build/lib/launch/actions/opaque_function.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/actions
+[3.287s] copying /opt/workspace/build/launch/build/lib/launch/actions/emit_event.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/actions
+[3.287s] copying /opt/workspace/build/launch/build/lib/launch/actions/timer_action.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/actions
+[3.287s] copying /opt/workspace/build/launch/build/lib/launch/actions/__init__.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/actions
+[3.287s] copying /opt/workspace/build/launch/build/lib/launch/actions/set_launch_configuration.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/actions
+[3.293s] copying /opt/workspace/build/launch/build/lib/launch/actions/execute_process.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/actions
+[3.293s] copying /opt/workspace/build/launch/build/lib/launch/actions/declare_launch_argument.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/actions
+[3.294s] copying /opt/workspace/build/launch/build/lib/launch/actions/pop_launch_configurations.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/actions
+[3.294s] copying /opt/workspace/build/launch/build/lib/launch/actions/group_action.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/actions
+[3.294s] copying /opt/workspace/build/launch/build/lib/launch/actions/push_launch_configurations.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/actions
+[3.294s] copying /opt/workspace/build/launch/build/lib/launch/actions/unset_environment_variable.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/actions
+[3.295s] copying /opt/workspace/build/launch/build/lib/launch/actions/unregister_event_handler.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/actions
+[3.295s] copying /opt/workspace/build/launch/build/lib/launch/actions/include_launch_description.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/actions
+[3.295s] copying /opt/workspace/build/launch/build/lib/launch/actions/unset_launch_configuration.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/actions
+[3.295s] copying /opt/workspace/build/launch/build/lib/launch/actions/log_info.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/actions
+[3.295s] copying /opt/workspace/build/launch/build/lib/launch/actions/shutdown_action.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/actions
+[3.296s] copying /opt/workspace/build/launch/build/lib/launch/actions/register_event_handler.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/actions
+[3.296s] copying /opt/workspace/build/launch/build/lib/launch/actions/opaque_coroutine.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/actions
+[3.296s] copying /opt/workspace/build/launch/build/lib/launch/actions/set_environment_variable.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch/actions
+[3.296s] copying /opt/workspace/build/launch/build/lib/launch/launch_description_source.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch
+[3.296s] copying /opt/workspace/build/launch/build/lib/launch/some_substitutions_type.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch
+[3.297s] copying /opt/workspace/build/launch/build/lib/launch/invalid_launch_file_error.py -> /opt/workspace/install/launch/lib/python3.6/site-packages/launch
+[3.303s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/substitutions/path_join_substitution.py to path_join_substitution.cpython-36.pyc
+[3.303s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/substitutions/__init__.py to __init__.cpython-36.pyc
+[3.303s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/substitutions/environment_variable.py to environment_variable.cpython-36.pyc
+[3.304s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/substitutions/find_executable.py to find_executable.cpython-36.pyc
+[3.304s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/substitutions/substitution_failure.py to substitution_failure.cpython-36.pyc
+[3.304s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/substitutions/python_expression.py to python_expression.cpython-36.pyc
+[3.304s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/substitutions/this_launch_file.py to this_launch_file.cpython-36.pyc
+[3.304s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/substitutions/text_substitution.py to text_substitution.cpython-36.pyc
+[3.310s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/substitutions/this_launch_file_dir.py to this_launch_file_dir.cpython-36.pyc
+[3.311s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/substitutions/local_substitution.py to local_substitution.cpython-36.pyc
+[3.317s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/substitutions/launch_configuration.py to launch_configuration.cpython-36.pyc
+[3.317s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/event_handler.py to event_handler.cpython-36.pyc
+[3.317s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/conditions/unless_condition.py to unless_condition.cpython-36.pyc
+[3.318s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/conditions/__init__.py to __init__.cpython-36.pyc
+[3.318s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/conditions/invalid_condition_expression_error.py to invalid_condition_expression_error.cpython-36.pyc
+[3.318s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/conditions/evaluate_condition_expression_impl.py to evaluate_condition_expression_impl.cpython-36.pyc
+[3.318s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/conditions/if_condition.py to if_condition.cpython-36.pyc
+[3.319s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/__init__.py to __init__.cpython-36.pyc
+[3.319s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/launch_description_entity.py to launch_description_entity.cpython-36.pyc
+[3.319s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/launch_context.py to launch_context.cpython-36.pyc
+[3.319s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/launch_introspector.py to launch_introspector.cpython-36.pyc
+[3.319s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/launch_description_sources/frontend_launch_description_source.py to frontend_launch_description_source.cpython-36.pyc
+[3.320s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/launch_description_sources/__init__.py to __init__.cpython-36.pyc
+[3.320s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/launch_description_sources/any_launch_description_source.py to any_launch_description_source.cpython-36.pyc
+[3.320s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/launch_description_sources/any_launch_file_utilities.py to any_launch_file_utilities.cpython-36.pyc
+[3.320s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/launch_description_sources/frontend_launch_file_utilities.py to frontend_launch_file_utilities.cpython-36.pyc
+[3.320s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/launch_description_sources/python_launch_description_source.py to python_launch_description_source.cpython-36.pyc
+[3.321s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/launch_description_sources/python_launch_file_utilities.py to python_launch_file_utilities.cpython-36.pyc
+[3.321s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/launch_description.py to launch_description.cpython-36.pyc
+[3.322s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/events/__init__.py to __init__.cpython-36.pyc
+[3.322s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/events/process/shutdown_process.py to shutdown_process.cpython-36.pyc
+[3.322s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/events/process/running_process_event.py to running_process_event.cpython-36.pyc
+[3.322s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/events/process/__init__.py to __init__.cpython-36.pyc
+[3.322s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/events/process/process_stdin.py to process_stdin.cpython-36.pyc
+[3.323s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/events/process/process_io.py to process_io.cpython-36.pyc
+[3.323s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/events/process/process_targeted_event.py to process_targeted_event.cpython-36.pyc
+[3.323s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/events/process/process_stdout.py to process_stdout.cpython-36.pyc
+[3.323s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/events/process/signal_process.py to signal_process.cpython-36.pyc
+[3.324s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/events/process/process_exited.py to process_exited.cpython-36.pyc
+[3.324s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/events/process/process_stderr.py to process_stderr.cpython-36.pyc
+[3.324s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/events/process/process_matchers.py to process_matchers.cpython-36.pyc
+[3.324s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/events/process/process_started.py to process_started.cpython-36.pyc
+[3.324s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/events/matchers.py to matchers.cpython-36.pyc
+[3.325s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/events/timer_event.py to timer_event.cpython-36.pyc
+[3.325s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/events/include_launch_description.py to include_launch_description.cpython-36.pyc
+[3.325s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/events/execution_complete.py to execution_complete.cpython-36.pyc
+[3.325s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/events/shutdown.py to shutdown.cpython-36.pyc
+[3.325s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/action.py to action.cpython-36.pyc
+[3.326s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/utilities/__init__.py to __init__.cpython-36.pyc
+[3.329s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/utilities/class_tools_impl.py to class_tools_impl.cpython-36.pyc
+[3.329s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/utilities/create_future_impl.py to create_future_impl.cpython-36.pyc
+[3.330s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/utilities/visit_all_entities_and_collect_futures_impl.py to visit_all_entities_and_collect_futures_impl.cpython-36.pyc
+[3.330s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/utilities/signal_management.py to signal_management.cpython-36.pyc
+[3.330s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/utilities/perform_substitutions_impl.py to perform_substitutions_impl.cpython-36.pyc
+[3.330s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/utilities/normalize_to_list_of_substitutions_impl.py to normalize_to_list_of_substitutions_impl.cpython-36.pyc
+[3.331s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/utilities/ensure_argument_type_impl.py to ensure_argument_type_impl.cpython-36.pyc
+[3.331s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/logging/__init__.py to __init__.cpython-36.pyc
+[3.331s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/logging/handlers.py to handlers.cpython-36.pyc
+[3.331s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/some_actions_type.py to some_actions_type.cpython-36.pyc
+[3.331s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/substitution.py to substitution.cpython-36.pyc
+[3.331s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/launch_service.py to launch_service.cpython-36.pyc
+[3.338s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/event.py to event.cpython-36.pyc
+[3.338s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/event_handlers/on_include_launch_description.py to on_include_launch_description.cpython-36.pyc
+[3.339s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/event_handlers/__init__.py to __init__.cpython-36.pyc
+[3.339s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/event_handlers/on_execution_complete.py to on_execution_complete.cpython-36.pyc
+[3.339s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/event_handlers/on_process_exit.py to on_process_exit.cpython-36.pyc
+[3.339s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/event_handlers/on_process_io.py to on_process_io.cpython-36.pyc
+[3.342s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/event_handlers/event_named.py to event_named.cpython-36.pyc
+[3.347s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/event_handlers/on_shutdown.py to on_shutdown.cpython-36.pyc
+[3.347s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/event_handlers/on_process_start.py to on_process_start.cpython-36.pyc
+[3.347s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/condition.py to condition.cpython-36.pyc
+[3.347s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/frontend/__init__.py to __init__.cpython-36.pyc
+[3.348s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/frontend/expose.py to expose.cpython-36.pyc
+[3.348s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/frontend/entity.py to entity.cpython-36.pyc
+[3.348s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/frontend/type_utils.py to type_utils.cpython-36.pyc
+[3.349s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/frontend/parser.py to parser.cpython-36.pyc
+[3.351s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/frontend/parse_substitution.py to parse_substitution.cpython-36.pyc
+[3.353s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/actions/opaque_function.py to opaque_function.cpython-36.pyc
+[3.354s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/actions/emit_event.py to emit_event.cpython-36.pyc
+[3.355s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/actions/timer_action.py to timer_action.cpython-36.pyc
+[3.357s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/actions/__init__.py to __init__.cpython-36.pyc
+[3.357s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/actions/set_launch_configuration.py to set_launch_configuration.cpython-36.pyc
+[3.359s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/actions/execute_process.py to execute_process.cpython-36.pyc
+[3.372s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/actions/declare_launch_argument.py to declare_launch_argument.cpython-36.pyc
+[3.373s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/actions/pop_launch_configurations.py to pop_launch_configurations.cpython-36.pyc
+[3.377s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/actions/group_action.py to group_action.cpython-36.pyc
+[3.379s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/actions/push_launch_configurations.py to push_launch_configurations.cpython-36.pyc
+[3.379s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/actions/unset_environment_variable.py to unset_environment_variable.cpython-36.pyc
+[3.383s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/actions/unregister_event_handler.py to unregister_event_handler.cpython-36.pyc
+[3.384s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/actions/include_launch_description.py to include_launch_description.cpython-36.pyc
+[3.387s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/actions/unset_launch_configuration.py to unset_launch_configuration.cpython-36.pyc
+[3.389s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/actions/log_info.py to log_info.cpython-36.pyc
+[3.393s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/actions/shutdown_action.py to shutdown_action.cpython-36.pyc
+[3.394s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/actions/register_event_handler.py to register_event_handler.cpython-36.pyc
+[3.395s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/actions/opaque_coroutine.py to opaque_coroutine.cpython-36.pyc
+[3.398s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/actions/set_environment_variable.py to set_environment_variable.cpython-36.pyc
+[3.400s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/launch_description_source.py to launch_description_source.cpython-36.pyc
+[3.403s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/some_substitutions_type.py to some_substitutions_type.cpython-36.pyc
+[3.404s] byte-compiling /opt/workspace/install/launch/lib/python3.6/site-packages/launch/invalid_launch_file_error.py to invalid_launch_file_error.cpython-36.pyc
+[3.404s] running install_data
+[3.405s] copying package.xml -> /opt/workspace/install/launch/share/launch
+[3.406s] creating /opt/workspace/install/launch/share/ament_index
+[3.406s] creating /opt/workspace/install/launch/share/ament_index/resource_index
+[3.406s] creating /opt/workspace/install/launch/share/ament_index/resource_index/packages
+[3.407s] copying resource/launch -> /opt/workspace/install/launch/share/ament_index/resource_index/packages
+[3.407s] creating /opt/workspace/install/launch/share/launch/frontend
+[3.407s] copying share/launch/frontend/grammar.lark -> /opt/workspace/install/launch/share/launch/frontend
+[3.408s] running install_egg_info
+[3.413s] Copying /opt/workspace/build/launch/launch.egg-info to /opt/workspace/install/launch/lib/python3.6/site-packages/launch-0.9.6-py3.6.egg-info
+[3.414s] running install_scripts
+[3.474s] writing list of installed files to '/opt/workspace/build/launch/install.log'
+[3.527s] Invoked command in '/opt/workspace/src/ros2/launch/launch' returned '0': AMENT_PREFIX_PATH=/opt/workspace/install/ament_index_python:/opt/workspace/install/ament_copyright:/opt/workspace/install/ament_pep257:/opt/workspace/install/ament_flake8:/opt/workspace/install/osrf_pycommon:/opt/workspace/install/ament_lint:${AMENT_PREFIX_PATH} PATH=/opt/workspace/install/ament_index_python/bin:/opt/workspace/install/ament_copyright/bin:/opt/workspace/install/ament_pep257/bin:/opt/workspace/install/ament_flake8/bin:${PATH} PYTHONPATH=/opt/workspace/install/launch/lib/python3.6/site-packages:/opt/workspace/install/ament_index_python/lib/python3.6/site-packages:/opt/workspace/install/ament_copyright/lib/python3.6/site-packages:/opt/workspace/install/ament_pep257/lib/python3.6/site-packages:/opt/workspace/install/ament_flake8/lib/python3.6/site-packages:/opt/workspace/install/osrf_pycommon/lib/python3.6/site-packages:/opt/workspace/install/ament_lint/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base /opt/workspace/build/launch build --build-base /opt/workspace/build/launch/build install --prefix /opt/workspace/install/launch --record /opt/workspace/build/launch/install.log --single-version-externally-managed

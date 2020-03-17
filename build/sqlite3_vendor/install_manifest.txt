@@ -1,0 +1,4 @@
+/opt/workspace/install/sqlite3_vendor/share/sqlite3_vendor/cmake/Modules/FindSQLite3.cmake
+/opt/workspace/install/sqlite3_vendor/share/sqlite3_vendor/package.xml
+/opt/workspace/install/sqlite3_vendor/share/sqlite3_vendor/cmake/sqlite3_vendorConfig.cmake
+/opt/workspace/install/sqlite3_vendor/share/sqlite3_vendor/cmake/sqlite3_vendorConfig-version.cmake

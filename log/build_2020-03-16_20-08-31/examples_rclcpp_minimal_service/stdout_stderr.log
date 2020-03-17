@@ -1,0 +1,58 @@
+[0.466s] -- The C compiler identification is GNU 7.4.0
+[0.595s] -- The CXX compiler identification is GNU 7.4.0
+[0.607s] -- Check for working C compiler: /usr/bin/cc
+[0.778s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.780s] -- Detecting C compiler ABI info
+[0.945s] -- Detecting C compiler ABI info - done
+[0.961s] -- Detecting C compile features
+[1.475s] -- Detecting C compile features - done
+[1.480s] -- Check for working CXX compiler: /usr/bin/c++
+[1.661s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[1.663s] -- Detecting CXX compiler ABI info
+[1.851s] -- Detecting CXX compiler ABI info - done
+[1.872s] -- Detecting CXX compile features
+[2.676s] -- Detecting CXX compile features - done
+[2.689s] -- Found ament_cmake: 0.8.2 (/opt/workspace/install/ament_cmake/share/ament_cmake/cmake)
+[2.800s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[2.800s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[3.426s] -- Found example_interfaces: 0.7.1 (/opt/workspace/install/example_interfaces/share/example_interfaces/cmake)
+[3.547s] -- Found rosidl_adapter: 0.8.2 (/opt/workspace/install/rosidl_adapter/share/rosidl_adapter/cmake)
+[3.654s] -- Found rclcpp: 0.8.4 (/opt/workspace/install/rclcpp/share/rclcpp/cmake)
+[3.705s] -- Found rmw_implementation_cmake: 0.8.1 (/opt/workspace/install/rmw_implementation_cmake/share/rmw_implementation_cmake/cmake)
+[3.718s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[3.720s] -- Looking for pthread.h
+[3.887s] -- Looking for pthread.h - found
+[3.887s] -- Looking for pthread_create
+[4.057s] -- Looking for pthread_create - not found
+[4.058s] -- Looking for pthread_create in pthreads
+[4.208s] -- Looking for pthread_create in pthreads - not found
+[4.209s] -- Looking for pthread_create in pthread
+[4.382s] -- Looking for pthread_create in pthread - found
+[4.385s] -- Found Threads: TRUE  
+[4.835s] -- Configuring done
+[4.864s] -- Generating done
+[4.868s] -- Build files have been written to: /opt/workspace/build/examples_rclcpp_minimal_service
+[5.015s] [35m[1mScanning dependencies of target service_main[0m
+[5.109s] [ 50%] [32mBuilding CXX object CMakeFiles/service_main.dir/main.cpp.o[0m
+[8.653s] [100%] [32m[1mLinking CXX executable service_main[0m
+[9.218s] [100%] Built target service_main
+[9.483s] [100%] Built target service_main
+[9.542s] [36mInstall the project...[0m
+[9.568s] -- Install configuration: ""
+[9.569s] -- Installing: /opt/workspace/install/examples_rclcpp_minimal_service/lib/examples_rclcpp_minimal_service/service_main
+[9.570s] -- Set runtime path of "/opt/workspace/install/examples_rclcpp_minimal_service/lib/examples_rclcpp_minimal_service/service_main" to ""
+[9.571s] -- Installing: /opt/workspace/install/examples_rclcpp_minimal_service/share/ament_index/resource_index/package_run_dependencies/examples_rclcpp_minimal_service
+[9.572s] -- Installing: /opt/workspace/install/examples_rclcpp_minimal_service/share/ament_index/resource_index/parent_prefix_path/examples_rclcpp_minimal_service
+[9.572s] -- Installing: /opt/workspace/install/examples_rclcpp_minimal_service/share/examples_rclcpp_minimal_service/environment/ament_prefix_path.sh
+[9.572s] -- Installing: /opt/workspace/install/examples_rclcpp_minimal_service/share/examples_rclcpp_minimal_service/environment/ament_prefix_path.dsv
+[9.573s] -- Installing: /opt/workspace/install/examples_rclcpp_minimal_service/share/examples_rclcpp_minimal_service/environment/path.sh
+[9.573s] -- Installing: /opt/workspace/install/examples_rclcpp_minimal_service/share/examples_rclcpp_minimal_service/environment/path.dsv
+[9.573s] -- Installing: /opt/workspace/install/examples_rclcpp_minimal_service/share/examples_rclcpp_minimal_service/local_setup.bash
+[9.573s] -- Installing: /opt/workspace/install/examples_rclcpp_minimal_service/share/examples_rclcpp_minimal_service/local_setup.sh
+[9.574s] -- Installing: /opt/workspace/install/examples_rclcpp_minimal_service/share/examples_rclcpp_minimal_service/local_setup.zsh
+[9.574s] -- Installing: /opt/workspace/install/examples_rclcpp_minimal_service/share/examples_rclcpp_minimal_service/local_setup.dsv
+[9.574s] -- Installing: /opt/workspace/install/examples_rclcpp_minimal_service/share/examples_rclcpp_minimal_service/package.dsv
+[9.576s] -- Installing: /opt/workspace/install/examples_rclcpp_minimal_service/share/ament_index/resource_index/packages/examples_rclcpp_minimal_service
+[9.576s] -- Installing: /opt/workspace/install/examples_rclcpp_minimal_service/share/examples_rclcpp_minimal_service/cmake/examples_rclcpp_minimal_serviceConfig.cmake
+[9.576s] -- Installing: /opt/workspace/install/examples_rclcpp_minimal_service/share/examples_rclcpp_minimal_service/cmake/examples_rclcpp_minimal_serviceConfig-version.cmake
+[9.577s] -- Installing: /opt/workspace/install/examples_rclcpp_minimal_service/share/examples_rclcpp_minimal_service/package.xml

@@ -1,0 +1,55 @@
+Determining if the pthread_create exist failed with the following output:
+Change Dir: /opt/workspace/build/rcl/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_375b4/fast"
+/usr/bin/make -f CMakeFiles/cmTC_375b4.dir/build.make CMakeFiles/cmTC_375b4.dir/build
+make[1]: Entering directory '/opt/workspace/build/rcl/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_375b4.dir/CheckSymbolExists.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_375b4.dir/CheckSymbolExists.c.o   -c /opt/workspace/build/rcl/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_375b4
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_375b4.dir/link.txt --verbose=1
+/usr/bin/cc      CMakeFiles/cmTC_375b4.dir/CheckSymbolExists.c.o  -o cmTC_375b4 
+CMakeFiles/cmTC_375b4.dir/CheckSymbolExists.c.o: In function `main':
+CheckSymbolExists.c:(.text+0x1b): undefined reference to `pthread_create'
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_375b4.dir/build.make:97: recipe for target 'cmTC_375b4' failed
+make[1]: *** [cmTC_375b4] Error 1
+make[1]: Leaving directory '/opt/workspace/build/rcl/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_375b4/fast' failed
+make: *** [cmTC_375b4/fast] Error 2
+
+File /opt/workspace/build/rcl/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the function pthread_create exists in the pthreads failed with the following output:
+Change Dir: /opt/workspace/build/rcl/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_cae34/fast"
+/usr/bin/make -f CMakeFiles/cmTC_cae34.dir/build.make CMakeFiles/cmTC_cae34.dir/build
+make[1]: Entering directory '/opt/workspace/build/rcl/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_cae34.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_cae34.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.10/Modules/CheckFunctionExists.c
+Linking C executable cmTC_cae34
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_cae34.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=pthread_create    CMakeFiles/cmTC_cae34.dir/CheckFunctionExists.c.o  -o cmTC_cae34 -lpthreads 
+/usr/bin/ld: cannot find -lpthreads
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_cae34.dir/build.make:97: recipe for target 'cmTC_cae34' failed
+make[1]: *** [cmTC_cae34] Error 1
+make[1]: Leaving directory '/opt/workspace/build/rcl/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_cae34/fast' failed
+make: *** [cmTC_cae34/fast] Error 2
+
+

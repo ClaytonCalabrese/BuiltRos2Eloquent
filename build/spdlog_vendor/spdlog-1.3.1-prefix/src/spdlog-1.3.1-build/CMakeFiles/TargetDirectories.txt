@@ -1,0 +1,7 @@
+/opt/workspace/build/spdlog_vendor/spdlog-1.3.1-prefix/src/spdlog-1.3.1-build/CMakeFiles/install/strip.dir
+/opt/workspace/build/spdlog_vendor/spdlog-1.3.1-prefix/src/spdlog-1.3.1-build/CMakeFiles/install/local.dir
+/opt/workspace/build/spdlog_vendor/spdlog-1.3.1-prefix/src/spdlog-1.3.1-build/CMakeFiles/spdlog_headers_for_ide.dir
+/opt/workspace/build/spdlog_vendor/spdlog-1.3.1-prefix/src/spdlog-1.3.1-build/CMakeFiles/rebuild_cache.dir
+/opt/workspace/build/spdlog_vendor/spdlog-1.3.1-prefix/src/spdlog-1.3.1-build/CMakeFiles/edit_cache.dir
+/opt/workspace/build/spdlog_vendor/spdlog-1.3.1-prefix/src/spdlog-1.3.1-build/CMakeFiles/list_install_components.dir
+/opt/workspace/build/spdlog_vendor/spdlog-1.3.1-prefix/src/spdlog-1.3.1-build/CMakeFiles/install.dir

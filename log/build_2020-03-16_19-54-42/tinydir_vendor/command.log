@@ -1,0 +1,6 @@
+[1.130s] Invoking command in '/opt/workspace/build/tinydir_vendor': CMAKE_PREFIX_PATH=/opt/ros/eloquent /usr/bin/cmake /opt/workspace/src/ros2/tinydir_vendor -DCMAKE_INSTALL_PREFIX=/opt/workspace/install/tinydir_vendor
+[3.142s] Invoked command in '/opt/workspace/build/tinydir_vendor' returned '0': CMAKE_PREFIX_PATH=/opt/ros/eloquent /usr/bin/cmake /opt/workspace/src/ros2/tinydir_vendor -DCMAKE_INSTALL_PREFIX=/opt/workspace/install/tinydir_vendor
+[3.144s] Invoking command in '/opt/workspace/build/tinydir_vendor': CMAKE_PREFIX_PATH=/opt/ros/eloquent /usr/bin/cmake --build /opt/workspace/build/tinydir_vendor -- -j8 -l8
+[10.167s] Invoked command in '/opt/workspace/build/tinydir_vendor' returned '0': CMAKE_PREFIX_PATH=/opt/ros/eloquent /usr/bin/cmake --build /opt/workspace/build/tinydir_vendor -- -j8 -l8
+[10.406s] Invoking command in '/opt/workspace/build/tinydir_vendor': CMAKE_PREFIX_PATH=/opt/ros/eloquent /usr/bin/cmake --build /opt/workspace/build/tinydir_vendor --target install -- -j8 -l8
+[10.938s] Invoked command in '/opt/workspace/build/tinydir_vendor' returned '0': CMAKE_PREFIX_PATH=/opt/ros/eloquent /usr/bin/cmake --build /opt/workspace/build/tinydir_vendor --target install -- -j8 -l8

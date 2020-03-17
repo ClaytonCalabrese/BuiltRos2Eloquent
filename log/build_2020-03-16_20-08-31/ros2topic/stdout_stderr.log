@@ -1,0 +1,76 @@
+[4.980s] running egg_info
+[4.981s] creating /opt/workspace/build/ros2topic/ros2topic.egg-info
+[4.981s] writing /opt/workspace/build/ros2topic/ros2topic.egg-info/PKG-INFO
+[4.988s] writing dependency_links to /opt/workspace/build/ros2topic/ros2topic.egg-info/dependency_links.txt
+[4.989s] writing entry points to /opt/workspace/build/ros2topic/ros2topic.egg-info/entry_points.txt
+[4.989s] writing requirements to /opt/workspace/build/ros2topic/ros2topic.egg-info/requires.txt
+[4.989s] writing top-level names to /opt/workspace/build/ros2topic/ros2topic.egg-info/top_level.txt
+[4.991s] writing manifest file '/opt/workspace/build/ros2topic/ros2topic.egg-info/SOURCES.txt'
+[5.049s] reading manifest file '/opt/workspace/build/ros2topic/ros2topic.egg-info/SOURCES.txt'
+[5.051s] writing manifest file '/opt/workspace/build/ros2topic/ros2topic.egg-info/SOURCES.txt'
+[5.051s] running build
+[5.052s] running build_py
+[5.052s] creating /opt/workspace/build/ros2topic/build
+[5.052s] creating /opt/workspace/build/ros2topic/build/lib
+[5.052s] creating /opt/workspace/build/ros2topic/build/lib/ros2topic
+[5.052s] copying ros2topic/__init__.py -> /opt/workspace/build/ros2topic/build/lib/ros2topic
+[5.052s] creating /opt/workspace/build/ros2topic/build/lib/ros2topic/api
+[5.053s] copying ros2topic/api/__init__.py -> /opt/workspace/build/ros2topic/build/lib/ros2topic/api
+[5.053s] creating /opt/workspace/build/ros2topic/build/lib/ros2topic/verb
+[5.053s] copying ros2topic/verb/__init__.py -> /opt/workspace/build/ros2topic/build/lib/ros2topic/verb
+[5.053s] copying ros2topic/verb/bw.py -> /opt/workspace/build/ros2topic/build/lib/ros2topic/verb
+[5.053s] copying ros2topic/verb/hz.py -> /opt/workspace/build/ros2topic/build/lib/ros2topic/verb
+[5.054s] copying ros2topic/verb/echo.py -> /opt/workspace/build/ros2topic/build/lib/ros2topic/verb
+[5.054s] copying ros2topic/verb/delay.py -> /opt/workspace/build/ros2topic/build/lib/ros2topic/verb
+[5.054s] copying ros2topic/verb/list.py -> /opt/workspace/build/ros2topic/build/lib/ros2topic/verb
+[5.054s] copying ros2topic/verb/pub.py -> /opt/workspace/build/ros2topic/build/lib/ros2topic/verb
+[5.054s] copying ros2topic/verb/type.py -> /opt/workspace/build/ros2topic/build/lib/ros2topic/verb
+[5.055s] copying ros2topic/verb/find.py -> /opt/workspace/build/ros2topic/build/lib/ros2topic/verb
+[5.055s] copying ros2topic/verb/info.py -> /opt/workspace/build/ros2topic/build/lib/ros2topic/verb
+[5.055s] creating /opt/workspace/build/ros2topic/build/lib/ros2topic/command
+[5.055s] copying ros2topic/command/__init__.py -> /opt/workspace/build/ros2topic/build/lib/ros2topic/command
+[5.055s] copying ros2topic/command/topic.py -> /opt/workspace/build/ros2topic/build/lib/ros2topic/command
+[5.056s] running install
+[5.056s] running install_lib
+[5.057s] creating /opt/workspace/install/ros2topic/lib/python3.6/site-packages/ros2topic
+[5.057s] copying /opt/workspace/build/ros2topic/build/lib/ros2topic/__init__.py -> /opt/workspace/install/ros2topic/lib/python3.6/site-packages/ros2topic
+[5.057s] creating /opt/workspace/install/ros2topic/lib/python3.6/site-packages/ros2topic/api
+[5.058s] copying /opt/workspace/build/ros2topic/build/lib/ros2topic/api/__init__.py -> /opt/workspace/install/ros2topic/lib/python3.6/site-packages/ros2topic/api
+[5.058s] creating /opt/workspace/install/ros2topic/lib/python3.6/site-packages/ros2topic/verb
+[5.058s] copying /opt/workspace/build/ros2topic/build/lib/ros2topic/verb/__init__.py -> /opt/workspace/install/ros2topic/lib/python3.6/site-packages/ros2topic/verb
+[5.058s] copying /opt/workspace/build/ros2topic/build/lib/ros2topic/verb/bw.py -> /opt/workspace/install/ros2topic/lib/python3.6/site-packages/ros2topic/verb
+[5.058s] copying /opt/workspace/build/ros2topic/build/lib/ros2topic/verb/hz.py -> /opt/workspace/install/ros2topic/lib/python3.6/site-packages/ros2topic/verb
+[5.059s] copying /opt/workspace/build/ros2topic/build/lib/ros2topic/verb/echo.py -> /opt/workspace/install/ros2topic/lib/python3.6/site-packages/ros2topic/verb
+[5.059s] copying /opt/workspace/build/ros2topic/build/lib/ros2topic/verb/delay.py -> /opt/workspace/install/ros2topic/lib/python3.6/site-packages/ros2topic/verb
+[5.059s] copying /opt/workspace/build/ros2topic/build/lib/ros2topic/verb/list.py -> /opt/workspace/install/ros2topic/lib/python3.6/site-packages/ros2topic/verb
+[5.059s] copying /opt/workspace/build/ros2topic/build/lib/ros2topic/verb/pub.py -> /opt/workspace/install/ros2topic/lib/python3.6/site-packages/ros2topic/verb
+[5.059s] copying /opt/workspace/build/ros2topic/build/lib/ros2topic/verb/type.py -> /opt/workspace/install/ros2topic/lib/python3.6/site-packages/ros2topic/verb
+[5.059s] copying /opt/workspace/build/ros2topic/build/lib/ros2topic/verb/find.py -> /opt/workspace/install/ros2topic/lib/python3.6/site-packages/ros2topic/verb
+[5.060s] copying /opt/workspace/build/ros2topic/build/lib/ros2topic/verb/info.py -> /opt/workspace/install/ros2topic/lib/python3.6/site-packages/ros2topic/verb
+[5.060s] creating /opt/workspace/install/ros2topic/lib/python3.6/site-packages/ros2topic/command
+[5.060s] copying /opt/workspace/build/ros2topic/build/lib/ros2topic/command/__init__.py -> /opt/workspace/install/ros2topic/lib/python3.6/site-packages/ros2topic/command
+[5.060s] copying /opt/workspace/build/ros2topic/build/lib/ros2topic/command/topic.py -> /opt/workspace/install/ros2topic/lib/python3.6/site-packages/ros2topic/command
+[5.060s] byte-compiling /opt/workspace/install/ros2topic/lib/python3.6/site-packages/ros2topic/__init__.py to __init__.cpython-36.pyc
+[5.061s] byte-compiling /opt/workspace/install/ros2topic/lib/python3.6/site-packages/ros2topic/api/__init__.py to __init__.cpython-36.pyc
+[5.062s] byte-compiling /opt/workspace/install/ros2topic/lib/python3.6/site-packages/ros2topic/verb/__init__.py to __init__.cpython-36.pyc
+[5.063s] byte-compiling /opt/workspace/install/ros2topic/lib/python3.6/site-packages/ros2topic/verb/bw.py to bw.cpython-36.pyc
+[5.064s] byte-compiling /opt/workspace/install/ros2topic/lib/python3.6/site-packages/ros2topic/verb/hz.py to hz.cpython-36.pyc
+[5.066s] byte-compiling /opt/workspace/install/ros2topic/lib/python3.6/site-packages/ros2topic/verb/echo.py to echo.cpython-36.pyc
+[5.067s] byte-compiling /opt/workspace/install/ros2topic/lib/python3.6/site-packages/ros2topic/verb/delay.py to delay.cpython-36.pyc
+[5.069s] byte-compiling /opt/workspace/install/ros2topic/lib/python3.6/site-packages/ros2topic/verb/list.py to list.cpython-36.pyc
+[5.070s] byte-compiling /opt/workspace/install/ros2topic/lib/python3.6/site-packages/ros2topic/verb/pub.py to pub.cpython-36.pyc
+[5.071s] byte-compiling /opt/workspace/install/ros2topic/lib/python3.6/site-packages/ros2topic/verb/type.py to type.cpython-36.pyc
+[5.071s] byte-compiling /opt/workspace/install/ros2topic/lib/python3.6/site-packages/ros2topic/verb/find.py to find.cpython-36.pyc
+[5.072s] byte-compiling /opt/workspace/install/ros2topic/lib/python3.6/site-packages/ros2topic/verb/info.py to info.cpython-36.pyc
+[5.072s] byte-compiling /opt/workspace/install/ros2topic/lib/python3.6/site-packages/ros2topic/command/__init__.py to __init__.cpython-36.pyc
+[5.072s] byte-compiling /opt/workspace/install/ros2topic/lib/python3.6/site-packages/ros2topic/command/topic.py to topic.cpython-36.pyc
+[5.073s] running install_data
+[5.073s] copying package.xml -> /opt/workspace/install/ros2topic/share/ros2topic
+[5.074s] creating /opt/workspace/install/ros2topic/share/ament_index
+[5.074s] creating /opt/workspace/install/ros2topic/share/ament_index/resource_index
+[5.074s] creating /opt/workspace/install/ros2topic/share/ament_index/resource_index/packages
+[5.074s] copying resource/ros2topic -> /opt/workspace/install/ros2topic/share/ament_index/resource_index/packages
+[5.074s] running install_egg_info
+[5.078s] Copying /opt/workspace/build/ros2topic/ros2topic.egg-info to /opt/workspace/install/ros2topic/lib/python3.6/site-packages/ros2topic-0.8.7-py3.6.egg-info
+[5.079s] running install_scripts
+[5.109s] writing list of installed files to '/opt/workspace/build/ros2topic/install.log'

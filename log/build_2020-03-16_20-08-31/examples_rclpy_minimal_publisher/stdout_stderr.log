@@ -1,0 +1,43 @@
+[6.090s] running egg_info
+[6.091s] creating /opt/workspace/build/examples_rclpy_minimal_publisher/examples_rclpy_minimal_publisher.egg-info
+[6.091s] writing /opt/workspace/build/examples_rclpy_minimal_publisher/examples_rclpy_minimal_publisher.egg-info/PKG-INFO
+[6.091s] writing dependency_links to /opt/workspace/build/examples_rclpy_minimal_publisher/examples_rclpy_minimal_publisher.egg-info/dependency_links.txt
+[6.091s] writing entry points to /opt/workspace/build/examples_rclpy_minimal_publisher/examples_rclpy_minimal_publisher.egg-info/entry_points.txt
+[6.091s] writing requirements to /opt/workspace/build/examples_rclpy_minimal_publisher/examples_rclpy_minimal_publisher.egg-info/requires.txt
+[6.092s] writing top-level names to /opt/workspace/build/examples_rclpy_minimal_publisher/examples_rclpy_minimal_publisher.egg-info/top_level.txt
+[6.092s] writing manifest file '/opt/workspace/build/examples_rclpy_minimal_publisher/examples_rclpy_minimal_publisher.egg-info/SOURCES.txt'
+[6.092s] reading manifest file '/opt/workspace/build/examples_rclpy_minimal_publisher/examples_rclpy_minimal_publisher.egg-info/SOURCES.txt'
+[6.092s] writing manifest file '/opt/workspace/build/examples_rclpy_minimal_publisher/examples_rclpy_minimal_publisher.egg-info/SOURCES.txt'
+[6.093s] running build
+[6.093s] running build_py
+[6.093s] creating /opt/workspace/build/examples_rclpy_minimal_publisher/build
+[6.093s] creating /opt/workspace/build/examples_rclpy_minimal_publisher/build/lib
+[6.093s] creating /opt/workspace/build/examples_rclpy_minimal_publisher/build/lib/examples_rclpy_minimal_publisher
+[6.095s] copying examples_rclpy_minimal_publisher/publisher_old_school.py -> /opt/workspace/build/examples_rclpy_minimal_publisher/build/lib/examples_rclpy_minimal_publisher
+[6.096s] copying examples_rclpy_minimal_publisher/__init__.py -> /opt/workspace/build/examples_rclpy_minimal_publisher/build/lib/examples_rclpy_minimal_publisher
+[6.096s] copying examples_rclpy_minimal_publisher/publisher_local_function.py -> /opt/workspace/build/examples_rclpy_minimal_publisher/build/lib/examples_rclpy_minimal_publisher
+[6.096s] copying examples_rclpy_minimal_publisher/publisher_member_function.py -> /opt/workspace/build/examples_rclpy_minimal_publisher/build/lib/examples_rclpy_minimal_publisher
+[6.096s] running install
+[6.097s] running install_lib
+[6.097s] creating /opt/workspace/install/examples_rclpy_minimal_publisher/lib/python3.6/site-packages/examples_rclpy_minimal_publisher
+[6.097s] copying /opt/workspace/build/examples_rclpy_minimal_publisher/build/lib/examples_rclpy_minimal_publisher/publisher_old_school.py -> /opt/workspace/install/examples_rclpy_minimal_publisher/lib/python3.6/site-packages/examples_rclpy_minimal_publisher
+[6.097s] copying /opt/workspace/build/examples_rclpy_minimal_publisher/build/lib/examples_rclpy_minimal_publisher/__init__.py -> /opt/workspace/install/examples_rclpy_minimal_publisher/lib/python3.6/site-packages/examples_rclpy_minimal_publisher
+[6.097s] copying /opt/workspace/build/examples_rclpy_minimal_publisher/build/lib/examples_rclpy_minimal_publisher/publisher_local_function.py -> /opt/workspace/install/examples_rclpy_minimal_publisher/lib/python3.6/site-packages/examples_rclpy_minimal_publisher
+[6.098s] copying /opt/workspace/build/examples_rclpy_minimal_publisher/build/lib/examples_rclpy_minimal_publisher/publisher_member_function.py -> /opt/workspace/install/examples_rclpy_minimal_publisher/lib/python3.6/site-packages/examples_rclpy_minimal_publisher
+[6.098s] byte-compiling /opt/workspace/install/examples_rclpy_minimal_publisher/lib/python3.6/site-packages/examples_rclpy_minimal_publisher/publisher_old_school.py to publisher_old_school.cpython-36.pyc
+[6.098s] byte-compiling /opt/workspace/install/examples_rclpy_minimal_publisher/lib/python3.6/site-packages/examples_rclpy_minimal_publisher/__init__.py to __init__.cpython-36.pyc
+[6.098s] byte-compiling /opt/workspace/install/examples_rclpy_minimal_publisher/lib/python3.6/site-packages/examples_rclpy_minimal_publisher/publisher_local_function.py to publisher_local_function.cpython-36.pyc
+[6.098s] byte-compiling /opt/workspace/install/examples_rclpy_minimal_publisher/lib/python3.6/site-packages/examples_rclpy_minimal_publisher/publisher_member_function.py to publisher_member_function.cpython-36.pyc
+[6.099s] running install_data
+[6.099s] creating /opt/workspace/install/examples_rclpy_minimal_publisher/share/ament_index
+[6.099s] creating /opt/workspace/install/examples_rclpy_minimal_publisher/share/ament_index/resource_index
+[6.099s] creating /opt/workspace/install/examples_rclpy_minimal_publisher/share/ament_index/resource_index/packages
+[6.099s] copying resource/examples_rclpy_minimal_publisher -> /opt/workspace/install/examples_rclpy_minimal_publisher/share/ament_index/resource_index/packages
+[6.100s] copying package.xml -> /opt/workspace/install/examples_rclpy_minimal_publisher/share/examples_rclpy_minimal_publisher
+[6.100s] running install_egg_info
+[6.100s] Copying /opt/workspace/build/examples_rclpy_minimal_publisher/examples_rclpy_minimal_publisher.egg-info to /opt/workspace/install/examples_rclpy_minimal_publisher/lib/python3.6/site-packages/examples_rclpy_minimal_publisher-0.8.2-py3.6.egg-info
+[6.101s] running install_scripts
+[6.102s] Installing publisher_local_function script to /opt/workspace/install/examples_rclpy_minimal_publisher/lib/examples_rclpy_minimal_publisher
+[6.102s] Installing publisher_member_function script to /opt/workspace/install/examples_rclpy_minimal_publisher/lib/examples_rclpy_minimal_publisher
+[6.102s] Installing publisher_old_school script to /opt/workspace/install/examples_rclpy_minimal_publisher/lib/examples_rclpy_minimal_publisher
+[6.103s] writing list of installed files to '/opt/workspace/build/examples_rclpy_minimal_publisher/install.log'

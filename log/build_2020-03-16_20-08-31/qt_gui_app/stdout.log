@@ -1,0 +1,41 @@
+[1.553s] -- The C compiler identification is GNU 7.4.0
+[1.908s] -- The CXX compiler identification is GNU 7.4.0
+[1.922s] -- Check for working C compiler: /usr/bin/cc
+[2.446s] -- Check for working C compiler: /usr/bin/cc -- works
+[2.448s] -- Detecting C compiler ABI info
+[2.923s] -- Detecting C compiler ABI info - done
+[2.964s] -- Detecting C compile features
+[4.559s] -- Detecting C compile features - done
+[4.560s] -- Check for working CXX compiler: /usr/bin/c++
+[5.189s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[5.190s] -- Detecting CXX compiler ABI info
+[5.663s] -- Detecting CXX compiler ABI info - done
+[5.684s] -- Detecting CXX compile features
+[7.992s] -- Detecting CXX compile features - done
+[7.996s] -- Found ament_cmake: 0.8.2 (/opt/workspace/install/ament_cmake/share/ament_cmake/cmake)
+[8.210s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[8.210s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[9.427s] -- Found ament_lint_auto: 0.8.1 (/opt/workspace/install/ament_lint_auto/share/ament_lint_auto/cmake)
+[9.722s] -- Added test 'lint_cmake' to check CMake code style
+[9.723s] -- Added test 'xmllint' to check XML markup files
+[9.730s] -- Configuring done
+[9.734s] -- Generating done
+[9.737s] -- Build files have been written to: /opt/workspace/build/qt_gui_app
+[10.680s] [36mInstall the project...[0m
+[10.716s] -- Install configuration: ""
+[10.716s] -- Installing: /opt/workspace/install/qt_gui_app/lib/qt_gui_app/qt_gui_app
+[10.720s] -- Installing: /opt/workspace/install/qt_gui_app/share/ament_index/resource_index/package_run_dependencies/qt_gui_app
+[10.720s] -- Installing: /opt/workspace/install/qt_gui_app/share/ament_index/resource_index/parent_prefix_path/qt_gui_app
+[10.721s] -- Installing: /opt/workspace/install/qt_gui_app/share/qt_gui_app/environment/ament_prefix_path.sh
+[10.722s] -- Installing: /opt/workspace/install/qt_gui_app/share/qt_gui_app/environment/ament_prefix_path.dsv
+[10.722s] -- Installing: /opt/workspace/install/qt_gui_app/share/qt_gui_app/environment/path.sh
+[10.722s] -- Installing: /opt/workspace/install/qt_gui_app/share/qt_gui_app/environment/path.dsv
+[10.723s] -- Installing: /opt/workspace/install/qt_gui_app/share/qt_gui_app/local_setup.bash
+[10.723s] -- Installing: /opt/workspace/install/qt_gui_app/share/qt_gui_app/local_setup.sh
+[10.723s] -- Installing: /opt/workspace/install/qt_gui_app/share/qt_gui_app/local_setup.zsh
+[10.723s] -- Installing: /opt/workspace/install/qt_gui_app/share/qt_gui_app/local_setup.dsv
+[10.735s] -- Installing: /opt/workspace/install/qt_gui_app/share/qt_gui_app/package.dsv
+[10.736s] -- Installing: /opt/workspace/install/qt_gui_app/share/ament_index/resource_index/packages/qt_gui_app
+[10.736s] -- Installing: /opt/workspace/install/qt_gui_app/share/qt_gui_app/cmake/qt_gui_appConfig.cmake
+[10.736s] -- Installing: /opt/workspace/install/qt_gui_app/share/qt_gui_app/cmake/qt_gui_appConfig-version.cmake
+[10.737s] -- Installing: /opt/workspace/install/qt_gui_app/share/qt_gui_app/package.xml

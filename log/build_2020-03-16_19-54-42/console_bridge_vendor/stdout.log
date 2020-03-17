@@ -1,0 +1,240 @@
+[0.606s] -- The C compiler identification is GNU 7.4.0
+[0.922s] -- The CXX compiler identification is GNU 7.4.0
+[0.967s] -- Check for working C compiler: /usr/bin/cc
+[1.455s] -- Check for working C compiler: /usr/bin/cc -- works
+[1.456s] -- Detecting C compiler ABI info
+[1.907s] -- Detecting C compiler ABI info - done
+[1.937s] -- Detecting C compile features
+[3.183s] -- Detecting C compile features - done
+[3.187s] -- Check for working CXX compiler: /usr/bin/c++
+[3.671s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[3.672s] -- Detecting CXX compiler ABI info
+[4.162s] -- Detecting CXX compiler ABI info - done
+[4.191s] -- Detecting CXX compile features
+[6.050s] -- Detecting CXX compile features - done
+[6.056s] -- Found ament_cmake: 0.8.2 (/opt/workspace/install/ament_cmake/share/ament_cmake/cmake)
+[6.157s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[6.158s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[7.036s] -- Configuring done
+[7.055s] -- Generating done
+[7.058s] -- Build files have been written to: /opt/workspace/build/console_bridge_vendor
+[7.290s] [35m[1mScanning dependencies of target console_bridge-0.4.1[0m
+[7.388s] [ 12%] [34m[1mCreating directories for 'console_bridge-0.4.1'[0m
+[7.854s] [ 25%] [34m[1mPerforming download step (download, verify and extract) for 'console_bridge-0.4.1'[0m
+[7.908s] -- Downloading...
+[7.909s]    dst='/opt/workspace/build/console_bridge_vendor/console_bridge-0.4.1-prefix/src/0.4.1.tar.gz'
+[7.909s]    timeout='600 seconds'
+[7.909s] -- Using src='https://github.com/ros/console_bridge/archive/0.4.1.tar.gz'
+[8.178s] -- [download 100% complete]
+[8.338s] -- [download 0% complete]
+[8.339s] -- [download 1% complete]
+[8.339s] -- [download 2% complete]
+[8.339s] -- [download 3% complete]
+[8.339s] -- [download 4% complete]
+[8.376s] -- [download 5% complete]
+[8.376s] -- [download 6% complete]
+[8.376s] -- [download 7% complete]
+[8.376s] -- [download 8% complete]
+[8.376s] -- [download 9% complete]
+[8.377s] -- [download 10% complete]
+[8.377s] -- [download 11% complete]
+[8.377s] -- [download 12% complete]
+[8.377s] -- [download 13% complete]
+[8.377s] -- [download 14% complete]
+[8.378s] -- [download 15% complete]
+[8.402s] -- [download 16% complete]
+[8.403s] -- [download 17% complete]
+[8.403s] -- [download 18% complete]
+[8.403s] -- [download 19% complete]
+[8.407s] -- [download 20% complete]
+[8.407s] -- [download 21% complete]
+[8.407s] -- [download 22% complete]
+[8.408s] -- [download 23% complete]
+[8.410s] -- [download 24% complete]
+[8.410s] -- [download 25% complete]
+[8.410s] -- [download 26% complete]
+[8.410s] -- [download 27% complete]
+[8.411s] -- [download 28% complete]
+[8.412s] -- [download 29% complete]
+[8.412s] -- [download 30% complete]
+[8.412s] -- [download 31% complete]
+[8.412s] -- [download 32% complete]
+[8.413s] -- [download 33% complete]
+[8.413s] -- [download 34% complete]
+[8.413s] -- [download 35% complete]
+[8.413s] -- [download 36% complete]
+[8.413s] -- [download 37% complete]
+[8.437s] -- [download 38% complete]
+[8.438s] -- [download 39% complete]
+[8.438s] -- [download 40% complete]
+[8.439s] -- [download 41% complete]
+[8.439s] -- [download 42% complete]
+[8.439s] -- [download 43% complete]
+[8.439s] -- [download 44% complete]
+[8.439s] -- [download 45% complete]
+[8.440s] -- [download 46% complete]
+[8.442s] -- [download 47% complete]
+[8.443s] -- [download 48% complete]
+[8.443s] -- [download 49% complete]
+[8.443s] -- [download 50% complete]
+[8.443s] -- [download 51% complete]
+[8.445s] -- [download 52% complete]
+[8.445s] -- [download 53% complete]
+[8.446s] -- [download 54% complete]
+[8.446s] -- [download 55% complete]
+[8.446s] -- [download 56% complete]
+[8.446s] -- [download 57% complete]
+[8.446s] -- [download 58% complete]
+[8.447s] -- [download 59% complete]
+[8.447s] -- [download 60% complete]
+[8.447s] -- [download 61% complete]
+[8.447s] -- [download 62% complete]
+[8.451s] -- [download 63% complete]
+[8.451s] -- [download 64% complete]
+[8.451s] -- [download 65% complete]
+[8.451s] -- [download 66% complete]
+[8.452s] -- [download 67% complete]
+[8.452s] -- [download 68% complete]
+[8.452s] -- [download 69% complete]
+[8.452s] -- [download 70% complete]
+[8.452s] -- [download 71% complete]
+[8.453s] -- [download 72% complete]
+[8.453s] -- [download 73% complete]
+[8.453s] -- [download 74% complete]
+[8.453s] -- [download 75% complete]
+[8.454s] -- [download 76% complete]
+[8.454s] -- [download 77% complete]
+[8.454s] -- [download 78% complete]
+[8.454s] -- [download 79% complete]
+[8.454s] -- [download 80% complete]
+[8.455s] -- [download 81% complete]
+[8.485s] -- [download 82% complete]
+[8.486s] -- [download 83% complete]
+[8.486s] -- [download 84% complete]
+[8.486s] -- [download 85% complete]
+[8.486s] -- [download 86% complete]
+[8.486s] -- [download 87% complete]
+[8.487s] -- [download 88% complete]
+[8.487s] -- [download 89% complete]
+[8.487s] -- [download 90% complete]
+[8.487s] -- [download 91% complete]
+[8.488s] -- [download 92% complete]
+[8.488s] -- [download 93% complete]
+[8.488s] -- [download 94% complete]
+[8.488s] -- [download 95% complete]
+[8.489s] -- [download 96% complete]
+[8.489s] -- [download 97% complete]
+[8.489s] -- [download 98% complete]
+[8.489s] -- [download 99% complete]
+[8.490s] -- [download 100% complete]
+[8.490s] -- verifying file...
+[8.490s]        file='/opt/workspace/build/console_bridge_vendor/console_bridge-0.4.1-prefix/src/0.4.1.tar.gz'
+[8.490s] -- Downloading... done
+[8.580s] -- extracting...
+[8.580s]      src='/opt/workspace/build/console_bridge_vendor/console_bridge-0.4.1-prefix/src/0.4.1.tar.gz'
+[8.580s]      dst='/opt/workspace/build/console_bridge_vendor/console_bridge-0.4.1-prefix/src/console_bridge-0.4.1'
+[8.581s] -- extracting... [tar xfz]
+[8.631s] -- extracting... [analysis]
+[8.632s] -- extracting... [rename]
+[8.633s] -- extracting... [clean up]
+[8.635s] -- extracting... done
+[8.677s] [ 37%] [34m[1mNo patch step for 'console_bridge-0.4.1'[0m
+[8.729s] [ 50%] [34m[1mNo update step for 'console_bridge-0.4.1'[0m
+[8.783s] [ 62%] [34m[1mPerforming configure step for 'console_bridge-0.4.1'[0m
+[8.978s] -- The C compiler identification is GNU 7.4.0
+[9.128s] -- The CXX compiler identification is GNU 7.4.0
+[9.139s] -- Check for working C compiler: /usr/bin/cc
+[9.257s] -- Check for working C compiler: /usr/bin/cc -- works
+[9.258s] -- Detecting C compiler ABI info
+[9.373s] -- Detecting C compiler ABI info - done
+[9.396s] -- Detecting C compile features
+[10.002s] -- Detecting C compile features - done
+[10.012s] -- Check for working CXX compiler: /usr/bin/c++
+[10.265s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[10.267s] -- Detecting CXX compiler ABI info
+[10.466s] -- Detecting CXX compiler ABI info - done
+[10.499s] -- Detecting CXX compile features
+[11.191s] -- Detecting CXX compile features - done
+[11.193s] -- console_bridge version 0.4.0
+[11.208s] -- Performing Test HAS_VISIBILITY
+[11.356s] -- Performing Test HAS_VISIBILITY - Success
+[11.376s] -- Performing Test COMPILER_HAS_HIDDEN_VISIBILITY
+[11.514s] -- Performing Test COMPILER_HAS_HIDDEN_VISIBILITY - Success
+[11.521s] -- Performing Test COMPILER_HAS_HIDDEN_INLINE_VISIBILITY
+[11.688s] -- Performing Test COMPILER_HAS_HIDDEN_INLINE_VISIBILITY - Success
+[11.690s] -- Performing Test COMPILER_HAS_DEPRECATED_ATTR
+[11.848s] -- Performing Test COMPILER_HAS_DEPRECATED_ATTR - Success
+[11.899s] -- Configuring done
+[11.934s] -- Generating done
+[11.937s] -- Build files have been written to: /opt/workspace/build/console_bridge_vendor/console_bridge-0.4.1-prefix/src/console_bridge-0.4.1-build
+[11.983s] [ 75%] [34m[1mPerforming build step for 'console_bridge-0.4.1'[0m
+[12.053s] [35m[1mScanning dependencies of target console_bridge[0m
+[12.080s] [ 12%] [32mBuilding CXX object CMakeFiles/console_bridge.dir/src/console.cpp.o[0m
+[12.812s] [ 25%] [32m[1mLinking CXX shared library lib/libconsole_bridge.so[0m
+[12.977s] [ 25%] Built target console_bridge
+[12.997s] [35m[1mScanning dependencies of target gtest[0m
+[13.043s] [ 37%] [32mBuilding CXX object test/CMakeFiles/gtest.dir/gtest/src/gtest-all.cc.o[0m
+[23.939s] [ 50%] [32m[1mLinking CXX static library ../lib/libgtest.a[0m
+[24.002s] [ 50%] Built target gtest
+[24.022s] [35m[1mScanning dependencies of target gtest_main[0m
+[24.058s] [ 62%] [32mBuilding CXX object test/CMakeFiles/gtest_main.dir/gtest/src/gtest_main.cc.o[0m
+[25.169s] [ 75%] [32m[1mLinking CXX static library ../lib/libgtest_main.a[0m
+[25.256s] [ 75%] Built target gtest_main
+[25.291s] [35m[1mScanning dependencies of target console_TEST[0m
+[25.330s] [ 87%] [32mBuilding CXX object test/CMakeFiles/console_TEST.dir/console_TEST.cc.o[0m
+[26.570s] [100%] [32m[1mLinking CXX executable ../bin/console_TEST[0m
+[26.792s] [100%] Built target console_TEST
+[26.859s] [ 87%] [34m[1mPerforming install step for 'console_bridge-0.4.1'[0m
+[26.952s] [ 25%] Built target console_bridge
+[27.003s] [ 50%] Built target gtest
+[27.046s] [ 75%] Built target gtest_main
+[27.100s] [100%] Built target console_TEST
+[27.136s] [36mInstall the project...[0m
+[27.154s] -- Install configuration: "Release"
+[27.154s] -- Installing: /opt/workspace/build/console_bridge_vendor/console_bridge_vendor_install/lib/libconsole_bridge.so.0.4
+[27.154s] -- Installing: /opt/workspace/build/console_bridge_vendor/console_bridge_vendor_install/lib/libconsole_bridge.so
+[27.155s] -- Installing: /opt/workspace/build/console_bridge_vendor/console_bridge_vendor_install/include
+[27.156s] -- Installing: /opt/workspace/build/console_bridge_vendor/console_bridge_vendor_install/include/console_bridge
+[27.156s] -- Installing: /opt/workspace/build/console_bridge_vendor/console_bridge_vendor_install/include/console_bridge/console.h
+[27.156s] -- Installing: /opt/workspace/build/console_bridge_vendor/console_bridge_vendor_install/include/console_bridge_export.h
+[27.157s] -- Installing: /opt/workspace/build/console_bridge_vendor/console_bridge_vendor_install/lib/console_bridge/cmake/console_bridge-targets.cmake
+[27.157s] -- Installing: /opt/workspace/build/console_bridge_vendor/console_bridge_vendor_install/lib/console_bridge/cmake/console_bridge-targets-release.cmake
+[27.158s] -- Installing: /opt/workspace/build/console_bridge_vendor/console_bridge_vendor_install/lib/console_bridge/cmake/console_bridge-config.cmake
+[27.158s] -- Installing: /opt/workspace/build/console_bridge_vendor/console_bridge_vendor_install/lib/console_bridge/cmake/console_bridge-config-version.cmake
+[27.159s] -- Installing: /opt/workspace/build/console_bridge_vendor/console_bridge_vendor_install/lib/pkgconfig/console_bridge.pc
+[27.199s] [100%] [34m[1mCompleted 'console_bridge-0.4.1'[0m
+[27.265s] [100%] Built target console_bridge-0.4.1
+[27.450s] [100%] Built target console_bridge-0.4.1
+[27.485s] [36mInstall the project...[0m
+[27.505s] -- Install configuration: ""
+[27.505s] -- Installing: /opt/workspace/install/console_bridge_vendor
+[27.506s] -- Installing: /opt/workspace/install/console_bridge_vendor/lib
+[27.506s] -- Installing: /opt/workspace/install/console_bridge_vendor/lib/libconsole_bridge.so.0.4
+[27.506s] -- Installing: /opt/workspace/install/console_bridge_vendor/lib/pkgconfig
+[27.506s] -- Installing: /opt/workspace/install/console_bridge_vendor/lib/pkgconfig/console_bridge.pc
+[27.508s] -- Installing: /opt/workspace/install/console_bridge_vendor/lib/libconsole_bridge.so
+[27.508s] -- Installing: /opt/workspace/install/console_bridge_vendor/lib/console_bridge
+[27.508s] -- Installing: /opt/workspace/install/console_bridge_vendor/lib/console_bridge/cmake
+[27.509s] -- Installing: /opt/workspace/install/console_bridge_vendor/lib/console_bridge/cmake/console_bridge-targets.cmake
+[27.509s] -- Installing: /opt/workspace/install/console_bridge_vendor/lib/console_bridge/cmake/console_bridge-config.cmake
+[27.509s] -- Installing: /opt/workspace/install/console_bridge_vendor/lib/console_bridge/cmake/console_bridge-config-version.cmake
+[27.509s] -- Installing: /opt/workspace/install/console_bridge_vendor/lib/console_bridge/cmake/console_bridge-targets-release.cmake
+[27.509s] -- Installing: /opt/workspace/install/console_bridge_vendor/include
+[27.510s] -- Installing: /opt/workspace/install/console_bridge_vendor/include/console_bridge_export.h
+[27.510s] -- Installing: /opt/workspace/install/console_bridge_vendor/include/console_bridge
+[27.510s] -- Installing: /opt/workspace/install/console_bridge_vendor/include/console_bridge/console.h
+[27.510s] -- Installing: /opt/workspace/install/console_bridge_vendor/share/ament_index/resource_index/package_run_dependencies/console_bridge_vendor
+[27.510s] -- Installing: /opt/workspace/install/console_bridge_vendor/share/ament_index/resource_index/parent_prefix_path/console_bridge_vendor
+[27.511s] -- Installing: /opt/workspace/install/console_bridge_vendor/share/console_bridge_vendor/environment/ament_prefix_path.sh
+[27.512s] -- Installing: /opt/workspace/install/console_bridge_vendor/share/console_bridge_vendor/environment/ament_prefix_path.dsv
+[27.512s] -- Installing: /opt/workspace/install/console_bridge_vendor/share/console_bridge_vendor/environment/path.sh
+[27.515s] -- Installing: /opt/workspace/install/console_bridge_vendor/share/console_bridge_vendor/environment/path.dsv
+[27.515s] -- Installing: /opt/workspace/install/console_bridge_vendor/share/console_bridge_vendor/local_setup.bash
+[27.515s] -- Installing: /opt/workspace/install/console_bridge_vendor/share/console_bridge_vendor/local_setup.sh
+[27.516s] -- Installing: /opt/workspace/install/console_bridge_vendor/share/console_bridge_vendor/local_setup.zsh
+[27.519s] -- Installing: /opt/workspace/install/console_bridge_vendor/share/console_bridge_vendor/local_setup.dsv
+[27.520s] -- Installing: /opt/workspace/install/console_bridge_vendor/share/console_bridge_vendor/package.dsv
+[27.520s] -- Installing: /opt/workspace/install/console_bridge_vendor/share/ament_index/resource_index/packages/console_bridge_vendor
+[27.520s] -- Installing: /opt/workspace/install/console_bridge_vendor/share/console_bridge_vendor/cmake/console_bridge_vendorConfig.cmake
+[27.521s] -- Installing: /opt/workspace/install/console_bridge_vendor/share/console_bridge_vendor/cmake/console_bridge_vendorConfig-version.cmake
+[27.521s] -- Installing: /opt/workspace/install/console_bridge_vendor/share/console_bridge_vendor/package.xml

@@ -1,0 +1,35 @@
+[0.235s] -- Found ament_cmake: 0.8.2 (/opt/workspace/install/ament_cmake/share/ament_cmake/cmake)
+[0.283s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[0.284s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.700s] -- Found ament_lint_auto: 0.8.1 (/opt/workspace/install/ament_lint_auto/share/ament_lint_auto/cmake)
+[0.864s] -- Added test 'copyright' to check for copyright in CMake / C / C++ / Python code
+[0.866s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[0.866s] -- Configured cppcheck include dirs: 
+[0.868s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[0.870s] -- Added test 'lint_cmake' to check CMake code style
+[0.872s] -- Added test 'uncrustify' to check C / C++ code style
+[0.875s] -- Added test 'xmllint' to check XML markup files
+[0.880s] -- Configuring done
+[0.884s] -- Generating done
+[0.886s] -- Build files have been written to: /opt/workspace/build/rosidl_typesupport_interface
+[1.192s] [36mInstall the project...[0m
+[1.210s] -- Install configuration: ""
+[1.210s] -- Installing: /opt/workspace/install/rosidl_typesupport_interface/share/ament_index/resource_index/package_run_dependencies/rosidl_typesupport_interface
+[1.210s] -- Installing: /opt/workspace/install/rosidl_typesupport_interface/share/ament_index/resource_index/parent_prefix_path/rosidl_typesupport_interface
+[1.211s] -- Installing: /opt/workspace/install/rosidl_typesupport_interface/share/rosidl_typesupport_interface/environment/ament_prefix_path.sh
+[1.211s] -- Installing: /opt/workspace/install/rosidl_typesupport_interface/share/rosidl_typesupport_interface/environment/ament_prefix_path.dsv
+[1.211s] -- Installing: /opt/workspace/install/rosidl_typesupport_interface/share/rosidl_typesupport_interface/environment/path.sh
+[1.211s] -- Installing: /opt/workspace/install/rosidl_typesupport_interface/share/rosidl_typesupport_interface/environment/path.dsv
+[1.211s] -- Installing: /opt/workspace/install/rosidl_typesupport_interface/share/rosidl_typesupport_interface/local_setup.bash
+[1.212s] -- Installing: /opt/workspace/install/rosidl_typesupport_interface/share/rosidl_typesupport_interface/local_setup.sh
+[1.212s] -- Installing: /opt/workspace/install/rosidl_typesupport_interface/share/rosidl_typesupport_interface/local_setup.zsh
+[1.212s] -- Installing: /opt/workspace/install/rosidl_typesupport_interface/share/rosidl_typesupport_interface/local_setup.dsv
+[1.212s] -- Installing: /opt/workspace/install/rosidl_typesupport_interface/share/rosidl_typesupport_interface/package.dsv
+[1.213s] -- Installing: /opt/workspace/install/rosidl_typesupport_interface/share/ament_index/resource_index/packages/rosidl_typesupport_interface
+[1.213s] -- Installing: /opt/workspace/install/rosidl_typesupport_interface/share/rosidl_typesupport_interface/cmake/ament_cmake_export_include_directories-extras.cmake
+[1.213s] -- Installing: /opt/workspace/install/rosidl_typesupport_interface/share/rosidl_typesupport_interface/cmake/rosidl_typesupport_interfaceConfig.cmake
+[1.213s] -- Installing: /opt/workspace/install/rosidl_typesupport_interface/share/rosidl_typesupport_interface/cmake/rosidl_typesupport_interfaceConfig-version.cmake
+[1.214s] -- Installing: /opt/workspace/install/rosidl_typesupport_interface/share/rosidl_typesupport_interface/package.xml
+[1.214s] -- Installing: /opt/workspace/install/rosidl_typesupport_interface/include
+[1.214s] -- Installing: /opt/workspace/install/rosidl_typesupport_interface/include/rosidl_typesupport_interface
+[1.214s] -- Installing: /opt/workspace/install/rosidl_typesupport_interface/include/rosidl_typesupport_interface/macros.h

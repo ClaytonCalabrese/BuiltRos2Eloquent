@@ -1,0 +1,13 @@
+# Target labels
+ curl-7.57.0
+# Source files and their labels
+/opt/workspace/build/libcurl_vendor/CMakeFiles/curl-7.57.0
+/opt/workspace/build/libcurl_vendor/CMakeFiles/curl-7.57.0.rule
+/opt/workspace/build/libcurl_vendor/CMakeFiles/curl-7.57.0-complete.rule
+/opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0-stamp/curl-7.57.0-install.rule
+/opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0-stamp/curl-7.57.0-mkdir.rule
+/opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0-stamp/curl-7.57.0-download.rule
+/opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0-stamp/curl-7.57.0-update.rule
+/opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0-stamp/curl-7.57.0-patch.rule
+/opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0-stamp/curl-7.57.0-configure.rule
+/opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0-stamp/curl-7.57.0-build.rule

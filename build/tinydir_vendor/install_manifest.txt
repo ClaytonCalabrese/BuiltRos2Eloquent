@@ -1,0 +1,4 @@
+/opt/workspace/install/tinydir_vendor/include/tinydir/tinydir.h
+/opt/workspace/install/tinydir_vendor/share/tinydir_vendor/package.xml
+/opt/workspace/install/tinydir_vendor/share/tinydir_vendor/cmake/tinydir_vendorConfig.cmake
+/opt/workspace/install/tinydir_vendor/share/tinydir_vendor/cmake/tinydir_vendorConfig-version.cmake

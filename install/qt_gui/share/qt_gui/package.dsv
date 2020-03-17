@@ -1,0 +1,11 @@
+source;share/qt_gui/hook/cmake_prefix_path.ps1
+source;share/qt_gui/hook/cmake_prefix_path.dsv
+source;share/qt_gui/hook/cmake_prefix_path.sh
+source;share/qt_gui/hook/pythonpath.ps1
+source;share/qt_gui/hook/pythonpath.dsv
+source;share/qt_gui/hook/pythonpath.sh
+source;share/qt_gui/local_setup.bash
+source;share/qt_gui/local_setup.dsv
+source;share/qt_gui/local_setup.ps1
+source;share/qt_gui/local_setup.sh
+source;share/qt_gui/local_setup.zsh

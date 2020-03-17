@@ -1,0 +1,6 @@
+[0.837s] Invoking command in '/opt/workspace/build/tinyxml_vendor': CMAKE_PREFIX_PATH=/opt/ros/eloquent /usr/bin/cmake /opt/workspace/src/ros2/tinyxml_vendor -DCMAKE_INSTALL_PREFIX=/opt/workspace/install/tinyxml_vendor
+[6.456s] Invoked command in '/opt/workspace/build/tinyxml_vendor' returned '0': CMAKE_PREFIX_PATH=/opt/ros/eloquent /usr/bin/cmake /opt/workspace/src/ros2/tinyxml_vendor -DCMAKE_INSTALL_PREFIX=/opt/workspace/install/tinyxml_vendor
+[6.458s] Invoking command in '/opt/workspace/build/tinyxml_vendor': CMAKE_PREFIX_PATH=/opt/ros/eloquent /usr/bin/cmake --build /opt/workspace/build/tinyxml_vendor -- -j8 -l8
+[6.674s] Invoked command in '/opt/workspace/build/tinyxml_vendor' returned '0': CMAKE_PREFIX_PATH=/opt/ros/eloquent /usr/bin/cmake --build /opt/workspace/build/tinyxml_vendor -- -j8 -l8
+[6.942s] Invoking command in '/opt/workspace/build/tinyxml_vendor': CMAKE_PREFIX_PATH=/opt/ros/eloquent /usr/bin/cmake --build /opt/workspace/build/tinyxml_vendor --target install -- -j8 -l8
+[7.163s] Invoked command in '/opt/workspace/build/tinyxml_vendor' returned '0': CMAKE_PREFIX_PATH=/opt/ros/eloquent /usr/bin/cmake --build /opt/workspace/build/tinyxml_vendor --target install -- -j8 -l8

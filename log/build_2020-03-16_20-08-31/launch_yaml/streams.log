@@ -1,0 +1,47 @@
+[3.681s] Invoking command in '/opt/workspace/src/ros2/launch/launch_yaml': AMENT_PREFIX_PATH=/opt/workspace/install/launch:/opt/workspace/install/ament_index_python:/opt/workspace/install/ament_copyright:/opt/workspace/install/ament_pep257:/opt/workspace/install/ament_flake8:/opt/workspace/install/osrf_pycommon:/opt/workspace/install/ament_lint:${AMENT_PREFIX_PATH} PATH=/opt/workspace/install/ament_index_python/bin:/opt/workspace/install/ament_copyright/bin:/opt/workspace/install/ament_pep257/bin:/opt/workspace/install/ament_flake8/bin:${PATH} PYTHONPATH=/opt/workspace/install/launch_yaml/lib/python3.6/site-packages:/opt/workspace/install/launch/lib/python3.6/site-packages:/opt/workspace/install/ament_index_python/lib/python3.6/site-packages:/opt/workspace/install/ament_copyright/lib/python3.6/site-packages:/opt/workspace/install/ament_pep257/lib/python3.6/site-packages:/opt/workspace/install/ament_flake8/lib/python3.6/site-packages:/opt/workspace/install/osrf_pycommon/lib/python3.6/site-packages:/opt/workspace/install/ament_lint/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base /opt/workspace/build/launch_yaml build --build-base /opt/workspace/build/launch_yaml/build install --prefix /opt/workspace/install/launch_yaml --record /opt/workspace/build/launch_yaml/install.log --single-version-externally-managed
+[4.226s] running egg_info
+[4.226s] creating /opt/workspace/build/launch_yaml/launch_yaml.egg-info
+[4.226s] writing /opt/workspace/build/launch_yaml/launch_yaml.egg-info/PKG-INFO
+[4.231s] writing dependency_links to /opt/workspace/build/launch_yaml/launch_yaml.egg-info/dependency_links.txt
+[4.231s] writing entry points to /opt/workspace/build/launch_yaml/launch_yaml.egg-info/entry_points.txt
+[4.232s] writing requirements to /opt/workspace/build/launch_yaml/launch_yaml.egg-info/requires.txt
+[4.232s] writing top-level names to /opt/workspace/build/launch_yaml/launch_yaml.egg-info/top_level.txt
+[4.232s] writing manifest file '/opt/workspace/build/launch_yaml/launch_yaml.egg-info/SOURCES.txt'
+[4.341s] reading manifest file '/opt/workspace/build/launch_yaml/launch_yaml.egg-info/SOURCES.txt'
+[4.342s] writing manifest file '/opt/workspace/build/launch_yaml/launch_yaml.egg-info/SOURCES.txt'
+[4.342s] running build
+[4.342s] running build_py
+[4.343s] creating /opt/workspace/build/launch_yaml/build
+[4.343s] creating /opt/workspace/build/launch_yaml/build/lib
+[4.343s] creating /opt/workspace/build/launch_yaml/build/lib/launch_yaml
+[4.343s] copying launch_yaml/__init__.py -> /opt/workspace/build/launch_yaml/build/lib/launch_yaml
+[4.344s] copying launch_yaml/entity.py -> /opt/workspace/build/launch_yaml/build/lib/launch_yaml
+[4.344s] copying launch_yaml/parser.py -> /opt/workspace/build/launch_yaml/build/lib/launch_yaml
+[4.344s] creating /opt/workspace/build/launch_yaml/build/lib/launch_yaml/launch_description_sources
+[4.344s] copying launch_yaml/launch_description_sources/__init__.py -> /opt/workspace/build/launch_yaml/build/lib/launch_yaml/launch_description_sources
+[4.345s] copying launch_yaml/launch_description_sources/yaml_launch_description_source.py -> /opt/workspace/build/launch_yaml/build/lib/launch_yaml/launch_description_sources
+[4.345s] running install
+[4.345s] running install_lib
+[4.345s] creating /opt/workspace/install/launch_yaml/lib/python3.6/site-packages/launch_yaml
+[4.345s] copying /opt/workspace/build/launch_yaml/build/lib/launch_yaml/__init__.py -> /opt/workspace/install/launch_yaml/lib/python3.6/site-packages/launch_yaml
+[4.345s] creating /opt/workspace/install/launch_yaml/lib/python3.6/site-packages/launch_yaml/launch_description_sources
+[4.346s] copying /opt/workspace/build/launch_yaml/build/lib/launch_yaml/launch_description_sources/__init__.py -> /opt/workspace/install/launch_yaml/lib/python3.6/site-packages/launch_yaml/launch_description_sources
+[4.346s] copying /opt/workspace/build/launch_yaml/build/lib/launch_yaml/launch_description_sources/yaml_launch_description_source.py -> /opt/workspace/install/launch_yaml/lib/python3.6/site-packages/launch_yaml/launch_description_sources
+[4.346s] copying /opt/workspace/build/launch_yaml/build/lib/launch_yaml/entity.py -> /opt/workspace/install/launch_yaml/lib/python3.6/site-packages/launch_yaml
+[4.349s] copying /opt/workspace/build/launch_yaml/build/lib/launch_yaml/parser.py -> /opt/workspace/install/launch_yaml/lib/python3.6/site-packages/launch_yaml
+[4.349s] byte-compiling /opt/workspace/install/launch_yaml/lib/python3.6/site-packages/launch_yaml/__init__.py to __init__.cpython-36.pyc
+[4.350s] byte-compiling /opt/workspace/install/launch_yaml/lib/python3.6/site-packages/launch_yaml/launch_description_sources/__init__.py to __init__.cpython-36.pyc
+[4.350s] byte-compiling /opt/workspace/install/launch_yaml/lib/python3.6/site-packages/launch_yaml/launch_description_sources/yaml_launch_description_source.py to yaml_launch_description_source.cpython-36.pyc
+[4.350s] byte-compiling /opt/workspace/install/launch_yaml/lib/python3.6/site-packages/launch_yaml/entity.py to entity.cpython-36.pyc
+[4.350s] byte-compiling /opt/workspace/install/launch_yaml/lib/python3.6/site-packages/launch_yaml/parser.py to parser.cpython-36.pyc
+[4.351s] running install_data
+[4.351s] copying package.xml -> /opt/workspace/install/launch_yaml/share/launch_yaml
+[4.356s] creating /opt/workspace/install/launch_yaml/share/ament_index
+[4.356s] creating /opt/workspace/install/launch_yaml/share/ament_index/resource_index
+[4.357s] creating /opt/workspace/install/launch_yaml/share/ament_index/resource_index/packages
+[4.357s] copying resource/launch_yaml -> /opt/workspace/install/launch_yaml/share/ament_index/resource_index/packages
+[4.357s] running install_egg_info
+[4.358s] Copying /opt/workspace/build/launch_yaml/launch_yaml.egg-info to /opt/workspace/install/launch_yaml/lib/python3.6/site-packages/launch_yaml-0.9.6-py3.6.egg-info
+[4.359s] running install_scripts
+[4.417s] writing list of installed files to '/opt/workspace/build/launch_yaml/install.log'
+[4.456s] Invoked command in '/opt/workspace/src/ros2/launch/launch_yaml' returned '0': AMENT_PREFIX_PATH=/opt/workspace/install/launch:/opt/workspace/install/ament_index_python:/opt/workspace/install/ament_copyright:/opt/workspace/install/ament_pep257:/opt/workspace/install/ament_flake8:/opt/workspace/install/osrf_pycommon:/opt/workspace/install/ament_lint:${AMENT_PREFIX_PATH} PATH=/opt/workspace/install/ament_index_python/bin:/opt/workspace/install/ament_copyright/bin:/opt/workspace/install/ament_pep257/bin:/opt/workspace/install/ament_flake8/bin:${PATH} PYTHONPATH=/opt/workspace/install/launch_yaml/lib/python3.6/site-packages:/opt/workspace/install/launch/lib/python3.6/site-packages:/opt/workspace/install/ament_index_python/lib/python3.6/site-packages:/opt/workspace/install/ament_copyright/lib/python3.6/site-packages:/opt/workspace/install/ament_pep257/lib/python3.6/site-packages:/opt/workspace/install/ament_flake8/lib/python3.6/site-packages:/opt/workspace/install/osrf_pycommon/lib/python3.6/site-packages:/opt/workspace/install/ament_lint/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base /opt/workspace/build/launch_yaml build --build-base /opt/workspace/build/launch_yaml/build install --prefix /opt/workspace/install/launch_yaml --record /opt/workspace/build/launch_yaml/install.log --single-version-externally-managed

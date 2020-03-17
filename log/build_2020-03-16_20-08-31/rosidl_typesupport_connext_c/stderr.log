@@ -1,0 +1,4 @@
+[3.857s] CMake Warning at CMakeLists.txt:37 (message):
+[3.858s]   Could not find RTI Connext - skipping 'rosidl_typesupport_connext_c'
+[3.858s] 
+[3.858s] 

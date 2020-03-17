@@ -1,0 +1,7 @@
+{
+  "package_name": "example_interfaces",
+  "non_idl_tuples": [
+    "/opt/workspace/src/ros2/example_interfaces:action/Fibonacci.action",
+    "/opt/workspace/src/ros2/example_interfaces:srv/AddTwoInts.srv"
+  ]
+}

@@ -1,0 +1,59 @@
+[0.258s] -- The C compiler identification is GNU 7.4.0
+[0.374s] -- The CXX compiler identification is GNU 7.4.0
+[0.384s] -- Check for working C compiler: /usr/bin/cc
+[0.521s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.521s] -- Detecting C compiler ABI info
+[0.702s] -- Detecting C compiler ABI info - done
+[0.703s] -- Detecting C compile features
+[1.123s] -- Detecting C compile features - done
+[1.128s] -- Check for working CXX compiler: /usr/bin/c++
+[1.297s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[1.298s] -- Detecting CXX compiler ABI info
+[1.447s] -- Detecting CXX compiler ABI info - done
+[1.456s] -- Detecting CXX compile features
+[2.154s] -- Detecting CXX compile features - done
+[2.157s] -- Found ament_cmake_ros: 0.8.0 (/opt/workspace/install/ament_cmake_ros/share/ament_cmake_ros/cmake)
+[2.220s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[2.221s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[2.680s] -- Found tinyxml_vendor:  (/opt/workspace/install/tinyxml_vendor/share/tinyxml_vendor/cmake)
+[2.702s] -- Found TinyXML: /usr/lib/x86_64-linux-gnu/libtinyxml.so  
+[2.706s] -- Found ament_cmake_cppcheck: 0.8.1 (/opt/workspace/install/ament_cmake_cppcheck/share/ament_cmake_cppcheck/cmake)
+[2.709s] -- Found ament_cmake_cpplint: 0.8.1 (/opt/workspace/install/ament_cmake_cpplint/share/ament_cmake_cpplint/cmake)
+[2.712s] -- Found ament_cmake_lint_cmake: 0.8.1 (/opt/workspace/install/ament_cmake_lint_cmake/share/ament_cmake_lint_cmake/cmake)
+[2.715s] -- Found ament_cmake_uncrustify: 0.8.1 (/opt/workspace/install/ament_cmake_uncrustify/share/ament_cmake_uncrustify/cmake)
+[2.864s] -- Configuring done
+[2.872s] -- Generating done
+[2.877s] -- Build files have been written to: /opt/workspace/build/urdf
+[2.986s] [35m[1mScanning dependencies of target urdf[0m
+[3.014s] [ 50%] [32mBuilding CXX object CMakeFiles/urdf.dir/src/model.cpp.o[0m
+[4.559s] [100%] [32m[1mLinking CXX shared library liburdf.so[0m
+[4.729s] [100%] Built target urdf
+[5.934s] [100%] Built target urdf
+[5.977s] [36mInstall the project...[0m
+[5.996s] -- Install configuration: ""
+[5.996s] -- Installing: /opt/workspace/install/urdf/include/urdf/urdfdom_compatibility.h
+[5.997s] -- Installing: /opt/workspace/install/urdf/lib/liburdf.so
+[5.998s] -- Set runtime path of "/opt/workspace/install/urdf/lib/liburdf.so" to ""
+[5.998s] -- Up-to-date: /opt/workspace/install/urdf/include/urdf
+[5.998s] -- Installing: /opt/workspace/install/urdf/include/urdf/visibility_control.hpp
+[5.998s] -- Installing: /opt/workspace/install/urdf/include/urdf/model.h
+[5.999s] -- Installing: /opt/workspace/install/urdf/share/urdf/environment/library_path.sh
+[5.999s] -- Installing: /opt/workspace/install/urdf/share/urdf/environment/library_path.dsv
+[5.999s] -- Installing: /opt/workspace/install/urdf/share/ament_index/resource_index/package_run_dependencies/urdf
+[6.000s] -- Installing: /opt/workspace/install/urdf/share/ament_index/resource_index/parent_prefix_path/urdf
+[6.000s] -- Installing: /opt/workspace/install/urdf/share/urdf/environment/ament_prefix_path.sh
+[6.000s] -- Installing: /opt/workspace/install/urdf/share/urdf/environment/ament_prefix_path.dsv
+[6.001s] -- Installing: /opt/workspace/install/urdf/share/urdf/environment/path.sh
+[6.001s] -- Installing: /opt/workspace/install/urdf/share/urdf/environment/path.dsv
+[6.001s] -- Installing: /opt/workspace/install/urdf/share/urdf/local_setup.bash
+[6.002s] -- Installing: /opt/workspace/install/urdf/share/urdf/local_setup.sh
+[6.002s] -- Installing: /opt/workspace/install/urdf/share/urdf/local_setup.zsh
+[6.002s] -- Installing: /opt/workspace/install/urdf/share/urdf/local_setup.dsv
+[6.002s] -- Installing: /opt/workspace/install/urdf/share/urdf/package.dsv
+[6.003s] -- Installing: /opt/workspace/install/urdf/share/ament_index/resource_index/packages/urdf
+[6.003s] -- Installing: /opt/workspace/install/urdf/share/urdf/cmake/ament_cmake_export_libraries-extras.cmake
+[6.003s] -- Installing: /opt/workspace/install/urdf/share/urdf/cmake/ament_cmake_export_include_directories-extras.cmake
+[6.004s] -- Installing: /opt/workspace/install/urdf/share/urdf/cmake/ament_cmake_export_dependencies-extras.cmake
+[6.004s] -- Installing: /opt/workspace/install/urdf/share/urdf/cmake/urdfConfig.cmake
+[6.004s] -- Installing: /opt/workspace/install/urdf/share/urdf/cmake/urdfConfig-version.cmake
+[6.005s] -- Installing: /opt/workspace/install/urdf/share/urdf/package.xml

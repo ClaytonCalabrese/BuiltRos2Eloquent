@@ -1,0 +1,17 @@
+package.xml
+setup.py
+/opt/workspace/build/ros2trace/ros2trace.egg-info/PKG-INFO
+/opt/workspace/build/ros2trace/ros2trace.egg-info/SOURCES.txt
+/opt/workspace/build/ros2trace/ros2trace.egg-info/dependency_links.txt
+/opt/workspace/build/ros2trace/ros2trace.egg-info/entry_points.txt
+/opt/workspace/build/ros2trace/ros2trace.egg-info/requires.txt
+/opt/workspace/build/ros2trace/ros2trace.egg-info/top_level.txt
+/opt/workspace/build/ros2trace/ros2trace.egg-info/zip-safe
+ros2trace/__init__.py
+ros2trace/api/__init__.py
+ros2trace/command/__init__.py
+ros2trace/command/trace.py
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py
+test/test_xmllint.py

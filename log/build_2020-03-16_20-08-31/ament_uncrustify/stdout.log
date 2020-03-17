@@ -1,0 +1,19 @@
+[2.077s] running egg_info
+[2.078s] writing /opt/workspace/build/ament_uncrustify/ament_uncrustify.egg-info/PKG-INFO
+[2.078s] writing dependency_links to /opt/workspace/build/ament_uncrustify/ament_uncrustify.egg-info/dependency_links.txt
+[2.078s] writing entry points to /opt/workspace/build/ament_uncrustify/ament_uncrustify.egg-info/entry_points.txt
+[2.079s] writing requirements to /opt/workspace/build/ament_uncrustify/ament_uncrustify.egg-info/requires.txt
+[2.079s] writing top-level names to /opt/workspace/build/ament_uncrustify/ament_uncrustify.egg-info/top_level.txt
+[2.149s] reading manifest file '/opt/workspace/build/ament_uncrustify/ament_uncrustify.egg-info/SOURCES.txt'
+[2.152s] writing manifest file '/opt/workspace/build/ament_uncrustify/ament_uncrustify.egg-info/SOURCES.txt'
+[2.152s] running build
+[2.152s] running build_py
+[2.152s] running install
+[2.153s] running install_lib
+[2.155s] running install_data
+[2.155s] running install_egg_info
+[2.159s] removing '/opt/workspace/install/ament_uncrustify/lib/python3.6/site-packages/ament_uncrustify-0.8.1-py3.6.egg-info' (and everything under it)
+[2.159s] Copying /opt/workspace/build/ament_uncrustify/ament_uncrustify.egg-info to /opt/workspace/install/ament_uncrustify/lib/python3.6/site-packages/ament_uncrustify-0.8.1-py3.6.egg-info
+[2.160s] running install_scripts
+[2.188s] Installing ament_uncrustify script to /opt/workspace/install/ament_uncrustify/bin
+[2.194s] writing list of installed files to '/opt/workspace/build/ament_uncrustify/install.log'

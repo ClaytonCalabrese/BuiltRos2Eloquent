@@ -1,0 +1,105 @@
+[5.473s] running egg_info
+[5.474s] creating /opt/workspace/build/sros2/sros2.egg-info
+[5.475s] writing /opt/workspace/build/sros2/sros2.egg-info/PKG-INFO
+[5.475s] writing dependency_links to /opt/workspace/build/sros2/sros2.egg-info/dependency_links.txt
+[5.475s] writing entry points to /opt/workspace/build/sros2/sros2.egg-info/entry_points.txt
+[5.475s] writing requirements to /opt/workspace/build/sros2/sros2.egg-info/requires.txt
+[5.476s] writing top-level names to /opt/workspace/build/sros2/sros2.egg-info/top_level.txt
+[5.476s] writing manifest file '/opt/workspace/build/sros2/sros2.egg-info/SOURCES.txt'
+[5.477s] reading manifest file '/opt/workspace/build/sros2/sros2.egg-info/SOURCES.txt'
+[5.477s] writing manifest file '/opt/workspace/build/sros2/sros2.egg-info/SOURCES.txt'
+[5.477s] running build
+[5.477s] running build_py
+[5.477s] creating /opt/workspace/build/sros2/build
+[5.478s] creating /opt/workspace/build/sros2/build/lib
+[5.478s] creating /opt/workspace/build/sros2/build/lib/sros2
+[5.482s] copying sros2/__init__.py -> /opt/workspace/build/sros2/build/lib/sros2
+[5.484s] creating /opt/workspace/build/sros2/build/lib/sros2/api
+[5.484s] copying sros2/api/__init__.py -> /opt/workspace/build/sros2/build/lib/sros2/api
+[5.484s] creating /opt/workspace/build/sros2/build/lib/sros2/verb
+[5.485s] copying sros2/verb/generate_policy.py -> /opt/workspace/build/sros2/build/lib/sros2/verb
+[5.485s] copying sros2/verb/create_permission.py -> /opt/workspace/build/sros2/build/lib/sros2/verb
+[5.485s] copying sros2/verb/__init__.py -> /opt/workspace/build/sros2/build/lib/sros2/verb
+[5.485s] copying sros2/verb/list_keys.py -> /opt/workspace/build/sros2/build/lib/sros2/verb
+[5.485s] copying sros2/verb/create_keystore.py -> /opt/workspace/build/sros2/build/lib/sros2/verb
+[5.486s] copying sros2/verb/create_key.py -> /opt/workspace/build/sros2/build/lib/sros2/verb
+[5.486s] copying sros2/verb/generate_artifacts.py -> /opt/workspace/build/sros2/build/lib/sros2/verb
+[5.486s] copying sros2/verb/distribute_key.py -> /opt/workspace/build/sros2/build/lib/sros2/verb
+[5.486s] creating /opt/workspace/build/sros2/build/lib/sros2/command
+[5.487s] copying sros2/command/__init__.py -> /opt/workspace/build/sros2/build/lib/sros2/command
+[5.487s] copying sros2/command/security.py -> /opt/workspace/build/sros2/build/lib/sros2/command
+[5.487s] creating /opt/workspace/build/sros2/build/lib/sros2/policy
+[5.487s] copying sros2/policy/__init__.py -> /opt/workspace/build/sros2/build/lib/sros2/policy
+[5.487s] creating /opt/workspace/build/sros2/build/lib/sros2/policy/defaults
+[5.488s] copying sros2/policy/defaults/policy.xml -> /opt/workspace/build/sros2/build/lib/sros2/policy/defaults
+[5.488s] creating /opt/workspace/build/sros2/build/lib/sros2/policy/defaults/dds
+[5.488s] copying sros2/policy/defaults/dds/governance.xml -> /opt/workspace/build/sros2/build/lib/sros2/policy/defaults/dds
+[5.488s] creating /opt/workspace/build/sros2/build/lib/sros2/policy/schemas
+[5.488s] copying sros2/policy/schemas/policy.xsd -> /opt/workspace/build/sros2/build/lib/sros2/policy/schemas
+[5.489s] creating /opt/workspace/build/sros2/build/lib/sros2/policy/schemas/dds
+[5.489s] copying sros2/policy/schemas/dds/governance.xsd -> /opt/workspace/build/sros2/build/lib/sros2/policy/schemas/dds
+[5.489s] copying sros2/policy/schemas/dds/permissions.xsd -> /opt/workspace/build/sros2/build/lib/sros2/policy/schemas/dds
+[5.489s] creating /opt/workspace/build/sros2/build/lib/sros2/policy/templates
+[5.490s] copying sros2/policy/templates/policy.xsl -> /opt/workspace/build/sros2/build/lib/sros2/policy/templates
+[5.490s] creating /opt/workspace/build/sros2/build/lib/sros2/policy/templates/dds
+[5.490s] copying sros2/policy/templates/dds/permissions.xsl -> /opt/workspace/build/sros2/build/lib/sros2/policy/templates/dds
+[5.490s] running install
+[5.491s] running install_lib
+[5.491s] creating /opt/workspace/install/sros2/lib/python3.6/site-packages/sros2
+[5.491s] copying /opt/workspace/build/sros2/build/lib/sros2/__init__.py -> /opt/workspace/install/sros2/lib/python3.6/site-packages/sros2
+[5.491s] creating /opt/workspace/install/sros2/lib/python3.6/site-packages/sros2/api
+[5.491s] copying /opt/workspace/build/sros2/build/lib/sros2/api/__init__.py -> /opt/workspace/install/sros2/lib/python3.6/site-packages/sros2/api
+[5.492s] creating /opt/workspace/install/sros2/lib/python3.6/site-packages/sros2/verb
+[5.492s] copying /opt/workspace/build/sros2/build/lib/sros2/verb/generate_policy.py -> /opt/workspace/install/sros2/lib/python3.6/site-packages/sros2/verb
+[5.492s] copying /opt/workspace/build/sros2/build/lib/sros2/verb/create_permission.py -> /opt/workspace/install/sros2/lib/python3.6/site-packages/sros2/verb
+[5.492s] copying /opt/workspace/build/sros2/build/lib/sros2/verb/__init__.py -> /opt/workspace/install/sros2/lib/python3.6/site-packages/sros2/verb
+[5.492s] copying /opt/workspace/build/sros2/build/lib/sros2/verb/list_keys.py -> /opt/workspace/install/sros2/lib/python3.6/site-packages/sros2/verb
+[5.493s] copying /opt/workspace/build/sros2/build/lib/sros2/verb/create_keystore.py -> /opt/workspace/install/sros2/lib/python3.6/site-packages/sros2/verb
+[5.493s] copying /opt/workspace/build/sros2/build/lib/sros2/verb/create_key.py -> /opt/workspace/install/sros2/lib/python3.6/site-packages/sros2/verb
+[5.493s] copying /opt/workspace/build/sros2/build/lib/sros2/verb/generate_artifacts.py -> /opt/workspace/install/sros2/lib/python3.6/site-packages/sros2/verb
+[5.493s] copying /opt/workspace/build/sros2/build/lib/sros2/verb/distribute_key.py -> /opt/workspace/install/sros2/lib/python3.6/site-packages/sros2/verb
+[5.493s] creating /opt/workspace/install/sros2/lib/python3.6/site-packages/sros2/command
+[5.494s] copying /opt/workspace/build/sros2/build/lib/sros2/command/__init__.py -> /opt/workspace/install/sros2/lib/python3.6/site-packages/sros2/command
+[5.494s] copying /opt/workspace/build/sros2/build/lib/sros2/command/security.py -> /opt/workspace/install/sros2/lib/python3.6/site-packages/sros2/command
+[5.494s] creating /opt/workspace/install/sros2/lib/python3.6/site-packages/sros2/policy
+[5.494s] creating /opt/workspace/install/sros2/lib/python3.6/site-packages/sros2/policy/templates
+[5.498s] copying /opt/workspace/build/sros2/build/lib/sros2/policy/templates/policy.xsl -> /opt/workspace/install/sros2/lib/python3.6/site-packages/sros2/policy/templates
+[5.499s] creating /opt/workspace/install/sros2/lib/python3.6/site-packages/sros2/policy/templates/dds
+[5.499s] copying /opt/workspace/build/sros2/build/lib/sros2/policy/templates/dds/permissions.xsl -> /opt/workspace/install/sros2/lib/python3.6/site-packages/sros2/policy/templates/dds
+[5.499s] creating /opt/workspace/install/sros2/lib/python3.6/site-packages/sros2/policy/defaults
+[5.499s] copying /opt/workspace/build/sros2/build/lib/sros2/policy/defaults/policy.xml -> /opt/workspace/install/sros2/lib/python3.6/site-packages/sros2/policy/defaults
+[5.499s] creating /opt/workspace/install/sros2/lib/python3.6/site-packages/sros2/policy/defaults/dds
+[5.500s] copying /opt/workspace/build/sros2/build/lib/sros2/policy/defaults/dds/governance.xml -> /opt/workspace/install/sros2/lib/python3.6/site-packages/sros2/policy/defaults/dds
+[5.500s] copying /opt/workspace/build/sros2/build/lib/sros2/policy/__init__.py -> /opt/workspace/install/sros2/lib/python3.6/site-packages/sros2/policy
+[5.500s] creating /opt/workspace/install/sros2/lib/python3.6/site-packages/sros2/policy/schemas
+[5.500s] creating /opt/workspace/install/sros2/lib/python3.6/site-packages/sros2/policy/schemas/dds
+[5.500s] copying /opt/workspace/build/sros2/build/lib/sros2/policy/schemas/dds/governance.xsd -> /opt/workspace/install/sros2/lib/python3.6/site-packages/sros2/policy/schemas/dds
+[5.501s] copying /opt/workspace/build/sros2/build/lib/sros2/policy/schemas/dds/permissions.xsd -> /opt/workspace/install/sros2/lib/python3.6/site-packages/sros2/policy/schemas/dds
+[5.501s] copying /opt/workspace/build/sros2/build/lib/sros2/policy/schemas/policy.xsd -> /opt/workspace/install/sros2/lib/python3.6/site-packages/sros2/policy/schemas
+[5.501s] byte-compiling /opt/workspace/install/sros2/lib/python3.6/site-packages/sros2/__init__.py to __init__.cpython-36.pyc
+[5.514s] byte-compiling /opt/workspace/install/sros2/lib/python3.6/site-packages/sros2/api/__init__.py to __init__.cpython-36.pyc
+[5.514s] byte-compiling /opt/workspace/install/sros2/lib/python3.6/site-packages/sros2/verb/generate_policy.py to generate_policy.cpython-36.pyc
+[5.514s] byte-compiling /opt/workspace/install/sros2/lib/python3.6/site-packages/sros2/verb/create_permission.py to create_permission.cpython-36.pyc
+[5.515s] byte-compiling /opt/workspace/install/sros2/lib/python3.6/site-packages/sros2/verb/__init__.py to __init__.cpython-36.pyc
+[5.515s] byte-compiling /opt/workspace/install/sros2/lib/python3.6/site-packages/sros2/verb/list_keys.py to list_keys.cpython-36.pyc
+[5.515s] byte-compiling /opt/workspace/install/sros2/lib/python3.6/site-packages/sros2/verb/create_keystore.py to create_keystore.cpython-36.pyc
+[5.515s] byte-compiling /opt/workspace/install/sros2/lib/python3.6/site-packages/sros2/verb/create_key.py to create_key.cpython-36.pyc
+[5.515s] byte-compiling /opt/workspace/install/sros2/lib/python3.6/site-packages/sros2/verb/generate_artifacts.py to generate_artifacts.cpython-36.pyc
+[5.516s] byte-compiling /opt/workspace/install/sros2/lib/python3.6/site-packages/sros2/verb/distribute_key.py to distribute_key.cpython-36.pyc
+[5.516s] byte-compiling /opt/workspace/install/sros2/lib/python3.6/site-packages/sros2/command/__init__.py to __init__.cpython-36.pyc
+[5.516s] byte-compiling /opt/workspace/install/sros2/lib/python3.6/site-packages/sros2/command/security.py to security.cpython-36.pyc
+[5.516s] byte-compiling /opt/workspace/install/sros2/lib/python3.6/site-packages/sros2/policy/__init__.py to __init__.cpython-36.pyc
+[5.516s] running install_data
+[5.517s] copying package.xml -> /opt/workspace/install/sros2/share/sros2
+[5.517s] creating /opt/workspace/install/sros2/share/ament_index
+[5.517s] creating /opt/workspace/install/sros2/share/ament_index/resource_index
+[5.517s] creating /opt/workspace/install/sros2/share/ament_index/resource_index/packages
+[5.517s] copying resource/sros2 -> /opt/workspace/install/sros2/share/ament_index/resource_index/packages
+[5.518s] creating /opt/workspace/install/sros2/share/sros2/xml_cache
+[5.518s] copying xml_cache/xml.xsd -> /opt/workspace/install/sros2/share/sros2/xml_cache
+[5.520s] copying xml_cache/xhtml-cache.xml -> /opt/workspace/install/sros2/share/sros2/xml_cache
+[5.520s] copying xml_cache/README.md -> /opt/workspace/install/sros2/share/sros2/xml_cache
+[5.520s] running install_egg_info
+[5.520s] Copying /opt/workspace/build/sros2/sros2.egg-info to /opt/workspace/install/sros2/lib/python3.6/site-packages/sros2-0.8.1-py3.6.egg-info
+[5.520s] running install_scripts
+[5.521s] writing list of installed files to '/opt/workspace/build/sros2/install.log'

@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/test_endian.dir/test/test_endian.cpp.o  -o test_endian gtest/libgtest_main.a gtest/libgtest.a -pthread 

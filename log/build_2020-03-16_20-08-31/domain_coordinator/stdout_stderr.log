@@ -1,0 +1,17 @@
+[2.534s] running egg_info
+[2.535s] writing /opt/workspace/build/domain_coordinator/domain_coordinator.egg-info/PKG-INFO
+[2.535s] writing dependency_links to /opt/workspace/build/domain_coordinator/domain_coordinator.egg-info/dependency_links.txt
+[2.536s] writing requirements to /opt/workspace/build/domain_coordinator/domain_coordinator.egg-info/requires.txt
+[2.536s] writing top-level names to /opt/workspace/build/domain_coordinator/domain_coordinator.egg-info/top_level.txt
+[2.605s] reading manifest file '/opt/workspace/build/domain_coordinator/domain_coordinator.egg-info/SOURCES.txt'
+[2.607s] writing manifest file '/opt/workspace/build/domain_coordinator/domain_coordinator.egg-info/SOURCES.txt'
+[2.607s] running build
+[2.608s] running build_py
+[2.608s] running install
+[2.608s] running install_lib
+[2.609s] running install_data
+[2.610s] running install_egg_info
+[2.613s] removing '/opt/workspace/install/domain_coordinator/lib/python3.6/site-packages/domain_coordinator-0.8.0-py3.6.egg-info' (and everything under it)
+[2.613s] Copying /opt/workspace/build/domain_coordinator/domain_coordinator.egg-info to /opt/workspace/install/domain_coordinator/lib/python3.6/site-packages/domain_coordinator-0.8.0-py3.6.egg-info
+[2.614s] running install_scripts
+[2.640s] writing list of installed files to '/opt/workspace/build/domain_coordinator/install.log'

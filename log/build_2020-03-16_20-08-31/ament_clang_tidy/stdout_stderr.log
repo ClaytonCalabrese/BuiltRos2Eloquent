@@ -1,0 +1,39 @@
+[2.341s] running egg_info
+[2.342s] creating /opt/workspace/build/ament_clang_tidy/ament_clang_tidy.egg-info
+[2.342s] writing /opt/workspace/build/ament_clang_tidy/ament_clang_tidy.egg-info/PKG-INFO
+[2.343s] writing dependency_links to /opt/workspace/build/ament_clang_tidy/ament_clang_tidy.egg-info/dependency_links.txt
+[2.343s] writing entry points to /opt/workspace/build/ament_clang_tidy/ament_clang_tidy.egg-info/entry_points.txt
+[2.344s] writing requirements to /opt/workspace/build/ament_clang_tidy/ament_clang_tidy.egg-info/requires.txt
+[2.344s] writing top-level names to /opt/workspace/build/ament_clang_tidy/ament_clang_tidy.egg-info/top_level.txt
+[2.352s] writing manifest file '/opt/workspace/build/ament_clang_tidy/ament_clang_tidy.egg-info/SOURCES.txt'
+[2.448s] reading manifest file '/opt/workspace/build/ament_clang_tidy/ament_clang_tidy.egg-info/SOURCES.txt'
+[2.451s] writing manifest file '/opt/workspace/build/ament_clang_tidy/ament_clang_tidy.egg-info/SOURCES.txt'
+[2.452s] running build
+[2.452s] running build_py
+[2.456s] creating /opt/workspace/build/ament_clang_tidy/build
+[2.457s] creating /opt/workspace/build/ament_clang_tidy/build/lib
+[2.457s] creating /opt/workspace/build/ament_clang_tidy/build/lib/ament_clang_tidy
+[2.457s] copying ament_clang_tidy/__init__.py -> /opt/workspace/build/ament_clang_tidy/build/lib/ament_clang_tidy
+[2.458s] copying ament_clang_tidy/main.py -> /opt/workspace/build/ament_clang_tidy/build/lib/ament_clang_tidy
+[2.458s] creating /opt/workspace/build/ament_clang_tidy/build/lib/ament_clang_tidy/configuration
+[2.458s] copying ament_clang_tidy/configuration/.clang-tidy -> /opt/workspace/build/ament_clang_tidy/build/lib/ament_clang_tidy/configuration
+[2.458s] running install
+[2.458s] running install_lib
+[2.459s] creating /opt/workspace/install/ament_clang_tidy/lib/python3.6/site-packages/ament_clang_tidy
+[2.459s] copying /opt/workspace/build/ament_clang_tidy/build/lib/ament_clang_tidy/__init__.py -> /opt/workspace/install/ament_clang_tidy/lib/python3.6/site-packages/ament_clang_tidy
+[2.459s] copying /opt/workspace/build/ament_clang_tidy/build/lib/ament_clang_tidy/main.py -> /opt/workspace/install/ament_clang_tidy/lib/python3.6/site-packages/ament_clang_tidy
+[2.460s] creating /opt/workspace/install/ament_clang_tidy/lib/python3.6/site-packages/ament_clang_tidy/configuration
+[2.460s] copying /opt/workspace/build/ament_clang_tidy/build/lib/ament_clang_tidy/configuration/.clang-tidy -> /opt/workspace/install/ament_clang_tidy/lib/python3.6/site-packages/ament_clang_tidy/configuration
+[2.460s] byte-compiling /opt/workspace/install/ament_clang_tidy/lib/python3.6/site-packages/ament_clang_tidy/__init__.py to __init__.cpython-36.pyc
+[2.460s] byte-compiling /opt/workspace/install/ament_clang_tidy/lib/python3.6/site-packages/ament_clang_tidy/main.py to main.cpython-36.pyc
+[2.462s] running install_data
+[2.463s] copying package.xml -> /opt/workspace/install/ament_clang_tidy/share/ament_clang_tidy
+[2.463s] creating /opt/workspace/install/ament_clang_tidy/share/ament_index
+[2.464s] creating /opt/workspace/install/ament_clang_tidy/share/ament_index/resource_index
+[2.464s] creating /opt/workspace/install/ament_clang_tidy/share/ament_index/resource_index/packages
+[2.464s] copying resource/ament_clang_tidy -> /opt/workspace/install/ament_clang_tidy/share/ament_index/resource_index/packages
+[2.464s] running install_egg_info
+[2.468s] Copying /opt/workspace/build/ament_clang_tidy/ament_clang_tidy.egg-info to /opt/workspace/install/ament_clang_tidy/lib/python3.6/site-packages/ament_clang_tidy-0.8.1-py3.6.egg-info
+[2.472s] running install_scripts
+[2.520s] Installing ament_clang_tidy script to /opt/workspace/install/ament_clang_tidy/bin
+[2.520s] writing list of installed files to '/opt/workspace/build/ament_clang_tidy/install.log'

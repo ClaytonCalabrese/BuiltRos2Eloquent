@@ -1,0 +1,46 @@
+[0.762s] -- The C compiler identification is GNU 7.4.0
+[0.908s] -- The CXX compiler identification is GNU 7.4.0
+[0.922s] -- Check for working C compiler: /usr/bin/cc
+[1.115s] -- Check for working C compiler: /usr/bin/cc -- works
+[1.117s] -- Detecting C compiler ABI info
+[1.319s] -- Detecting C compiler ABI info - done
+[1.335s] -- Detecting C compile features
+[1.920s] -- Detecting C compile features - done
+[1.925s] -- Check for working CXX compiler: /usr/bin/c++
+[2.141s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[2.143s] -- Detecting CXX compiler ABI info
+[2.349s] -- Detecting CXX compiler ABI info - done
+[2.366s] -- Detecting CXX compile features
+[3.225s] -- Detecting CXX compile features - done
+[3.241s] -- Found ament_cmake: 0.8.2 (/opt/workspace/install/ament_cmake/share/ament_cmake/cmake)
+[3.378s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[3.381s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[4.068s] -- Found ament_lint_auto: 0.8.1 (/opt/workspace/install/ament_lint_auto/share/ament_lint_auto/cmake)
+[4.452s] -- Added test 'copyright' to check for copyright in CMake / C / C++ / Python code
+[4.457s] -- Added test 'flake8' to check Python code syntax and style conventions
+[4.461s] -- Added test 'lint_cmake' to check CMake code style
+[4.464s] -- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+[4.469s] -- Added test 'xmllint' to check XML markup files
+[4.483s] -- Configuring done
+[4.483s] -- Generating done
+[4.484s] -- Build files have been written to: /opt/workspace/build/dummy_robot_bringup
+[4.871s] [36mInstall the project...[0m
+[4.898s] -- Install configuration: ""
+[4.900s] -- Installing: /opt/workspace/install/dummy_robot_bringup/share/dummy_robot_bringup/launch
+[4.900s] -- Installing: /opt/workspace/install/dummy_robot_bringup/share/dummy_robot_bringup/launch/dummy_robot_bringup.launch.py
+[4.901s] -- Installing: /opt/workspace/install/dummy_robot_bringup/share/dummy_robot_bringup/launch/single_rrbot.urdf
+[4.902s] -- Installing: /opt/workspace/install/dummy_robot_bringup/share/ament_index/resource_index/package_run_dependencies/dummy_robot_bringup
+[4.903s] -- Installing: /opt/workspace/install/dummy_robot_bringup/share/ament_index/resource_index/parent_prefix_path/dummy_robot_bringup
+[4.904s] -- Installing: /opt/workspace/install/dummy_robot_bringup/share/dummy_robot_bringup/environment/ament_prefix_path.sh
+[4.904s] -- Installing: /opt/workspace/install/dummy_robot_bringup/share/dummy_robot_bringup/environment/ament_prefix_path.dsv
+[4.905s] -- Installing: /opt/workspace/install/dummy_robot_bringup/share/dummy_robot_bringup/environment/path.sh
+[4.906s] -- Installing: /opt/workspace/install/dummy_robot_bringup/share/dummy_robot_bringup/environment/path.dsv
+[4.906s] -- Installing: /opt/workspace/install/dummy_robot_bringup/share/dummy_robot_bringup/local_setup.bash
+[4.907s] -- Installing: /opt/workspace/install/dummy_robot_bringup/share/dummy_robot_bringup/local_setup.sh
+[4.908s] -- Installing: /opt/workspace/install/dummy_robot_bringup/share/dummy_robot_bringup/local_setup.zsh
+[4.908s] -- Installing: /opt/workspace/install/dummy_robot_bringup/share/dummy_robot_bringup/local_setup.dsv
+[4.909s] -- Installing: /opt/workspace/install/dummy_robot_bringup/share/dummy_robot_bringup/package.dsv
+[4.910s] -- Installing: /opt/workspace/install/dummy_robot_bringup/share/ament_index/resource_index/packages/dummy_robot_bringup
+[4.910s] -- Installing: /opt/workspace/install/dummy_robot_bringup/share/dummy_robot_bringup/cmake/dummy_robot_bringupConfig.cmake
+[4.911s] -- Installing: /opt/workspace/install/dummy_robot_bringup/share/dummy_robot_bringup/cmake/dummy_robot_bringupConfig-version.cmake
+[4.911s] -- Installing: /opt/workspace/install/dummy_robot_bringup/share/dummy_robot_bringup/package.xml

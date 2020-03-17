@@ -1,0 +1,17 @@
+/opt/workspace/build/test_msgs/rosidl_adapter/test_msgs:msg/Arrays.idl
+/opt/workspace/build/test_msgs/rosidl_adapter/test_msgs:msg/BasicTypes.idl
+/opt/workspace/build/test_msgs/rosidl_adapter/test_msgs:msg/BoundedSequences.idl
+/opt/workspace/build/test_msgs/rosidl_adapter/test_msgs:msg/Constants.idl
+/opt/workspace/build/test_msgs/rosidl_adapter/test_msgs:msg/Defaults.idl
+/opt/workspace/build/test_msgs/rosidl_adapter/test_msgs:msg/Empty.idl
+/opt/workspace/build/test_msgs/rosidl_adapter/test_msgs:msg/MultiNested.idl
+/opt/workspace/build/test_msgs/rosidl_adapter/test_msgs:msg/Nested.idl
+/opt/workspace/build/test_msgs/rosidl_adapter/test_msgs:msg/Strings.idl
+/opt/workspace/build/test_msgs/rosidl_adapter/test_msgs:msg/UnboundedSequences.idl
+/opt/workspace/build/test_msgs/rosidl_adapter/test_msgs:msg/WStrings.idl
+/opt/workspace/build/test_msgs/rosidl_adapter/test_msgs:srv/Arrays.idl
+/opt/workspace/build/test_msgs/rosidl_adapter/test_msgs:srv/BasicTypes.idl
+/opt/workspace/build/test_msgs/rosidl_adapter/test_msgs:srv/Empty.idl
+/opt/workspace/build/test_msgs/rosidl_adapter/test_msgs:action/Fibonacci.idl
+/opt/workspace/build/test_msgs/rosidl_adapter/test_msgs:msg/Builtins.idl
+/opt/workspace/build/test_msgs/rosidl_adapter/test_msgs:action/NestedMessage.idl

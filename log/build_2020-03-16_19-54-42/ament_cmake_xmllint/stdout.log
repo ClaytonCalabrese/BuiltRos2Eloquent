@@ -1,0 +1,30 @@
+[0.424s] -- Found ament_cmake_core: 0.8.2 (/opt/workspace/install/ament_cmake_core/share/ament_cmake_core/cmake)
+[0.502s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[0.503s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.092s] -- Found ament_cmake_test: 0.8.2 (/opt/workspace/install/ament_cmake_test/share/ament_cmake_test/cmake)
+[1.347s] -- Found ament_cmake_copyright: 0.8.1 (/opt/workspace/install/ament_cmake_copyright/share/ament_cmake_copyright/cmake)
+[1.351s] -- Found ament_cmake_lint_cmake: 0.8.1 (/opt/workspace/install/ament_cmake_lint_cmake/share/ament_cmake_lint_cmake/cmake)
+[1.365s] -- Configuring done
+[1.383s] -- Generating done
+[1.394s] -- Build files have been written to: /opt/workspace/build/ament_cmake_xmllint
+[2.276s] [36mInstall the project...[0m
+[2.307s] -- Install configuration: ""
+[2.308s] -- Installing: /opt/workspace/install/ament_cmake_xmllint/share/ament_index/resource_index/package_run_dependencies/ament_cmake_xmllint
+[2.308s] -- Installing: /opt/workspace/install/ament_cmake_xmllint/share/ament_index/resource_index/parent_prefix_path/ament_cmake_xmllint
+[2.309s] -- Installing: /opt/workspace/install/ament_cmake_xmllint/share/ament_cmake_xmllint/environment/ament_prefix_path.sh
+[2.309s] -- Installing: /opt/workspace/install/ament_cmake_xmllint/share/ament_cmake_xmllint/environment/ament_prefix_path.dsv
+[2.310s] -- Installing: /opt/workspace/install/ament_cmake_xmllint/share/ament_cmake_xmllint/environment/path.sh
+[2.310s] -- Installing: /opt/workspace/install/ament_cmake_xmllint/share/ament_cmake_xmllint/environment/path.dsv
+[2.310s] -- Installing: /opt/workspace/install/ament_cmake_xmllint/share/ament_cmake_xmllint/local_setup.bash
+[2.310s] -- Installing: /opt/workspace/install/ament_cmake_xmllint/share/ament_cmake_xmllint/local_setup.sh
+[2.311s] -- Installing: /opt/workspace/install/ament_cmake_xmllint/share/ament_cmake_xmllint/local_setup.zsh
+[2.311s] -- Installing: /opt/workspace/install/ament_cmake_xmllint/share/ament_cmake_xmllint/local_setup.dsv
+[2.311s] -- Installing: /opt/workspace/install/ament_cmake_xmllint/share/ament_cmake_xmllint/package.dsv
+[2.312s] -- Installing: /opt/workspace/install/ament_cmake_xmllint/share/ament_index/resource_index/packages/ament_cmake_xmllint
+[2.312s] -- Installing: /opt/workspace/install/ament_cmake_xmllint/share/ament_cmake_xmllint/cmake/ament_cmake_xmllint-extras.cmake
+[2.312s] -- Installing: /opt/workspace/install/ament_cmake_xmllint/share/ament_cmake_xmllint/cmake/ament_cmake_xmllintConfig.cmake
+[2.313s] -- Installing: /opt/workspace/install/ament_cmake_xmllint/share/ament_cmake_xmllint/cmake/ament_cmake_xmllintConfig-version.cmake
+[2.313s] -- Installing: /opt/workspace/install/ament_cmake_xmllint/share/ament_cmake_xmllint/package.xml
+[2.313s] -- Up-to-date: /opt/workspace/install/ament_cmake_xmllint/share/ament_cmake_xmllint/cmake
+[2.313s] -- Installing: /opt/workspace/install/ament_cmake_xmllint/share/ament_cmake_xmllint/cmake/ament_cmake_xmllint_lint_hook.cmake
+[2.314s] -- Installing: /opt/workspace/install/ament_cmake_xmllint/share/ament_cmake_xmllint/cmake/ament_xmllint.cmake

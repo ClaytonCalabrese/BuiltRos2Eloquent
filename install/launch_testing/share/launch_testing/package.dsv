@@ -1,0 +1,9 @@
+source;share/launch_testing/hook/path.ps1
+source;share/launch_testing/hook/path.dsv
+source;share/launch_testing/hook/path.sh
+source;share/launch_testing/hook/pythonpath.ps1
+source;share/launch_testing/hook/pythonpath.dsv
+source;share/launch_testing/hook/pythonpath.sh
+source;share/launch_testing/hook/ament_prefix_path.ps1
+source;share/launch_testing/hook/ament_prefix_path.dsv
+source;share/launch_testing/hook/ament_prefix_path.sh

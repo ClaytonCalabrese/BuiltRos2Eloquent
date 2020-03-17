@@ -1,0 +1,55 @@
+[5.453s] running egg_info
+[5.453s] creating /opt/workspace/build/examples_rclpy_executors/examples_rclpy_executors.egg-info
+[5.454s] writing /opt/workspace/build/examples_rclpy_executors/examples_rclpy_executors.egg-info/PKG-INFO
+[5.458s] writing dependency_links to /opt/workspace/build/examples_rclpy_executors/examples_rclpy_executors.egg-info/dependency_links.txt
+[5.459s] writing entry points to /opt/workspace/build/examples_rclpy_executors/examples_rclpy_executors.egg-info/entry_points.txt
+[5.459s] writing requirements to /opt/workspace/build/examples_rclpy_executors/examples_rclpy_executors.egg-info/requires.txt
+[5.459s] writing top-level names to /opt/workspace/build/examples_rclpy_executors/examples_rclpy_executors.egg-info/top_level.txt
+[5.459s] writing manifest file '/opt/workspace/build/examples_rclpy_executors/examples_rclpy_executors.egg-info/SOURCES.txt'
+[5.541s] reading manifest file '/opt/workspace/build/examples_rclpy_executors/examples_rclpy_executors.egg-info/SOURCES.txt'
+[5.544s] writing manifest file '/opt/workspace/build/examples_rclpy_executors/examples_rclpy_executors.egg-info/SOURCES.txt'
+[5.544s] running build
+[5.544s] running build_py
+[5.545s] creating /opt/workspace/build/examples_rclpy_executors/build
+[5.545s] creating /opt/workspace/build/examples_rclpy_executors/build/lib
+[5.545s] creating /opt/workspace/build/examples_rclpy_executors/build/lib/examples_rclpy_executors
+[5.546s] copying examples_rclpy_executors/__init__.py -> /opt/workspace/build/examples_rclpy_executors/build/lib/examples_rclpy_executors
+[5.546s] copying examples_rclpy_executors/listener.py -> /opt/workspace/build/examples_rclpy_executors/build/lib/examples_rclpy_executors
+[5.549s] copying examples_rclpy_executors/custom_executor.py -> /opt/workspace/build/examples_rclpy_executors/build/lib/examples_rclpy_executors
+[5.551s] copying examples_rclpy_executors/talker.py -> /opt/workspace/build/examples_rclpy_executors/build/lib/examples_rclpy_executors
+[5.560s] copying examples_rclpy_executors/composed.py -> /opt/workspace/build/examples_rclpy_executors/build/lib/examples_rclpy_executors
+[5.561s] copying examples_rclpy_executors/callback_group.py -> /opt/workspace/build/examples_rclpy_executors/build/lib/examples_rclpy_executors
+[5.562s] copying examples_rclpy_executors/custom_callback_group.py -> /opt/workspace/build/examples_rclpy_executors/build/lib/examples_rclpy_executors
+[5.562s] running install
+[5.562s] running install_lib
+[5.564s] creating /opt/workspace/install/examples_rclpy_executors/lib/python3.6/site-packages/examples_rclpy_executors
+[5.564s] copying /opt/workspace/build/examples_rclpy_executors/build/lib/examples_rclpy_executors/__init__.py -> /opt/workspace/install/examples_rclpy_executors/lib/python3.6/site-packages/examples_rclpy_executors
+[5.564s] copying /opt/workspace/build/examples_rclpy_executors/build/lib/examples_rclpy_executors/listener.py -> /opt/workspace/install/examples_rclpy_executors/lib/python3.6/site-packages/examples_rclpy_executors
+[5.565s] copying /opt/workspace/build/examples_rclpy_executors/build/lib/examples_rclpy_executors/custom_executor.py -> /opt/workspace/install/examples_rclpy_executors/lib/python3.6/site-packages/examples_rclpy_executors
+[5.565s] copying /opt/workspace/build/examples_rclpy_executors/build/lib/examples_rclpy_executors/talker.py -> /opt/workspace/install/examples_rclpy_executors/lib/python3.6/site-packages/examples_rclpy_executors
+[5.565s] copying /opt/workspace/build/examples_rclpy_executors/build/lib/examples_rclpy_executors/composed.py -> /opt/workspace/install/examples_rclpy_executors/lib/python3.6/site-packages/examples_rclpy_executors
+[5.566s] copying /opt/workspace/build/examples_rclpy_executors/build/lib/examples_rclpy_executors/callback_group.py -> /opt/workspace/install/examples_rclpy_executors/lib/python3.6/site-packages/examples_rclpy_executors
+[5.566s] copying /opt/workspace/build/examples_rclpy_executors/build/lib/examples_rclpy_executors/custom_callback_group.py -> /opt/workspace/install/examples_rclpy_executors/lib/python3.6/site-packages/examples_rclpy_executors
+[5.567s] byte-compiling /opt/workspace/install/examples_rclpy_executors/lib/python3.6/site-packages/examples_rclpy_executors/__init__.py to __init__.cpython-36.pyc
+[5.567s] byte-compiling /opt/workspace/install/examples_rclpy_executors/lib/python3.6/site-packages/examples_rclpy_executors/listener.py to listener.cpython-36.pyc
+[5.568s] byte-compiling /opt/workspace/install/examples_rclpy_executors/lib/python3.6/site-packages/examples_rclpy_executors/custom_executor.py to custom_executor.cpython-36.pyc
+[5.569s] byte-compiling /opt/workspace/install/examples_rclpy_executors/lib/python3.6/site-packages/examples_rclpy_executors/talker.py to talker.cpython-36.pyc
+[5.570s] byte-compiling /opt/workspace/install/examples_rclpy_executors/lib/python3.6/site-packages/examples_rclpy_executors/composed.py to composed.cpython-36.pyc
+[5.571s] byte-compiling /opt/workspace/install/examples_rclpy_executors/lib/python3.6/site-packages/examples_rclpy_executors/callback_group.py to callback_group.cpython-36.pyc
+[5.571s] byte-compiling /opt/workspace/install/examples_rclpy_executors/lib/python3.6/site-packages/examples_rclpy_executors/custom_callback_group.py to custom_callback_group.cpython-36.pyc
+[5.573s] running install_data
+[5.574s] creating /opt/workspace/install/examples_rclpy_executors/share/ament_index
+[5.574s] creating /opt/workspace/install/examples_rclpy_executors/share/ament_index/resource_index
+[5.574s] creating /opt/workspace/install/examples_rclpy_executors/share/ament_index/resource_index/packages
+[5.574s] copying resource/examples_rclpy_executors -> /opt/workspace/install/examples_rclpy_executors/share/ament_index/resource_index/packages
+[5.575s] copying package.xml -> /opt/workspace/install/examples_rclpy_executors/share/examples_rclpy_executors
+[5.575s] running install_egg_info
+[5.580s] Copying /opt/workspace/build/examples_rclpy_executors/examples_rclpy_executors.egg-info to /opt/workspace/install/examples_rclpy_executors/lib/python3.6/site-packages/examples_rclpy_executors-0.8.2-py3.6.egg-info
+[5.582s] running install_scripts
+[5.628s] Installing callback_group script to /opt/workspace/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[5.628s] Installing composed script to /opt/workspace/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[5.628s] Installing custom_callback_group script to /opt/workspace/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[5.629s] Installing custom_executor script to /opt/workspace/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[5.629s] Installing listener script to /opt/workspace/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[5.629s] Installing talker script to /opt/workspace/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[5.630s] writing list of installed files to '/opt/workspace/build/examples_rclpy_executors/install.log'

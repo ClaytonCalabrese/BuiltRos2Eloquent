@@ -1,0 +1,13 @@
+# Target labels
+ yaml_cpp-0f9a586
+# Source files and their labels
+/opt/workspace/build/yaml_cpp_vendor/CMakeFiles/yaml_cpp-0f9a586
+/opt/workspace/build/yaml_cpp_vendor/CMakeFiles/yaml_cpp-0f9a586.rule
+/opt/workspace/build/yaml_cpp_vendor/CMakeFiles/yaml_cpp-0f9a586-complete.rule
+/opt/workspace/build/yaml_cpp_vendor/yaml_cpp-0f9a586-prefix/src/yaml_cpp-0f9a586-stamp/yaml_cpp-0f9a586-install.rule
+/opt/workspace/build/yaml_cpp_vendor/yaml_cpp-0f9a586-prefix/src/yaml_cpp-0f9a586-stamp/yaml_cpp-0f9a586-mkdir.rule
+/opt/workspace/build/yaml_cpp_vendor/yaml_cpp-0f9a586-prefix/src/yaml_cpp-0f9a586-stamp/yaml_cpp-0f9a586-download.rule
+/opt/workspace/build/yaml_cpp_vendor/yaml_cpp-0f9a586-prefix/src/yaml_cpp-0f9a586-stamp/yaml_cpp-0f9a586-update.rule
+/opt/workspace/build/yaml_cpp_vendor/yaml_cpp-0f9a586-prefix/src/yaml_cpp-0f9a586-stamp/yaml_cpp-0f9a586-patch.rule
+/opt/workspace/build/yaml_cpp_vendor/yaml_cpp-0f9a586-prefix/src/yaml_cpp-0f9a586-stamp/yaml_cpp-0f9a586-configure.rule
+/opt/workspace/build/yaml_cpp_vendor/yaml_cpp-0f9a586-prefix/src/yaml_cpp-0f9a586-stamp/yaml_cpp-0f9a586-build.rule

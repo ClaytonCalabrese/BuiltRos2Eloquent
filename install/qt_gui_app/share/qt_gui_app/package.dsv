@@ -1,0 +1,8 @@
+source;share/qt_gui_app/hook/cmake_prefix_path.ps1
+source;share/qt_gui_app/hook/cmake_prefix_path.dsv
+source;share/qt_gui_app/hook/cmake_prefix_path.sh
+source;share/qt_gui_app/local_setup.bash
+source;share/qt_gui_app/local_setup.dsv
+source;share/qt_gui_app/local_setup.ps1
+source;share/qt_gui_app/local_setup.sh
+source;share/qt_gui_app/local_setup.zsh

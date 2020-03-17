@@ -1,0 +1,14 @@
+source;share/rttest/hook/cmake_prefix_path.ps1
+source;share/rttest/hook/cmake_prefix_path.dsv
+source;share/rttest/hook/cmake_prefix_path.sh
+source;share/rttest/hook/ld_library_path_lib.ps1
+source;share/rttest/hook/ld_library_path_lib.dsv
+source;share/rttest/hook/ld_library_path_lib.sh
+source;share/rttest/hook/path.ps1
+source;share/rttest/hook/path.dsv
+source;share/rttest/hook/path.sh
+source;share/rttest/local_setup.bash
+source;share/rttest/local_setup.dsv
+source;share/rttest/local_setup.ps1
+source;share/rttest/local_setup.sh
+source;share/rttest/local_setup.zsh

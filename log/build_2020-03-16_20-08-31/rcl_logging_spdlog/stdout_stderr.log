@@ -1,0 +1,62 @@
+[0.794s] -- The C compiler identification is GNU 7.4.0
+[0.943s] -- The CXX compiler identification is GNU 7.4.0
+[0.959s] -- Check for working C compiler: /usr/bin/cc
+[1.246s] -- Check for working C compiler: /usr/bin/cc -- works
+[1.247s] -- Detecting C compiler ABI info
+[1.510s] -- Detecting C compiler ABI info - done
+[1.527s] -- Detecting C compile features
+[2.438s] -- Detecting C compile features - done
+[2.442s] -- Check for working CXX compiler: /usr/bin/c++
+[2.778s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[2.780s] -- Detecting CXX compiler ABI info
+[3.184s] -- Detecting CXX compiler ABI info - done
+[3.195s] -- Detecting CXX compile features
+[4.936s] -- Detecting CXX compile features - done
+[4.938s] -- Found ament_cmake_ros: 0.8.0 (/opt/workspace/install/ament_cmake_ros/share/ament_cmake_ros/cmake)
+[5.184s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[5.185s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[6.681s] -- Found rcutils: 0.8.4 (/opt/workspace/install/rcutils/share/rcutils/cmake)
+[6.699s] -- Found spdlog_vendor: 1.0.1 (/opt/workspace/install/spdlog_vendor/share/spdlog_vendor/cmake)
+[6.720s] -- Found ament_lint_auto: 0.8.1 (/opt/workspace/install/ament_lint_auto/share/ament_lint_auto/cmake)
+[7.234s] -- Added test 'copyright' to check for copyright in CMake / C / C++ / Python code
+[7.253s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[7.254s] -- Configured cppcheck include dirs: /opt/workspace/src/ros2/rcl_logging/rcl_logging_spdlog/include
+[7.270s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[7.281s] -- Added test 'lint_cmake' to check CMake code style
+[7.290s] -- Added test 'uncrustify' to check C / C++ code style
+[7.293s] -- Added test 'xmllint' to check XML markup files
+[7.313s] -- Configuring done
+[7.338s] -- Generating done
+[7.342s] -- Build files have been written to: /opt/workspace/build/rcl_logging_spdlog
+[7.670s] [35m[1mScanning dependencies of target rcl_logging_spdlog[0m
+[7.812s] [ 50%] [32mBuilding CXX object CMakeFiles/rcl_logging_spdlog.dir/src/rcl_logging_spdlog.cpp.o[0m
+[21.021s] [100%] [32m[1mLinking CXX shared library librcl_logging_spdlog.so[0m
+[21.349s] [100%] Built target rcl_logging_spdlog
+[21.637s] [100%] Built target rcl_logging_spdlog
+[21.724s] [36mInstall the project...[0m
+[21.744s] -- Install configuration: ""
+[21.745s] -- Installing: /opt/workspace/install/rcl_logging_spdlog/lib/librcl_logging_spdlog.so
+[21.749s] -- Set runtime path of "/opt/workspace/install/rcl_logging_spdlog/lib/librcl_logging_spdlog.so" to ""
+[21.749s] -- Installing: /opt/workspace/install/rcl_logging_spdlog/include/rcl_logging_spdlog
+[21.750s] -- Installing: /opt/workspace/install/rcl_logging_spdlog/include/rcl_logging_spdlog/visibility_control.h
+[21.752s] -- Installing: /opt/workspace/install/rcl_logging_spdlog/include/rcl_logging_spdlog/logging_interface.h
+[21.753s] -- Installing: /opt/workspace/install/rcl_logging_spdlog/share/rcl_logging_spdlog/environment/library_path.sh
+[21.754s] -- Installing: /opt/workspace/install/rcl_logging_spdlog/share/rcl_logging_spdlog/environment/library_path.dsv
+[21.756s] -- Installing: /opt/workspace/install/rcl_logging_spdlog/share/ament_index/resource_index/package_run_dependencies/rcl_logging_spdlog
+[21.757s] -- Installing: /opt/workspace/install/rcl_logging_spdlog/share/ament_index/resource_index/parent_prefix_path/rcl_logging_spdlog
+[21.758s] -- Installing: /opt/workspace/install/rcl_logging_spdlog/share/rcl_logging_spdlog/environment/ament_prefix_path.sh
+[21.759s] -- Installing: /opt/workspace/install/rcl_logging_spdlog/share/rcl_logging_spdlog/environment/ament_prefix_path.dsv
+[21.759s] -- Installing: /opt/workspace/install/rcl_logging_spdlog/share/rcl_logging_spdlog/environment/path.sh
+[21.760s] -- Installing: /opt/workspace/install/rcl_logging_spdlog/share/rcl_logging_spdlog/environment/path.dsv
+[21.761s] -- Installing: /opt/workspace/install/rcl_logging_spdlog/share/rcl_logging_spdlog/local_setup.bash
+[21.762s] -- Installing: /opt/workspace/install/rcl_logging_spdlog/share/rcl_logging_spdlog/local_setup.sh
+[21.763s] -- Installing: /opt/workspace/install/rcl_logging_spdlog/share/rcl_logging_spdlog/local_setup.zsh
+[21.763s] -- Installing: /opt/workspace/install/rcl_logging_spdlog/share/rcl_logging_spdlog/local_setup.dsv
+[21.763s] -- Installing: /opt/workspace/install/rcl_logging_spdlog/share/rcl_logging_spdlog/package.dsv
+[21.764s] -- Installing: /opt/workspace/install/rcl_logging_spdlog/share/ament_index/resource_index/packages/rcl_logging_spdlog
+[21.764s] -- Installing: /opt/workspace/install/rcl_logging_spdlog/share/rcl_logging_spdlog/cmake/ament_cmake_export_include_directories-extras.cmake
+[21.764s] -- Installing: /opt/workspace/install/rcl_logging_spdlog/share/rcl_logging_spdlog/cmake/ament_cmake_export_dependencies-extras.cmake
+[21.764s] -- Installing: /opt/workspace/install/rcl_logging_spdlog/share/rcl_logging_spdlog/cmake/ament_cmake_export_libraries-extras.cmake
+[21.765s] -- Installing: /opt/workspace/install/rcl_logging_spdlog/share/rcl_logging_spdlog/cmake/rcl_logging_spdlogConfig.cmake
+[21.765s] -- Installing: /opt/workspace/install/rcl_logging_spdlog/share/rcl_logging_spdlog/cmake/rcl_logging_spdlogConfig-version.cmake
+[21.765s] -- Installing: /opt/workspace/install/rcl_logging_spdlog/share/rcl_logging_spdlog/package.xml

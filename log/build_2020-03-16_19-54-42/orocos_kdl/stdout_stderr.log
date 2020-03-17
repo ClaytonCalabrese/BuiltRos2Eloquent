@@ -1,0 +1,184 @@
+[0.919s] -- The C compiler identification is GNU 7.4.0
+[1.004s] -- The CXX compiler identification is GNU 7.4.0
+[1.010s] -- Check for working C compiler: /usr/bin/cc
+[1.107s] -- Check for working C compiler: /usr/bin/cc -- works
+[1.108s] -- Detecting C compiler ABI info
+[1.207s] -- Detecting C compiler ABI info - done
+[1.220s] -- Detecting C compile features
+[1.583s] -- Detecting C compile features - done
+[1.589s] -- Check for working CXX compiler: /usr/bin/c++
+[1.704s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[1.705s] -- Detecting CXX compiler ABI info
+[1.811s] -- Detecting CXX compiler ABI info - done
+[1.826s] -- Detecting CXX compile features
+[2.281s] -- Detecting CXX compile features - done
+[2.282s] -- Orocos KDL version  (1.4.0)
+[2.282s] -- Setting build type to 'Release'
+[2.285s] -- Using Eigen3 include dirs: /usr/include/eigen3
+[2.287s] -- Performing Test HAVE_STL_CONTAINER_INCOMPLETE_TYPES
+[2.617s] -- Performing Test HAVE_STL_CONTAINER_INCOMPLETE_TYPES - Success
+[2.635s] -- Configuring done
+[2.673s] -- Generating done
+[2.675s] -- Build files have been written to: /opt/workspace/build/orocos_kdl
+[3.846s] [35m[1mScanning dependencies of target orocos-kdl[0m
+[3.847s] [  3%] [32mBuilding CXX object src/CMakeFiles/orocos-kdl.dir/chain.cpp.o[0m
+[3.848s] [  3%] [32mBuilding CXX object src/CMakeFiles/orocos-kdl.dir/articulatedbodyinertia.cpp.o[0m
+[3.848s] [  4%] [32mBuilding CXX object src/CMakeFiles/orocos-kdl.dir/chaindynparam.cpp.o[0m
+[3.848s] [  6%] [32mBuilding CXX object src/CMakeFiles/orocos-kdl.dir/chainfksolverpos_recursive.cpp.o[0m
+[3.848s] [  8%] [32mBuilding CXX object src/CMakeFiles/orocos-kdl.dir/chainidsolver_recursive_newton_euler.cpp.o[0m
+[3.848s] [ 11%] [32mBuilding CXX object src/CMakeFiles/orocos-kdl.dir/chainidsolver_vereshchagin.cpp.o[0m
+[3.848s] [ 11%] [32mBuilding CXX object src/CMakeFiles/orocos-kdl.dir/chainfksolvervel_recursive.cpp.o[0m
+[3.849s] [ 13%] [32mBuilding CXX object src/CMakeFiles/orocos-kdl.dir/chainiksolverpos_lma.cpp.o[0m
+[4.716s] [ 14%] [32mBuilding CXX object src/CMakeFiles/orocos-kdl.dir/chainiksolverpos_nr.cpp.o[0m
+[5.907s] [ 16%] [32mBuilding CXX object src/CMakeFiles/orocos-kdl.dir/chainiksolvervel_pinv.cpp.o[0m
+[5.907s] [ 18%] [32mBuilding CXX object src/CMakeFiles/orocos-kdl.dir/chainiksolverpos_nr_jl.cpp.o[0m
+[6.064s] [ 19%] [32mBuilding CXX object src/CMakeFiles/orocos-kdl.dir/chainiksolvervel_pinv_givens.cpp.o[0m
+[6.607s] [ 21%] [32mBuilding CXX object src/CMakeFiles/orocos-kdl.dir/chainiksolvervel_pinv_nso.cpp.o[0m
+[7.021s] [ 22%] [32mBuilding CXX object src/CMakeFiles/orocos-kdl.dir/chainiksolvervel_wdls.cpp.o[0m
+[8.515s] [ 24%] [32mBuilding CXX object src/CMakeFiles/orocos-kdl.dir/chainjnttojacdotsolver.cpp.o[0m
+[8.603s] [ 26%] [32mBuilding CXX object src/CMakeFiles/orocos-kdl.dir/chainjnttojacsolver.cpp.o[0m
+[9.581s] [ 27%] [32mBuilding CXX object src/CMakeFiles/orocos-kdl.dir/frameacc.cpp.o[0m
+[9.888s] [ 29%] [32mBuilding CXX object src/CMakeFiles/orocos-kdl.dir/frames.cpp.o[0m
+[10.765s] [ 31%] [32mBuilding CXX object src/CMakeFiles/orocos-kdl.dir/frames_io.cpp.o[0m
+[10.913s] [ 32%] [32mBuilding CXX object src/CMakeFiles/orocos-kdl.dir/framevel.cpp.o[0m
+[11.226s] [ 34%] [32mBuilding CXX object src/CMakeFiles/orocos-kdl.dir/jacobian.cpp.o[0m
+[11.345s] [ 36%] [32mBuilding CXX object src/CMakeFiles/orocos-kdl.dir/jntarray.cpp.o[0m
+[11.471s] [ 37%] [32mBuilding CXX object src/CMakeFiles/orocos-kdl.dir/jntarrayacc.cpp.o[0m
+[12.624s] [ 39%] [32mBuilding CXX object src/CMakeFiles/orocos-kdl.dir/jntarrayvel.cpp.o[0m
+[13.476s] [ 40%] [32mBuilding CXX object src/CMakeFiles/orocos-kdl.dir/jntspaceinertiamatrix.cpp.o[0m
+[13.692s] [ 42%] [32mBuilding CXX object src/CMakeFiles/orocos-kdl.dir/joint.cpp.o[0m
+[14.244s] [ 44%] [32mBuilding CXX object src/CMakeFiles/orocos-kdl.dir/kinfam_io.cpp.o[0m
+[14.342s] [ 45%] [32mBuilding CXX object src/CMakeFiles/orocos-kdl.dir/path.cpp.o[0m
+[14.343s] [ 47%] [32mBuilding CXX object src/CMakeFiles/orocos-kdl.dir/path_circle.cpp.o[0m
+[14.657s] [ 49%] [32mBuilding CXX object src/CMakeFiles/orocos-kdl.dir/path_composite.cpp.o[0m
+[15.057s] [ 50%] [32mBuilding CXX object src/CMakeFiles/orocos-kdl.dir/path_cyclic_closed.cpp.o[0m
+[15.165s] [ 52%] [32mBuilding CXX object src/CMakeFiles/orocos-kdl.dir/path_line.cpp.o[0m
+[24.437s] [ 54%] [32mBuilding CXX object src/CMakeFiles/orocos-kdl.dir/segment.cpp.o[0m
+[25.176s] [ 55%] [32mBuilding CXX object src/CMakeFiles/orocos-kdl.dir/trajectory.cpp.o[0m
+[26.887s] [ 57%] [32mBuilding CXX object src/CMakeFiles/orocos-kdl.dir/trajectory_composite.cpp.o[0m
+[28.773s] [ 59%] [32mBuilding CXX object src/CMakeFiles/orocos-kdl.dir/trajectory_segment.cpp.o[0m
+[30.320s] [ 60%] [32mBuilding CXX object src/CMakeFiles/orocos-kdl.dir/trajectory_stationary.cpp.o[0m
+[31.905s] [ 62%] [32mBuilding CXX object src/CMakeFiles/orocos-kdl.dir/tree.cpp.o[0m
+[33.565s] [ 63%] [32mBuilding CXX object src/CMakeFiles/orocos-kdl.dir/treefksolverpos_recursive.cpp.o[0m
+[35.263s] [ 65%] [32mBuilding CXX object src/CMakeFiles/orocos-kdl.dir/treeiksolverpos_nr_jl.cpp.o[0m
+[37.457s] [ 67%] [32mBuilding CXX object src/CMakeFiles/orocos-kdl.dir/treeiksolverpos_online.cpp.o[0m
+[39.539s] [ 68%] [32mBuilding CXX object src/CMakeFiles/orocos-kdl.dir/treeiksolvervel_wdls.cpp.o[0m
+[43.899s] [ 70%] [32mBuilding CXX object src/CMakeFiles/orocos-kdl.dir/treejnttojacsolver.cpp.o[0m
+[45.788s] [ 72%] [32mBuilding CXX object src/CMakeFiles/orocos-kdl.dir/utilities/svd_HH.cpp.o[0m
+[47.572s] [ 73%] [32mBuilding CXX object src/CMakeFiles/orocos-kdl.dir/utilities/svd_eigen_HH.cpp.o[0m
+[50.053s] [ 75%] [32mBuilding CXX object src/CMakeFiles/orocos-kdl.dir/velocityprofile.cpp.o[0m
+[50.870s] [ 77%] [32mBuilding CXX object src/CMakeFiles/orocos-kdl.dir/velocityprofile_dirac.cpp.o[0m
+[51.651s] [ 78%] [32mBuilding CXX object src/CMakeFiles/orocos-kdl.dir/velocityprofile_rect.cpp.o[0m
+[52.272s] [ 80%] [32mBuilding CXX object src/CMakeFiles/orocos-kdl.dir/velocityprofile_spline.cpp.o[0m
+[53.045s] [ 81%] [32mBuilding CXX object src/CMakeFiles/orocos-kdl.dir/velocityprofile_trap.cpp.o[0m
+[53.834s] [ 83%] [32mBuilding CXX object src/CMakeFiles/orocos-kdl.dir/velocityprofile_traphalf.cpp.o[0m
+[54.695s] [ 85%] [32mBuilding CXX object src/CMakeFiles/orocos-kdl.dir/utilities/error_stack.cxx.o[0m
+[55.645s] [ 86%] [32mBuilding CXX object src/CMakeFiles/orocos-kdl.dir/utilities/utility.cxx.o[0m
+[55.778s] [ 88%] [32mBuilding CXX object src/CMakeFiles/orocos-kdl.dir/utilities/utility_io.cxx.o[0m
+[56.681s] [ 90%] [32mBuilding CXX object src/CMakeFiles/orocos-kdl.dir/rotationalinertia.cpp.o[0m
+[58.462s] [ 91%] [32mBuilding CXX object src/CMakeFiles/orocos-kdl.dir/rotational_interpolation_sa.cpp.o[0m
+[60.083s] [ 93%] [32mBuilding CXX object src/CMakeFiles/orocos-kdl.dir/rotational_interpolation.cpp.o[0m
+[61.763s] [ 95%] [32mBuilding CXX object src/CMakeFiles/orocos-kdl.dir/rigidbodyinertia.cpp.o[0m
+[65.129s] [ 96%] [32mBuilding CXX object src/CMakeFiles/orocos-kdl.dir/path_roundedcomposite.cpp.o[0m
+[66.971s] [ 98%] [32mBuilding CXX object src/CMakeFiles/orocos-kdl.dir/path_point.cpp.o[0m
+[68.580s] [100%] [32m[1mLinking CXX shared library liborocos-kdl.so[0m
+[68.847s] [100%] Built target orocos-kdl
+[69.164s] [100%] Built target orocos-kdl
+[69.201s] [36mInstall the project...[0m
+[69.218s] -- Install configuration: "Release"
+[69.218s] -- Installing: /opt/workspace/install/orocos_kdl/share/orocos_kdl/orocos_kdl-config.cmake
+[69.218s] -- Installing: /opt/workspace/install/orocos_kdl/share/orocos_kdl/orocos_kdl-config-version.cmake
+[69.219s] -- Installing: /opt/workspace/install/orocos_kdl/share/orocos_kdl/OrocosKDLTargets.cmake
+[69.219s] -- Installing: /opt/workspace/install/orocos_kdl/share/orocos_kdl/OrocosKDLTargets-release.cmake
+[69.220s] -- Installing: /opt/workspace/install/orocos_kdl/share/orocos_kdl/package.xml
+[69.223s] -- Installing: /opt/workspace/install/orocos_kdl/lib/liborocos-kdl.so.1.4.0
+[69.223s] -- Installing: /opt/workspace/install/orocos_kdl/lib/liborocos-kdl.so.1.4
+[69.223s] -- Installing: /opt/workspace/install/orocos_kdl/lib/liborocos-kdl.so
+[69.224s] -- Set runtime path of "/opt/workspace/install/orocos_kdl/lib/liborocos-kdl.so.1.4.0" to "$ORIGIN/../lib"
+[69.225s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/articulatedbodyinertia.hpp
+[69.226s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/chain.hpp
+[69.226s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/chaindynparam.hpp
+[69.226s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/chainfksolver.hpp
+[69.226s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/chainfksolverpos_recursive.hpp
+[69.226s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/chainfksolvervel_recursive.hpp
+[69.227s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/chainidsolver.hpp
+[69.227s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/chainidsolver_recursive_newton_euler.hpp
+[69.227s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/chainidsolver_vereshchagin.hpp
+[69.228s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/chainiksolver.hpp
+[69.228s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/chainiksolverpos_lma.hpp
+[69.228s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/chainiksolverpos_nr.hpp
+[69.228s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/chainiksolverpos_nr_jl.hpp
+[69.229s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/chainiksolvervel_pinv.hpp
+[69.229s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/chainiksolvervel_pinv_givens.hpp
+[69.229s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/chainiksolvervel_pinv_nso.hpp
+[69.229s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/chainiksolvervel_wdls.hpp
+[69.230s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/chainjnttojacdotsolver.hpp
+[69.230s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/chainjnttojacsolver.hpp
+[69.230s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/frameacc.hpp
+[69.231s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/frameacc_io.hpp
+[69.231s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/frames.hpp
+[69.231s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/frames_io.hpp
+[69.232s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/framevel.hpp
+[69.232s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/framevel_io.hpp
+[69.232s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/jacobian.hpp
+[69.233s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/jntarray.hpp
+[69.233s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/jntarrayacc.hpp
+[69.233s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/jntarrayvel.hpp
+[69.235s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/jntspaceinertiamatrix.hpp
+[69.235s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/joint.hpp
+[69.236s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/kdl.hpp
+[69.236s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/kinfam.hpp
+[69.236s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/kinfam_io.hpp
+[69.237s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/motion.hpp
+[69.237s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/path.hpp
+[69.238s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/path_circle.hpp
+[69.238s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/path_composite.hpp
+[69.238s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/path_cyclic_closed.hpp
+[69.239s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/path_line.hpp
+[69.239s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/path_point.hpp
+[69.239s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/path_roundedcomposite.hpp
+[69.239s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/rigidbodyinertia.hpp
+[69.240s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/rotational_interpolation.hpp
+[69.240s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/rotational_interpolation_sa.hpp
+[69.240s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/rotationalinertia.hpp
+[69.240s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/segment.hpp
+[69.240s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/solveri.hpp
+[69.241s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/stiffness.hpp
+[69.241s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/trajectory.hpp
+[69.241s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/trajectory_composite.hpp
+[69.241s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/trajectory_segment.hpp
+[69.241s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/trajectory_stationary.hpp
+[69.242s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/tree.hpp
+[69.242s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/treefksolver.hpp
+[69.242s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/treefksolverpos_recursive.hpp
+[69.242s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/treeiksolver.hpp
+[69.242s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/treeiksolverpos_nr_jl.hpp
+[69.243s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/treeiksolverpos_online.hpp
+[69.243s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/treeiksolvervel_wdls.hpp
+[69.243s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/treejnttojacsolver.hpp
+[69.243s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/velocityprofile.hpp
+[69.244s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/velocityprofile_dirac.hpp
+[69.256s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/velocityprofile_rect.hpp
+[69.256s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/velocityprofile_spline.hpp
+[69.257s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/velocityprofile_trap.hpp
+[69.257s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/velocityprofile_traphalf.hpp
+[69.260s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/frameacc.inl
+[69.262s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/frames.inl
+[69.262s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/framevel.inl
+[69.263s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/config.h
+[69.263s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/utilities/error.h
+[69.264s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/utilities/error_stack.h
+[69.264s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/utilities/kdl-config.h
+[69.264s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/utilities/rall1d.h
+[69.264s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/utilities/rall1d_io.h
+[69.265s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/utilities/rall2d.h
+[69.265s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/utilities/rall2d_io.h
+[69.265s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/utilities/rallNd.h
+[69.266s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/utilities/traits.h
+[69.266s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/utilities/utility.h
+[69.266s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/utilities/utility_io.h
+[69.267s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/utilities/svd_HH.hpp
+[69.267s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/utilities/svd_eigen_HH.hpp
+[69.267s] -- Installing: /opt/workspace/install/orocos_kdl/include/kdl/utilities/svd_eigen_Macie.hpp
+[69.268s] -- Installing: /opt/workspace/install/orocos_kdl/lib/pkgconfig/orocos-kdl.pc
+[69.268s] -- Installing: /opt/workspace/install/orocos_kdl/lib/pkgconfig/orocos_kdl.pc

@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC   -latomic  -shared -Wl,-soname,librcl_logging_log4cxx.so -o librcl_logging_log4cxx.so CMakeFiles/rcl_logging_log4cxx.dir/src/rcl_logging_log4cxx/rcl_logging_log4cxx.cpp.o -Wl,-rpath,/opt/workspace/install/rcutils/lib: /usr/lib/x86_64-linux-gnu/liblog4cxx.so /opt/workspace/install/rcutils/lib/librcutils.so 

@@ -1,0 +1,11 @@
+source;share/pendulum_control/hook/cmake_prefix_path.ps1
+source;share/pendulum_control/hook/cmake_prefix_path.dsv
+source;share/pendulum_control/hook/cmake_prefix_path.sh
+source;share/pendulum_control/hook/path.ps1
+source;share/pendulum_control/hook/path.dsv
+source;share/pendulum_control/hook/path.sh
+source;share/pendulum_control/local_setup.bash
+source;share/pendulum_control/local_setup.dsv
+source;share/pendulum_control/local_setup.ps1
+source;share/pendulum_control/local_setup.sh
+source;share/pendulum_control/local_setup.zsh

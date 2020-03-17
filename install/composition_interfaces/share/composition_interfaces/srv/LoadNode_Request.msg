@@ -1,0 +1,19 @@
+# A ROS package the composable node can be found in
+string package_name
+# a plugin within that package
+string plugin_name
+
+# Name the composable node should use, or empty to use the node's default name
+string node_name
+# Namespace the composable node should use, or empty to use the node's default namespace
+string node_namespace
+# Values from message rcl_interfaces/Log
+uint8 log_level
+# Remap rules
+# TODO(sloretz) rcl_interfaces message for remap rules?
+string[] remap_rules
+# Parameters to set
+rcl_interfaces/Parameter[] parameters
+
+# key/value arguments that are specific to a type of container process
+rcl_interfaces/Parameter[] extra_arguments

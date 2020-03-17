@@ -1,0 +1,18 @@
+file(REMOVE_RECURSE
+  "rosidl_typesupport_fastrtps_cpp/composition_interfaces/srv/dds_fastrtps/load_node__type_support.cpp"
+  "rosidl_typesupport_fastrtps_cpp/composition_interfaces/srv/load_node__rosidl_typesupport_fastrtps_cpp.hpp"
+  "rosidl_typesupport_fastrtps_cpp/composition_interfaces/srv/dds_fastrtps/list_nodes__type_support.cpp"
+  "rosidl_typesupport_fastrtps_cpp/composition_interfaces/srv/list_nodes__rosidl_typesupport_fastrtps_cpp.hpp"
+  "rosidl_typesupport_fastrtps_cpp/composition_interfaces/srv/dds_fastrtps/unload_node__type_support.cpp"
+  "rosidl_typesupport_fastrtps_cpp/composition_interfaces/srv/unload_node__rosidl_typesupport_fastrtps_cpp.hpp"
+  "CMakeFiles/composition_interfaces__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/composition_interfaces/srv/dds_fastrtps/load_node__type_support.cpp.o"
+  "CMakeFiles/composition_interfaces__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/composition_interfaces/srv/dds_fastrtps/list_nodes__type_support.cpp.o"
+  "CMakeFiles/composition_interfaces__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/composition_interfaces/srv/dds_fastrtps/unload_node__type_support.cpp.o"
+  "libcomposition_interfaces__rosidl_typesupport_fastrtps_cpp.pdb"
+  "libcomposition_interfaces__rosidl_typesupport_fastrtps_cpp.so"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/composition_interfaces__rosidl_typesupport_fastrtps_cpp.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

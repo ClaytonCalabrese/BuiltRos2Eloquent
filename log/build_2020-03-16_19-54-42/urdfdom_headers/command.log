@@ -1,0 +1,6 @@
+[0.037s] Invoking command in '/opt/workspace/build/urdfdom_headers': /usr/bin/cmake /opt/workspace/src/ros/urdfdom_headers -DCMAKE_INSTALL_PREFIX=/opt/workspace/install/urdfdom_headers
+[2.198s] Invoked command in '/opt/workspace/build/urdfdom_headers' returned '0': /usr/bin/cmake /opt/workspace/src/ros/urdfdom_headers -DCMAKE_INSTALL_PREFIX=/opt/workspace/install/urdfdom_headers
+[2.200s] Invoking command in '/opt/workspace/build/urdfdom_headers': /usr/bin/cmake --build /opt/workspace/build/urdfdom_headers -- -j8 -l8
+[2.291s] Invoked command in '/opt/workspace/build/urdfdom_headers' returned '0': /usr/bin/cmake --build /opt/workspace/build/urdfdom_headers -- -j8 -l8
+[2.358s] Invoking command in '/opt/workspace/build/urdfdom_headers': /usr/bin/cmake --build /opt/workspace/build/urdfdom_headers --target install -- -j8 -l8
+[2.490s] Invoked command in '/opt/workspace/build/urdfdom_headers' returned '0': /usr/bin/cmake --build /opt/workspace/build/urdfdom_headers --target install -- -j8 -l8

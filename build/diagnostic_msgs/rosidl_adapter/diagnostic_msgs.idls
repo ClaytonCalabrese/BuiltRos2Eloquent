@@ -1,0 +1,5 @@
+/opt/workspace/build/diagnostic_msgs/rosidl_adapter/diagnostic_msgs:msg/DiagnosticArray.idl
+/opt/workspace/build/diagnostic_msgs/rosidl_adapter/diagnostic_msgs:msg/DiagnosticStatus.idl
+/opt/workspace/build/diagnostic_msgs/rosidl_adapter/diagnostic_msgs:msg/KeyValue.idl
+/opt/workspace/build/diagnostic_msgs/rosidl_adapter/diagnostic_msgs:srv/AddDiagnostics.idl
+/opt/workspace/build/diagnostic_msgs/rosidl_adapter/diagnostic_msgs:srv/SelfTest.idl

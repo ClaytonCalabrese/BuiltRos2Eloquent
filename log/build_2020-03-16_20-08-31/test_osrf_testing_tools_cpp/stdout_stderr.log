@@ -1,0 +1,76 @@
+[1.308s] -- The C compiler identification is GNU 7.4.0
+[1.377s] -- The CXX compiler identification is GNU 7.4.0
+[1.381s] -- Check for working C compiler: /usr/bin/cc
+[1.466s] -- Check for working C compiler: /usr/bin/cc -- works
+[1.467s] -- Detecting C compiler ABI info
+[1.548s] -- Detecting C compiler ABI info - done
+[1.556s] -- Detecting C compile features
+[1.901s] -- Detecting C compile features - done
+[1.906s] -- Check for working CXX compiler: /usr/bin/c++
+[2.050s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[2.051s] -- Detecting CXX compiler ABI info
+[2.164s] -- Detecting CXX compiler ABI info - done
+[2.172s] -- Detecting CXX compile features
+[2.646s] -- Detecting CXX compile features - done
+[2.657s] -- googletest version '1.8.0' selected, of versions: '1.8.0'
+[2.657s] -- building googletest from '/opt/workspace/install/osrf_testing_tools_cpp/share/osrf_testing_tools_cpp/cmake/../../../share/osrf_testing_tools_cpp/vendor/google/googletest/release-1.8.0.tar.gz'...
+[2.742s] -- Configuring done
+[2.746s] -- Generating done
+[2.746s] -- Build files have been written to: /opt/workspace/build/test_osrf_testing_tools_cpp/googletest-1.8.0-extracted
+[2.816s] Scanning dependencies of target googletest
+[2.835s] [ 11%] Creating directories for 'googletest'
+[2.922s] [ 22%] Performing download step (verify and extract) for 'googletest'
+[2.932s] -- verifying file...
+[2.932s]      file='/opt/workspace/install/osrf_testing_tools_cpp/share/osrf_testing_tools_cpp/cmake/../../../share/osrf_testing_tools_cpp/vendor/google/googletest/release-1.8.0.tar.gz'
+[2.934s] -- verifying file... done
+[2.945s] -- extracting...
+[2.945s]      src='/opt/workspace/install/osrf_testing_tools_cpp/share/osrf_testing_tools_cpp/vendor/google/googletest/release-1.8.0.tar.gz'
+[2.945s]      dst='/opt/workspace/build/test_osrf_testing_tools_cpp/googletest-1.8.0-extracted/googletest-1.8.0-src'
+[2.945s] -- extracting... [tar xfz]
+[2.988s] -- extracting... [analysis]
+[2.988s] -- extracting... [rename]
+[2.989s] -- extracting... [clean up]
+[2.989s] -- extracting... done
+[3.010s] [ 33%] No patch step for 'googletest'
+[3.042s] [ 44%] No update step for 'googletest'
+[3.072s] [ 55%] No configure step for 'googletest'
+[3.117s] [ 66%] No build step for 'googletest'
+[3.149s] [ 77%] No install step for 'googletest'
+[3.216s] [ 88%] No test step for 'googletest'
+[3.266s] [100%] Completed 'googletest'
+[3.321s] [100%] Built target googletest
+[3.366s] -- Found PythonInterp: /usr/bin/python (found version "2.7.17") 
+[3.368s] -- Looking for pthread.h
+[3.465s] -- Looking for pthread.h - found
+[3.466s] -- Looking for pthread_create
+[3.562s] -- Looking for pthread_create - not found
+[3.563s] -- Looking for pthread_create in pthreads
+[3.646s] -- Looking for pthread_create in pthreads - not found
+[3.646s] -- Looking for pthread_create in pthread
+[3.756s] -- Looking for pthread_create in pthread - found
+[3.762s] -- Found Threads: TRUE  
+[3.770s] -- Configuring done
+[3.798s] -- Generating done
+[3.804s] -- Build files have been written to: /opt/workspace/build/test_osrf_testing_tools_cpp
+[4.505s] [35m[1mScanning dependencies of target gtest[0m
+[4.532s] [ 12%] [32mBuilding CXX object googletest-1.8.0-extracted/googletest-1.8.0-build/googlemock/gtest/CMakeFiles/gtest.dir/src/gtest-all.cc.o[0m
+[7.989s] [ 25%] [32m[1mLinking CXX static library libgtest.a[0m
+[8.051s] [ 25%] Built target gtest
+[8.063s] [35m[1mScanning dependencies of target gtest_main[0m
+[8.090s] [ 37%] [32mBuilding CXX object googletest-1.8.0-extracted/googletest-1.8.0-build/googlemock/gtest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o[0m
+[9.213s] [ 50%] [32m[1mLinking CXX static library libgtest_main.a[0m
+[9.261s] [ 50%] Built target gtest_main
+[9.286s] [35m[1mScanning dependencies of target test_is_not_working_gtest[0m
+[9.287s] [35m[1mScanning dependencies of target test_example_memory_tools_gtest[0m
+[9.318s] [ 62%] [32mBuilding CXX object CMakeFiles/test_example_memory_tools_gtest.dir/test/test_example_memory_tools.cpp.o[0m
+[9.330s] [ 75%] [32mBuilding CXX object CMakeFiles/test_is_not_working_gtest.dir/test/test_is_not_working.cpp.o[0m
+[10.504s] [ 87%] [32m[1mLinking CXX executable test_is_not_working_gtest[0m
+[10.741s] [ 87%] Built target test_is_not_working_gtest
+[10.865s] [100%] [32m[1mLinking CXX executable test_example_memory_tools_gtest[0m
+[11.094s] [100%] Built target test_example_memory_tools_gtest
+[13.449s] [ 25%] Built target gtest
+[13.450s] [ 50%] Built target gtest_main
+[13.450s] [ 75%] Built target test_is_not_working_gtest
+[13.457s] [100%] Built target test_example_memory_tools_gtest
+[13.459s] [36mInstall the project...[0m
+[13.459s] -- Install configuration: ""

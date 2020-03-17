@@ -1,0 +1,45 @@
+[0.252s] -- The C compiler identification is GNU 7.4.0
+[0.357s] -- The CXX compiler identification is GNU 7.4.0
+[0.366s] -- Check for working C compiler: /usr/bin/cc
+[0.508s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.510s] -- Detecting C compiler ABI info
+[0.702s] -- Detecting C compiler ABI info - done
+[0.715s] -- Detecting C compile features
+[1.154s] -- Detecting C compile features - done
+[1.162s] -- Check for working CXX compiler: /usr/bin/c++
+[1.311s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[1.315s] -- Detecting CXX compiler ABI info
+[1.502s] -- Detecting CXX compiler ABI info - done
+[1.520s] -- Detecting CXX compile features
+[2.271s] -- Detecting CXX compile features - done
+[2.281s] -- Found ament_cmake: 0.8.2 (/opt/workspace/install/ament_cmake/share/ament_cmake/cmake)
+[2.336s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[2.339s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[2.772s] -- Found ament_lint_auto: 0.8.1 (/opt/workspace/install/ament_lint_auto/share/ament_lint_auto/cmake)
+[2.939s] -- Added test 'copyright' to check for copyright in CMake / C / C++ / Python code
+[2.942s] -- Added test 'lint_cmake' to check CMake code style
+[2.945s] -- Added test 'xmllint' to check XML markup files
+[2.950s] -- Configuring done
+[2.954s] -- Generating done
+[2.957s] -- Build files have been written to: /opt/workspace/build/fastrtps_cmake_module
+[3.227s] [36mInstall the project...[0m
+[3.245s] -- Install configuration: ""
+[3.246s] -- Installing: /opt/workspace/install/fastrtps_cmake_module/share/ament_index/resource_index/package_run_dependencies/fastrtps_cmake_module
+[3.246s] -- Installing: /opt/workspace/install/fastrtps_cmake_module/share/ament_index/resource_index/parent_prefix_path/fastrtps_cmake_module
+[3.247s] -- Installing: /opt/workspace/install/fastrtps_cmake_module/share/fastrtps_cmake_module/environment/ament_prefix_path.sh
+[3.248s] -- Installing: /opt/workspace/install/fastrtps_cmake_module/share/fastrtps_cmake_module/environment/ament_prefix_path.dsv
+[3.248s] -- Installing: /opt/workspace/install/fastrtps_cmake_module/share/fastrtps_cmake_module/environment/path.sh
+[3.249s] -- Installing: /opt/workspace/install/fastrtps_cmake_module/share/fastrtps_cmake_module/environment/path.dsv
+[3.249s] -- Installing: /opt/workspace/install/fastrtps_cmake_module/share/fastrtps_cmake_module/local_setup.bash
+[3.250s] -- Installing: /opt/workspace/install/fastrtps_cmake_module/share/fastrtps_cmake_module/local_setup.sh
+[3.250s] -- Installing: /opt/workspace/install/fastrtps_cmake_module/share/fastrtps_cmake_module/local_setup.zsh
+[3.250s] -- Installing: /opt/workspace/install/fastrtps_cmake_module/share/fastrtps_cmake_module/local_setup.dsv
+[3.251s] -- Installing: /opt/workspace/install/fastrtps_cmake_module/share/fastrtps_cmake_module/package.dsv
+[3.251s] -- Installing: /opt/workspace/install/fastrtps_cmake_module/share/ament_index/resource_index/packages/fastrtps_cmake_module
+[3.251s] -- Installing: /opt/workspace/install/fastrtps_cmake_module/share/fastrtps_cmake_module/cmake/fastrtps_cmake_module-extras.cmake
+[3.252s] -- Installing: /opt/workspace/install/fastrtps_cmake_module/share/fastrtps_cmake_module/cmake/fastrtps_cmake_moduleConfig.cmake
+[3.252s] -- Installing: /opt/workspace/install/fastrtps_cmake_module/share/fastrtps_cmake_module/cmake/fastrtps_cmake_moduleConfig-version.cmake
+[3.253s] -- Installing: /opt/workspace/install/fastrtps_cmake_module/share/fastrtps_cmake_module/package.xml
+[3.253s] -- Up-to-date: /opt/workspace/install/fastrtps_cmake_module/share/fastrtps_cmake_module/cmake
+[3.253s] -- Installing: /opt/workspace/install/fastrtps_cmake_module/share/fastrtps_cmake_module/cmake/Modules
+[3.254s] -- Installing: /opt/workspace/install/fastrtps_cmake_module/share/fastrtps_cmake_module/cmake/Modules/FindFastRTPS.cmake

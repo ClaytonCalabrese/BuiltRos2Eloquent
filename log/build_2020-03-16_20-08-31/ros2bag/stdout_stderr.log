@@ -1,0 +1,58 @@
+[2.669s] running egg_info
+[2.670s] creating /opt/workspace/build/ros2bag/ros2bag.egg-info
+[2.671s] writing /opt/workspace/build/ros2bag/ros2bag.egg-info/PKG-INFO
+[2.672s] writing dependency_links to /opt/workspace/build/ros2bag/ros2bag.egg-info/dependency_links.txt
+[2.672s] writing entry points to /opt/workspace/build/ros2bag/ros2bag.egg-info/entry_points.txt
+[2.672s] writing requirements to /opt/workspace/build/ros2bag/ros2bag.egg-info/requires.txt
+[2.672s] writing top-level names to /opt/workspace/build/ros2bag/ros2bag.egg-info/top_level.txt
+[2.683s] writing manifest file '/opt/workspace/build/ros2bag/ros2bag.egg-info/SOURCES.txt'
+[2.775s] reading manifest file '/opt/workspace/build/ros2bag/ros2bag.egg-info/SOURCES.txt'
+[2.777s] writing manifest file '/opt/workspace/build/ros2bag/ros2bag.egg-info/SOURCES.txt'
+[2.778s] running build
+[2.778s] running build_py
+[2.778s] creating /opt/workspace/build/ros2bag/build
+[2.779s] creating /opt/workspace/build/ros2bag/build/lib
+[2.779s] creating /opt/workspace/build/ros2bag/build/lib/ros2bag
+[2.779s] copying ros2bag/__init__.py -> /opt/workspace/build/ros2bag/build/lib/ros2bag
+[2.779s] creating /opt/workspace/build/ros2bag/build/lib/ros2bag/api
+[2.780s] copying ros2bag/api/__init__.py -> /opt/workspace/build/ros2bag/build/lib/ros2bag/api
+[2.780s] creating /opt/workspace/build/ros2bag/build/lib/ros2bag/verb
+[2.782s] copying ros2bag/verb/play.py -> /opt/workspace/build/ros2bag/build/lib/ros2bag/verb
+[2.785s] copying ros2bag/verb/__init__.py -> /opt/workspace/build/ros2bag/build/lib/ros2bag/verb
+[2.785s] copying ros2bag/verb/record.py -> /opt/workspace/build/ros2bag/build/lib/ros2bag/verb
+[2.785s] copying ros2bag/verb/info.py -> /opt/workspace/build/ros2bag/build/lib/ros2bag/verb
+[2.785s] creating /opt/workspace/build/ros2bag/build/lib/ros2bag/command
+[2.785s] copying ros2bag/command/bag.py -> /opt/workspace/build/ros2bag/build/lib/ros2bag/command
+[2.786s] copying ros2bag/command/__init__.py -> /opt/workspace/build/ros2bag/build/lib/ros2bag/command
+[2.786s] running install
+[2.786s] running install_lib
+[2.786s] creating /opt/workspace/install/ros2bag/lib/python3.6/site-packages/ros2bag
+[2.787s] copying /opt/workspace/build/ros2bag/build/lib/ros2bag/__init__.py -> /opt/workspace/install/ros2bag/lib/python3.6/site-packages/ros2bag
+[2.787s] creating /opt/workspace/install/ros2bag/lib/python3.6/site-packages/ros2bag/api
+[2.787s] copying /opt/workspace/build/ros2bag/build/lib/ros2bag/api/__init__.py -> /opt/workspace/install/ros2bag/lib/python3.6/site-packages/ros2bag/api
+[2.788s] creating /opt/workspace/install/ros2bag/lib/python3.6/site-packages/ros2bag/verb
+[2.788s] copying /opt/workspace/build/ros2bag/build/lib/ros2bag/verb/play.py -> /opt/workspace/install/ros2bag/lib/python3.6/site-packages/ros2bag/verb
+[2.788s] copying /opt/workspace/build/ros2bag/build/lib/ros2bag/verb/__init__.py -> /opt/workspace/install/ros2bag/lib/python3.6/site-packages/ros2bag/verb
+[2.788s] copying /opt/workspace/build/ros2bag/build/lib/ros2bag/verb/record.py -> /opt/workspace/install/ros2bag/lib/python3.6/site-packages/ros2bag/verb
+[2.789s] copying /opt/workspace/build/ros2bag/build/lib/ros2bag/verb/info.py -> /opt/workspace/install/ros2bag/lib/python3.6/site-packages/ros2bag/verb
+[2.789s] creating /opt/workspace/install/ros2bag/lib/python3.6/site-packages/ros2bag/command
+[2.789s] copying /opt/workspace/build/ros2bag/build/lib/ros2bag/command/bag.py -> /opt/workspace/install/ros2bag/lib/python3.6/site-packages/ros2bag/command
+[2.789s] copying /opt/workspace/build/ros2bag/build/lib/ros2bag/command/__init__.py -> /opt/workspace/install/ros2bag/lib/python3.6/site-packages/ros2bag/command
+[2.790s] byte-compiling /opt/workspace/install/ros2bag/lib/python3.6/site-packages/ros2bag/__init__.py to __init__.cpython-36.pyc
+[2.790s] byte-compiling /opt/workspace/install/ros2bag/lib/python3.6/site-packages/ros2bag/api/__init__.py to __init__.cpython-36.pyc
+[2.790s] byte-compiling /opt/workspace/install/ros2bag/lib/python3.6/site-packages/ros2bag/verb/play.py to play.cpython-36.pyc
+[2.790s] byte-compiling /opt/workspace/install/ros2bag/lib/python3.6/site-packages/ros2bag/verb/__init__.py to __init__.cpython-36.pyc
+[2.791s] byte-compiling /opt/workspace/install/ros2bag/lib/python3.6/site-packages/ros2bag/verb/record.py to record.cpython-36.pyc
+[2.792s] byte-compiling /opt/workspace/install/ros2bag/lib/python3.6/site-packages/ros2bag/verb/info.py to info.cpython-36.pyc
+[2.793s] byte-compiling /opt/workspace/install/ros2bag/lib/python3.6/site-packages/ros2bag/command/bag.py to bag.cpython-36.pyc
+[2.793s] byte-compiling /opt/workspace/install/ros2bag/lib/python3.6/site-packages/ros2bag/command/__init__.py to __init__.cpython-36.pyc
+[2.794s] running install_data
+[2.795s] copying package.xml -> /opt/workspace/install/ros2bag/share/ros2bag
+[2.796s] creating /opt/workspace/install/ros2bag/share/ament_index
+[2.796s] creating /opt/workspace/install/ros2bag/share/ament_index/resource_index
+[2.796s] creating /opt/workspace/install/ros2bag/share/ament_index/resource_index/packages
+[2.797s] copying resource/ros2bag -> /opt/workspace/install/ros2bag/share/ament_index/resource_index/packages
+[2.797s] running install_egg_info
+[2.801s] Copying /opt/workspace/build/ros2bag/ros2bag.egg-info to /opt/workspace/install/ros2bag/lib/python3.6/site-packages/ros2bag-0.2.2-py3.6.egg-info
+[2.803s] running install_scripts
+[2.846s] writing list of installed files to '/opt/workspace/build/ros2bag/install.log'

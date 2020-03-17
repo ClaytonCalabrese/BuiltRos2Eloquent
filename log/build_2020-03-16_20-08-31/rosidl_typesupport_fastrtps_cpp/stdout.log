@@ -1,0 +1,89 @@
+[0.385s] -- The C compiler identification is GNU 7.4.0
+[0.560s] -- The CXX compiler identification is GNU 7.4.0
+[0.572s] -- Check for working C compiler: /usr/bin/cc
+[0.726s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.729s] -- Detecting C compiler ABI info
+[0.882s] -- Detecting C compiler ABI info - done
+[0.894s] -- Detecting C compile features
+[1.586s] -- Detecting C compile features - done
+[1.593s] -- Check for working CXX compiler: /usr/bin/c++
+[1.775s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[1.777s] -- Detecting CXX compiler ABI info
+[2.055s] -- Detecting CXX compiler ABI info - done
+[2.069s] -- Detecting CXX compile features
+[2.937s] -- Detecting CXX compile features - done
+[2.947s] -- Found ament_cmake: 0.8.2 (/opt/workspace/install/ament_cmake/share/ament_cmake/cmake)
+[3.052s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[3.052s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[3.843s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "1.1.1") 
+[3.908s] -- Found FastRTPS: /opt/workspace/install/fastrtps/include  
+[4.024s] -- Found ament_lint_auto: 0.8.1 (/opt/workspace/install/ament_lint_auto/share/ament_lint_auto/cmake)
+[4.272s] -- Added test 'copyright' to check for copyright in CMake / C / C++ / Python code
+[4.280s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[4.280s] -- Configured cppcheck include dirs: /opt/workspace/src/ros2/rosidl_typesupport_fastrtps/rosidl_typesupport_fastrtps_cpp/include
+[4.283s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[4.286s] -- Added test 'flake8' to check Python code syntax and style conventions
+[4.290s] -- Added test 'lint_cmake' to check CMake code style
+[4.293s] -- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+[4.298s] -- Added test 'uncrustify' to check C / C++ code style
+[4.301s] -- Added test 'xmllint' to check XML markup files
+[4.313s] -- Configuring done
+[4.323s] -- Generating done
+[4.327s] -- Build files have been written to: /opt/workspace/build/rosidl_typesupport_fastrtps_cpp
+[4.431s] [35m[1mScanning dependencies of target rosidl_typesupport_fastrtps_cpp[0m
+[4.455s] [ 33%] [32mBuilding CXX object CMakeFiles/rosidl_typesupport_fastrtps_cpp.dir/src/identifier.cpp.o[0m
+[4.499s] [ 66%] [32mBuilding CXX object CMakeFiles/rosidl_typesupport_fastrtps_cpp.dir/src/wstring_conversion.cpp.o[0m
+[4.878s] [100%] [32m[1mLinking CXX shared library librosidl_typesupport_fastrtps_cpp.so[0m
+[5.020s] [100%] Built target rosidl_typesupport_fastrtps_cpp
+[5.258s] [100%] Built target rosidl_typesupport_fastrtps_cpp
+[5.315s] [36mInstall the project...[0m
+[5.334s] -- Install configuration: ""
+[5.335s] -- Installing: /opt/workspace/install/rosidl_typesupport_fastrtps_cpp/share/rosidl_typesupport_fastrtps_cpp/environment/pythonpath.sh
+[5.335s] -- Installing: /opt/workspace/install/rosidl_typesupport_fastrtps_cpp/share/rosidl_typesupport_fastrtps_cpp/environment/pythonpath.dsv
+[5.335s] -- Installing: /opt/workspace/install/rosidl_typesupport_fastrtps_cpp/lib/python3.6/site-packages/rosidl_typesupport_fastrtps_cpp
+[5.336s] -- Installing: /opt/workspace/install/rosidl_typesupport_fastrtps_cpp/lib/python3.6/site-packages/rosidl_typesupport_fastrtps_cpp/__init__.py
+[5.452s] Listing '/opt/workspace/install/rosidl_typesupport_fastrtps_cpp/lib/python3.6/site-packages/rosidl_typesupport_fastrtps_cpp'...
+[5.452s] Compiling '/opt/workspace/install/rosidl_typesupport_fastrtps_cpp/lib/python3.6/site-packages/rosidl_typesupport_fastrtps_cpp/__init__.py'...
+[5.465s] -- Installing: /opt/workspace/install/rosidl_typesupport_fastrtps_cpp/share/rosidl_typesupport_fastrtps_cpp/environment/library_path.sh
+[5.465s] -- Installing: /opt/workspace/install/rosidl_typesupport_fastrtps_cpp/share/rosidl_typesupport_fastrtps_cpp/environment/library_path.dsv
+[5.465s] -- Installing: /opt/workspace/install/rosidl_typesupport_fastrtps_cpp/share/ament_index/resource_index/rosidl_typesupport_cpp/rosidl_typesupport_fastrtps_cpp
+[5.466s] -- Installing: /opt/workspace/install/rosidl_typesupport_fastrtps_cpp/share/ament_index/resource_index/package_run_dependencies/rosidl_typesupport_fastrtps_cpp
+[5.466s] -- Installing: /opt/workspace/install/rosidl_typesupport_fastrtps_cpp/share/ament_index/resource_index/parent_prefix_path/rosidl_typesupport_fastrtps_cpp
+[5.466s] -- Installing: /opt/workspace/install/rosidl_typesupport_fastrtps_cpp/share/rosidl_typesupport_fastrtps_cpp/environment/ament_prefix_path.sh
+[5.466s] -- Installing: /opt/workspace/install/rosidl_typesupport_fastrtps_cpp/share/rosidl_typesupport_fastrtps_cpp/environment/ament_prefix_path.dsv
+[5.466s] -- Installing: /opt/workspace/install/rosidl_typesupport_fastrtps_cpp/share/rosidl_typesupport_fastrtps_cpp/environment/path.sh
+[5.467s] -- Installing: /opt/workspace/install/rosidl_typesupport_fastrtps_cpp/share/rosidl_typesupport_fastrtps_cpp/environment/path.dsv
+[5.467s] -- Installing: /opt/workspace/install/rosidl_typesupport_fastrtps_cpp/share/rosidl_typesupport_fastrtps_cpp/local_setup.bash
+[5.467s] -- Installing: /opt/workspace/install/rosidl_typesupport_fastrtps_cpp/share/rosidl_typesupport_fastrtps_cpp/local_setup.sh
+[5.467s] -- Installing: /opt/workspace/install/rosidl_typesupport_fastrtps_cpp/share/rosidl_typesupport_fastrtps_cpp/local_setup.zsh
+[5.467s] -- Installing: /opt/workspace/install/rosidl_typesupport_fastrtps_cpp/share/rosidl_typesupport_fastrtps_cpp/local_setup.dsv
+[5.468s] -- Installing: /opt/workspace/install/rosidl_typesupport_fastrtps_cpp/share/rosidl_typesupport_fastrtps_cpp/package.dsv
+[5.468s] -- Installing: /opt/workspace/install/rosidl_typesupport_fastrtps_cpp/share/ament_index/resource_index/packages/rosidl_typesupport_fastrtps_cpp
+[5.468s] -- Installing: /opt/workspace/install/rosidl_typesupport_fastrtps_cpp/share/rosidl_typesupport_fastrtps_cpp/cmake/rosidl_typesupport_fastrtps_cpp-extras.cmake
+[5.469s] -- Installing: /opt/workspace/install/rosidl_typesupport_fastrtps_cpp/share/rosidl_typesupport_fastrtps_cpp/cmake/ament_cmake_export_dependencies-extras.cmake
+[5.469s] -- Installing: /opt/workspace/install/rosidl_typesupport_fastrtps_cpp/share/rosidl_typesupport_fastrtps_cpp/cmake/ament_cmake_export_include_directories-extras.cmake
+[5.470s] -- Installing: /opt/workspace/install/rosidl_typesupport_fastrtps_cpp/share/rosidl_typesupport_fastrtps_cpp/cmake/ament_cmake_export_libraries-extras.cmake
+[5.472s] -- Installing: /opt/workspace/install/rosidl_typesupport_fastrtps_cpp/share/rosidl_typesupport_fastrtps_cpp/cmake/rosidl_typesupport_fastrtps_cppConfig.cmake
+[5.472s] -- Installing: /opt/workspace/install/rosidl_typesupport_fastrtps_cpp/share/rosidl_typesupport_fastrtps_cpp/cmake/rosidl_typesupport_fastrtps_cppConfig-version.cmake
+[5.473s] -- Installing: /opt/workspace/install/rosidl_typesupport_fastrtps_cpp/share/rosidl_typesupport_fastrtps_cpp/package.xml
+[5.473s] -- Installing: /opt/workspace/install/rosidl_typesupport_fastrtps_cpp/lib/rosidl_typesupport_fastrtps_cpp/rosidl_typesupport_fastrtps_cpp
+[5.473s] -- Up-to-date: /opt/workspace/install/rosidl_typesupport_fastrtps_cpp/share/rosidl_typesupport_fastrtps_cpp/cmake
+[5.473s] -- Installing: /opt/workspace/install/rosidl_typesupport_fastrtps_cpp/share/rosidl_typesupport_fastrtps_cpp/cmake/rosidl_typesupport_fastrtps_cpp_generate_interfaces.cmake
+[5.474s] -- Installing: /opt/workspace/install/rosidl_typesupport_fastrtps_cpp/share/rosidl_typesupport_fastrtps_cpp/resource
+[5.474s] -- Installing: /opt/workspace/install/rosidl_typesupport_fastrtps_cpp/share/rosidl_typesupport_fastrtps_cpp/resource/srv__rosidl_typesupport_fastrtps_cpp.hpp.em
+[5.474s] -- Installing: /opt/workspace/install/rosidl_typesupport_fastrtps_cpp/share/rosidl_typesupport_fastrtps_cpp/resource/idl__type_support.cpp.em
+[5.474s] -- Installing: /opt/workspace/install/rosidl_typesupport_fastrtps_cpp/share/rosidl_typesupport_fastrtps_cpp/resource/rosidl_typesupport_fastrtps_cpp__visibility_control.h.in
+[5.475s] -- Installing: /opt/workspace/install/rosidl_typesupport_fastrtps_cpp/share/rosidl_typesupport_fastrtps_cpp/resource/idl__rosidl_typesupport_fastrtps_cpp.hpp.em
+[5.475s] -- Installing: /opt/workspace/install/rosidl_typesupport_fastrtps_cpp/share/rosidl_typesupport_fastrtps_cpp/resource/msg__rosidl_typesupport_fastrtps_cpp.hpp.em
+[5.475s] -- Installing: /opt/workspace/install/rosidl_typesupport_fastrtps_cpp/share/rosidl_typesupport_fastrtps_cpp/resource/msg__type_support.cpp.em
+[5.475s] -- Installing: /opt/workspace/install/rosidl_typesupport_fastrtps_cpp/share/rosidl_typesupport_fastrtps_cpp/resource/srv__type_support.cpp.em
+[5.476s] -- Installing: /opt/workspace/install/rosidl_typesupport_fastrtps_cpp/include
+[5.476s] -- Installing: /opt/workspace/install/rosidl_typesupport_fastrtps_cpp/include/rosidl_typesupport_fastrtps_cpp
+[5.476s] -- Installing: /opt/workspace/install/rosidl_typesupport_fastrtps_cpp/include/rosidl_typesupport_fastrtps_cpp/wstring_conversion.hpp
+[5.477s] -- Installing: /opt/workspace/install/rosidl_typesupport_fastrtps_cpp/include/rosidl_typesupport_fastrtps_cpp/identifier.hpp
+[5.477s] -- Installing: /opt/workspace/install/rosidl_typesupport_fastrtps_cpp/include/rosidl_typesupport_fastrtps_cpp/service_type_support_decl.hpp
+[5.477s] -- Installing: /opt/workspace/install/rosidl_typesupport_fastrtps_cpp/include/rosidl_typesupport_fastrtps_cpp/message_type_support_decl.hpp
+[5.503s] -- Installing: /opt/workspace/install/rosidl_typesupport_fastrtps_cpp/include/rosidl_typesupport_fastrtps_cpp/visibility_control.h
+[5.503s] -- Installing: /opt/workspace/install/rosidl_typesupport_fastrtps_cpp/include/rosidl_typesupport_fastrtps_cpp/message_type_support.h
+[5.503s] -- Installing: /opt/workspace/install/rosidl_typesupport_fastrtps_cpp/include/rosidl_typesupport_fastrtps_cpp/service_type_support.h
+[5.504s] -- Installing: /opt/workspace/install/rosidl_typesupport_fastrtps_cpp/lib/librosidl_typesupport_fastrtps_cpp.so

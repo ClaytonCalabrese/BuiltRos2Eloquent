@@ -1,0 +1,40 @@
+[1.889s] Invoking command in '/opt/workspace/src/ament/ament_lint/ament_pep257': AMENT_PREFIX_PATH=/opt/workspace/install/ament_flake8:/opt/workspace/install/ament_lint:${AMENT_PREFIX_PATH} PATH=/opt/workspace/install/ament_flake8/bin:${PATH} PYTHONPATH=/opt/workspace/install/ament_pep257/lib/python3.6/site-packages:/opt/workspace/install/ament_flake8/lib/python3.6/site-packages:/opt/workspace/install/ament_lint/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base /opt/workspace/build/ament_pep257 build --build-base /opt/workspace/build/ament_pep257/build install --prefix /opt/workspace/install/ament_pep257 --record /opt/workspace/build/ament_pep257/install.log --single-version-externally-managed
+[2.660s] running egg_info
+[2.667s] creating /opt/workspace/build/ament_pep257/ament_pep257.egg-info
+[2.669s] writing /opt/workspace/build/ament_pep257/ament_pep257.egg-info/PKG-INFO
+[2.670s] writing dependency_links to /opt/workspace/build/ament_pep257/ament_pep257.egg-info/dependency_links.txt
+[2.671s] writing entry points to /opt/workspace/build/ament_pep257/ament_pep257.egg-info/entry_points.txt
+[2.672s] writing requirements to /opt/workspace/build/ament_pep257/ament_pep257.egg-info/requires.txt
+[2.674s] writing top-level names to /opt/workspace/build/ament_pep257/ament_pep257.egg-info/top_level.txt
+[2.677s] writing manifest file '/opt/workspace/build/ament_pep257/ament_pep257.egg-info/SOURCES.txt'
+[2.884s] reading manifest file '/opt/workspace/build/ament_pep257/ament_pep257.egg-info/SOURCES.txt'
+[2.886s] writing manifest file '/opt/workspace/build/ament_pep257/ament_pep257.egg-info/SOURCES.txt'
+[2.886s] running build
+[2.887s] running build_py
+[2.887s] creating /opt/workspace/build/ament_pep257/build
+[2.888s] creating /opt/workspace/build/ament_pep257/build/lib
+[2.888s] creating /opt/workspace/build/ament_pep257/build/lib/ament_pep257
+[2.888s] copying ament_pep257/__init__.py -> /opt/workspace/build/ament_pep257/build/lib/ament_pep257
+[2.889s] copying ament_pep257/pytest_marker.py -> /opt/workspace/build/ament_pep257/build/lib/ament_pep257
+[2.889s] copying ament_pep257/main.py -> /opt/workspace/build/ament_pep257/build/lib/ament_pep257
+[2.890s] running install
+[2.891s] running install_lib
+[2.893s] creating /opt/workspace/install/ament_pep257/lib/python3.6/site-packages/ament_pep257
+[2.894s] copying /opt/workspace/build/ament_pep257/build/lib/ament_pep257/__init__.py -> /opt/workspace/install/ament_pep257/lib/python3.6/site-packages/ament_pep257
+[2.899s] copying /opt/workspace/build/ament_pep257/build/lib/ament_pep257/pytest_marker.py -> /opt/workspace/install/ament_pep257/lib/python3.6/site-packages/ament_pep257
+[2.899s] copying /opt/workspace/build/ament_pep257/build/lib/ament_pep257/main.py -> /opt/workspace/install/ament_pep257/lib/python3.6/site-packages/ament_pep257
+[2.901s] byte-compiling /opt/workspace/install/ament_pep257/lib/python3.6/site-packages/ament_pep257/__init__.py to __init__.cpython-36.pyc
+[2.902s] byte-compiling /opt/workspace/install/ament_pep257/lib/python3.6/site-packages/ament_pep257/pytest_marker.py to pytest_marker.cpython-36.pyc
+[2.902s] byte-compiling /opt/workspace/install/ament_pep257/lib/python3.6/site-packages/ament_pep257/main.py to main.cpython-36.pyc
+[2.902s] running install_data
+[2.902s] copying package.xml -> /opt/workspace/install/ament_pep257/share/ament_pep257
+[2.902s] creating /opt/workspace/install/ament_pep257/share/ament_index
+[2.903s] creating /opt/workspace/install/ament_pep257/share/ament_index/resource_index
+[2.903s] creating /opt/workspace/install/ament_pep257/share/ament_index/resource_index/packages
+[2.903s] copying resource/ament_pep257 -> /opt/workspace/install/ament_pep257/share/ament_index/resource_index/packages
+[2.903s] running install_egg_info
+[2.904s] Copying /opt/workspace/build/ament_pep257/ament_pep257.egg-info to /opt/workspace/install/ament_pep257/lib/python3.6/site-packages/ament_pep257-0.8.1-py3.6.egg-info
+[2.905s] running install_scripts
+[2.951s] Installing ament_pep257 script to /opt/workspace/install/ament_pep257/bin
+[2.952s] writing list of installed files to '/opt/workspace/build/ament_pep257/install.log'
+[2.994s] Invoked command in '/opt/workspace/src/ament/ament_lint/ament_pep257' returned '0': AMENT_PREFIX_PATH=/opt/workspace/install/ament_flake8:/opt/workspace/install/ament_lint:${AMENT_PREFIX_PATH} PATH=/opt/workspace/install/ament_flake8/bin:${PATH} PYTHONPATH=/opt/workspace/install/ament_pep257/lib/python3.6/site-packages:/opt/workspace/install/ament_flake8/lib/python3.6/site-packages:/opt/workspace/install/ament_lint/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base /opt/workspace/build/ament_pep257 build --build-base /opt/workspace/build/ament_pep257/build install --prefix /opt/workspace/install/ament_pep257 --record /opt/workspace/build/ament_pep257/install.log --single-version-externally-managed

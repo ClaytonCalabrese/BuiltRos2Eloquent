@@ -1,0 +1,48 @@
+[3.187s] running egg_info
+[3.188s] creating /opt/workspace/build/topic_monitor/topic_monitor.egg-info
+[3.189s] writing /opt/workspace/build/topic_monitor/topic_monitor.egg-info/PKG-INFO
+[3.189s] writing dependency_links to /opt/workspace/build/topic_monitor/topic_monitor.egg-info/dependency_links.txt
+[3.189s] writing entry points to /opt/workspace/build/topic_monitor/topic_monitor.egg-info/entry_points.txt
+[3.190s] writing requirements to /opt/workspace/build/topic_monitor/topic_monitor.egg-info/requires.txt
+[3.190s] writing top-level names to /opt/workspace/build/topic_monitor/topic_monitor.egg-info/top_level.txt
+[3.198s] writing manifest file '/opt/workspace/build/topic_monitor/topic_monitor.egg-info/SOURCES.txt'
+[3.283s] reading manifest file '/opt/workspace/build/topic_monitor/topic_monitor.egg-info/SOURCES.txt'
+[3.284s] writing manifest file '/opt/workspace/build/topic_monitor/topic_monitor.egg-info/SOURCES.txt'
+[3.285s] running build
+[3.285s] running build_py
+[3.285s] creating /opt/workspace/build/topic_monitor/build
+[3.285s] creating /opt/workspace/build/topic_monitor/build/lib
+[3.286s] creating /opt/workspace/build/topic_monitor/build/lib/topic_monitor
+[3.286s] copying topic_monitor/__init__.py -> /opt/workspace/build/topic_monitor/build/lib/topic_monitor
+[3.286s] creating /opt/workspace/build/topic_monitor/build/lib/topic_monitor/scripts
+[3.287s] copying topic_monitor/scripts/__init__.py -> /opt/workspace/build/topic_monitor/build/lib/topic_monitor/scripts
+[3.287s] copying topic_monitor/scripts/topic_monitor.py -> /opt/workspace/build/topic_monitor/build/lib/topic_monitor/scripts
+[3.287s] copying topic_monitor/scripts/data_publisher.py -> /opt/workspace/build/topic_monitor/build/lib/topic_monitor/scripts
+[3.288s] running install
+[3.290s] running install_lib
+[3.291s] creating /opt/workspace/install/topic_monitor/lib/python3.6/site-packages/topic_monitor
+[3.291s] copying /opt/workspace/build/topic_monitor/build/lib/topic_monitor/__init__.py -> /opt/workspace/install/topic_monitor/lib/python3.6/site-packages/topic_monitor
+[3.291s] creating /opt/workspace/install/topic_monitor/lib/python3.6/site-packages/topic_monitor/scripts
+[3.292s] copying /opt/workspace/build/topic_monitor/build/lib/topic_monitor/scripts/__init__.py -> /opt/workspace/install/topic_monitor/lib/python3.6/site-packages/topic_monitor/scripts
+[3.292s] copying /opt/workspace/build/topic_monitor/build/lib/topic_monitor/scripts/topic_monitor.py -> /opt/workspace/install/topic_monitor/lib/python3.6/site-packages/topic_monitor/scripts
+[3.292s] copying /opt/workspace/build/topic_monitor/build/lib/topic_monitor/scripts/data_publisher.py -> /opt/workspace/install/topic_monitor/lib/python3.6/site-packages/topic_monitor/scripts
+[3.293s] byte-compiling /opt/workspace/install/topic_monitor/lib/python3.6/site-packages/topic_monitor/__init__.py to __init__.cpython-36.pyc
+[3.294s] byte-compiling /opt/workspace/install/topic_monitor/lib/python3.6/site-packages/topic_monitor/scripts/__init__.py to __init__.cpython-36.pyc
+[3.294s] byte-compiling /opt/workspace/install/topic_monitor/lib/python3.6/site-packages/topic_monitor/scripts/topic_monitor.py to topic_monitor.cpython-36.pyc
+[3.299s] byte-compiling /opt/workspace/install/topic_monitor/lib/python3.6/site-packages/topic_monitor/scripts/data_publisher.py to data_publisher.cpython-36.pyc
+[3.301s] running install_data
+[3.302s] creating /opt/workspace/install/topic_monitor/share/ament_index
+[3.302s] creating /opt/workspace/install/topic_monitor/share/ament_index/resource_index
+[3.302s] creating /opt/workspace/install/topic_monitor/share/ament_index/resource_index/packages
+[3.302s] copying resource/topic_monitor -> /opt/workspace/install/topic_monitor/share/ament_index/resource_index/packages
+[3.303s] copying package.xml -> /opt/workspace/install/topic_monitor/share/topic_monitor
+[3.303s] creating /opt/workspace/install/topic_monitor/share/topic_monitor/launch
+[3.303s] copying launch/reliability_demo.launch.py -> /opt/workspace/install/topic_monitor/share/topic_monitor/launch
+[3.304s] copying launch/fragmentation_demo.launch.py -> /opt/workspace/install/topic_monitor/share/topic_monitor/launch
+[3.304s] copying launch/depth_demo.launch.py -> /opt/workspace/install/topic_monitor/share/topic_monitor/launch
+[3.304s] running install_egg_info
+[3.308s] Copying /opt/workspace/build/topic_monitor/topic_monitor.egg-info to /opt/workspace/install/topic_monitor/lib/python3.6/site-packages/topic_monitor-0.8.4-py3.6.egg-info
+[3.310s] running install_scripts
+[3.351s] Installing data_publisher script to /opt/workspace/install/topic_monitor/lib/topic_monitor
+[3.351s] Installing topic_monitor script to /opt/workspace/install/topic_monitor/lib/topic_monitor
+[3.352s] writing list of installed files to '/opt/workspace/build/topic_monitor/install.log'

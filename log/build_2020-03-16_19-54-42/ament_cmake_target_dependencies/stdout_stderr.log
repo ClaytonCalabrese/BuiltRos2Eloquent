@@ -1,0 +1,26 @@
+[0.359s] -- Found ament_cmake_core: 0.8.2 (/opt/workspace/install/ament_cmake_core/share/ament_cmake_core/cmake)
+[0.420s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[0.420s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.811s] -- Configuring done
+[0.813s] -- Generating done
+[0.814s] -- Build files have been written to: /opt/workspace/build/ament_cmake_target_dependencies
+[2.219s] [36mInstall the project...[0m
+[2.243s] -- Install configuration: ""
+[2.245s] -- Installing: /opt/workspace/install/ament_cmake_target_dependencies/share/ament_index/resource_index/package_run_dependencies/ament_cmake_target_dependencies
+[2.245s] -- Installing: /opt/workspace/install/ament_cmake_target_dependencies/share/ament_index/resource_index/parent_prefix_path/ament_cmake_target_dependencies
+[2.245s] -- Installing: /opt/workspace/install/ament_cmake_target_dependencies/share/ament_cmake_target_dependencies/environment/ament_prefix_path.sh
+[2.245s] -- Installing: /opt/workspace/install/ament_cmake_target_dependencies/share/ament_cmake_target_dependencies/environment/ament_prefix_path.dsv
+[2.247s] -- Installing: /opt/workspace/install/ament_cmake_target_dependencies/share/ament_cmake_target_dependencies/environment/path.sh
+[2.248s] -- Installing: /opt/workspace/install/ament_cmake_target_dependencies/share/ament_cmake_target_dependencies/environment/path.dsv
+[2.248s] -- Installing: /opt/workspace/install/ament_cmake_target_dependencies/share/ament_cmake_target_dependencies/local_setup.bash
+[2.248s] -- Installing: /opt/workspace/install/ament_cmake_target_dependencies/share/ament_cmake_target_dependencies/local_setup.sh
+[2.249s] -- Installing: /opt/workspace/install/ament_cmake_target_dependencies/share/ament_cmake_target_dependencies/local_setup.zsh
+[2.250s] -- Installing: /opt/workspace/install/ament_cmake_target_dependencies/share/ament_cmake_target_dependencies/local_setup.dsv
+[2.250s] -- Installing: /opt/workspace/install/ament_cmake_target_dependencies/share/ament_cmake_target_dependencies/package.dsv
+[2.250s] -- Installing: /opt/workspace/install/ament_cmake_target_dependencies/share/ament_index/resource_index/packages/ament_cmake_target_dependencies
+[2.250s] -- Installing: /opt/workspace/install/ament_cmake_target_dependencies/share/ament_cmake_target_dependencies/cmake/ament_cmake_target_dependencies-extras.cmake
+[2.251s] -- Installing: /opt/workspace/install/ament_cmake_target_dependencies/share/ament_cmake_target_dependencies/cmake/ament_cmake_target_dependenciesConfig.cmake
+[2.252s] -- Installing: /opt/workspace/install/ament_cmake_target_dependencies/share/ament_cmake_target_dependencies/cmake/ament_cmake_target_dependenciesConfig-version.cmake
+[2.252s] -- Installing: /opt/workspace/install/ament_cmake_target_dependencies/share/ament_cmake_target_dependencies/package.xml
+[2.254s] -- Up-to-date: /opt/workspace/install/ament_cmake_target_dependencies/share/ament_cmake_target_dependencies/cmake
+[2.254s] -- Installing: /opt/workspace/install/ament_cmake_target_dependencies/share/ament_cmake_target_dependencies/cmake/ament_target_dependencies.cmake

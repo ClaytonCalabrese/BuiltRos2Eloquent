@@ -1,0 +1,27 @@
+[0.139s] -- Found ament_cmake: 0.8.2 (/opt/workspace/install/ament_cmake/share/ament_cmake/cmake)
+[0.192s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[0.195s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.752s] -- Found ament_cmake_copyright: 0.8.1 (/opt/workspace/install/ament_cmake_copyright/share/ament_cmake_copyright/cmake)
+[0.757s] -- Configuring done
+[0.761s] -- Generating done
+[0.763s] -- Build files have been written to: /opt/workspace/build/launch_testing_ament_cmake
+[1.025s] [36mInstall the project...[0m
+[1.043s] -- Install configuration: ""
+[1.043s] -- Installing: /opt/workspace/install/launch_testing_ament_cmake/share/ament_index/resource_index/package_run_dependencies/launch_testing_ament_cmake
+[1.044s] -- Installing: /opt/workspace/install/launch_testing_ament_cmake/share/ament_index/resource_index/parent_prefix_path/launch_testing_ament_cmake
+[1.044s] -- Installing: /opt/workspace/install/launch_testing_ament_cmake/share/launch_testing_ament_cmake/environment/ament_prefix_path.sh
+[1.044s] -- Installing: /opt/workspace/install/launch_testing_ament_cmake/share/launch_testing_ament_cmake/environment/ament_prefix_path.dsv
+[1.045s] -- Installing: /opt/workspace/install/launch_testing_ament_cmake/share/launch_testing_ament_cmake/environment/path.sh
+[1.045s] -- Installing: /opt/workspace/install/launch_testing_ament_cmake/share/launch_testing_ament_cmake/environment/path.dsv
+[1.045s] -- Installing: /opt/workspace/install/launch_testing_ament_cmake/share/launch_testing_ament_cmake/local_setup.bash
+[1.046s] -- Installing: /opt/workspace/install/launch_testing_ament_cmake/share/launch_testing_ament_cmake/local_setup.sh
+[1.047s] -- Installing: /opt/workspace/install/launch_testing_ament_cmake/share/launch_testing_ament_cmake/local_setup.zsh
+[1.048s] -- Installing: /opt/workspace/install/launch_testing_ament_cmake/share/launch_testing_ament_cmake/local_setup.dsv
+[1.048s] -- Installing: /opt/workspace/install/launch_testing_ament_cmake/share/launch_testing_ament_cmake/package.dsv
+[1.048s] -- Installing: /opt/workspace/install/launch_testing_ament_cmake/share/ament_index/resource_index/packages/launch_testing_ament_cmake
+[1.049s] -- Installing: /opt/workspace/install/launch_testing_ament_cmake/share/launch_testing_ament_cmake/cmake/launch_testing_ament_cmake-extras.cmake
+[1.049s] -- Installing: /opt/workspace/install/launch_testing_ament_cmake/share/launch_testing_ament_cmake/cmake/launch_testing_ament_cmakeConfig.cmake
+[1.049s] -- Installing: /opt/workspace/install/launch_testing_ament_cmake/share/launch_testing_ament_cmake/cmake/launch_testing_ament_cmakeConfig-version.cmake
+[1.049s] -- Installing: /opt/workspace/install/launch_testing_ament_cmake/share/launch_testing_ament_cmake/package.xml
+[1.050s] -- Up-to-date: /opt/workspace/install/launch_testing_ament_cmake/share/launch_testing_ament_cmake/cmake
+[1.050s] -- Installing: /opt/workspace/install/launch_testing_ament_cmake/share/launch_testing_ament_cmake/cmake/add_launch_test.cmake

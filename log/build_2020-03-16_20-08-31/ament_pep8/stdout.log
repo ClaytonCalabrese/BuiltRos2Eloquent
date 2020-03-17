@@ -1,0 +1,19 @@
+[1.987s] running egg_info
+[1.988s] writing /opt/workspace/build/ament_pep8/ament_pep8.egg-info/PKG-INFO
+[1.990s] writing dependency_links to /opt/workspace/build/ament_pep8/ament_pep8.egg-info/dependency_links.txt
+[1.991s] writing entry points to /opt/workspace/build/ament_pep8/ament_pep8.egg-info/entry_points.txt
+[1.994s] writing requirements to /opt/workspace/build/ament_pep8/ament_pep8.egg-info/requires.txt
+[1.995s] writing top-level names to /opt/workspace/build/ament_pep8/ament_pep8.egg-info/top_level.txt
+[1.995s] reading manifest file '/opt/workspace/build/ament_pep8/ament_pep8.egg-info/SOURCES.txt'
+[1.995s] writing manifest file '/opt/workspace/build/ament_pep8/ament_pep8.egg-info/SOURCES.txt'
+[1.996s] running build
+[1.996s] running build_py
+[1.996s] running install
+[1.997s] running install_lib
+[1.997s] running install_data
+[1.997s] running install_egg_info
+[1.997s] removing '/opt/workspace/install/ament_pep8/lib/python3.6/site-packages/ament_pep8-0.8.1-py3.6.egg-info' (and everything under it)
+[1.998s] Copying /opt/workspace/build/ament_pep8/ament_pep8.egg-info to /opt/workspace/install/ament_pep8/lib/python3.6/site-packages/ament_pep8-0.8.1-py3.6.egg-info
+[1.998s] running install_scripts
+[1.999s] Installing ament_pep8 script to /opt/workspace/install/ament_pep8/bin
+[1.999s] writing list of installed files to '/opt/workspace/build/ament_pep8/install.log'

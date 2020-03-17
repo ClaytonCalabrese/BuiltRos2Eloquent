@@ -1,0 +1,4 @@
+/opt/workspace/build/shape_msgs/rosidl_adapter/shape_msgs:msg/Mesh.idl
+/opt/workspace/build/shape_msgs/rosidl_adapter/shape_msgs:msg/MeshTriangle.idl
+/opt/workspace/build/shape_msgs/rosidl_adapter/shape_msgs:msg/Plane.idl
+/opt/workspace/build/shape_msgs/rosidl_adapter/shape_msgs:msg/SolidPrimitive.idl

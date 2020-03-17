@@ -1,0 +1,62 @@
+[0.560s] -- The C compiler identification is GNU 7.4.0
+[0.817s] -- The CXX compiler identification is GNU 7.4.0
+[0.827s] -- Check for working C compiler: /usr/bin/cc
+[1.183s] -- Check for working C compiler: /usr/bin/cc -- works
+[1.183s] -- Detecting C compiler ABI info
+[1.383s] -- Detecting C compiler ABI info - done
+[1.395s] -- Detecting C compile features
+[1.801s] -- Detecting C compile features - done
+[1.816s] -- Check for working CXX compiler: /usr/bin/c++
+[2.016s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[2.020s] -- Detecting CXX compiler ABI info
+[2.196s] -- Detecting CXX compiler ABI info - done
+[2.205s] -- Detecting CXX compile features
+[3.109s] -- Detecting CXX compile features - done
+[3.111s] -- Found ament_cmake_ros: 0.8.0 (/opt/workspace/install/ament_cmake_ros/share/ament_cmake_ros/cmake)
+[3.297s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[3.298s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[3.865s] -- Found tinyxml_vendor:  (/opt/workspace/install/tinyxml_vendor/share/tinyxml_vendor/cmake)
+[3.916s] -- Found TinyXML: /usr/lib/x86_64-linux-gnu/libtinyxml.so  
+[3.917s] -- Found urdf: 2.2.0 (/opt/workspace/install/urdf/share/urdf/cmake)
+[3.962s] -- Found ament_lint_auto: 0.8.1 (/opt/workspace/install/ament_lint_auto/share/ament_lint_auto/cmake)
+[4.230s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[4.230s] -- Configured cppcheck include dirs: /opt/workspace/src/ros2/kdl_parser/kdl_parser/include
+[4.233s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[4.236s] -- Added test 'lint_cmake' to check CMake code style
+[4.242s] -- Added test 'uncrustify' to check C / C++ code style
+[4.249s] -- Added test 'xmllint' to check XML markup files
+[4.261s] -- Configuring done
+[4.273s] -- Generating done
+[4.276s] -- Build files have been written to: /opt/workspace/build/kdl_parser
+[4.456s] [35m[1mScanning dependencies of target kdl_parser[0m
+[4.559s] [ 50%] [32mBuilding CXX object CMakeFiles/kdl_parser.dir/src/kdl_parser.cpp.o[0m
+[7.508s] [100%] [32m[1mLinking CXX shared library libkdl_parser.so[0m
+[7.858s] [100%] Built target kdl_parser
+[8.385s] [100%] Built target kdl_parser
+[8.494s] [36mInstall the project...[0m
+[8.542s] -- Install configuration: ""
+[8.543s] -- Installing: /opt/workspace/install/kdl_parser/lib/libkdl_parser.so
+[8.544s] -- Set runtime path of "/opt/workspace/install/kdl_parser/lib/libkdl_parser.so" to ""
+[8.545s] -- Installing: /opt/workspace/install/kdl_parser/include/kdl_parser
+[8.546s] -- Installing: /opt/workspace/install/kdl_parser/include/kdl_parser/kdl_parser.hpp
+[8.547s] -- Installing: /opt/workspace/install/kdl_parser/include/kdl_parser/visibility_control.hpp
+[8.548s] -- Installing: /opt/workspace/install/kdl_parser/share/kdl_parser/environment/library_path.sh
+[8.548s] -- Installing: /opt/workspace/install/kdl_parser/share/kdl_parser/environment/library_path.dsv
+[8.549s] -- Installing: /opt/workspace/install/kdl_parser/share/ament_index/resource_index/package_run_dependencies/kdl_parser
+[8.550s] -- Installing: /opt/workspace/install/kdl_parser/share/ament_index/resource_index/parent_prefix_path/kdl_parser
+[8.551s] -- Installing: /opt/workspace/install/kdl_parser/share/kdl_parser/environment/ament_prefix_path.sh
+[8.568s] -- Installing: /opt/workspace/install/kdl_parser/share/kdl_parser/environment/ament_prefix_path.dsv
+[8.569s] -- Installing: /opt/workspace/install/kdl_parser/share/kdl_parser/environment/path.sh
+[8.570s] -- Installing: /opt/workspace/install/kdl_parser/share/kdl_parser/environment/path.dsv
+[8.570s] -- Installing: /opt/workspace/install/kdl_parser/share/kdl_parser/local_setup.bash
+[8.570s] -- Installing: /opt/workspace/install/kdl_parser/share/kdl_parser/local_setup.sh
+[8.570s] -- Installing: /opt/workspace/install/kdl_parser/share/kdl_parser/local_setup.zsh
+[8.571s] -- Installing: /opt/workspace/install/kdl_parser/share/kdl_parser/local_setup.dsv
+[8.571s] -- Installing: /opt/workspace/install/kdl_parser/share/kdl_parser/package.dsv
+[8.571s] -- Installing: /opt/workspace/install/kdl_parser/share/ament_index/resource_index/packages/kdl_parser
+[8.571s] -- Installing: /opt/workspace/install/kdl_parser/share/kdl_parser/cmake/ament_cmake_export_dependencies-extras.cmake
+[8.572s] -- Installing: /opt/workspace/install/kdl_parser/share/kdl_parser/cmake/ament_cmake_export_include_directories-extras.cmake
+[8.572s] -- Installing: /opt/workspace/install/kdl_parser/share/kdl_parser/cmake/ament_cmake_export_libraries-extras.cmake
+[8.572s] -- Installing: /opt/workspace/install/kdl_parser/share/kdl_parser/cmake/kdl_parserConfig.cmake
+[8.572s] -- Installing: /opt/workspace/install/kdl_parser/share/kdl_parser/cmake/kdl_parserConfig-version.cmake
+[8.573s] -- Installing: /opt/workspace/install/kdl_parser/share/kdl_parser/package.xml

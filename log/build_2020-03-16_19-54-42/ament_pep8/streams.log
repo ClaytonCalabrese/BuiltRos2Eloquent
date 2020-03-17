@@ -1,0 +1,41 @@
+[1.102s] Invoking command in '/opt/workspace/src/ament/ament_lint/ament_pep8': PYTHONPATH=/opt/workspace/install/ament_pep8/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base /opt/workspace/build/ament_pep8 build --build-base /opt/workspace/build/ament_pep8/build install --prefix /opt/workspace/install/ament_pep8 --record /opt/workspace/build/ament_pep8/install.log --single-version-externally-managed
+[1.543s] running egg_info
+[1.544s] creating /opt/workspace/build/ament_pep8/ament_pep8.egg-info
+[1.544s] writing /opt/workspace/build/ament_pep8/ament_pep8.egg-info/PKG-INFO
+[1.545s] writing dependency_links to /opt/workspace/build/ament_pep8/ament_pep8.egg-info/dependency_links.txt
+[1.545s] writing entry points to /opt/workspace/build/ament_pep8/ament_pep8.egg-info/entry_points.txt
+[1.545s] writing requirements to /opt/workspace/build/ament_pep8/ament_pep8.egg-info/requires.txt
+[1.546s] writing top-level names to /opt/workspace/build/ament_pep8/ament_pep8.egg-info/top_level.txt
+[1.546s] writing manifest file '/opt/workspace/build/ament_pep8/ament_pep8.egg-info/SOURCES.txt'
+[1.630s] reading manifest file '/opt/workspace/build/ament_pep8/ament_pep8.egg-info/SOURCES.txt'
+[1.632s] writing manifest file '/opt/workspace/build/ament_pep8/ament_pep8.egg-info/SOURCES.txt'
+[1.634s] running build
+[1.634s] running build_py
+[1.635s] creating /opt/workspace/build/ament_pep8/build
+[1.635s] creating /opt/workspace/build/ament_pep8/build/lib
+[1.635s] creating /opt/workspace/build/ament_pep8/build/lib/ament_pep8
+[1.636s] copying ament_pep8/__init__.py -> /opt/workspace/build/ament_pep8/build/lib/ament_pep8
+[1.636s] copying ament_pep8/main.py -> /opt/workspace/build/ament_pep8/build/lib/ament_pep8
+[1.636s] creating /opt/workspace/build/ament_pep8/build/lib/ament_pep8/configuration
+[1.636s] copying ament_pep8/configuration/ament_pep8.ini -> /opt/workspace/build/ament_pep8/build/lib/ament_pep8/configuration
+[1.636s] running install
+[1.637s] running install_lib
+[1.637s] creating /opt/workspace/install/ament_pep8/lib/python3.6/site-packages/ament_pep8
+[1.638s] copying /opt/workspace/build/ament_pep8/build/lib/ament_pep8/__init__.py -> /opt/workspace/install/ament_pep8/lib/python3.6/site-packages/ament_pep8
+[1.638s] copying /opt/workspace/build/ament_pep8/build/lib/ament_pep8/main.py -> /opt/workspace/install/ament_pep8/lib/python3.6/site-packages/ament_pep8
+[1.638s] creating /opt/workspace/install/ament_pep8/lib/python3.6/site-packages/ament_pep8/configuration
+[1.639s] copying /opt/workspace/build/ament_pep8/build/lib/ament_pep8/configuration/ament_pep8.ini -> /opt/workspace/install/ament_pep8/lib/python3.6/site-packages/ament_pep8/configuration
+[1.640s] byte-compiling /opt/workspace/install/ament_pep8/lib/python3.6/site-packages/ament_pep8/__init__.py to __init__.cpython-36.pyc
+[1.640s] byte-compiling /opt/workspace/install/ament_pep8/lib/python3.6/site-packages/ament_pep8/main.py to main.cpython-36.pyc
+[1.642s] running install_data
+[1.643s] copying package.xml -> /opt/workspace/install/ament_pep8/share/ament_pep8
+[1.643s] creating /opt/workspace/install/ament_pep8/share/ament_index
+[1.644s] creating /opt/workspace/install/ament_pep8/share/ament_index/resource_index
+[1.644s] creating /opt/workspace/install/ament_pep8/share/ament_index/resource_index/packages
+[1.644s] copying resource/ament_pep8 -> /opt/workspace/install/ament_pep8/share/ament_index/resource_index/packages
+[1.645s] running install_egg_info
+[1.647s] Copying /opt/workspace/build/ament_pep8/ament_pep8.egg-info to /opt/workspace/install/ament_pep8/lib/python3.6/site-packages/ament_pep8-0.8.1-py3.6.egg-info
+[1.648s] running install_scripts
+[1.689s] Installing ament_pep8 script to /opt/workspace/install/ament_pep8/bin
+[1.690s] writing list of installed files to '/opt/workspace/build/ament_pep8/install.log'
+[1.739s] Invoked command in '/opt/workspace/src/ament/ament_lint/ament_pep8' returned '0': PYTHONPATH=/opt/workspace/install/ament_pep8/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base /opt/workspace/build/ament_pep8 build --build-base /opt/workspace/build/ament_pep8/build install --prefix /opt/workspace/install/ament_pep8 --record /opt/workspace/build/ament_pep8/install.log --single-version-externally-managed

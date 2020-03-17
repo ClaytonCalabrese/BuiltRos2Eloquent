@@ -1,0 +1,21 @@
+{
+  "package_name": "test_rclcpp",
+  "output_dir": "/opt/workspace/build/test_rclcpp/rosidl_typesupport_introspection_c/test_rclcpp",
+  "template_dir": "/opt/workspace/install/rosidl_typesupport_introspection_c/share/rosidl_typesupport_introspection_c/resource",
+  "idl_tuples": [
+    "/opt/workspace/build/test_rclcpp/rosidl_adapter/test_rclcpp:msg/UInt32.idl",
+    "/opt/workspace/build/test_rclcpp/rosidl_adapter/test_rclcpp:srv/AddTwoInts.idl"
+  ],
+  "target_dependencies": [
+    "/opt/workspace/install/rosidl_typesupport_introspection_c/lib/rosidl_typesupport_introspection_c/rosidl_typesupport_introspection_c",
+    "/opt/workspace/install/rosidl_typesupport_introspection_c/lib/python3.6/site-packages/rosidl_typesupport_introspection_c/__init__.py",
+    "/opt/workspace/install/rosidl_typesupport_introspection_c/share/rosidl_typesupport_introspection_c/resource/idl__rosidl_typesupport_introspection_c.h.em",
+    "/opt/workspace/install/rosidl_typesupport_introspection_c/share/rosidl_typesupport_introspection_c/resource/idl__type_support.c.em",
+    "/opt/workspace/install/rosidl_typesupport_introspection_c/share/rosidl_typesupport_introspection_c/resource/msg__rosidl_typesupport_introspection_c.h.em",
+    "/opt/workspace/install/rosidl_typesupport_introspection_c/share/rosidl_typesupport_introspection_c/resource/msg__type_support.c.em",
+    "/opt/workspace/install/rosidl_typesupport_introspection_c/share/rosidl_typesupport_introspection_c/resource/srv__rosidl_typesupport_introspection_c.h.em",
+    "/opt/workspace/install/rosidl_typesupport_introspection_c/share/rosidl_typesupport_introspection_c/resource/srv__type_support.c.em",
+    "/opt/workspace/build/test_rclcpp/rosidl_adapter/test_rclcpp/msg/UInt32.idl",
+    "/opt/workspace/build/test_rclcpp/rosidl_adapter/test_rclcpp/srv/AddTwoInts.idl"
+  ]
+}

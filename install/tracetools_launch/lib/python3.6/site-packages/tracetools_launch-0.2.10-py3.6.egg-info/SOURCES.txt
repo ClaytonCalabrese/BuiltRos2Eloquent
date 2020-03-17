@@ -1,0 +1,15 @@
+package.xml
+setup.cfg
+setup.py
+/opt/workspace/build/tracetools_launch/tracetools_launch.egg-info/PKG-INFO
+/opt/workspace/build/tracetools_launch/tracetools_launch.egg-info/SOURCES.txt
+/opt/workspace/build/tracetools_launch/tracetools_launch.egg-info/dependency_links.txt
+/opt/workspace/build/tracetools_launch/tracetools_launch.egg-info/requires.txt
+/opt/workspace/build/tracetools_launch/tracetools_launch.egg-info/top_level.txt
+launch/example.launch.py
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py
+test/test_xmllint.py
+tracetools_launch/__init__.py
+tracetools_launch/action.py

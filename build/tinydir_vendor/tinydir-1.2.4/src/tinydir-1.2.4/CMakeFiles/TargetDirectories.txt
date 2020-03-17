@@ -1,0 +1,6 @@
+/opt/workspace/build/tinydir_vendor/tinydir-1.2.4/src/tinydir-1.2.4/CMakeFiles/install/strip.dir
+/opt/workspace/build/tinydir_vendor/tinydir-1.2.4/src/tinydir-1.2.4/CMakeFiles/install.dir
+/opt/workspace/build/tinydir_vendor/tinydir-1.2.4/src/tinydir-1.2.4/CMakeFiles/install/local.dir
+/opt/workspace/build/tinydir_vendor/tinydir-1.2.4/src/tinydir-1.2.4/CMakeFiles/list_install_components.dir
+/opt/workspace/build/tinydir_vendor/tinydir-1.2.4/src/tinydir-1.2.4/CMakeFiles/edit_cache.dir
+/opt/workspace/build/tinydir_vendor/tinydir-1.2.4/src/tinydir-1.2.4/CMakeFiles/rebuild_cache.dir

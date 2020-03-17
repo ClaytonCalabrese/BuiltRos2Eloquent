@@ -1,0 +1,68 @@
+[0.236s] -- Found ament_cmake: 0.8.2 (/opt/workspace/install/ament_cmake/share/ament_cmake/cmake)
+[0.304s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[0.304s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.779s] -- Found ament_lint_auto: 0.8.1 (/opt/workspace/install/ament_lint_auto/share/ament_lint_auto/cmake)
+[0.952s] -- Added test 'copyright' to check for copyright in CMake / C / C++ / Python code
+[0.962s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.965s] -- Added test 'lint_cmake' to check CMake code style
+[0.966s] -- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+[0.972s] -- Added test 'xmllint' to check XML markup files
+[1.640s] -- Configuring done
+[1.640s] -- Generating done
+[1.643s] -- Build files have been written to: /opt/workspace/build/rosidl_adapter
+[1.942s] [36mInstall the project...[0m
+[1.963s] -- Install configuration: ""
+[1.964s] -- Installing: /opt/workspace/install/rosidl_adapter/share/rosidl_adapter/environment/pythonpath.sh
+[1.964s] -- Installing: /opt/workspace/install/rosidl_adapter/share/rosidl_adapter/environment/pythonpath.dsv
+[1.965s] -- Installing: /opt/workspace/install/rosidl_adapter/lib/python3.6/site-packages/rosidl_adapter
+[1.965s] -- Installing: /opt/workspace/install/rosidl_adapter/lib/python3.6/site-packages/rosidl_adapter/__init__.py
+[1.965s] -- Installing: /opt/workspace/install/rosidl_adapter/lib/python3.6/site-packages/rosidl_adapter/resource
+[1.966s] -- Installing: /opt/workspace/install/rosidl_adapter/lib/python3.6/site-packages/rosidl_adapter/resource/__init__.py
+[1.966s] -- Installing: /opt/workspace/install/rosidl_adapter/lib/python3.6/site-packages/rosidl_adapter/resource/msg.idl.em
+[1.966s] -- Installing: /opt/workspace/install/rosidl_adapter/lib/python3.6/site-packages/rosidl_adapter/resource/srv.idl.em
+[1.966s] -- Installing: /opt/workspace/install/rosidl_adapter/lib/python3.6/site-packages/rosidl_adapter/resource/action.idl.em
+[1.966s] -- Installing: /opt/workspace/install/rosidl_adapter/lib/python3.6/site-packages/rosidl_adapter/resource/struct.idl.em
+[1.967s] -- Installing: /opt/workspace/install/rosidl_adapter/lib/python3.6/site-packages/rosidl_adapter/msg
+[1.967s] -- Installing: /opt/workspace/install/rosidl_adapter/lib/python3.6/site-packages/rosidl_adapter/msg/__init__.py
+[1.967s] -- Installing: /opt/workspace/install/rosidl_adapter/lib/python3.6/site-packages/rosidl_adapter/action
+[1.967s] -- Installing: /opt/workspace/install/rosidl_adapter/lib/python3.6/site-packages/rosidl_adapter/action/__init__.py
+[1.968s] -- Installing: /opt/workspace/install/rosidl_adapter/lib/python3.6/site-packages/rosidl_adapter/cli.py
+[1.968s] -- Installing: /opt/workspace/install/rosidl_adapter/lib/python3.6/site-packages/rosidl_adapter/main.py
+[1.968s] -- Installing: /opt/workspace/install/rosidl_adapter/lib/python3.6/site-packages/rosidl_adapter/parser.py
+[1.968s] -- Installing: /opt/workspace/install/rosidl_adapter/lib/python3.6/site-packages/rosidl_adapter/__main__.py
+[1.968s] -- Installing: /opt/workspace/install/rosidl_adapter/lib/python3.6/site-packages/rosidl_adapter/srv
+[1.969s] -- Installing: /opt/workspace/install/rosidl_adapter/lib/python3.6/site-packages/rosidl_adapter/srv/__init__.py
+[2.078s] Listing '/opt/workspace/install/rosidl_adapter/lib/python3.6/site-packages/rosidl_adapter'...
+[2.078s] Compiling '/opt/workspace/install/rosidl_adapter/lib/python3.6/site-packages/rosidl_adapter/__init__.py'...
+[2.079s] Compiling '/opt/workspace/install/rosidl_adapter/lib/python3.6/site-packages/rosidl_adapter/__main__.py'...
+[2.079s] Listing '/opt/workspace/install/rosidl_adapter/lib/python3.6/site-packages/rosidl_adapter/action'...
+[2.080s] Compiling '/opt/workspace/install/rosidl_adapter/lib/python3.6/site-packages/rosidl_adapter/action/__init__.py'...
+[2.080s] Compiling '/opt/workspace/install/rosidl_adapter/lib/python3.6/site-packages/rosidl_adapter/cli.py'...
+[2.080s] Compiling '/opt/workspace/install/rosidl_adapter/lib/python3.6/site-packages/rosidl_adapter/main.py'...
+[2.080s] Listing '/opt/workspace/install/rosidl_adapter/lib/python3.6/site-packages/rosidl_adapter/msg'...
+[2.081s] Compiling '/opt/workspace/install/rosidl_adapter/lib/python3.6/site-packages/rosidl_adapter/msg/__init__.py'...
+[2.081s] Compiling '/opt/workspace/install/rosidl_adapter/lib/python3.6/site-packages/rosidl_adapter/parser.py'...
+[2.081s] Listing '/opt/workspace/install/rosidl_adapter/lib/python3.6/site-packages/rosidl_adapter/resource'...
+[2.082s] Compiling '/opt/workspace/install/rosidl_adapter/lib/python3.6/site-packages/rosidl_adapter/resource/__init__.py'...
+[2.082s] Listing '/opt/workspace/install/rosidl_adapter/lib/python3.6/site-packages/rosidl_adapter/srv'...
+[2.082s] Compiling '/opt/workspace/install/rosidl_adapter/lib/python3.6/site-packages/rosidl_adapter/srv/__init__.py'...
+[2.086s] -- Installing: /opt/workspace/install/rosidl_adapter/share/ament_index/resource_index/package_run_dependencies/rosidl_adapter
+[2.087s] -- Installing: /opt/workspace/install/rosidl_adapter/share/ament_index/resource_index/parent_prefix_path/rosidl_adapter
+[2.087s] -- Installing: /opt/workspace/install/rosidl_adapter/share/rosidl_adapter/environment/ament_prefix_path.sh
+[2.087s] -- Installing: /opt/workspace/install/rosidl_adapter/share/rosidl_adapter/environment/ament_prefix_path.dsv
+[2.087s] -- Installing: /opt/workspace/install/rosidl_adapter/share/rosidl_adapter/environment/path.sh
+[2.090s] -- Installing: /opt/workspace/install/rosidl_adapter/share/rosidl_adapter/environment/path.dsv
+[2.090s] -- Installing: /opt/workspace/install/rosidl_adapter/share/rosidl_adapter/local_setup.bash
+[2.090s] -- Installing: /opt/workspace/install/rosidl_adapter/share/rosidl_adapter/local_setup.sh
+[2.090s] -- Installing: /opt/workspace/install/rosidl_adapter/share/rosidl_adapter/local_setup.zsh
+[2.091s] -- Installing: /opt/workspace/install/rosidl_adapter/share/rosidl_adapter/local_setup.dsv
+[2.091s] -- Installing: /opt/workspace/install/rosidl_adapter/share/rosidl_adapter/package.dsv
+[2.091s] -- Installing: /opt/workspace/install/rosidl_adapter/share/ament_index/resource_index/packages/rosidl_adapter
+[2.091s] -- Installing: /opt/workspace/install/rosidl_adapter/share/rosidl_adapter/cmake/rosidl_adapter-extras.cmake
+[2.091s] -- Installing: /opt/workspace/install/rosidl_adapter/share/rosidl_adapter/cmake/rosidl_adapterConfig.cmake
+[2.092s] -- Installing: /opt/workspace/install/rosidl_adapter/share/rosidl_adapter/cmake/rosidl_adapterConfig-version.cmake
+[2.092s] -- Installing: /opt/workspace/install/rosidl_adapter/share/rosidl_adapter/package.xml
+[2.092s] -- Up-to-date: /opt/workspace/install/rosidl_adapter/share/rosidl_adapter/cmake
+[2.092s] -- Installing: /opt/workspace/install/rosidl_adapter/share/rosidl_adapter/cmake/rosidl_adapt_interfaces.cmake
+[2.093s] -- Installing: /opt/workspace/install/rosidl_adapter/lib/rosidl_adapter/msg2idl.py
+[2.093s] -- Installing: /opt/workspace/install/rosidl_adapter/lib/rosidl_adapter/srv2idl.py

@@ -1,0 +1,61 @@
+[5.457s] running egg_info
+[5.458s] creating /opt/workspace/build/ros2service/ros2service.egg-info
+[5.458s] writing /opt/workspace/build/ros2service/ros2service.egg-info/PKG-INFO
+[5.459s] writing dependency_links to /opt/workspace/build/ros2service/ros2service.egg-info/dependency_links.txt
+[5.459s] writing entry points to /opt/workspace/build/ros2service/ros2service.egg-info/entry_points.txt
+[5.460s] writing requirements to /opt/workspace/build/ros2service/ros2service.egg-info/requires.txt
+[5.460s] writing top-level names to /opt/workspace/build/ros2service/ros2service.egg-info/top_level.txt
+[5.460s] writing manifest file '/opt/workspace/build/ros2service/ros2service.egg-info/SOURCES.txt'
+[5.461s] reading manifest file '/opt/workspace/build/ros2service/ros2service.egg-info/SOURCES.txt'
+[5.461s] writing manifest file '/opt/workspace/build/ros2service/ros2service.egg-info/SOURCES.txt'
+[5.462s] running build
+[5.463s] running build_py
+[5.463s] creating /opt/workspace/build/ros2service/build
+[5.464s] creating /opt/workspace/build/ros2service/build/lib
+[5.464s] creating /opt/workspace/build/ros2service/build/lib/ros2service
+[5.465s] copying ros2service/__init__.py -> /opt/workspace/build/ros2service/build/lib/ros2service
+[5.465s] creating /opt/workspace/build/ros2service/build/lib/ros2service/api
+[5.466s] copying ros2service/api/__init__.py -> /opt/workspace/build/ros2service/build/lib/ros2service/api
+[5.466s] creating /opt/workspace/build/ros2service/build/lib/ros2service/verb
+[5.467s] copying ros2service/verb/__init__.py -> /opt/workspace/build/ros2service/build/lib/ros2service/verb
+[5.467s] copying ros2service/verb/call.py -> /opt/workspace/build/ros2service/build/lib/ros2service/verb
+[5.468s] copying ros2service/verb/list.py -> /opt/workspace/build/ros2service/build/lib/ros2service/verb
+[5.468s] copying ros2service/verb/type.py -> /opt/workspace/build/ros2service/build/lib/ros2service/verb
+[5.472s] copying ros2service/verb/find.py -> /opt/workspace/build/ros2service/build/lib/ros2service/verb
+[5.472s] creating /opt/workspace/build/ros2service/build/lib/ros2service/command
+[5.473s] copying ros2service/command/__init__.py -> /opt/workspace/build/ros2service/build/lib/ros2service/command
+[5.484s] copying ros2service/command/service.py -> /opt/workspace/build/ros2service/build/lib/ros2service/command
+[5.484s] running install
+[5.485s] running install_lib
+[5.488s] creating /opt/workspace/install/ros2service/lib/python3.6/site-packages/ros2service
+[5.488s] copying /opt/workspace/build/ros2service/build/lib/ros2service/__init__.py -> /opt/workspace/install/ros2service/lib/python3.6/site-packages/ros2service
+[5.489s] creating /opt/workspace/install/ros2service/lib/python3.6/site-packages/ros2service/api
+[5.489s] copying /opt/workspace/build/ros2service/build/lib/ros2service/api/__init__.py -> /opt/workspace/install/ros2service/lib/python3.6/site-packages/ros2service/api
+[5.489s] creating /opt/workspace/install/ros2service/lib/python3.6/site-packages/ros2service/verb
+[5.489s] copying /opt/workspace/build/ros2service/build/lib/ros2service/verb/__init__.py -> /opt/workspace/install/ros2service/lib/python3.6/site-packages/ros2service/verb
+[5.490s] copying /opt/workspace/build/ros2service/build/lib/ros2service/verb/call.py -> /opt/workspace/install/ros2service/lib/python3.6/site-packages/ros2service/verb
+[5.490s] copying /opt/workspace/build/ros2service/build/lib/ros2service/verb/list.py -> /opt/workspace/install/ros2service/lib/python3.6/site-packages/ros2service/verb
+[5.490s] copying /opt/workspace/build/ros2service/build/lib/ros2service/verb/type.py -> /opt/workspace/install/ros2service/lib/python3.6/site-packages/ros2service/verb
+[5.492s] copying /opt/workspace/build/ros2service/build/lib/ros2service/verb/find.py -> /opt/workspace/install/ros2service/lib/python3.6/site-packages/ros2service/verb
+[5.493s] creating /opt/workspace/install/ros2service/lib/python3.6/site-packages/ros2service/command
+[5.493s] copying /opt/workspace/build/ros2service/build/lib/ros2service/command/__init__.py -> /opt/workspace/install/ros2service/lib/python3.6/site-packages/ros2service/command
+[5.494s] copying /opt/workspace/build/ros2service/build/lib/ros2service/command/service.py -> /opt/workspace/install/ros2service/lib/python3.6/site-packages/ros2service/command
+[5.494s] byte-compiling /opt/workspace/install/ros2service/lib/python3.6/site-packages/ros2service/__init__.py to __init__.cpython-36.pyc
+[5.494s] byte-compiling /opt/workspace/install/ros2service/lib/python3.6/site-packages/ros2service/api/__init__.py to __init__.cpython-36.pyc
+[5.494s] byte-compiling /opt/workspace/install/ros2service/lib/python3.6/site-packages/ros2service/verb/__init__.py to __init__.cpython-36.pyc
+[5.494s] byte-compiling /opt/workspace/install/ros2service/lib/python3.6/site-packages/ros2service/verb/call.py to call.cpython-36.pyc
+[5.495s] byte-compiling /opt/workspace/install/ros2service/lib/python3.6/site-packages/ros2service/verb/list.py to list.cpython-36.pyc
+[5.495s] byte-compiling /opt/workspace/install/ros2service/lib/python3.6/site-packages/ros2service/verb/type.py to type.cpython-36.pyc
+[5.495s] byte-compiling /opt/workspace/install/ros2service/lib/python3.6/site-packages/ros2service/verb/find.py to find.cpython-36.pyc
+[5.495s] byte-compiling /opt/workspace/install/ros2service/lib/python3.6/site-packages/ros2service/command/__init__.py to __init__.cpython-36.pyc
+[5.496s] byte-compiling /opt/workspace/install/ros2service/lib/python3.6/site-packages/ros2service/command/service.py to service.cpython-36.pyc
+[5.496s] running install_data
+[5.496s] copying package.xml -> /opt/workspace/install/ros2service/share/ros2service
+[5.496s] creating /opt/workspace/install/ros2service/share/ament_index
+[5.496s] creating /opt/workspace/install/ros2service/share/ament_index/resource_index
+[5.497s] creating /opt/workspace/install/ros2service/share/ament_index/resource_index/packages
+[5.497s] copying resource/ros2service -> /opt/workspace/install/ros2service/share/ament_index/resource_index/packages
+[5.497s] running install_egg_info
+[5.500s] Copying /opt/workspace/build/ros2service/ros2service.egg-info to /opt/workspace/install/ros2service/lib/python3.6/site-packages/ros2service-0.8.7-py3.6.egg-info
+[5.501s] running install_scripts
+[5.502s] writing list of installed files to '/opt/workspace/build/ros2service/install.log'

@@ -1,0 +1,19 @@
+[1.959s] running egg_info
+[1.964s] writing /opt/workspace/build/launch_testing/launch_testing.egg-info/PKG-INFO
+[1.965s] writing dependency_links to /opt/workspace/build/launch_testing/launch_testing.egg-info/dependency_links.txt
+[1.965s] writing entry points to /opt/workspace/build/launch_testing/launch_testing.egg-info/entry_points.txt
+[1.965s] writing requirements to /opt/workspace/build/launch_testing/launch_testing.egg-info/requires.txt
+[1.965s] writing top-level names to /opt/workspace/build/launch_testing/launch_testing.egg-info/top_level.txt
+[2.185s] reading manifest file '/opt/workspace/build/launch_testing/launch_testing.egg-info/SOURCES.txt'
+[2.185s] writing manifest file '/opt/workspace/build/launch_testing/launch_testing.egg-info/SOURCES.txt'
+[2.185s] running build
+[2.185s] running build_py
+[2.186s] running install
+[2.186s] running install_lib
+[2.187s] running install_data
+[2.187s] running install_egg_info
+[2.188s] removing '/opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing-0.9.6-py3.6.egg-info' (and everything under it)
+[2.188s] Copying /opt/workspace/build/launch_testing/launch_testing.egg-info to /opt/workspace/install/launch_testing/lib/python3.6/site-packages/launch_testing-0.9.6-py3.6.egg-info
+[2.189s] running install_scripts
+[2.192s] Installing launch_test script to /opt/workspace/install/launch_testing/bin
+[2.192s] writing list of installed files to '/opt/workspace/build/launch_testing/install.log'

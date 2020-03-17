@@ -1,0 +1,2 @@
+/usr/bin/ar qc librobot_state_publisher_solver.a  CMakeFiles/robot_state_publisher_solver.dir/src/robot_state_publisher.cpp.o
+/usr/bin/ranlib librobot_state_publisher_solver.a

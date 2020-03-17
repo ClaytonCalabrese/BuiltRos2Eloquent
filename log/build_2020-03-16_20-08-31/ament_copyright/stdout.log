@@ -1,0 +1,19 @@
+[2.249s] running egg_info
+[2.250s] writing /opt/workspace/build/ament_copyright/ament_copyright.egg-info/PKG-INFO
+[2.250s] writing dependency_links to /opt/workspace/build/ament_copyright/ament_copyright.egg-info/dependency_links.txt
+[2.251s] writing entry points to /opt/workspace/build/ament_copyright/ament_copyright.egg-info/entry_points.txt
+[2.251s] writing requirements to /opt/workspace/build/ament_copyright/ament_copyright.egg-info/requires.txt
+[2.251s] writing top-level names to /opt/workspace/build/ament_copyright/ament_copyright.egg-info/top_level.txt
+[2.318s] reading manifest file '/opt/workspace/build/ament_copyright/ament_copyright.egg-info/SOURCES.txt'
+[2.321s] writing manifest file '/opt/workspace/build/ament_copyright/ament_copyright.egg-info/SOURCES.txt'
+[2.321s] running build
+[2.321s] running build_py
+[2.323s] running install
+[2.324s] running install_lib
+[2.326s] running install_data
+[2.327s] running install_egg_info
+[2.335s] removing '/opt/workspace/install/ament_copyright/lib/python3.6/site-packages/ament_copyright-0.8.1-py3.6.egg-info' (and everything under it)
+[2.336s] Copying /opt/workspace/build/ament_copyright/ament_copyright.egg-info to /opt/workspace/install/ament_copyright/lib/python3.6/site-packages/ament_copyright-0.8.1-py3.6.egg-info
+[2.336s] running install_scripts
+[2.368s] Installing ament_copyright script to /opt/workspace/install/ament_copyright/bin
+[2.369s] writing list of installed files to '/opt/workspace/build/ament_copyright/install.log'

@@ -1,0 +1,63 @@
+[1.216s] -- The C compiler identification is GNU 7.4.0
+[1.332s] -- The CXX compiler identification is GNU 7.4.0
+[1.343s] -- Check for working C compiler: /usr/bin/cc
+[1.498s] -- Check for working C compiler: /usr/bin/cc -- works
+[1.500s] -- Detecting C compiler ABI info
+[1.650s] -- Detecting C compiler ABI info - done
+[1.663s] -- Detecting C compile features
+[2.161s] -- Detecting C compile features - done
+[2.166s] -- Check for working CXX compiler: /usr/bin/c++
+[2.342s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[2.344s] -- Detecting CXX compiler ABI info
+[2.514s] -- Detecting CXX compiler ABI info - done
+[2.526s] -- Detecting CXX compile features
+[3.274s] -- Detecting CXX compile features - done
+[3.285s] -- Found ament_cmake: 0.8.2 (/opt/workspace/install/ament_cmake/share/ament_cmake/cmake)
+[3.387s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[3.388s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[4.215s] -- Configuring done
+[4.219s] -- Generating done
+[4.222s] -- Build files have been written to: /opt/workspace/build/rqt_plot
+[4.532s] [36mInstall the project...[0m
+[4.554s] -- Install configuration: ""
+[4.554s] -- Installing: /opt/workspace/install/rqt_plot/share/rqt_plot/environment/pythonpath.sh
+[4.555s] -- Installing: /opt/workspace/install/rqt_plot/share/rqt_plot/environment/pythonpath.dsv
+[4.555s] -- Installing: /opt/workspace/install/rqt_plot/lib/python3.6/site-packages/rqt_plot
+[4.556s] -- Installing: /opt/workspace/install/rqt_plot/lib/python3.6/site-packages/rqt_plot/__init__.py
+[4.556s] -- Installing: /opt/workspace/install/rqt_plot/lib/python3.6/site-packages/rqt_plot/plot_widget.py
+[4.557s] -- Installing: /opt/workspace/install/rqt_plot/lib/python3.6/site-packages/rqt_plot/plot.py
+[4.557s] -- Installing: /opt/workspace/install/rqt_plot/lib/python3.6/site-packages/rqt_plot/rosplot.py
+[4.557s] -- Installing: /opt/workspace/install/rqt_plot/lib/python3.6/site-packages/rqt_plot/data_plot
+[4.557s] -- Installing: /opt/workspace/install/rqt_plot/lib/python3.6/site-packages/rqt_plot/data_plot/__init__.py
+[4.558s] -- Installing: /opt/workspace/install/rqt_plot/lib/python3.6/site-packages/rqt_plot/data_plot/mat_data_plot.py
+[4.558s] -- Installing: /opt/workspace/install/rqt_plot/lib/python3.6/site-packages/rqt_plot/data_plot/qwt_data_plot.py
+[4.559s] -- Installing: /opt/workspace/install/rqt_plot/lib/python3.6/site-packages/rqt_plot/data_plot/pyqtgraph_data_plot.py
+[4.710s] Listing '/opt/workspace/install/rqt_plot/lib/python3.6/site-packages/rqt_plot'...
+[4.710s] Compiling '/opt/workspace/install/rqt_plot/lib/python3.6/site-packages/rqt_plot/__init__.py'...
+[4.710s] Listing '/opt/workspace/install/rqt_plot/lib/python3.6/site-packages/rqt_plot/data_plot'...
+[4.710s] Compiling '/opt/workspace/install/rqt_plot/lib/python3.6/site-packages/rqt_plot/data_plot/__init__.py'...
+[4.711s] Compiling '/opt/workspace/install/rqt_plot/lib/python3.6/site-packages/rqt_plot/data_plot/mat_data_plot.py'...
+[4.711s] Compiling '/opt/workspace/install/rqt_plot/lib/python3.6/site-packages/rqt_plot/data_plot/pyqtgraph_data_plot.py'...
+[4.711s] Compiling '/opt/workspace/install/rqt_plot/lib/python3.6/site-packages/rqt_plot/data_plot/qwt_data_plot.py'...
+[4.711s] Compiling '/opt/workspace/install/rqt_plot/lib/python3.6/site-packages/rqt_plot/plot.py'...
+[4.711s] Compiling '/opt/workspace/install/rqt_plot/lib/python3.6/site-packages/rqt_plot/plot_widget.py'...
+[4.712s] Compiling '/opt/workspace/install/rqt_plot/lib/python3.6/site-packages/rqt_plot/rosplot.py'...
+[4.721s] -- Installing: /opt/workspace/install/rqt_plot/share/rqt_plot/plugin.xml
+[4.721s] -- Installing: /opt/workspace/install/rqt_plot/share/rqt_plot/resource
+[4.721s] -- Installing: /opt/workspace/install/rqt_plot/share/rqt_plot/resource/plot.ui
+[4.722s] -- Installing: /opt/workspace/install/rqt_plot/lib/rqt_plot/rqt_plot
+[4.724s] -- Installing: /opt/workspace/install/rqt_plot/share/ament_index/resource_index/package_run_dependencies/rqt_plot
+[4.724s] -- Installing: /opt/workspace/install/rqt_plot/share/ament_index/resource_index/parent_prefix_path/rqt_plot
+[4.725s] -- Installing: /opt/workspace/install/rqt_plot/share/rqt_plot/environment/ament_prefix_path.sh
+[4.726s] -- Installing: /opt/workspace/install/rqt_plot/share/rqt_plot/environment/ament_prefix_path.dsv
+[4.726s] -- Installing: /opt/workspace/install/rqt_plot/share/rqt_plot/environment/path.sh
+[4.727s] -- Installing: /opt/workspace/install/rqt_plot/share/rqt_plot/environment/path.dsv
+[4.728s] -- Installing: /opt/workspace/install/rqt_plot/share/rqt_plot/local_setup.bash
+[4.728s] -- Installing: /opt/workspace/install/rqt_plot/share/rqt_plot/local_setup.sh
+[4.728s] -- Installing: /opt/workspace/install/rqt_plot/share/rqt_plot/local_setup.zsh
+[4.736s] -- Installing: /opt/workspace/install/rqt_plot/share/rqt_plot/local_setup.dsv
+[4.743s] -- Installing: /opt/workspace/install/rqt_plot/share/rqt_plot/package.dsv
+[4.743s] -- Installing: /opt/workspace/install/rqt_plot/share/ament_index/resource_index/packages/rqt_plot
+[4.743s] -- Installing: /opt/workspace/install/rqt_plot/share/rqt_plot/cmake/rqt_plotConfig.cmake
+[4.744s] -- Installing: /opt/workspace/install/rqt_plot/share/rqt_plot/cmake/rqt_plotConfig-version.cmake
+[4.745s] -- Installing: /opt/workspace/install/rqt_plot/share/rqt_plot/package.xml

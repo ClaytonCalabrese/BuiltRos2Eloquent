@@ -1,0 +1,6 @@
+[0.817s] Invoking command in '/opt/workspace/build/orocos_kdl': CMAKE_PREFIX_PATH=/opt/ros/eloquent /usr/bin/cmake /opt/workspace/src/ros2/orocos_kinematics_dynamics/orocos_kdl -DCMAKE_INSTALL_PREFIX=/opt/workspace/install/orocos_kdl
+[3.447s] Invoked command in '/opt/workspace/build/orocos_kdl' returned '0': CMAKE_PREFIX_PATH=/opt/ros/eloquent /usr/bin/cmake /opt/workspace/src/ros2/orocos_kinematics_dynamics/orocos_kdl -DCMAKE_INSTALL_PREFIX=/opt/workspace/install/orocos_kdl
+[3.449s] Invoking command in '/opt/workspace/build/orocos_kdl': CMAKE_PREFIX_PATH=/opt/ros/eloquent /usr/bin/cmake --build /opt/workspace/build/orocos_kdl -- -j8 -l8
+[68.866s] Invoked command in '/opt/workspace/build/orocos_kdl' returned '0': CMAKE_PREFIX_PATH=/opt/ros/eloquent /usr/bin/cmake --build /opt/workspace/build/orocos_kdl -- -j8 -l8
+[68.918s] Invoking command in '/opt/workspace/build/orocos_kdl': CMAKE_PREFIX_PATH=/opt/ros/eloquent /usr/bin/cmake --build /opt/workspace/build/orocos_kdl --target install -- -j8 -l8
+[69.268s] Invoked command in '/opt/workspace/build/orocos_kdl' returned '0': CMAKE_PREFIX_PATH=/opt/ros/eloquent /usr/bin/cmake --build /opt/workspace/build/orocos_kdl --target install -- -j8 -l8

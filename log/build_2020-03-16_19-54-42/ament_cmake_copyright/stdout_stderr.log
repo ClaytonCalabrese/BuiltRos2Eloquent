@@ -1,0 +1,29 @@
+[0.394s] -- Found ament_cmake_core: 0.8.2 (/opt/workspace/install/ament_cmake_core/share/ament_cmake_core/cmake)
+[0.493s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[0.494s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.396s] -- Found ament_cmake_test: 0.8.2 (/opt/workspace/install/ament_cmake_test/share/ament_cmake_test/cmake)
+[1.782s] -- Found ament_cmake_lint_cmake: 0.8.1 (/opt/workspace/install/ament_cmake_lint_cmake/share/ament_cmake_lint_cmake/cmake)
+[1.786s] -- Configuring done
+[1.800s] -- Generating done
+[1.802s] -- Build files have been written to: /opt/workspace/build/ament_cmake_copyright
+[3.599s] [36mInstall the project...[0m
+[3.669s] -- Install configuration: ""
+[3.670s] -- Installing: /opt/workspace/install/ament_cmake_copyright/share/ament_index/resource_index/package_run_dependencies/ament_cmake_copyright
+[3.670s] -- Installing: /opt/workspace/install/ament_cmake_copyright/share/ament_index/resource_index/parent_prefix_path/ament_cmake_copyright
+[3.676s] -- Installing: /opt/workspace/install/ament_cmake_copyright/share/ament_cmake_copyright/environment/ament_prefix_path.sh
+[3.677s] -- Installing: /opt/workspace/install/ament_cmake_copyright/share/ament_cmake_copyright/environment/ament_prefix_path.dsv
+[3.677s] -- Installing: /opt/workspace/install/ament_cmake_copyright/share/ament_cmake_copyright/environment/path.sh
+[3.677s] -- Installing: /opt/workspace/install/ament_cmake_copyright/share/ament_cmake_copyright/environment/path.dsv
+[3.677s] -- Installing: /opt/workspace/install/ament_cmake_copyright/share/ament_cmake_copyright/local_setup.bash
+[3.678s] -- Installing: /opt/workspace/install/ament_cmake_copyright/share/ament_cmake_copyright/local_setup.sh
+[3.678s] -- Installing: /opt/workspace/install/ament_cmake_copyright/share/ament_cmake_copyright/local_setup.zsh
+[3.678s] -- Installing: /opt/workspace/install/ament_cmake_copyright/share/ament_cmake_copyright/local_setup.dsv
+[3.678s] -- Installing: /opt/workspace/install/ament_cmake_copyright/share/ament_cmake_copyright/package.dsv
+[3.679s] -- Installing: /opt/workspace/install/ament_cmake_copyright/share/ament_index/resource_index/packages/ament_cmake_copyright
+[3.679s] -- Installing: /opt/workspace/install/ament_cmake_copyright/share/ament_cmake_copyright/cmake/ament_cmake_copyright-extras.cmake
+[3.679s] -- Installing: /opt/workspace/install/ament_cmake_copyright/share/ament_cmake_copyright/cmake/ament_cmake_copyrightConfig.cmake
+[3.680s] -- Installing: /opt/workspace/install/ament_cmake_copyright/share/ament_cmake_copyright/cmake/ament_cmake_copyrightConfig-version.cmake
+[3.680s] -- Installing: /opt/workspace/install/ament_cmake_copyright/share/ament_cmake_copyright/package.xml
+[3.680s] -- Up-to-date: /opt/workspace/install/ament_cmake_copyright/share/ament_cmake_copyright/cmake
+[3.680s] -- Installing: /opt/workspace/install/ament_cmake_copyright/share/ament_cmake_copyright/cmake/ament_cmake_copyright_lint_hook.cmake
+[3.690s] -- Installing: /opt/workspace/install/ament_cmake_copyright/share/ament_cmake_copyright/cmake/ament_copyright.cmake

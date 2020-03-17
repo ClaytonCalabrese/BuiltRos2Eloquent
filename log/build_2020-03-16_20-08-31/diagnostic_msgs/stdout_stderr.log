@@ -1,0 +1,318 @@
+[0.461s] -- The C compiler identification is GNU 7.4.0
+[0.607s] -- The CXX compiler identification is GNU 7.4.0
+[0.619s] -- Check for working C compiler: /usr/bin/cc
+[0.807s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.809s] -- Detecting C compiler ABI info
+[0.971s] -- Detecting C compiler ABI info - done
+[0.985s] -- Detecting C compile features
+[1.501s] -- Detecting C compile features - done
+[1.506s] -- Check for working CXX compiler: /usr/bin/c++
+[1.693s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[1.694s] -- Detecting CXX compiler ABI info
+[1.899s] -- Detecting CXX compiler ABI info - done
+[1.911s] -- Detecting CXX compile features
+[2.830s] -- Detecting CXX compile features - done
+[2.841s] -- Found ament_cmake: 0.8.2 (/opt/workspace/install/ament_cmake/share/ament_cmake/cmake)
+[2.944s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[2.944s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[3.526s] -- Found rosidl_default_generators: 0.8.0 (/opt/workspace/install/rosidl_default_generators/share/rosidl_default_generators/cmake)
+[3.849s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "1.1.1") 
+[3.915s] -- Found FastRTPS: /opt/workspace/install/fastrtps/include  
+[3.954s] -- Found rosidl_adapter: 0.8.2 (/opt/workspace/install/rosidl_adapter/share/rosidl_adapter/cmake)
+[4.179s] -- Found std_msgs: 0.8.1 (/opt/workspace/install/std_msgs/share/std_msgs/cmake)
+[4.312s] -- Found PythonInterp: /usr/bin/python3 (found version "3.6.9") 
+[4.971s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[5.038s] -- Found ament_cmake_cppcheck: 0.8.1 (/opt/workspace/install/ament_cmake_cppcheck/share/ament_cmake_cppcheck/cmake)
+[5.049s] -- Found ament_cmake_cpplint: 0.8.1 (/opt/workspace/install/ament_cmake_cpplint/share/ament_cmake_cpplint/cmake)
+[5.059s] -- Found ament_cmake_uncrustify: 0.8.1 (/opt/workspace/install/ament_cmake_uncrustify/share/ament_cmake_uncrustify/cmake)
+[5.144s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_introspection_cpp;rosidl_typesupport_fastrtps_cpp
+[6.078s] -- Found rmw_implementation_cmake: 0.8.1 (/opt/workspace/install/rmw_implementation_cmake/share/rmw_implementation_cmake/cmake)
+[6.154s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3.5") 
+[6.161s] -- Found python_cmake_module: 0.8.0 (/opt/workspace/install/python_cmake_module/share/python_cmake_module/cmake)
+[6.248s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.6m.so (found suitable version "3.6.9", minimum required is "3.5") 
+[6.248s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[6.249s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.6m
+[6.249s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.6m.so
+[6.324s] -- Found PythonExtra: .so  
+[7.098s] -- Found ament_cmake_flake8: 0.8.1 (/opt/workspace/install/ament_cmake_flake8/share/ament_cmake_flake8/cmake)
+[7.108s] -- Found ament_cmake_pep257: 0.8.1 (/opt/workspace/install/ament_cmake_pep257/share/ament_cmake_pep257/cmake)
+[7.130s] -- Configuring done
+[7.416s] -- Generating done
+[7.424s] -- Build files have been written to: /opt/workspace/build/diagnostic_msgs
+[7.566s] [35m[1mScanning dependencies of target diagnostic_msgs__cpp[0m
+[7.602s] [  1%] [34m[1mGenerating C++ code for ROS interfaces[0m
+[9.943s] [  1%] Built target diagnostic_msgs__cpp
+[9.971s] [  3%] [34m[1mGenerating C code for ROS interfaces[0m
+[12.817s] [35m[1mScanning dependencies of target diagnostic_msgs__rosidl_generator_c[0m
+[12.859s] [  4%] [32mBuilding C object CMakeFiles/diagnostic_msgs__rosidl_generator_c.dir/rosidl_generator_c/diagnostic_msgs/msg/diagnostic_array__functions.c.o[0m
+[12.950s] [  6%] [32mBuilding C object CMakeFiles/diagnostic_msgs__rosidl_generator_c.dir/rosidl_generator_c/diagnostic_msgs/srv/self_test__functions.c.o[0m
+[13.050s] [  7%] [32mBuilding C object CMakeFiles/diagnostic_msgs__rosidl_generator_c.dir/rosidl_generator_c/diagnostic_msgs/srv/add_diagnostics__functions.c.o[0m
+[13.142s] [  9%] [32mBuilding C object CMakeFiles/diagnostic_msgs__rosidl_generator_c.dir/rosidl_generator_c/diagnostic_msgs/msg/key_value__functions.c.o[0m
+[13.223s] [ 11%] [32mBuilding C object CMakeFiles/diagnostic_msgs__rosidl_generator_c.dir/rosidl_generator_c/diagnostic_msgs/msg/diagnostic_status__functions.c.o[0m
+[13.308s] [ 12%] [32m[1mLinking C shared library libdiagnostic_msgs__rosidl_generator_c.so[0m
+[13.389s] [ 12%] Built target diagnostic_msgs__rosidl_generator_c
+[13.419s] [ 14%] [34m[1mGenerating C++ type support dispatch for ROS interfaces[0m
+[15.317s] [35m[1mScanning dependencies of target diagnostic_msgs__rosidl_typesupport_cpp[0m
+[15.357s] [ 15%] [32mBuilding CXX object CMakeFiles/diagnostic_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/diagnostic_msgs/msg/diagnostic_array__type_support.cpp.o[0m
+[15.910s] [ 17%] [32mBuilding CXX object CMakeFiles/diagnostic_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/diagnostic_msgs/srv/add_diagnostics__type_support.cpp.o[0m
+[16.398s] [ 19%] [32mBuilding CXX object CMakeFiles/diagnostic_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/diagnostic_msgs/srv/self_test__type_support.cpp.o[0m
+[16.941s] [ 20%] [32mBuilding CXX object CMakeFiles/diagnostic_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/diagnostic_msgs/msg/key_value__type_support.cpp.o[0m
+[17.475s] [ 22%] [32mBuilding CXX object CMakeFiles/diagnostic_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/diagnostic_msgs/msg/diagnostic_status__type_support.cpp.o[0m
+[17.998s] [ 23%] [32m[1mLinking CXX shared library libdiagnostic_msgs__rosidl_typesupport_cpp.so[0m
+[18.101s] [ 23%] Built target diagnostic_msgs__rosidl_typesupport_cpp
+[18.133s] [ 25%] [34m[1mGenerating C introspection for ROS interfaces[0m
+[20.408s] [35m[1mScanning dependencies of target diagnostic_msgs__rosidl_typesupport_introspection_c[0m
+[20.455s] [ 26%] [32mBuilding C object CMakeFiles/diagnostic_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/diagnostic_msgs/msg/diagnostic_array__type_support.c.o[0m
+[20.542s] [ 28%] [32mBuilding C object CMakeFiles/diagnostic_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/diagnostic_msgs/srv/self_test__type_support.c.o[0m
+[20.637s] [ 30%] [32mBuilding C object CMakeFiles/diagnostic_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/diagnostic_msgs/srv/add_diagnostics__type_support.c.o[0m
+[20.717s] [ 31%] [32mBuilding C object CMakeFiles/diagnostic_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/diagnostic_msgs/msg/key_value__type_support.c.o[0m
+[20.798s] [ 33%] [32mBuilding C object CMakeFiles/diagnostic_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/diagnostic_msgs/msg/diagnostic_status__type_support.c.o[0m
+[20.880s] [ 34%] [32m[1mLinking C shared library libdiagnostic_msgs__rosidl_typesupport_introspection_c.so[0m
+[20.962s] [ 34%] Built target diagnostic_msgs__rosidl_typesupport_introspection_c
+[21.003s] [ 36%] [34m[1mGenerating C type support dispatch for ROS interfaces[0m
+[22.937s] [35m[1mScanning dependencies of target diagnostic_msgs__rosidl_typesupport_c[0m
+[22.984s] [ 38%] [32mBuilding CXX object CMakeFiles/diagnostic_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/diagnostic_msgs/msg/diagnostic_array__type_support.cpp.o[0m
+[23.060s] [ 39%] [32mBuilding CXX object CMakeFiles/diagnostic_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/diagnostic_msgs/srv/self_test__type_support.cpp.o[0m
+[23.130s] [ 41%] [32mBuilding CXX object CMakeFiles/diagnostic_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/diagnostic_msgs/srv/add_diagnostics__type_support.cpp.o[0m
+[23.200s] [ 42%] [32mBuilding CXX object CMakeFiles/diagnostic_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/diagnostic_msgs/msg/key_value__type_support.cpp.o[0m
+[23.262s] [ 44%] [32mBuilding CXX object CMakeFiles/diagnostic_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/diagnostic_msgs/msg/diagnostic_status__type_support.cpp.o[0m
+[23.328s] [ 46%] [32m[1mLinking CXX shared library libdiagnostic_msgs__rosidl_typesupport_c.so[0m
+[23.429s] [ 46%] Built target diagnostic_msgs__rosidl_typesupport_c
+[23.463s] [ 47%] [34m[1mGenerating C++ introspection for ROS interfaces[0m
+[25.731s] [35m[1mScanning dependencies of target diagnostic_msgs__rosidl_typesupport_introspection_cpp[0m
+[25.802s] [ 49%] [32mBuilding CXX object CMakeFiles/diagnostic_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/diagnostic_msgs/msg/diagnostic_array__type_support.cpp.o[0m
+[26.459s] [ 50%] [32mBuilding CXX object CMakeFiles/diagnostic_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/diagnostic_msgs/srv/self_test__type_support.cpp.o[0m
+[27.191s] [ 52%] [32mBuilding CXX object CMakeFiles/diagnostic_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/diagnostic_msgs/srv/add_diagnostics__type_support.cpp.o[0m
+[27.706s] [ 53%] [32mBuilding CXX object CMakeFiles/diagnostic_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/diagnostic_msgs/msg/key_value__type_support.cpp.o[0m
+[28.200s] [ 55%] [32mBuilding CXX object CMakeFiles/diagnostic_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/diagnostic_msgs/msg/diagnostic_status__type_support.cpp.o[0m
+[28.831s] [ 57%] [32m[1mLinking CXX shared library libdiagnostic_msgs__rosidl_typesupport_introspection_cpp.so[0m
+[29.044s] [ 57%] Built target diagnostic_msgs__rosidl_typesupport_introspection_cpp
+[29.076s] [ 58%] [34m[1mGenerating C++ type support for eProsima Fast-RTPS[0m
+[31.351s] [35m[1mScanning dependencies of target diagnostic_msgs__rosidl_typesupport_fastrtps_cpp[0m
+[31.416s] [ 60%] [32mBuilding CXX object CMakeFiles/diagnostic_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/diagnostic_msgs/msg/dds_fastrtps/diagnostic_array__type_support.cpp.o[0m
+[32.377s] [ 61%] [32mBuilding CXX object CMakeFiles/diagnostic_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/diagnostic_msgs/srv/dds_fastrtps/self_test__type_support.cpp.o[0m
+[33.389s] [ 63%] [32mBuilding CXX object CMakeFiles/diagnostic_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/diagnostic_msgs/srv/dds_fastrtps/add_diagnostics__type_support.cpp.o[0m
+[34.199s] [ 65%] [32mBuilding CXX object CMakeFiles/diagnostic_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/diagnostic_msgs/msg/dds_fastrtps/key_value__type_support.cpp.o[0m
+[34.920s] [ 66%] [32mBuilding CXX object CMakeFiles/diagnostic_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/diagnostic_msgs/msg/dds_fastrtps/diagnostic_status__type_support.cpp.o[0m
+[35.815s] [ 68%] [32m[1mLinking CXX shared library libdiagnostic_msgs__rosidl_typesupport_fastrtps_cpp.so[0m
+[36.027s] [ 68%] Built target diagnostic_msgs__rosidl_typesupport_fastrtps_cpp
+[36.057s] [ 69%] [34m[1mGenerating C type support for eProsima Fast-RTPS[0m
+[38.641s] [35m[1mScanning dependencies of target diagnostic_msgs__rosidl_typesupport_fastrtps_c[0m
+[38.712s] [ 71%] [32mBuilding CXX object CMakeFiles/diagnostic_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/diagnostic_msgs/msg/diagnostic_array__type_support_c.cpp.o[0m
+[39.472s] [ 73%] [32mBuilding CXX object CMakeFiles/diagnostic_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/diagnostic_msgs/srv/self_test__type_support_c.cpp.o[0m
+[40.191s] [ 74%] [32mBuilding CXX object CMakeFiles/diagnostic_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/diagnostic_msgs/srv/add_diagnostics__type_support_c.cpp.o[0m
+[40.855s] [ 76%] [32mBuilding CXX object CMakeFiles/diagnostic_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/diagnostic_msgs/msg/key_value__type_support_c.cpp.o[0m
+[41.552s] [ 77%] [32mBuilding CXX object CMakeFiles/diagnostic_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/diagnostic_msgs/msg/diagnostic_status__type_support_c.cpp.o[0m
+[42.327s] [ 79%] [32m[1mLinking CXX shared library libdiagnostic_msgs__rosidl_typesupport_fastrtps_c.so[0m
+[42.553s] [ 79%] Built target diagnostic_msgs__rosidl_typesupport_fastrtps_c
+[42.579s] [35m[1mScanning dependencies of target diagnostic_msgs[0m
+[42.610s] [ 79%] Built target diagnostic_msgs
+[42.642s] [35m[1mScanning dependencies of target diagnostic_msgs__py[0m
+[42.669s] [ 80%] [34m[1mGenerating Python code for ROS interfaces[0m
+[47.387s] [ 80%] Built target diagnostic_msgs__py
+[47.412s] [35m[1mScanning dependencies of target diagnostic_msgs__python[0m
+[47.526s] [ 82%] [32mBuilding C object CMakeFiles/diagnostic_msgs__python.dir/rosidl_generator_py/diagnostic_msgs/msg/_diagnostic_array_s.c.o[0m
+[47.723s] [ 84%] [32mBuilding C object CMakeFiles/diagnostic_msgs__python.dir/rosidl_generator_py/diagnostic_msgs/srv/_self_test_s.c.o[0m
+[47.945s] [ 85%] [32mBuilding C object CMakeFiles/diagnostic_msgs__python.dir/rosidl_generator_py/diagnostic_msgs/srv/_add_diagnostics_s.c.o[0m
+[48.161s] [ 87%] [32mBuilding C object CMakeFiles/diagnostic_msgs__python.dir/rosidl_generator_py/diagnostic_msgs/msg/_key_value_s.c.o[0m
+[48.340s] [ 88%] [32mBuilding C object CMakeFiles/diagnostic_msgs__python.dir/rosidl_generator_py/diagnostic_msgs/msg/_diagnostic_status_s.c.o[0m
+[48.575s] [ 90%] [32m[1mLinking C shared library rosidl_generator_py/diagnostic_msgs/libdiagnostic_msgs__python.so[0m
+[48.691s] [ 90%] Built target diagnostic_msgs__python
+[48.720s] [35m[1mScanning dependencies of target diagnostic_msgs__rosidl_typesupport_introspection_c__pyext[0m
+[48.789s] [ 92%] [32mBuilding C object CMakeFiles/diagnostic_msgs__rosidl_typesupport_introspection_c__pyext.dir/rosidl_generator_py/diagnostic_msgs/_diagnostic_msgs_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[49.021s] [ 93%] [32m[1mLinking C shared library rosidl_generator_py/diagnostic_msgs/diagnostic_msgs_s__rosidl_typesupport_introspection_c.cpython-36m-x86_64-linux-gnu.so[0m
+[49.150s] [ 93%] Built target diagnostic_msgs__rosidl_typesupport_introspection_c__pyext
+[49.182s] [35m[1mScanning dependencies of target diagnostic_msgs__rosidl_typesupport_c__pyext[0m
+[49.254s] [ 95%] [32mBuilding C object CMakeFiles/diagnostic_msgs__rosidl_typesupport_c__pyext.dir/rosidl_generator_py/diagnostic_msgs/_diagnostic_msgs_s.ep.rosidl_typesupport_c.c.o[0m
+[49.498s] [ 96%] [32m[1mLinking C shared library rosidl_generator_py/diagnostic_msgs/diagnostic_msgs_s__rosidl_typesupport_c.cpython-36m-x86_64-linux-gnu.so[0m
+[49.616s] [ 96%] Built target diagnostic_msgs__rosidl_typesupport_c__pyext
+[49.646s] [35m[1mScanning dependencies of target diagnostic_msgs__rosidl_typesupport_fastrtps_c__pyext[0m
+[49.707s] [ 98%] [32mBuilding C object CMakeFiles/diagnostic_msgs__rosidl_typesupport_fastrtps_c__pyext.dir/rosidl_generator_py/diagnostic_msgs/_diagnostic_msgs_s.ep.rosidl_typesupport_fastrtps_c.c.o[0m
+[49.992s] [100%] [32m[1mLinking CXX shared library rosidl_generator_py/diagnostic_msgs/diagnostic_msgs_s__rosidl_typesupport_fastrtps_c.cpython-36m-x86_64-linux-gnu.so[0m
+[50.165s] [100%] Built target diagnostic_msgs__rosidl_typesupport_fastrtps_c__pyext
+[50.920s] [  1%] Built target diagnostic_msgs__cpp
+[51.012s] [ 12%] Built target diagnostic_msgs__rosidl_generator_c
+[51.084s] [ 23%] Built target diagnostic_msgs__rosidl_typesupport_cpp
+[51.155s] [ 34%] Built target diagnostic_msgs__rosidl_typesupport_introspection_c
+[51.219s] [ 46%] Built target diagnostic_msgs__rosidl_typesupport_c
+[51.282s] [ 57%] Built target diagnostic_msgs__rosidl_typesupport_introspection_cpp
+[51.353s] [ 68%] Built target diagnostic_msgs__rosidl_typesupport_fastrtps_cpp
+[51.457s] [ 79%] Built target diagnostic_msgs__rosidl_typesupport_fastrtps_c
+[51.540s] [ 79%] Built target diagnostic_msgs
+[51.588s] [ 80%] Built target diagnostic_msgs__py
+[51.658s] [ 90%] Built target diagnostic_msgs__python
+[51.720s] [ 93%] Built target diagnostic_msgs__rosidl_typesupport_introspection_c__pyext
+[51.794s] [ 96%] Built target diagnostic_msgs__rosidl_typesupport_c__pyext
+[51.861s] [100%] Built target diagnostic_msgs__rosidl_typesupport_fastrtps_c__pyext
+[51.910s] [36mInstall the project...[0m
+[51.933s] -- Install configuration: ""
+[51.933s] -- Installing: /opt/workspace/install/diagnostic_msgs/share/ament_index/resource_index/rosidl_interfaces/diagnostic_msgs
+[51.934s] -- Installing: /opt/workspace/install/diagnostic_msgs/lib/libdiagnostic_msgs__rosidl_typesupport_c.so
+[51.934s] -- Set runtime path of "/opt/workspace/install/diagnostic_msgs/lib/libdiagnostic_msgs__rosidl_typesupport_c.so" to ""
+[51.935s] -- Installing: /opt/workspace/install/diagnostic_msgs/share/diagnostic_msgs/environment/library_path.sh
+[51.935s] -- Installing: /opt/workspace/install/diagnostic_msgs/share/diagnostic_msgs/environment/library_path.dsv
+[51.936s] -- Installing: /opt/workspace/install/diagnostic_msgs/lib/libdiagnostic_msgs__rosidl_typesupport_cpp.so
+[51.937s] -- Set runtime path of "/opt/workspace/install/diagnostic_msgs/lib/libdiagnostic_msgs__rosidl_typesupport_cpp.so" to ""
+[51.937s] -- Installing: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs
+[51.938s] -- Installing: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/msg
+[51.941s] -- Installing: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/msg/diagnostic_status__rosidl_typesupport_fastrtps_c.h
+[51.941s] -- Installing: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/msg/diagnostic_array__rosidl_typesupport_fastrtps_c.h
+[51.941s] -- Installing: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/msg/key_value__rosidl_typesupport_fastrtps_c.h
+[51.942s] -- Installing: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[51.942s] -- Installing: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/srv
+[51.942s] -- Installing: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/srv/self_test__rosidl_typesupport_fastrtps_c.h
+[51.943s] -- Installing: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/srv/add_diagnostics__rosidl_typesupport_fastrtps_c.h
+[51.943s] -- Installing: /opt/workspace/install/diagnostic_msgs/lib/libdiagnostic_msgs__rosidl_typesupport_fastrtps_c.so
+[51.944s] -- Set runtime path of "/opt/workspace/install/diagnostic_msgs/lib/libdiagnostic_msgs__rosidl_typesupport_fastrtps_c.so" to ""
+[51.944s] -- Up-to-date: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs
+[51.945s] -- Up-to-date: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/msg
+[51.945s] -- Installing: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/msg/diagnostic_array.h
+[51.945s] -- Installing: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/msg/key_value.h
+[51.945s] -- Installing: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/msg/key_value__type_support.h
+[51.945s] -- Installing: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/msg/diagnostic_status__functions.h
+[51.946s] -- Installing: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/msg/key_value__struct.h
+[51.946s] -- Installing: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/msg/diagnostic_array__type_support.h
+[51.946s] -- Installing: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/msg/diagnostic_status__struct.h
+[51.946s] -- Installing: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/msg/diagnostic_status__functions.c
+[51.947s] -- Installing: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/msg/diagnostic_array__functions.h
+[51.947s] -- Installing: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/msg/diagnostic_array__struct.h
+[51.947s] -- Installing: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/msg/key_value__functions.c
+[51.947s] -- Installing: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/msg/diagnostic_status.h
+[51.948s] -- Installing: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/msg/diagnostic_status__type_support.h
+[51.948s] -- Installing: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/msg/key_value__functions.h
+[51.948s] -- Installing: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/msg/rosidl_generator_c__visibility_control.h
+[51.948s] -- Installing: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/msg/diagnostic_array__functions.c
+[51.949s] -- Up-to-date: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/srv
+[51.949s] -- Installing: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/srv/add_diagnostics.h
+[51.949s] -- Installing: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/srv/add_diagnostics__functions.c
+[51.949s] -- Installing: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/srv/add_diagnostics__struct.h
+[51.950s] -- Installing: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/srv/self_test__struct.h
+[51.950s] -- Installing: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/srv/self_test__functions.c
+[51.950s] -- Installing: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/srv/add_diagnostics__functions.h
+[51.950s] -- Installing: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/srv/self_test__type_support.h
+[51.951s] -- Installing: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/srv/self_test__functions.h
+[51.951s] -- Installing: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/srv/self_test.h
+[51.951s] -- Installing: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/srv/add_diagnostics__type_support.h
+[51.952s] -- Installing: /opt/workspace/install/diagnostic_msgs/lib/libdiagnostic_msgs__rosidl_generator_c.so
+[51.952s] -- Set runtime path of "/opt/workspace/install/diagnostic_msgs/lib/libdiagnostic_msgs__rosidl_generator_c.so" to ""
+[51.953s] -- Up-to-date: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs
+[51.953s] -- Up-to-date: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/msg
+[51.953s] -- Installing: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/msg/key_value__rosidl_typesupport_fastrtps_cpp.hpp
+[51.954s] -- Installing: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[51.954s] -- Installing: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/msg/diagnostic_status__rosidl_typesupport_fastrtps_cpp.hpp
+[51.954s] -- Installing: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/msg/dds_fastrtps
+[51.954s] -- Installing: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/msg/diagnostic_array__rosidl_typesupport_fastrtps_cpp.hpp
+[51.955s] -- Up-to-date: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/srv
+[51.955s] -- Installing: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/srv/self_test__rosidl_typesupport_fastrtps_cpp.hpp
+[51.958s] -- Installing: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/srv/add_diagnostics__rosidl_typesupport_fastrtps_cpp.hpp
+[51.959s] -- Installing: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/srv/dds_fastrtps
+[51.959s] -- Installing: /opt/workspace/install/diagnostic_msgs/lib/libdiagnostic_msgs__rosidl_typesupport_fastrtps_cpp.so
+[51.959s] -- Set runtime path of "/opt/workspace/install/diagnostic_msgs/lib/libdiagnostic_msgs__rosidl_typesupport_fastrtps_cpp.so" to ""
+[51.959s] -- Up-to-date: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs
+[51.960s] -- Up-to-date: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/msg
+[51.960s] -- Installing: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/msg/diagnostic_array__traits.hpp
+[51.960s] -- Installing: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/msg/diagnostic_status.hpp
+[51.960s] -- Installing: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/msg/diagnostic_status__struct.hpp
+[51.960s] -- Installing: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/msg/diagnostic_array__struct.hpp
+[51.961s] -- Installing: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/msg/diagnostic_array.hpp
+[51.961s] -- Installing: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/msg/key_value.hpp
+[51.961s] -- Installing: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/msg/key_value__struct.hpp
+[51.962s] -- Installing: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/msg/key_value__traits.hpp
+[51.962s] -- Installing: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/msg/diagnostic_status__traits.hpp
+[51.962s] -- Up-to-date: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/srv
+[51.962s] -- Installing: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/srv/add_diagnostics__struct.hpp
+[51.962s] -- Installing: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/srv/self_test__traits.hpp
+[51.963s] -- Installing: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/srv/self_test.hpp
+[51.963s] -- Installing: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/srv/self_test__struct.hpp
+[51.963s] -- Installing: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/srv/add_diagnostics__traits.hpp
+[51.963s] -- Installing: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/srv/add_diagnostics.hpp
+[51.964s] -- Up-to-date: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs
+[51.965s] -- Up-to-date: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/msg
+[51.965s] -- Installing: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/msg/diagnostic_status__type_support.c
+[51.965s] -- Installing: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/msg/diagnostic_array__rosidl_typesupport_introspection_c.h
+[51.965s] -- Installing: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[51.969s] -- Installing: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/msg/diagnostic_array__type_support.c
+[51.970s] -- Installing: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/msg/key_value__type_support.c
+[51.970s] -- Installing: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/msg/key_value__rosidl_typesupport_introspection_c.h
+[51.970s] -- Installing: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/msg/diagnostic_status__rosidl_typesupport_introspection_c.h
+[51.970s] -- Up-to-date: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/srv
+[51.970s] -- Installing: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/srv/add_diagnostics__rosidl_typesupport_introspection_c.h
+[51.971s] -- Installing: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/srv/self_test__type_support.c
+[51.971s] -- Installing: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/srv/self_test__rosidl_typesupport_introspection_c.h
+[51.971s] -- Installing: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/srv/add_diagnostics__type_support.c
+[51.971s] -- Installing: /opt/workspace/install/diagnostic_msgs/lib/libdiagnostic_msgs__rosidl_typesupport_introspection_c.so
+[51.972s] -- Set runtime path of "/opt/workspace/install/diagnostic_msgs/lib/libdiagnostic_msgs__rosidl_typesupport_introspection_c.so" to ""
+[51.972s] -- Up-to-date: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs
+[51.974s] -- Up-to-date: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/msg
+[51.974s] -- Installing: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/msg/diagnostic_array__rosidl_typesupport_introspection_cpp.hpp
+[51.974s] -- Installing: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/msg/diagnostic_array__type_support.cpp
+[51.974s] -- Installing: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/msg/key_value__rosidl_typesupport_introspection_cpp.hpp
+[51.975s] -- Installing: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/msg/diagnostic_status__rosidl_typesupport_introspection_cpp.hpp
+[51.975s] -- Installing: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/msg/key_value__type_support.cpp
+[51.975s] -- Installing: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/msg/diagnostic_status__type_support.cpp
+[51.975s] -- Up-to-date: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/srv
+[51.975s] -- Installing: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/srv/self_test__type_support.cpp
+[51.976s] -- Installing: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/srv/add_diagnostics__rosidl_typesupport_introspection_cpp.hpp
+[51.976s] -- Installing: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/srv/self_test__rosidl_typesupport_introspection_cpp.hpp
+[51.976s] -- Installing: /opt/workspace/install/diagnostic_msgs/include/diagnostic_msgs/srv/add_diagnostics__type_support.cpp
+[51.976s] -- Installing: /opt/workspace/install/diagnostic_msgs/lib/libdiagnostic_msgs__rosidl_typesupport_introspection_cpp.so
+[51.976s] -- Set runtime path of "/opt/workspace/install/diagnostic_msgs/lib/libdiagnostic_msgs__rosidl_typesupport_introspection_cpp.so" to ""
+[51.977s] -- Installing: /opt/workspace/install/diagnostic_msgs/share/diagnostic_msgs/environment/pythonpath.sh
+[51.977s] -- Installing: /opt/workspace/install/diagnostic_msgs/share/diagnostic_msgs/environment/pythonpath.dsv
+[51.977s] -- Installing: /opt/workspace/install/diagnostic_msgs/lib/python3.6/site-packages/diagnostic_msgs/__init__.py
+[52.079s] Compiling '/opt/workspace/install/diagnostic_msgs/lib/python3.6/site-packages/diagnostic_msgs/__init__.py'...
+[52.087s] -- Installing: /opt/workspace/install/diagnostic_msgs/lib/python3.6/site-packages/diagnostic_msgs/msg
+[52.087s] -- Installing: /opt/workspace/install/diagnostic_msgs/lib/python3.6/site-packages/diagnostic_msgs/msg/_diagnostic_array.py
+[52.088s] -- Installing: /opt/workspace/install/diagnostic_msgs/lib/python3.6/site-packages/diagnostic_msgs/msg/__init__.py
+[52.088s] -- Installing: /opt/workspace/install/diagnostic_msgs/lib/python3.6/site-packages/diagnostic_msgs/msg/_diagnostic_status_s.c
+[52.089s] -- Installing: /opt/workspace/install/diagnostic_msgs/lib/python3.6/site-packages/diagnostic_msgs/msg/_key_value_s.c
+[52.091s] -- Installing: /opt/workspace/install/diagnostic_msgs/lib/python3.6/site-packages/diagnostic_msgs/msg/_key_value.py
+[52.091s] -- Installing: /opt/workspace/install/diagnostic_msgs/lib/python3.6/site-packages/diagnostic_msgs/msg/_diagnostic_array_s.c
+[52.092s] -- Installing: /opt/workspace/install/diagnostic_msgs/lib/python3.6/site-packages/diagnostic_msgs/msg/_diagnostic_status.py
+[52.092s] -- Installing: /opt/workspace/install/diagnostic_msgs/lib/python3.6/site-packages/diagnostic_msgs/srv
+[52.093s] -- Installing: /opt/workspace/install/diagnostic_msgs/lib/python3.6/site-packages/diagnostic_msgs/srv/__init__.py
+[52.093s] -- Installing: /opt/workspace/install/diagnostic_msgs/lib/python3.6/site-packages/diagnostic_msgs/srv/_add_diagnostics.py
+[52.093s] -- Installing: /opt/workspace/install/diagnostic_msgs/lib/python3.6/site-packages/diagnostic_msgs/srv/_self_test_s.c
+[52.095s] -- Installing: /opt/workspace/install/diagnostic_msgs/lib/python3.6/site-packages/diagnostic_msgs/srv/_add_diagnostics_s.c
+[52.095s] -- Installing: /opt/workspace/install/diagnostic_msgs/lib/python3.6/site-packages/diagnostic_msgs/srv/_self_test.py
+[52.096s] -- Installing: /opt/workspace/install/diagnostic_msgs/lib/python3.6/site-packages/diagnostic_msgs/diagnostic_msgs_s__rosidl_typesupport_c.cpython-36m-x86_64-linux-gnu.so
+[52.096s] -- Set runtime path of "/opt/workspace/install/diagnostic_msgs/lib/python3.6/site-packages/diagnostic_msgs/diagnostic_msgs_s__rosidl_typesupport_c.cpython-36m-x86_64-linux-gnu.so" to ""
+[52.097s] -- Installing: /opt/workspace/install/diagnostic_msgs/lib/python3.6/site-packages/diagnostic_msgs/diagnostic_msgs_s__rosidl_typesupport_introspection_c.cpython-36m-x86_64-linux-gnu.so
+[52.098s] -- Set runtime path of "/opt/workspace/install/diagnostic_msgs/lib/python3.6/site-packages/diagnostic_msgs/diagnostic_msgs_s__rosidl_typesupport_introspection_c.cpython-36m-x86_64-linux-gnu.so" to ""
+[52.100s] -- Installing: /opt/workspace/install/diagnostic_msgs/lib/python3.6/site-packages/diagnostic_msgs/diagnostic_msgs_s__rosidl_typesupport_fastrtps_c.cpython-36m-x86_64-linux-gnu.so
+[52.101s] -- Set runtime path of "/opt/workspace/install/diagnostic_msgs/lib/python3.6/site-packages/diagnostic_msgs/diagnostic_msgs_s__rosidl_typesupport_fastrtps_c.cpython-36m-x86_64-linux-gnu.so" to ""
+[52.102s] -- Installing: /opt/workspace/install/diagnostic_msgs/lib/libdiagnostic_msgs__python.so
+[52.103s] -- Set runtime path of "/opt/workspace/install/diagnostic_msgs/lib/libdiagnostic_msgs__python.so" to ""
+[52.104s] -- Installing: /opt/workspace/install/diagnostic_msgs/share/diagnostic_msgs/msg/DiagnosticArray.idl
+[52.105s] -- Installing: /opt/workspace/install/diagnostic_msgs/share/diagnostic_msgs/msg/DiagnosticStatus.idl
+[52.105s] -- Installing: /opt/workspace/install/diagnostic_msgs/share/diagnostic_msgs/msg/KeyValue.idl
+[52.106s] -- Installing: /opt/workspace/install/diagnostic_msgs/share/diagnostic_msgs/srv/AddDiagnostics.idl
+[52.107s] -- Installing: /opt/workspace/install/diagnostic_msgs/share/diagnostic_msgs/srv/SelfTest.idl
+[52.107s] -- Installing: /opt/workspace/install/diagnostic_msgs/share/diagnostic_msgs/msg/DiagnosticArray.msg
+[52.108s] -- Installing: /opt/workspace/install/diagnostic_msgs/share/diagnostic_msgs/msg/DiagnosticStatus.msg
+[52.109s] -- Installing: /opt/workspace/install/diagnostic_msgs/share/diagnostic_msgs/msg/KeyValue.msg
+[52.110s] -- Installing: /opt/workspace/install/diagnostic_msgs/share/diagnostic_msgs/srv/AddDiagnostics.srv
+[52.110s] -- Installing: /opt/workspace/install/diagnostic_msgs/share/diagnostic_msgs/srv/AddDiagnostics_Request.msg
+[52.111s] -- Installing: /opt/workspace/install/diagnostic_msgs/share/diagnostic_msgs/srv/AddDiagnostics_Response.msg
+[52.112s] -- Installing: /opt/workspace/install/diagnostic_msgs/share/diagnostic_msgs/srv/SelfTest.srv
+[52.113s] -- Installing: /opt/workspace/install/diagnostic_msgs/share/diagnostic_msgs/srv/SelfTest_Request.msg
+[52.114s] -- Installing: /opt/workspace/install/diagnostic_msgs/share/diagnostic_msgs/srv/SelfTest_Response.msg
+[52.115s] -- Installing: /opt/workspace/install/diagnostic_msgs/share/ament_index/resource_index/package_run_dependencies/diagnostic_msgs
+[52.116s] -- Installing: /opt/workspace/install/diagnostic_msgs/share/ament_index/resource_index/parent_prefix_path/diagnostic_msgs
+[52.116s] -- Installing: /opt/workspace/install/diagnostic_msgs/share/diagnostic_msgs/environment/ament_prefix_path.sh
+[52.117s] -- Installing: /opt/workspace/install/diagnostic_msgs/share/diagnostic_msgs/environment/ament_prefix_path.dsv
+[52.118s] -- Installing: /opt/workspace/install/diagnostic_msgs/share/diagnostic_msgs/environment/path.sh
+[52.119s] -- Installing: /opt/workspace/install/diagnostic_msgs/share/diagnostic_msgs/environment/path.dsv
+[52.120s] -- Installing: /opt/workspace/install/diagnostic_msgs/share/diagnostic_msgs/local_setup.bash
+[52.120s] -- Installing: /opt/workspace/install/diagnostic_msgs/share/diagnostic_msgs/local_setup.sh
+[52.121s] -- Installing: /opt/workspace/install/diagnostic_msgs/share/diagnostic_msgs/local_setup.zsh
+[52.121s] -- Installing: /opt/workspace/install/diagnostic_msgs/share/diagnostic_msgs/local_setup.dsv
+[52.122s] -- Installing: /opt/workspace/install/diagnostic_msgs/share/diagnostic_msgs/package.dsv
+[52.123s] -- Installing: /opt/workspace/install/diagnostic_msgs/share/ament_index/resource_index/packages/diagnostic_msgs
+[52.124s] -- Installing: /opt/workspace/install/diagnostic_msgs/share/diagnostic_msgs/cmake/rosidl_cmake-extras.cmake
+[52.124s] -- Installing: /opt/workspace/install/diagnostic_msgs/share/diagnostic_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[52.125s] -- Installing: /opt/workspace/install/diagnostic_msgs/share/diagnostic_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[52.125s] -- Installing: /opt/workspace/install/diagnostic_msgs/share/diagnostic_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[52.126s] -- Installing: /opt/workspace/install/diagnostic_msgs/share/diagnostic_msgs/cmake/diagnostic_msgsConfig.cmake
+[52.126s] -- Installing: /opt/workspace/install/diagnostic_msgs/share/diagnostic_msgs/cmake/diagnostic_msgsConfig-version.cmake
+[52.127s] -- Installing: /opt/workspace/install/diagnostic_msgs/share/diagnostic_msgs/package.xml

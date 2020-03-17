@@ -1,0 +1,122 @@
+[0.331s] -- The C compiler identification is GNU 7.4.0
+[0.438s] -- The CXX compiler identification is GNU 7.4.0
+[0.448s] -- Check for working C compiler: /usr/bin/cc
+[0.560s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.562s] -- Detecting C compiler ABI info
+[0.673s] -- Detecting C compiler ABI info - done
+[0.685s] -- Detecting C compile features
+[1.085s] -- Detecting C compile features - done
+[1.089s] -- Check for working CXX compiler: /usr/bin/c++
+[1.242s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[1.242s] -- Detecting CXX compiler ABI info
+[1.407s] -- Detecting CXX compiler ABI info - done
+[1.417s] -- Detecting CXX compile features
+[2.205s] -- Detecting CXX compile features - done
+[2.212s] -- Found ament_cmake_ros: 0.8.0 (/opt/workspace/install/ament_cmake_ros/share/ament_cmake_ros/cmake)
+[2.360s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[2.362s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[3.064s] -- Found rcpputils: 0.2.1 (/opt/workspace/install/rcpputils/share/rcpputils/cmake)
+[3.072s] -- Found rcutils: 0.8.4 (/opt/workspace/install/rcutils/share/rcutils/cmake)
+[3.080s] -- Found rmw_fastrtps_shared_cpp: 0.8.1 (/opt/workspace/install/rmw_fastrtps_shared_cpp/share/rmw_fastrtps_shared_cpp/cmake)
+[3.112s] -- Found rosidl_adapter: 0.8.2 (/opt/workspace/install/rosidl_adapter/share/rosidl_adapter/cmake)
+[3.135s] -- Found fastrtps_cmake_module: 0.8.0 (/opt/workspace/install/fastrtps_cmake_module/share/fastrtps_cmake_module/cmake)
+[3.445s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "1.1.1") 
+[3.555s] -- Found FastRTPS: /opt/workspace/install/fastrtps/include  
+[3.751s] -- Found rosidl_typesupport_fastrtps_c: 0.8.0 (/opt/workspace/install/rosidl_typesupport_fastrtps_c/share/rosidl_typesupport_fastrtps_c/cmake)
+[4.085s] -- Found rosidl_typesupport_introspection_c: 0.8.2 (/opt/workspace/install/rosidl_typesupport_introspection_c/share/rosidl_typesupport_introspection_c/cmake)
+[4.117s] -- Found rosidl_typesupport_introspection_cpp: 0.8.2 (/opt/workspace/install/rosidl_typesupport_introspection_cpp/share/rosidl_typesupport_introspection_cpp/cmake)
+[4.179s] -- Found ament_lint_auto: 0.8.1 (/opt/workspace/install/ament_lint_auto/share/ament_lint_auto/cmake)
+[4.496s] -- Added test 'copyright' to check for copyright in CMake / C / C++ / Python code
+[4.505s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[4.506s] -- Configured cppcheck include dirs: /opt/workspace/src/ros2/rmw_fastrtps/rmw_fastrtps_dynamic_cpp/include
+[4.512s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[4.516s] -- Added test 'lint_cmake' to check CMake code style
+[4.524s] -- Added test 'uncrustify' to check C / C++ code style
+[4.527s] -- Added test 'xmllint' to check XML markup files
+[4.537s] -- Configuring done
+[4.573s] -- Generating done
+[4.577s] -- Build files have been written to: /opt/workspace/build/rmw_fastrtps_dynamic_cpp
+[4.718s] [35m[1mScanning dependencies of target rmw_fastrtps_dynamic_cpp[0m
+[4.987s] [  2%] [32mBuilding CXX object CMakeFiles/rmw_fastrtps_dynamic_cpp.dir/src/client_service_common.cpp.o[0m
+[6.915s] [  5%] [32mBuilding CXX object CMakeFiles/rmw_fastrtps_dynamic_cpp.dir/src/rmw_logging.cpp.o[0m
+[7.032s] [  8%] [32mBuilding CXX object CMakeFiles/rmw_fastrtps_dynamic_cpp.dir/src/rmw_client.cpp.o[0m
+[10.448s] [ 11%] [32mBuilding CXX object CMakeFiles/rmw_fastrtps_dynamic_cpp.dir/src/rmw_compare_gids_equal.cpp.o[0m
+[10.781s] [ 13%] [32mBuilding CXX object CMakeFiles/rmw_fastrtps_dynamic_cpp.dir/src/rmw_count.cpp.o[0m
+[11.100s] [ 16%] [32mBuilding CXX object CMakeFiles/rmw_fastrtps_dynamic_cpp.dir/src/rmw_get_gid_for_publisher.cpp.o[0m
+[11.169s] [ 19%] [32mBuilding CXX object CMakeFiles/rmw_fastrtps_dynamic_cpp.dir/src/rmw_get_implementation_identifier.cpp.o[0m
+[11.237s] [ 22%] [32mBuilding CXX object CMakeFiles/rmw_fastrtps_dynamic_cpp.dir/src/rmw_get_serialization_format.cpp.o[0m
+[11.324s] [ 25%] [32mBuilding CXX object CMakeFiles/rmw_fastrtps_dynamic_cpp.dir/src/rmw_guard_condition.cpp.o[0m
+[11.733s] [ 27%] [32mBuilding CXX object CMakeFiles/rmw_fastrtps_dynamic_cpp.dir/src/rmw_init.cpp.o[0m
+[12.149s] [ 30%] [32mBuilding CXX object CMakeFiles/rmw_fastrtps_dynamic_cpp.dir/src/rmw_node.cpp.o[0m
+[12.577s] [ 33%] [32mBuilding CXX object CMakeFiles/rmw_fastrtps_dynamic_cpp.dir/src/rmw_node_info_and_types.cpp.o[0m
+[12.657s] [ 36%] [32mBuilding CXX object CMakeFiles/rmw_fastrtps_dynamic_cpp.dir/src/rmw_node_names.cpp.o[0m
+[12.895s] [ 38%] [32mBuilding CXX object CMakeFiles/rmw_fastrtps_dynamic_cpp.dir/src/rmw_publish.cpp.o[0m
+[13.299s] [ 41%] [32mBuilding CXX object CMakeFiles/rmw_fastrtps_dynamic_cpp.dir/src/rmw_publisher.cpp.o[0m
+[14.319s] [ 44%] [32mBuilding CXX object CMakeFiles/rmw_fastrtps_dynamic_cpp.dir/src/rmw_request.cpp.o[0m
+[14.430s] [ 47%] [32mBuilding CXX object CMakeFiles/rmw_fastrtps_dynamic_cpp.dir/src/identifier.cpp.o[0m
+[14.474s] [ 50%] [32mBuilding CXX object CMakeFiles/rmw_fastrtps_dynamic_cpp.dir/src/rmw_response.cpp.o[0m
+[14.583s] [ 52%] [32mBuilding CXX object CMakeFiles/rmw_fastrtps_dynamic_cpp.dir/src/rmw_serialize.cpp.o[0m
+[15.644s] [ 55%] [32mBuilding CXX object CMakeFiles/rmw_fastrtps_dynamic_cpp.dir/src/rmw_service.cpp.o[0m
+[16.532s] [ 58%] [32mBuilding CXX object CMakeFiles/rmw_fastrtps_dynamic_cpp.dir/src/get_subscriber.cpp.o[0m
+[16.604s] [ 61%] [32mBuilding CXX object CMakeFiles/rmw_fastrtps_dynamic_cpp.dir/src/rmw_service_names_and_types.cpp.o[0m
+[16.803s] [ 63%] [32mBuilding CXX object CMakeFiles/rmw_fastrtps_dynamic_cpp.dir/src/rmw_service_server_is_available.cpp.o[0m
+[17.752s] [ 66%] [32mBuilding CXX object CMakeFiles/rmw_fastrtps_dynamic_cpp.dir/src/rmw_subscription.cpp.o[0m
+[17.835s] [ 69%] [32mBuilding CXX object CMakeFiles/rmw_fastrtps_dynamic_cpp.dir/src/rmw_take.cpp.o[0m
+[18.127s] [ 72%] [32mBuilding CXX object CMakeFiles/rmw_fastrtps_dynamic_cpp.dir/src/get_service.cpp.o[0m
+[23.378s] [ 75%] [32mBuilding CXX object CMakeFiles/rmw_fastrtps_dynamic_cpp.dir/src/rmw_wait_set.cpp.o[0m
+[23.468s] [ 77%] [32mBuilding CXX object CMakeFiles/rmw_fastrtps_dynamic_cpp.dir/src/type_support_common.cpp.o[0m
+[26.021s] [ 80%] [32mBuilding CXX object CMakeFiles/rmw_fastrtps_dynamic_cpp.dir/src/serialization_format.cpp.o[0m
+[26.057s] [ 83%] [32mBuilding CXX object CMakeFiles/rmw_fastrtps_dynamic_cpp.dir/src/rmw_wait.cpp.o[0m
+[26.128s] [ 86%] [32mBuilding CXX object CMakeFiles/rmw_fastrtps_dynamic_cpp.dir/src/rmw_trigger_guard_condition.cpp.o[0m
+[26.203s] [ 88%] [32mBuilding CXX object CMakeFiles/rmw_fastrtps_dynamic_cpp.dir/src/rmw_topic_names_and_types.cpp.o[0m
+[26.686s] [ 91%] [32mBuilding CXX object CMakeFiles/rmw_fastrtps_dynamic_cpp.dir/src/get_publisher.cpp.o[0m
+[28.609s] [ 94%] [32mBuilding CXX object CMakeFiles/rmw_fastrtps_dynamic_cpp.dir/src/get_participant.cpp.o[0m
+[30.860s] [ 97%] [32mBuilding CXX object CMakeFiles/rmw_fastrtps_dynamic_cpp.dir/src/get_client.cpp.o[0m
+[32.748s] [100%] [32m[1mLinking CXX shared library librmw_fastrtps_dynamic_cpp.so[0m
+[33.031s] [100%] Built target rmw_fastrtps_dynamic_cpp
+[33.277s] [100%] Built target rmw_fastrtps_dynamic_cpp
+[33.304s] [36mInstall the project...[0m
+[33.316s] -- Install configuration: ""
+[33.317s] -- Installing: /opt/workspace/install/rmw_fastrtps_dynamic_cpp/share/rmw_fastrtps_dynamic_cpp/environment/library_path.sh
+[33.317s] -- Installing: /opt/workspace/install/rmw_fastrtps_dynamic_cpp/share/rmw_fastrtps_dynamic_cpp/environment/library_path.dsv
+[33.317s] -- Installing: /opt/workspace/install/rmw_fastrtps_dynamic_cpp/share/ament_index/resource_index/rmw_typesupport_c/rmw_fastrtps_dynamic_cpp
+[33.317s] -- Installing: /opt/workspace/install/rmw_fastrtps_dynamic_cpp/share/ament_index/resource_index/rmw_typesupport_cpp/rmw_fastrtps_dynamic_cpp
+[33.318s] -- Installing: /opt/workspace/install/rmw_fastrtps_dynamic_cpp/share/ament_index/resource_index/rmw_typesupport/rmw_fastrtps_dynamic_cpp
+[33.318s] -- Installing: /opt/workspace/install/rmw_fastrtps_dynamic_cpp/share/ament_index/resource_index/package_run_dependencies/rmw_fastrtps_dynamic_cpp
+[33.318s] -- Installing: /opt/workspace/install/rmw_fastrtps_dynamic_cpp/share/ament_index/resource_index/parent_prefix_path/rmw_fastrtps_dynamic_cpp
+[33.318s] -- Installing: /opt/workspace/install/rmw_fastrtps_dynamic_cpp/share/rmw_fastrtps_dynamic_cpp/environment/ament_prefix_path.sh
+[33.319s] -- Installing: /opt/workspace/install/rmw_fastrtps_dynamic_cpp/share/rmw_fastrtps_dynamic_cpp/environment/ament_prefix_path.dsv
+[33.319s] -- Installing: /opt/workspace/install/rmw_fastrtps_dynamic_cpp/share/rmw_fastrtps_dynamic_cpp/environment/path.sh
+[33.319s] -- Installing: /opt/workspace/install/rmw_fastrtps_dynamic_cpp/share/rmw_fastrtps_dynamic_cpp/environment/path.dsv
+[33.319s] -- Installing: /opt/workspace/install/rmw_fastrtps_dynamic_cpp/share/rmw_fastrtps_dynamic_cpp/local_setup.bash
+[33.320s] -- Installing: /opt/workspace/install/rmw_fastrtps_dynamic_cpp/share/rmw_fastrtps_dynamic_cpp/local_setup.sh
+[33.320s] -- Installing: /opt/workspace/install/rmw_fastrtps_dynamic_cpp/share/rmw_fastrtps_dynamic_cpp/local_setup.zsh
+[33.320s] -- Installing: /opt/workspace/install/rmw_fastrtps_dynamic_cpp/share/rmw_fastrtps_dynamic_cpp/local_setup.dsv
+[33.320s] -- Installing: /opt/workspace/install/rmw_fastrtps_dynamic_cpp/share/rmw_fastrtps_dynamic_cpp/package.dsv
+[33.321s] -- Installing: /opt/workspace/install/rmw_fastrtps_dynamic_cpp/share/ament_index/resource_index/packages/rmw_fastrtps_dynamic_cpp
+[33.321s] -- Installing: /opt/workspace/install/rmw_fastrtps_dynamic_cpp/share/rmw_fastrtps_dynamic_cpp/cmake/ament_cmake_export_include_directories-extras.cmake
+[33.321s] -- Installing: /opt/workspace/install/rmw_fastrtps_dynamic_cpp/share/rmw_fastrtps_dynamic_cpp/cmake/ament_cmake_export_libraries-extras.cmake
+[33.321s] -- Installing: /opt/workspace/install/rmw_fastrtps_dynamic_cpp/share/rmw_fastrtps_dynamic_cpp/cmake/ament_cmake_export_dependencies-extras.cmake
+[33.322s] -- Installing: /opt/workspace/install/rmw_fastrtps_dynamic_cpp/share/rmw_fastrtps_dynamic_cpp/cmake/rmw_fastrtps_dynamic_cpp-extras.cmake
+[33.322s] -- Installing: /opt/workspace/install/rmw_fastrtps_dynamic_cpp/share/rmw_fastrtps_dynamic_cpp/cmake/rmw_fastrtps_dynamic_cppConfig.cmake
+[33.322s] -- Installing: /opt/workspace/install/rmw_fastrtps_dynamic_cpp/share/rmw_fastrtps_dynamic_cpp/cmake/rmw_fastrtps_dynamic_cppConfig-version.cmake
+[33.322s] -- Installing: /opt/workspace/install/rmw_fastrtps_dynamic_cpp/share/rmw_fastrtps_dynamic_cpp/package.xml
+[33.323s] -- Installing: /opt/workspace/install/rmw_fastrtps_dynamic_cpp/include
+[33.323s] -- Installing: /opt/workspace/install/rmw_fastrtps_dynamic_cpp/include/rmw_fastrtps_dynamic_cpp
+[33.323s] -- Installing: /opt/workspace/install/rmw_fastrtps_dynamic_cpp/include/rmw_fastrtps_dynamic_cpp/identifier.hpp
+[33.323s] -- Installing: /opt/workspace/install/rmw_fastrtps_dynamic_cpp/include/rmw_fastrtps_dynamic_cpp/TypeSupport.hpp
+[33.323s] -- Installing: /opt/workspace/install/rmw_fastrtps_dynamic_cpp/include/rmw_fastrtps_dynamic_cpp/ServiceTypeSupport.hpp
+[33.324s] -- Installing: /opt/workspace/install/rmw_fastrtps_dynamic_cpp/include/rmw_fastrtps_dynamic_cpp/visibility_control.h
+[33.324s] -- Installing: /opt/workspace/install/rmw_fastrtps_dynamic_cpp/include/rmw_fastrtps_dynamic_cpp/TypeSupport_impl.hpp
+[33.324s] -- Installing: /opt/workspace/install/rmw_fastrtps_dynamic_cpp/include/rmw_fastrtps_dynamic_cpp/get_publisher.hpp
+[33.324s] -- Installing: /opt/workspace/install/rmw_fastrtps_dynamic_cpp/include/rmw_fastrtps_dynamic_cpp/serialization_format.hpp
+[33.324s] -- Installing: /opt/workspace/install/rmw_fastrtps_dynamic_cpp/include/rmw_fastrtps_dynamic_cpp/ServiceTypeSupport_impl.hpp
+[33.325s] -- Installing: /opt/workspace/install/rmw_fastrtps_dynamic_cpp/include/rmw_fastrtps_dynamic_cpp/get_service.hpp
+[33.325s] -- Installing: /opt/workspace/install/rmw_fastrtps_dynamic_cpp/include/rmw_fastrtps_dynamic_cpp/MessageTypeSupport.hpp
+[33.325s] -- Installing: /opt/workspace/install/rmw_fastrtps_dynamic_cpp/include/rmw_fastrtps_dynamic_cpp/macros.hpp
+[33.325s] -- Installing: /opt/workspace/install/rmw_fastrtps_dynamic_cpp/include/rmw_fastrtps_dynamic_cpp/MessageTypeSupport_impl.hpp
+[33.325s] -- Installing: /opt/workspace/install/rmw_fastrtps_dynamic_cpp/include/rmw_fastrtps_dynamic_cpp/get_client.hpp
+[33.325s] -- Installing: /opt/workspace/install/rmw_fastrtps_dynamic_cpp/include/rmw_fastrtps_dynamic_cpp/get_participant.hpp
+[33.326s] -- Installing: /opt/workspace/install/rmw_fastrtps_dynamic_cpp/include/rmw_fastrtps_dynamic_cpp/get_subscriber.hpp
+[33.326s] -- Installing: /opt/workspace/install/rmw_fastrtps_dynamic_cpp/lib/librmw_fastrtps_dynamic_cpp.so
+[33.326s] -- Set runtime path of "/opt/workspace/install/rmw_fastrtps_dynamic_cpp/lib/librmw_fastrtps_dynamic_cpp.so" to ""

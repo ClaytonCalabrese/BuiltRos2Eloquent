@@ -1,0 +1,19 @@
+[2.603s] running egg_info
+[2.612s] writing /opt/workspace/build/ament_cppcheck/ament_cppcheck.egg-info/PKG-INFO
+[2.613s] writing dependency_links to /opt/workspace/build/ament_cppcheck/ament_cppcheck.egg-info/dependency_links.txt
+[2.614s] writing entry points to /opt/workspace/build/ament_cppcheck/ament_cppcheck.egg-info/entry_points.txt
+[2.615s] writing requirements to /opt/workspace/build/ament_cppcheck/ament_cppcheck.egg-info/requires.txt
+[2.615s] writing top-level names to /opt/workspace/build/ament_cppcheck/ament_cppcheck.egg-info/top_level.txt
+[2.659s] reading manifest file '/opt/workspace/build/ament_cppcheck/ament_cppcheck.egg-info/SOURCES.txt'
+[2.661s] writing manifest file '/opt/workspace/build/ament_cppcheck/ament_cppcheck.egg-info/SOURCES.txt'
+[2.661s] running build
+[2.661s] running build_py
+[2.661s] running install
+[2.662s] running install_lib
+[2.663s] running install_data
+[2.664s] running install_egg_info
+[2.667s] removing '/opt/workspace/install/ament_cppcheck/lib/python3.6/site-packages/ament_cppcheck-0.8.1-py3.6.egg-info' (and everything under it)
+[2.668s] Copying /opt/workspace/build/ament_cppcheck/ament_cppcheck.egg-info to /opt/workspace/install/ament_cppcheck/lib/python3.6/site-packages/ament_cppcheck-0.8.1-py3.6.egg-info
+[2.669s] running install_scripts
+[2.693s] Installing ament_cppcheck script to /opt/workspace/install/ament_cppcheck/bin
+[2.694s] writing list of installed files to '/opt/workspace/build/ament_cppcheck/install.log'

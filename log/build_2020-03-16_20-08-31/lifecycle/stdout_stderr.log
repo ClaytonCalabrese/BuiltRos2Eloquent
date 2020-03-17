@@ -1,0 +1,92 @@
+[0.614s] -- The C compiler identification is GNU 7.4.0
+[0.749s] -- The CXX compiler identification is GNU 7.4.0
+[0.762s] -- Check for working C compiler: /usr/bin/cc
+[0.937s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.939s] -- Detecting C compiler ABI info
+[1.120s] -- Detecting C compiler ABI info - done
+[1.135s] -- Detecting C compile features
+[1.652s] -- Detecting C compile features - done
+[1.658s] -- Check for working CXX compiler: /usr/bin/c++
+[1.846s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[1.848s] -- Detecting CXX compiler ABI info
+[2.040s] -- Detecting CXX compiler ABI info - done
+[2.055s] -- Detecting CXX compile features
+[2.874s] -- Detecting CXX compile features - done
+[2.881s] -- Found ament_cmake: 0.8.2 (/opt/workspace/install/ament_cmake/share/ament_cmake/cmake)
+[3.007s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[3.008s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[3.686s] -- Found rclcpp_lifecycle: 0.8.4 (/opt/workspace/install/rclcpp_lifecycle/share/rclcpp_lifecycle/cmake)
+[3.807s] -- Found rosidl_adapter: 0.8.2 (/opt/workspace/install/rosidl_adapter/share/rosidl_adapter/cmake)
+[3.913s] -- Found rmw_implementation_cmake: 0.8.1 (/opt/workspace/install/rmw_implementation_cmake/share/rmw_implementation_cmake/cmake)
+[3.935s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[3.937s] -- Looking for pthread.h
+[4.119s] -- Looking for pthread.h - found
+[4.120s] -- Looking for pthread_create
+[4.301s] -- Looking for pthread_create - not found
+[4.302s] -- Looking for pthread_create in pthreads
+[4.469s] -- Looking for pthread_create in pthreads - not found
+[4.469s] -- Looking for pthread_create in pthread
+[4.629s] -- Looking for pthread_create in pthread - found
+[4.631s] -- Found Threads: TRUE  
+[4.831s] -- Found std_msgs: 0.8.1 (/opt/workspace/install/std_msgs/share/std_msgs/cmake)
+[4.854s] -- Found ament_lint_auto: 0.8.1 (/opt/workspace/install/ament_lint_auto/share/ament_lint_auto/cmake)
+[5.176s] -- Found launch_testing_ament_cmake: 0.9.6 (/opt/workspace/install/launch_testing_ament_cmake/share/launch_testing_ament_cmake/cmake)
+[5.187s] -- Found python_cmake_module: 0.8.0 (/opt/workspace/install/python_cmake_module/share/python_cmake_module/cmake)
+[5.293s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3.5") 
+[5.322s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.6m.so (found suitable version "3.6.9", minimum required is "3.5") 
+[5.323s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[5.323s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.6m
+[5.324s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.6m.so
+[5.424s] -- Found PythonExtra: .so  
+[5.435s] -- Added test 'copyright' to check for copyright in CMake / C / C++ / Python code
+[5.440s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[5.450s] -- Configured cppcheck include dirs: /opt/workspace/src/ros2/demos/lifecycle/include
+[5.454s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[5.458s] -- Added test 'flake8' to check Python code syntax and style conventions
+[5.461s] -- Added test 'lint_cmake' to check CMake code style
+[5.467s] -- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+[5.472s] -- Added test 'uncrustify' to check C / C++ code style
+[5.476s] -- Added test 'xmllint' to check XML markup files
+[5.486s] -- Configuring done
+[5.661s] -- Generating done
+[5.666s] -- Build files have been written to: /opt/workspace/build/lifecycle
+[5.813s] [35m[1mScanning dependencies of target lifecycle_talker[0m
+[5.920s] [ 16%] [32mBuilding CXX object CMakeFiles/lifecycle_talker.dir/src/lifecycle_talker.cpp.o[0m
+[10.973s] [ 33%] [32m[1mLinking CXX executable lifecycle_talker[0m
+[12.227s] [ 33%] Built target lifecycle_talker
+[12.260s] [35m[1mScanning dependencies of target lifecycle_service_client[0m
+[12.359s] [ 50%] [32mBuilding CXX object CMakeFiles/lifecycle_service_client.dir/src/lifecycle_service_client.cpp.o[0m
+[18.046s] [ 66%] [32m[1mLinking CXX executable lifecycle_service_client[0m
+[19.252s] [ 66%] Built target lifecycle_service_client
+[19.285s] [35m[1mScanning dependencies of target lifecycle_listener[0m
+[19.385s] [ 83%] [32mBuilding CXX object CMakeFiles/lifecycle_listener.dir/src/lifecycle_listener.cpp.o[0m
+[27.037s] [100%] [32m[1mLinking CXX executable lifecycle_listener[0m
+[28.343s] [100%] Built target lifecycle_listener
+[28.628s] [ 33%] Built target lifecycle_talker
+[28.704s] [ 66%] Built target lifecycle_service_client
+[28.786s] [100%] Built target lifecycle_listener
+[28.843s] [36mInstall the project...[0m
+[28.872s] -- Install configuration: ""
+[28.873s] -- Installing: /opt/workspace/install/lifecycle/lib/lifecycle/lifecycle_talker
+[28.876s] -- Set runtime path of "/opt/workspace/install/lifecycle/lib/lifecycle/lifecycle_talker" to ""
+[28.877s] -- Installing: /opt/workspace/install/lifecycle/lib/lifecycle/lifecycle_listener
+[28.880s] -- Set runtime path of "/opt/workspace/install/lifecycle/lib/lifecycle/lifecycle_listener" to ""
+[28.881s] -- Installing: /opt/workspace/install/lifecycle/lib/lifecycle/lifecycle_service_client
+[28.883s] -- Set runtime path of "/opt/workspace/install/lifecycle/lib/lifecycle/lifecycle_service_client" to ""
+[28.884s] -- Installing: /opt/workspace/install/lifecycle/share/lifecycle//launch
+[28.885s] -- Installing: /opt/workspace/install/lifecycle/share/lifecycle//launch/lifecycle_demo.launch.py
+[28.886s] -- Installing: /opt/workspace/install/lifecycle/share/ament_index/resource_index/package_run_dependencies/lifecycle
+[28.887s] -- Installing: /opt/workspace/install/lifecycle/share/ament_index/resource_index/parent_prefix_path/lifecycle
+[28.888s] -- Installing: /opt/workspace/install/lifecycle/share/lifecycle/environment/ament_prefix_path.sh
+[28.889s] -- Installing: /opt/workspace/install/lifecycle/share/lifecycle/environment/ament_prefix_path.dsv
+[28.890s] -- Installing: /opt/workspace/install/lifecycle/share/lifecycle/environment/path.sh
+[28.891s] -- Installing: /opt/workspace/install/lifecycle/share/lifecycle/environment/path.dsv
+[28.891s] -- Installing: /opt/workspace/install/lifecycle/share/lifecycle/local_setup.bash
+[28.892s] -- Installing: /opt/workspace/install/lifecycle/share/lifecycle/local_setup.sh
+[28.893s] -- Installing: /opt/workspace/install/lifecycle/share/lifecycle/local_setup.zsh
+[28.894s] -- Installing: /opt/workspace/install/lifecycle/share/lifecycle/local_setup.dsv
+[28.894s] -- Installing: /opt/workspace/install/lifecycle/share/lifecycle/package.dsv
+[28.895s] -- Installing: /opt/workspace/install/lifecycle/share/ament_index/resource_index/packages/lifecycle
+[28.896s] -- Installing: /opt/workspace/install/lifecycle/share/lifecycle/cmake/lifecycleConfig.cmake
+[28.897s] -- Installing: /opt/workspace/install/lifecycle/share/lifecycle/cmake/lifecycleConfig-version.cmake
+[28.897s] -- Installing: /opt/workspace/install/lifecycle/share/lifecycle/package.xml

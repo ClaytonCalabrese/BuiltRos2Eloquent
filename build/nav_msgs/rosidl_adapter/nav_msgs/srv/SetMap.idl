@@ -1,0 +1,21 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from nav_msgs/srv/SetMap.srv
+// generated code does not contain a copyright notice
+
+#include "geometry_msgs/msg/PoseWithCovarianceStamped.idl"
+#include "nav_msgs/msg/OccupancyGrid.idl"
+
+module nav_msgs {
+  module srv {
+    @verbatim (language="comment", text=
+      " Set a new map together with an initial pose")
+    struct SetMap_Request {
+      nav_msgs::msg::OccupancyGrid map;
+
+      geometry_msgs::msg::PoseWithCovarianceStamped initial_pose;
+    };
+    struct SetMap_Response {
+      boolean success;
+    };
+  };
+};

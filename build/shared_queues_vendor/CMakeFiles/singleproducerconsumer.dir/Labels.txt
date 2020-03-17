@@ -1,0 +1,13 @@
+# Target labels
+ singleproducerconsumer
+# Source files and their labels
+/opt/workspace/build/shared_queues_vendor/CMakeFiles/singleproducerconsumer
+/opt/workspace/build/shared_queues_vendor/CMakeFiles/singleproducerconsumer.rule
+/opt/workspace/build/shared_queues_vendor/CMakeFiles/singleproducerconsumer-complete.rule
+/opt/workspace/build/shared_queues_vendor/singleproducerconsumer-prefix/src/singleproducerconsumer-stamp/singleproducerconsumer-install.rule
+/opt/workspace/build/shared_queues_vendor/singleproducerconsumer-prefix/src/singleproducerconsumer-stamp/singleproducerconsumer-mkdir.rule
+/opt/workspace/build/shared_queues_vendor/singleproducerconsumer-prefix/src/singleproducerconsumer-stamp/singleproducerconsumer-download.rule
+/opt/workspace/build/shared_queues_vendor/singleproducerconsumer-prefix/src/singleproducerconsumer-stamp/singleproducerconsumer-update.rule
+/opt/workspace/build/shared_queues_vendor/singleproducerconsumer-prefix/src/singleproducerconsumer-stamp/singleproducerconsumer-patch.rule
+/opt/workspace/build/shared_queues_vendor/singleproducerconsumer-prefix/src/singleproducerconsumer-stamp/singleproducerconsumer-configure.rule
+/opt/workspace/build/shared_queues_vendor/singleproducerconsumer-prefix/src/singleproducerconsumer-stamp/singleproducerconsumer-build.rule

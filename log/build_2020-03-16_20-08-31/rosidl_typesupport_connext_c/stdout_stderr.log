@@ -1,0 +1,42 @@
+[0.545s] -- The C compiler identification is GNU 7.4.0
+[0.677s] -- The CXX compiler identification is GNU 7.4.0
+[0.688s] -- Check for working C compiler: /usr/bin/cc
+[0.840s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.841s] -- Detecting C compiler ABI info
+[0.992s] -- Detecting C compiler ABI info - done
+[1.006s] -- Detecting C compile features
+[1.574s] -- Detecting C compile features - done
+[1.583s] -- Check for working CXX compiler: /usr/bin/c++
+[1.900s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[1.900s] -- Detecting CXX compiler ABI info
+[2.139s] -- Detecting CXX compiler ABI info - done
+[2.143s] -- Detecting CXX compile features
+[3.022s] -- Detecting CXX compile features - done
+[3.029s] -- Found ament_cmake: 0.8.2 (/opt/workspace/install/ament_cmake/share/ament_cmake/cmake)
+[3.116s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[3.116s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[3.644s] -- Found connext_cmake_module: 0.8.4 (/opt/workspace/install/connext_cmake_module/share/connext_cmake_module/cmake)
+[3.857s] CMake Warning at CMakeLists.txt:37 (message):
+[3.858s]   Could not find RTI Connext - skipping 'rosidl_typesupport_connext_c'
+[3.858s] 
+[3.858s] 
+[3.860s] -- Configuring done
+[3.866s] -- Generating done
+[3.870s] -- Build files have been written to: /opt/workspace/build/rosidl_typesupport_connext_c
+[4.202s] [36mInstall the project...[0m
+[4.231s] -- Install configuration: ""
+[4.232s] -- Installing: /opt/workspace/install/rosidl_typesupport_connext_c/share/ament_index/resource_index/package_run_dependencies/rosidl_typesupport_connext_c
+[4.233s] -- Installing: /opt/workspace/install/rosidl_typesupport_connext_c/share/ament_index/resource_index/parent_prefix_path/rosidl_typesupport_connext_c
+[4.234s] -- Installing: /opt/workspace/install/rosidl_typesupport_connext_c/share/rosidl_typesupport_connext_c/environment/ament_prefix_path.sh
+[4.235s] -- Installing: /opt/workspace/install/rosidl_typesupport_connext_c/share/rosidl_typesupport_connext_c/environment/ament_prefix_path.dsv
+[4.237s] -- Installing: /opt/workspace/install/rosidl_typesupport_connext_c/share/rosidl_typesupport_connext_c/environment/path.sh
+[4.240s] -- Installing: /opt/workspace/install/rosidl_typesupport_connext_c/share/rosidl_typesupport_connext_c/environment/path.dsv
+[4.241s] -- Installing: /opt/workspace/install/rosidl_typesupport_connext_c/share/rosidl_typesupport_connext_c/local_setup.bash
+[4.242s] -- Installing: /opt/workspace/install/rosidl_typesupport_connext_c/share/rosidl_typesupport_connext_c/local_setup.sh
+[4.242s] -- Installing: /opt/workspace/install/rosidl_typesupport_connext_c/share/rosidl_typesupport_connext_c/local_setup.zsh
+[4.243s] -- Installing: /opt/workspace/install/rosidl_typesupport_connext_c/share/rosidl_typesupport_connext_c/local_setup.dsv
+[4.244s] -- Installing: /opt/workspace/install/rosidl_typesupport_connext_c/share/rosidl_typesupport_connext_c/package.dsv
+[4.244s] -- Installing: /opt/workspace/install/rosidl_typesupport_connext_c/share/ament_index/resource_index/packages/rosidl_typesupport_connext_c
+[4.245s] -- Installing: /opt/workspace/install/rosidl_typesupport_connext_c/share/rosidl_typesupport_connext_c/cmake/rosidl_typesupport_connext_cConfig.cmake
+[4.246s] -- Installing: /opt/workspace/install/rosidl_typesupport_connext_c/share/rosidl_typesupport_connext_c/cmake/rosidl_typesupport_connext_cConfig-version.cmake
+[4.247s] -- Installing: /opt/workspace/install/rosidl_typesupport_connext_c/share/rosidl_typesupport_connext_c/package.xml

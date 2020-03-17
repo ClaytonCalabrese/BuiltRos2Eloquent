@@ -1,0 +1,39 @@
+[5.782s] running egg_info
+[5.783s] creating /opt/workspace/build/examples_rclpy_minimal_service/examples_rclpy_minimal_service.egg-info
+[5.784s] writing /opt/workspace/build/examples_rclpy_minimal_service/examples_rclpy_minimal_service.egg-info/PKG-INFO
+[5.784s] writing dependency_links to /opt/workspace/build/examples_rclpy_minimal_service/examples_rclpy_minimal_service.egg-info/dependency_links.txt
+[5.784s] writing entry points to /opt/workspace/build/examples_rclpy_minimal_service/examples_rclpy_minimal_service.egg-info/entry_points.txt
+[5.785s] writing requirements to /opt/workspace/build/examples_rclpy_minimal_service/examples_rclpy_minimal_service.egg-info/requires.txt
+[5.785s] writing top-level names to /opt/workspace/build/examples_rclpy_minimal_service/examples_rclpy_minimal_service.egg-info/top_level.txt
+[5.792s] writing manifest file '/opt/workspace/build/examples_rclpy_minimal_service/examples_rclpy_minimal_service.egg-info/SOURCES.txt'
+[5.857s] reading manifest file '/opt/workspace/build/examples_rclpy_minimal_service/examples_rclpy_minimal_service.egg-info/SOURCES.txt'
+[5.859s] writing manifest file '/opt/workspace/build/examples_rclpy_minimal_service/examples_rclpy_minimal_service.egg-info/SOURCES.txt'
+[5.860s] running build
+[5.860s] running build_py
+[5.860s] creating /opt/workspace/build/examples_rclpy_minimal_service/build
+[5.861s] creating /opt/workspace/build/examples_rclpy_minimal_service/build/lib
+[5.861s] creating /opt/workspace/build/examples_rclpy_minimal_service/build/lib/examples_rclpy_minimal_service
+[5.861s] copying examples_rclpy_minimal_service/__init__.py -> /opt/workspace/build/examples_rclpy_minimal_service/build/lib/examples_rclpy_minimal_service
+[5.861s] copying examples_rclpy_minimal_service/service.py -> /opt/workspace/build/examples_rclpy_minimal_service/build/lib/examples_rclpy_minimal_service
+[5.862s] copying examples_rclpy_minimal_service/service_member_function.py -> /opt/workspace/build/examples_rclpy_minimal_service/build/lib/examples_rclpy_minimal_service
+[5.862s] running install
+[5.862s] running install_lib
+[5.863s] creating /opt/workspace/install/examples_rclpy_minimal_service/lib/python3.6/site-packages/examples_rclpy_minimal_service
+[5.863s] copying /opt/workspace/build/examples_rclpy_minimal_service/build/lib/examples_rclpy_minimal_service/__init__.py -> /opt/workspace/install/examples_rclpy_minimal_service/lib/python3.6/site-packages/examples_rclpy_minimal_service
+[5.864s] copying /opt/workspace/build/examples_rclpy_minimal_service/build/lib/examples_rclpy_minimal_service/service.py -> /opt/workspace/install/examples_rclpy_minimal_service/lib/python3.6/site-packages/examples_rclpy_minimal_service
+[5.864s] copying /opt/workspace/build/examples_rclpy_minimal_service/build/lib/examples_rclpy_minimal_service/service_member_function.py -> /opt/workspace/install/examples_rclpy_minimal_service/lib/python3.6/site-packages/examples_rclpy_minimal_service
+[5.864s] byte-compiling /opt/workspace/install/examples_rclpy_minimal_service/lib/python3.6/site-packages/examples_rclpy_minimal_service/__init__.py to __init__.cpython-36.pyc
+[5.865s] byte-compiling /opt/workspace/install/examples_rclpy_minimal_service/lib/python3.6/site-packages/examples_rclpy_minimal_service/service.py to service.cpython-36.pyc
+[5.865s] byte-compiling /opt/workspace/install/examples_rclpy_minimal_service/lib/python3.6/site-packages/examples_rclpy_minimal_service/service_member_function.py to service_member_function.cpython-36.pyc
+[5.865s] running install_data
+[5.866s] creating /opt/workspace/install/examples_rclpy_minimal_service/share/ament_index
+[5.866s] creating /opt/workspace/install/examples_rclpy_minimal_service/share/ament_index/resource_index
+[5.867s] creating /opt/workspace/install/examples_rclpy_minimal_service/share/ament_index/resource_index/packages
+[5.867s] copying resource/examples_rclpy_minimal_service -> /opt/workspace/install/examples_rclpy_minimal_service/share/ament_index/resource_index/packages
+[5.867s] copying package.xml -> /opt/workspace/install/examples_rclpy_minimal_service/share/examples_rclpy_minimal_service
+[5.868s] running install_egg_info
+[5.871s] Copying /opt/workspace/build/examples_rclpy_minimal_service/examples_rclpy_minimal_service.egg-info to /opt/workspace/install/examples_rclpy_minimal_service/lib/python3.6/site-packages/examples_rclpy_minimal_service-0.8.2-py3.6.egg-info
+[5.872s] running install_scripts
+[5.910s] Installing service script to /opt/workspace/install/examples_rclpy_minimal_service/lib/examples_rclpy_minimal_service
+[5.910s] Installing service_member_function script to /opt/workspace/install/examples_rclpy_minimal_service/lib/examples_rclpy_minimal_service
+[5.910s] writing list of installed files to '/opt/workspace/build/examples_rclpy_minimal_service/install.log'

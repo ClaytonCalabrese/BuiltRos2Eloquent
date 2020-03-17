@@ -1,0 +1,14 @@
+# Target labels
+ googletest
+# Source files and their labels
+/opt/workspace/build/test_osrf_testing_tools_cpp/googletest-1.8.0-extracted/CMakeFiles/googletest
+/opt/workspace/build/test_osrf_testing_tools_cpp/googletest-1.8.0-extracted/CMakeFiles/googletest.rule
+/opt/workspace/build/test_osrf_testing_tools_cpp/googletest-1.8.0-extracted/CMakeFiles/googletest-complete.rule
+/opt/workspace/build/test_osrf_testing_tools_cpp/googletest-1.8.0-extracted/googletest-prefix/src/googletest-stamp/googletest-install.rule
+/opt/workspace/build/test_osrf_testing_tools_cpp/googletest-1.8.0-extracted/googletest-prefix/src/googletest-stamp/googletest-mkdir.rule
+/opt/workspace/build/test_osrf_testing_tools_cpp/googletest-1.8.0-extracted/googletest-prefix/src/googletest-stamp/googletest-download.rule
+/opt/workspace/build/test_osrf_testing_tools_cpp/googletest-1.8.0-extracted/googletest-prefix/src/googletest-stamp/googletest-update.rule
+/opt/workspace/build/test_osrf_testing_tools_cpp/googletest-1.8.0-extracted/googletest-prefix/src/googletest-stamp/googletest-patch.rule
+/opt/workspace/build/test_osrf_testing_tools_cpp/googletest-1.8.0-extracted/googletest-prefix/src/googletest-stamp/googletest-configure.rule
+/opt/workspace/build/test_osrf_testing_tools_cpp/googletest-1.8.0-extracted/googletest-prefix/src/googletest-stamp/googletest-build.rule
+/opt/workspace/build/test_osrf_testing_tools_cpp/googletest-1.8.0-extracted/googletest-prefix/src/googletest-stamp/googletest-test.rule

@@ -1,0 +1,67 @@
+[3.957s] running egg_info
+[3.961s] creating /opt/workspace/build/ros2param/ros2param.egg-info
+[3.961s] writing /opt/workspace/build/ros2param/ros2param.egg-info/PKG-INFO
+[3.961s] writing dependency_links to /opt/workspace/build/ros2param/ros2param.egg-info/dependency_links.txt
+[3.962s] writing entry points to /opt/workspace/build/ros2param/ros2param.egg-info/entry_points.txt
+[3.962s] writing requirements to /opt/workspace/build/ros2param/ros2param.egg-info/requires.txt
+[3.962s] writing top-level names to /opt/workspace/build/ros2param/ros2param.egg-info/top_level.txt
+[3.962s] writing manifest file '/opt/workspace/build/ros2param/ros2param.egg-info/SOURCES.txt'
+[3.963s] reading manifest file '/opt/workspace/build/ros2param/ros2param.egg-info/SOURCES.txt'
+[3.963s] writing manifest file '/opt/workspace/build/ros2param/ros2param.egg-info/SOURCES.txt'
+[3.963s] running build
+[3.964s] running build_py
+[3.964s] creating /opt/workspace/build/ros2param/build
+[3.964s] creating /opt/workspace/build/ros2param/build/lib
+[3.964s] creating /opt/workspace/build/ros2param/build/lib/ros2param
+[3.965s] copying ros2param/__init__.py -> /opt/workspace/build/ros2param/build/lib/ros2param
+[3.965s] creating /opt/workspace/build/ros2param/build/lib/ros2param/api
+[3.965s] copying ros2param/api/__init__.py -> /opt/workspace/build/ros2param/build/lib/ros2param/api
+[3.965s] creating /opt/workspace/build/ros2param/build/lib/ros2param/verb
+[3.966s] copying ros2param/verb/set.py -> /opt/workspace/build/ros2param/build/lib/ros2param/verb
+[3.966s] copying ros2param/verb/__init__.py -> /opt/workspace/build/ros2param/build/lib/ros2param/verb
+[3.966s] copying ros2param/verb/list.py -> /opt/workspace/build/ros2param/build/lib/ros2param/verb
+[3.966s] copying ros2param/verb/get.py -> /opt/workspace/build/ros2param/build/lib/ros2param/verb
+[3.967s] copying ros2param/verb/dump.py -> /opt/workspace/build/ros2param/build/lib/ros2param/verb
+[3.967s] copying ros2param/verb/describe.py -> /opt/workspace/build/ros2param/build/lib/ros2param/verb
+[3.967s] copying ros2param/verb/delete.py -> /opt/workspace/build/ros2param/build/lib/ros2param/verb
+[3.967s] creating /opt/workspace/build/ros2param/build/lib/ros2param/command
+[3.968s] copying ros2param/command/__init__.py -> /opt/workspace/build/ros2param/build/lib/ros2param/command
+[3.968s] copying ros2param/command/param.py -> /opt/workspace/build/ros2param/build/lib/ros2param/command
+[3.968s] running install
+[3.968s] running install_lib
+[3.969s] creating /opt/workspace/install/ros2param/lib/python3.6/site-packages/ros2param
+[3.969s] copying /opt/workspace/build/ros2param/build/lib/ros2param/__init__.py -> /opt/workspace/install/ros2param/lib/python3.6/site-packages/ros2param
+[3.969s] creating /opt/workspace/install/ros2param/lib/python3.6/site-packages/ros2param/api
+[3.969s] copying /opt/workspace/build/ros2param/build/lib/ros2param/api/__init__.py -> /opt/workspace/install/ros2param/lib/python3.6/site-packages/ros2param/api
+[3.969s] creating /opt/workspace/install/ros2param/lib/python3.6/site-packages/ros2param/verb
+[3.970s] copying /opt/workspace/build/ros2param/build/lib/ros2param/verb/set.py -> /opt/workspace/install/ros2param/lib/python3.6/site-packages/ros2param/verb
+[3.970s] copying /opt/workspace/build/ros2param/build/lib/ros2param/verb/__init__.py -> /opt/workspace/install/ros2param/lib/python3.6/site-packages/ros2param/verb
+[3.970s] copying /opt/workspace/build/ros2param/build/lib/ros2param/verb/list.py -> /opt/workspace/install/ros2param/lib/python3.6/site-packages/ros2param/verb
+[3.970s] copying /opt/workspace/build/ros2param/build/lib/ros2param/verb/get.py -> /opt/workspace/install/ros2param/lib/python3.6/site-packages/ros2param/verb
+[3.971s] copying /opt/workspace/build/ros2param/build/lib/ros2param/verb/dump.py -> /opt/workspace/install/ros2param/lib/python3.6/site-packages/ros2param/verb
+[3.971s] copying /opt/workspace/build/ros2param/build/lib/ros2param/verb/describe.py -> /opt/workspace/install/ros2param/lib/python3.6/site-packages/ros2param/verb
+[3.972s] copying /opt/workspace/build/ros2param/build/lib/ros2param/verb/delete.py -> /opt/workspace/install/ros2param/lib/python3.6/site-packages/ros2param/verb
+[3.973s] creating /opt/workspace/install/ros2param/lib/python3.6/site-packages/ros2param/command
+[3.973s] copying /opt/workspace/build/ros2param/build/lib/ros2param/command/__init__.py -> /opt/workspace/install/ros2param/lib/python3.6/site-packages/ros2param/command
+[3.974s] copying /opt/workspace/build/ros2param/build/lib/ros2param/command/param.py -> /opt/workspace/install/ros2param/lib/python3.6/site-packages/ros2param/command
+[3.974s] byte-compiling /opt/workspace/install/ros2param/lib/python3.6/site-packages/ros2param/__init__.py to __init__.cpython-36.pyc
+[3.974s] byte-compiling /opt/workspace/install/ros2param/lib/python3.6/site-packages/ros2param/api/__init__.py to __init__.cpython-36.pyc
+[3.975s] byte-compiling /opt/workspace/install/ros2param/lib/python3.6/site-packages/ros2param/verb/set.py to set.cpython-36.pyc
+[3.975s] byte-compiling /opt/workspace/install/ros2param/lib/python3.6/site-packages/ros2param/verb/__init__.py to __init__.cpython-36.pyc
+[3.975s] byte-compiling /opt/workspace/install/ros2param/lib/python3.6/site-packages/ros2param/verb/list.py to list.cpython-36.pyc
+[3.976s] byte-compiling /opt/workspace/install/ros2param/lib/python3.6/site-packages/ros2param/verb/get.py to get.cpython-36.pyc
+[3.976s] byte-compiling /opt/workspace/install/ros2param/lib/python3.6/site-packages/ros2param/verb/dump.py to dump.cpython-36.pyc
+[3.976s] byte-compiling /opt/workspace/install/ros2param/lib/python3.6/site-packages/ros2param/verb/describe.py to describe.cpython-36.pyc
+[3.977s] byte-compiling /opt/workspace/install/ros2param/lib/python3.6/site-packages/ros2param/verb/delete.py to delete.cpython-36.pyc
+[3.978s] byte-compiling /opt/workspace/install/ros2param/lib/python3.6/site-packages/ros2param/command/__init__.py to __init__.cpython-36.pyc
+[3.978s] byte-compiling /opt/workspace/install/ros2param/lib/python3.6/site-packages/ros2param/command/param.py to param.cpython-36.pyc
+[3.978s] running install_data
+[3.978s] copying package.xml -> /opt/workspace/install/ros2param/share/ros2param
+[3.980s] creating /opt/workspace/install/ros2param/share/ament_index
+[3.980s] creating /opt/workspace/install/ros2param/share/ament_index/resource_index
+[3.981s] creating /opt/workspace/install/ros2param/share/ament_index/resource_index/packages
+[3.982s] copying resource/ros2param -> /opt/workspace/install/ros2param/share/ament_index/resource_index/packages
+[3.982s] running install_egg_info
+[3.983s] Copying /opt/workspace/build/ros2param/ros2param.egg-info to /opt/workspace/install/ros2param/lib/python3.6/site-packages/ros2param-0.8.7-py3.6.egg-info
+[3.983s] running install_scripts
+[3.983s] writing list of installed files to '/opt/workspace/build/ros2param/install.log'

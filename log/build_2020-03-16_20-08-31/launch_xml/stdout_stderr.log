@@ -1,0 +1,45 @@
+[3.515s] running egg_info
+[3.516s] creating /opt/workspace/build/launch_xml/launch_xml.egg-info
+[3.517s] writing /opt/workspace/build/launch_xml/launch_xml.egg-info/PKG-INFO
+[3.517s] writing dependency_links to /opt/workspace/build/launch_xml/launch_xml.egg-info/dependency_links.txt
+[3.517s] writing entry points to /opt/workspace/build/launch_xml/launch_xml.egg-info/entry_points.txt
+[3.518s] writing requirements to /opt/workspace/build/launch_xml/launch_xml.egg-info/requires.txt
+[3.518s] writing top-level names to /opt/workspace/build/launch_xml/launch_xml.egg-info/top_level.txt
+[3.525s] writing manifest file '/opt/workspace/build/launch_xml/launch_xml.egg-info/SOURCES.txt'
+[3.608s] reading manifest file '/opt/workspace/build/launch_xml/launch_xml.egg-info/SOURCES.txt'
+[3.610s] writing manifest file '/opt/workspace/build/launch_xml/launch_xml.egg-info/SOURCES.txt'
+[3.611s] running build
+[3.611s] running build_py
+[3.611s] creating /opt/workspace/build/launch_xml/build
+[3.611s] creating /opt/workspace/build/launch_xml/build/lib
+[3.611s] creating /opt/workspace/build/launch_xml/build/lib/launch_xml
+[3.612s] copying launch_xml/__init__.py -> /opt/workspace/build/launch_xml/build/lib/launch_xml
+[3.612s] copying launch_xml/entity.py -> /opt/workspace/build/launch_xml/build/lib/launch_xml
+[3.612s] copying launch_xml/parser.py -> /opt/workspace/build/launch_xml/build/lib/launch_xml
+[3.613s] creating /opt/workspace/build/launch_xml/build/lib/launch_xml/launch_description_sources
+[3.613s] copying launch_xml/launch_description_sources/__init__.py -> /opt/workspace/build/launch_xml/build/lib/launch_xml/launch_description_sources
+[3.613s] copying launch_xml/launch_description_sources/xml_launch_description_source.py -> /opt/workspace/build/launch_xml/build/lib/launch_xml/launch_description_sources
+[3.613s] running install
+[3.614s] running install_lib
+[3.615s] creating /opt/workspace/install/launch_xml/lib/python3.6/site-packages/launch_xml
+[3.616s] copying /opt/workspace/build/launch_xml/build/lib/launch_xml/__init__.py -> /opt/workspace/install/launch_xml/lib/python3.6/site-packages/launch_xml
+[3.616s] creating /opt/workspace/install/launch_xml/lib/python3.6/site-packages/launch_xml/launch_description_sources
+[3.616s] copying /opt/workspace/build/launch_xml/build/lib/launch_xml/launch_description_sources/__init__.py -> /opt/workspace/install/launch_xml/lib/python3.6/site-packages/launch_xml/launch_description_sources
+[3.616s] copying /opt/workspace/build/launch_xml/build/lib/launch_xml/launch_description_sources/xml_launch_description_source.py -> /opt/workspace/install/launch_xml/lib/python3.6/site-packages/launch_xml/launch_description_sources
+[3.616s] copying /opt/workspace/build/launch_xml/build/lib/launch_xml/entity.py -> /opt/workspace/install/launch_xml/lib/python3.6/site-packages/launch_xml
+[3.617s] copying /opt/workspace/build/launch_xml/build/lib/launch_xml/parser.py -> /opt/workspace/install/launch_xml/lib/python3.6/site-packages/launch_xml
+[3.617s] byte-compiling /opt/workspace/install/launch_xml/lib/python3.6/site-packages/launch_xml/__init__.py to __init__.cpython-36.pyc
+[3.618s] byte-compiling /opt/workspace/install/launch_xml/lib/python3.6/site-packages/launch_xml/launch_description_sources/__init__.py to __init__.cpython-36.pyc
+[3.618s] byte-compiling /opt/workspace/install/launch_xml/lib/python3.6/site-packages/launch_xml/launch_description_sources/xml_launch_description_source.py to xml_launch_description_source.cpython-36.pyc
+[3.619s] byte-compiling /opt/workspace/install/launch_xml/lib/python3.6/site-packages/launch_xml/entity.py to entity.cpython-36.pyc
+[3.620s] byte-compiling /opt/workspace/install/launch_xml/lib/python3.6/site-packages/launch_xml/parser.py to parser.cpython-36.pyc
+[3.620s] running install_data
+[3.621s] copying package.xml -> /opt/workspace/install/launch_xml/share/launch_xml
+[3.621s] creating /opt/workspace/install/launch_xml/share/ament_index
+[3.622s] creating /opt/workspace/install/launch_xml/share/ament_index/resource_index
+[3.622s] creating /opt/workspace/install/launch_xml/share/ament_index/resource_index/packages
+[3.622s] copying resource/launch_xml -> /opt/workspace/install/launch_xml/share/ament_index/resource_index/packages
+[3.623s] running install_egg_info
+[3.627s] Copying /opt/workspace/build/launch_xml/launch_xml.egg-info to /opt/workspace/install/launch_xml/lib/python3.6/site-packages/launch_xml-0.9.6-py3.6.egg-info
+[3.628s] running install_scripts
+[3.675s] writing list of installed files to '/opt/workspace/build/launch_xml/install.log'

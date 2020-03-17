@@ -1,0 +1,23 @@
+[0.762s] -- The C compiler identification is GNU 7.4.0
+[0.962s] -- The CXX compiler identification is GNU 7.4.0
+[0.985s] -- Check for working C compiler: /usr/bin/cc
+[1.190s] -- Check for working C compiler: /usr/bin/cc -- works
+[1.191s] -- Detecting C compiler ABI info
+[1.341s] -- Detecting C compiler ABI info - done
+[1.355s] -- Detecting C compile features
+[1.791s] -- Detecting C compile features - done
+[1.794s] -- Check for working CXX compiler: /usr/bin/c++
+[1.948s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[1.949s] -- Detecting CXX compiler ABI info
+[2.105s] -- Detecting CXX compiler ABI info - done
+[2.119s] -- Detecting CXX compile features
+[2.783s] -- Detecting CXX compile features - done
+[2.790s] -- Found foonathan_memory 0.6.2
+[2.793s] -- Configuring done
+[2.795s] -- Generating done
+[2.798s] -- Build files have been written to: /opt/workspace/build/foonathan_memory_vendor
+[3.050s] [36mInstall the project...[0m
+[3.067s] -- Install configuration: ""
+[3.067s] -- Installing: /opt/workspace/install/foonathan_memory_vendor/share/foonathan_memory_vendor/package.xml
+[3.068s] -- Installing: /opt/workspace/install/foonathan_memory_vendor/share/foonathan_memory_vendor/cmake/foonathan_memory_vendorConfig.cmake
+[3.068s] -- Installing: /opt/workspace/install/foonathan_memory_vendor/share/foonathan_memory_vendor/cmake/foonathan_memory_vendorConfig-version.cmake

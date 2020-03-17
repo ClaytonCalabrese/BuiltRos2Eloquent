@@ -1,0 +1,13 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from rqt_py_common/test/msg/Val.msg
+// generated code does not contain a copyright notice
+
+
+module rqt_py_common {
+  module msg {
+    typedef double double__5[5];
+    struct Val {
+      double__5 floats;
+    };
+  };
+};

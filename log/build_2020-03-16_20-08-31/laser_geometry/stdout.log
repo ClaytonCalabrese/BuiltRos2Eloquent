@@ -1,0 +1,98 @@
+[0.954s] -- The C compiler identification is GNU 7.4.0
+[1.106s] -- The CXX compiler identification is GNU 7.4.0
+[1.118s] -- Check for working C compiler: /usr/bin/cc
+[1.459s] -- Check for working C compiler: /usr/bin/cc -- works
+[1.461s] -- Detecting C compiler ABI info
+[1.736s] -- Detecting C compiler ABI info - done
+[1.746s] -- Detecting C compile features
+[2.636s] -- Detecting C compile features - done
+[2.641s] -- Check for working CXX compiler: /usr/bin/c++
+[2.914s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[2.915s] -- Detecting CXX compiler ABI info
+[3.226s] -- Detecting CXX compiler ABI info - done
+[3.238s] -- Detecting CXX compile features
+[4.598s] -- Detecting CXX compile features - done
+[4.621s] -- Found ament_cmake: 0.8.2 (/opt/workspace/install/ament_cmake/share/ament_cmake/cmake)
+[4.813s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[4.814s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[5.695s] -- Found rclcpp: 0.8.4 (/opt/workspace/install/rclcpp/share/rclcpp/cmake)
+[5.832s] -- Found rosidl_adapter: 0.8.2 (/opt/workspace/install/rosidl_adapter/share/rosidl_adapter/cmake)
+[5.919s] -- Found rmw_implementation_cmake: 0.8.1 (/opt/workspace/install/rmw_implementation_cmake/share/rmw_implementation_cmake/cmake)
+[5.933s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[5.935s] -- Looking for pthread.h
+[6.229s] -- Looking for pthread.h - found
+[6.230s] -- Looking for pthread_create
+[6.550s] -- Looking for pthread_create - not found
+[6.551s] -- Looking for pthread_create in pthreads
+[6.799s] -- Looking for pthread_create in pthreads - not found
+[6.800s] -- Looking for pthread_create in pthread
+[7.186s] -- Looking for pthread_create in pthread - found
+[7.188s] -- Found Threads: TRUE  
+[7.307s] -- Found sensor_msgs: 0.8.1 (/opt/workspace/install/sensor_msgs/share/sensor_msgs/cmake)
+[7.357s] -- Found tf2: 0.12.5 (/opt/workspace/install/tf2/share/tf2/cmake)
+[7.379s] -- Found eigen3_cmake_module: 0.1.1 (/opt/workspace/install/eigen3_cmake_module/share/eigen3_cmake_module/cmake)
+[7.399s] -- Found Eigen3: TRUE (found version "3.3.4") 
+[7.542s] -- Found ament_cmake_cppcheck: 0.8.1 (/opt/workspace/install/ament_cmake_cppcheck/share/ament_cmake_cppcheck/cmake)
+[7.552s] -- Found ament_cmake_cpplint: 0.8.1 (/opt/workspace/install/ament_cmake_cpplint/share/ament_cmake_cpplint/cmake)
+[7.563s] -- Found ament_cmake_lint_cmake: 0.8.1 (/opt/workspace/install/ament_cmake_lint_cmake/share/ament_cmake_lint_cmake/cmake)
+[7.574s] -- Found ament_cmake_uncrustify: 0.8.1 (/opt/workspace/install/ament_cmake_uncrustify/share/ament_cmake_uncrustify/cmake)
+[7.595s] -- Found ament_cmake_gtest: 0.8.2 (/opt/workspace/install/ament_cmake_gtest/share/ament_cmake_gtest/cmake)
+[7.607s] -- Found ament_cmake_gmock: 0.8.2 (/opt/workspace/install/ament_cmake_gmock/share/ament_cmake_gmock/cmake)
+[7.624s] -- Found gtest sources under '/opt/workspace/install/gtest_vendor/src/gtest_vendor': C++ tests using 'Google Test' will be built
+[7.625s] -- Check if compiler accepts -pthread
+[7.829s] -- Check if compiler accepts -pthread - yes
+[8.028s] -- Configuring done
+[8.109s] -- Generating done
+[8.117s] -- Build files have been written to: /opt/workspace/build/laser_geometry
+[8.249s] [35m[1mScanning dependencies of target laser_geometry[0m
+[8.339s] [ 12%] [32mBuilding CXX object CMakeFiles/laser_geometry.dir/src/laser_geometry.cpp.o[0m
+[10.723s] [ 25%] [32m[1mLinking CXX shared library liblaser_geometry.so[0m
+[11.302s] [ 25%] Built target laser_geometry
+[11.339s] [35m[1mScanning dependencies of target gtest_main[0m
+[11.466s] [ 37%] [32mBuilding CXX object gtest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o[0m
+[12.984s] [ 50%] [32m[1mLinking CXX static library libgtest_main.a[0m
+[13.153s] [ 50%] Built target gtest_main
+[13.204s] [35m[1mScanning dependencies of target gtest[0m
+[13.286s] [ 62%] [32mBuilding CXX object gtest/CMakeFiles/gtest.dir/src/gtest-all.cc.o[0m
+[19.611s] [ 75%] [32m[1mLinking CXX static library libgtest.a[0m
+[19.786s] [ 75%] Built target gtest
+[19.828s] [35m[1mScanning dependencies of target projection_test[0m
+[19.996s] [ 87%] [32mBuilding CXX object CMakeFiles/projection_test.dir/test/projection_test.cpp.o[0m
+[25.286s] [100%] [32m[1mLinking CXX executable projection_test[0m
+[26.172s] [100%] Built target projection_test
+[26.687s] [ 25%] Built target laser_geometry
+[26.808s] [ 50%] Built target gtest_main
+[26.973s] [ 75%] Built target gtest
+[27.191s] [100%] Built target projection_test
+[27.326s] [36mInstall the project...[0m
+[27.350s] -- Install configuration: ""
+[27.351s] -- Installing: /opt/workspace/install/laser_geometry/share/laser_geometry/environment/library_path.sh
+[27.352s] -- Installing: /opt/workspace/install/laser_geometry/share/laser_geometry/environment/library_path.dsv
+[27.353s] -- Installing: /opt/workspace/install/laser_geometry/lib/liblaser_geometry.so
+[27.355s] -- Set runtime path of "/opt/workspace/install/laser_geometry/lib/liblaser_geometry.so" to ""
+[27.356s] -- Installing: /opt/workspace/install/laser_geometry/include
+[27.356s] -- Installing: /opt/workspace/install/laser_geometry/include/laser_geometry
+[27.357s] -- Installing: /opt/workspace/install/laser_geometry/include/laser_geometry/visibility_control.hpp
+[27.357s] -- Installing: /opt/workspace/install/laser_geometry/include/laser_geometry/laser_geometry.hpp
+[27.358s] -- Installing: /opt/workspace/install/laser_geometry/share/ament_index/resource_index/package_run_dependencies/laser_geometry
+[27.359s] -- Installing: /opt/workspace/install/laser_geometry/share/ament_index/resource_index/parent_prefix_path/laser_geometry
+[27.360s] -- Installing: /opt/workspace/install/laser_geometry/share/laser_geometry/environment/ament_prefix_path.sh
+[27.360s] -- Installing: /opt/workspace/install/laser_geometry/share/laser_geometry/environment/ament_prefix_path.dsv
+[27.361s] -- Installing: /opt/workspace/install/laser_geometry/share/laser_geometry/environment/path.sh
+[27.362s] -- Installing: /opt/workspace/install/laser_geometry/share/laser_geometry/environment/path.dsv
+[27.363s] -- Installing: /opt/workspace/install/laser_geometry/share/laser_geometry/local_setup.bash
+[27.363s] -- Installing: /opt/workspace/install/laser_geometry/share/laser_geometry/local_setup.sh
+[27.364s] -- Installing: /opt/workspace/install/laser_geometry/share/laser_geometry/local_setup.zsh
+[27.365s] -- Installing: /opt/workspace/install/laser_geometry/share/laser_geometry/local_setup.dsv
+[27.365s] -- Installing: /opt/workspace/install/laser_geometry/share/laser_geometry/package.dsv
+[27.366s] -- Installing: /opt/workspace/install/laser_geometry/share/ament_index/resource_index/packages/laser_geometry
+[27.367s] -- Installing: /opt/workspace/install/laser_geometry/share/laser_geometry/cmake/laser_geometryExport.cmake
+[27.367s] -- Installing: /opt/workspace/install/laser_geometry/share/laser_geometry/cmake/laser_geometryExport-noconfig.cmake
+[27.368s] -- Installing: /opt/workspace/install/laser_geometry/share/laser_geometry/cmake/laser_geometry-extras.cmake
+[27.369s] -- Installing: /opt/workspace/install/laser_geometry/share/laser_geometry/cmake/ament_cmake_export_include_directories-extras.cmake
+[27.369s] -- Installing: /opt/workspace/install/laser_geometry/share/laser_geometry/cmake/ament_cmake_export_interfaces-extras.cmake
+[27.371s] -- Installing: /opt/workspace/install/laser_geometry/share/laser_geometry/cmake/ament_cmake_export_libraries-extras.cmake
+[27.372s] -- Installing: /opt/workspace/install/laser_geometry/share/laser_geometry/cmake/ament_cmake_export_dependencies-extras.cmake
+[27.373s] -- Installing: /opt/workspace/install/laser_geometry/share/laser_geometry/cmake/laser_geometryConfig.cmake
+[27.374s] -- Installing: /opt/workspace/install/laser_geometry/share/laser_geometry/cmake/laser_geometryConfig-version.cmake
+[27.375s] -- Installing: /opt/workspace/install/laser_geometry/share/laser_geometry/package.xml

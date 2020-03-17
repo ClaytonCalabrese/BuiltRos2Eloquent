@@ -1,0 +1,127 @@
+[0.744s] [  2%] Built target gtest_main
+[0.754s] [  5%] Built target gtest
+[0.758s] [  7%] Built target gmock_main
+[0.773s] [ 36%] Built target rcutils
+[0.778s] [ 40%] Built target gmock
+[0.883s] [ 42%] Built target test_array_list
+[0.883s] [ 45%] Built target test_format_string
+[0.906s] [ 48%] Built target test_isalnum_no_locale
+[0.914s] [ 51%] Built target test_repl_str
+[0.931s] [ 53%] Built target test_strdup
+[0.934s] [ 56%] Built target test_split
+[0.936s] [ 57%] Built target test_uint8_array
+[0.937s] [ 60%] Built target test_string_map
+[0.945s] [ 62%] Built target test_logging
+[0.975s] [ 65%] Built target test_time
+[1.012s] [ 67%] Built target test_hash_map
+[1.025s] [ 70%] Built target test_char_array
+[1.026s] [ 72%] Built target test_atomics_executable
+[1.032s] [ 75%] Built target test_allocator
+[1.046s] [ 77%] Built target test_logging_long_messages
+[1.049s] [ 80%] Built target test_logging_macros_c
+[1.088s] [ 82%] Built target test_error_handling_helpers
+[1.096s] [ 85%] Built target test_error_handling
+[1.107s] [ 87%] Built target test_filesystem
+[1.122s] [ 90%] Built target test_get_env
+[1.129s] [ 92%] Built target test_logging_macros
+[1.131s] [ 95%] Built target test_find
+[1.141s] [ 97%] Built target test_string_array
+[1.156s] [100%] Built target test_snprintf
+[2.362s] [  2%] Built target gmock_main
+[2.380s] [  5%] Built target gtest_main
+[2.382s] [ 33%] Built target rcutils
+[2.430s] [ 36%] Built target gtest
+[2.430s] [ 40%] Built target gmock
+[2.522s] [ 42%] Built target test_logging_macros_c
+[2.556s] [ 45%] Built target test_logging_long_messages
+[2.557s] [ 47%] Built target test_repl_str
+[2.573s] [ 50%] Built target test_logging_macros
+[2.577s] [ 52%] Built target test_error_handling_helpers
+[2.577s] [ 55%] Built target test_atomics_executable
+[2.599s] [ 57%] Built target test_array_list
+[2.632s] [ 60%] Built target test_error_handling
+[2.633s] [ 62%] Built target test_isalnum_no_locale
+[2.658s] [ 65%] Built target test_strdup
+[2.678s] [ 67%] Built target test_split
+[2.716s] [ 70%] Built target test_uint8_array
+[2.722s] [ 72%] Built target test_time
+[2.722s] [ 75%] Built target test_string_map
+[2.725s] [ 77%] Built target test_format_string
+[2.750s] [ 80%] Built target test_hash_map
+[2.773s] [ 82%] Built target test_logging
+[2.802s] [ 85%] Built target test_allocator
+[2.826s] [ 87%] Built target test_get_env
+[2.827s] [ 90%] Built target test_find
+[2.832s] [ 92%] Built target test_char_array
+[2.844s] [ 95%] Built target test_string_array
+[2.868s] [ 97%] Built target test_filesystem
+[2.893s] [100%] Built target test_snprintf
+[2.964s] [36mInstall the project...[0m
+[2.985s] -- Install configuration: ""
+[2.985s] -- Installing: /opt/workspace/install/rcutils/share/rcutils/environment/pythonpath.sh
+[2.986s] -- Installing: /opt/workspace/install/rcutils/share/rcutils/environment/pythonpath.dsv
+[2.986s] -- Installing: /opt/workspace/install/rcutils/lib/python3.6/site-packages/rcutils
+[2.986s] -- Installing: /opt/workspace/install/rcutils/lib/python3.6/site-packages/rcutils/__init__.py
+[2.987s] -- Installing: /opt/workspace/install/rcutils/lib/python3.6/site-packages/rcutils/logging.py
+[3.096s] Listing '/opt/workspace/install/rcutils/lib/python3.6/site-packages/rcutils'...
+[3.097s] Compiling '/opt/workspace/install/rcutils/lib/python3.6/site-packages/rcutils/__init__.py'...
+[3.097s] Compiling '/opt/workspace/install/rcutils/lib/python3.6/site-packages/rcutils/logging.py'...
+[3.105s] -- Installing: /opt/workspace/install/rcutils/lib/librcutils.so
+[3.105s] -- Installing: /opt/workspace/install/rcutils/share/rcutils/environment/library_path.sh
+[3.105s] -- Installing: /opt/workspace/install/rcutils/share/rcutils/environment/library_path.dsv
+[3.106s] -- Installing: /opt/workspace/install/rcutils/share/ament_index/resource_index/package_run_dependencies/rcutils
+[3.106s] -- Installing: /opt/workspace/install/rcutils/share/ament_index/resource_index/parent_prefix_path/rcutils
+[3.106s] -- Installing: /opt/workspace/install/rcutils/share/rcutils/environment/ament_prefix_path.sh
+[3.107s] -- Installing: /opt/workspace/install/rcutils/share/rcutils/environment/ament_prefix_path.dsv
+[3.107s] -- Installing: /opt/workspace/install/rcutils/share/rcutils/environment/path.sh
+[3.107s] -- Installing: /opt/workspace/install/rcutils/share/rcutils/environment/path.dsv
+[3.107s] -- Installing: /opt/workspace/install/rcutils/share/rcutils/local_setup.bash
+[3.108s] -- Installing: /opt/workspace/install/rcutils/share/rcutils/local_setup.sh
+[3.108s] -- Installing: /opt/workspace/install/rcutils/share/rcutils/local_setup.zsh
+[3.108s] -- Installing: /opt/workspace/install/rcutils/share/rcutils/local_setup.dsv
+[3.109s] -- Installing: /opt/workspace/install/rcutils/share/rcutils/package.dsv
+[3.109s] -- Installing: /opt/workspace/install/rcutils/share/ament_index/resource_index/packages/rcutils
+[3.109s] -- Installing: /opt/workspace/install/rcutils/share/rcutils/cmake/ament_cmake_export_link_flags-extras.cmake
+[3.110s] -- Installing: /opt/workspace/install/rcutils/share/rcutils/cmake/ament_cmake_export_dependencies-extras.cmake
+[3.110s] -- Installing: /opt/workspace/install/rcutils/share/rcutils/cmake/ament_cmake_export_include_directories-extras.cmake
+[3.111s] -- Installing: /opt/workspace/install/rcutils/share/rcutils/cmake/ament_cmake_export_libraries-extras.cmake
+[3.111s] -- Installing: /opt/workspace/install/rcutils/share/rcutils/cmake/rcutilsConfig.cmake
+[3.111s] -- Installing: /opt/workspace/install/rcutils/share/rcutils/cmake/rcutilsConfig-version.cmake
+[3.112s] -- Installing: /opt/workspace/install/rcutils/share/rcutils/package.xml
+[3.113s] -- Installing: /opt/workspace/install/rcutils/include
+[3.113s] -- Installing: /opt/workspace/install/rcutils/include/rcutils
+[3.114s] -- Installing: /opt/workspace/install/rcutils/include/rcutils/repl_str.h
+[3.114s] -- Installing: /opt/workspace/install/rcutils/include/rcutils/format_string.h
+[3.115s] -- Installing: /opt/workspace/install/rcutils/include/rcutils/get_env.h
+[3.115s] -- Installing: /opt/workspace/install/rcutils/include/rcutils/visibility_control.h
+[3.115s] -- Installing: /opt/workspace/install/rcutils/include/rcutils/macros.h
+[3.115s] -- Installing: /opt/workspace/install/rcutils/include/rcutils/allocator.h
+[3.116s] -- Installing: /opt/workspace/install/rcutils/include/rcutils/filesystem.h
+[3.116s] -- Installing: /opt/workspace/install/rcutils/include/rcutils/stdatomic_helper
+[3.116s] -- Installing: /opt/workspace/install/rcutils/include/rcutils/stdatomic_helper/win32
+[3.116s] -- Installing: /opt/workspace/install/rcutils/include/rcutils/stdatomic_helper/win32/stdatomic.h
+[3.117s] -- Installing: /opt/workspace/install/rcutils/include/rcutils/stdatomic_helper/gcc
+[3.117s] -- Installing: /opt/workspace/install/rcutils/include/rcutils/stdatomic_helper/gcc/stdatomic.h
+[3.117s] -- Installing: /opt/workspace/install/rcutils/include/rcutils/strdup.h
+[3.118s] -- Installing: /opt/workspace/install/rcutils/include/rcutils/stdatomic_helper.h
+[3.118s] -- Installing: /opt/workspace/install/rcutils/include/rcutils/logging.h
+[3.119s] -- Installing: /opt/workspace/install/rcutils/include/rcutils/snprintf.h
+[3.119s] -- Installing: /opt/workspace/install/rcutils/include/rcutils/error_handling.h
+[3.119s] -- Installing: /opt/workspace/install/rcutils/include/rcutils/isalnum_no_locale.h
+[3.119s] -- Installing: /opt/workspace/install/rcutils/include/rcutils/split.h
+[3.120s] -- Installing: /opt/workspace/install/rcutils/include/rcutils/types
+[3.120s] -- Installing: /opt/workspace/install/rcutils/include/rcutils/types/char_array.h
+[3.120s] -- Installing: /opt/workspace/install/rcutils/include/rcutils/types/array_list.h
+[3.120s] -- Installing: /opt/workspace/install/rcutils/include/rcutils/types/uint8_array.h
+[3.120s] -- Installing: /opt/workspace/install/rcutils/include/rcutils/types/string_map.h
+[3.121s] -- Installing: /opt/workspace/install/rcutils/include/rcutils/types/string_array.h
+[3.121s] -- Installing: /opt/workspace/install/rcutils/include/rcutils/types/hash_map.h
+[3.121s] -- Installing: /opt/workspace/install/rcutils/include/rcutils/types/rcutils_ret.h
+[3.121s] -- Installing: /opt/workspace/install/rcutils/include/rcutils/process.h
+[3.121s] -- Installing: /opt/workspace/install/rcutils/include/rcutils/find.h
+[3.121s] -- Installing: /opt/workspace/install/rcutils/include/rcutils/time.h
+[3.122s] -- Installing: /opt/workspace/install/rcutils/include/rcutils/cmdline_parser.h
+[3.122s] -- Installing: /opt/workspace/install/rcutils/include/rcutils/types.h
+[3.122s] -- Up-to-date: /opt/workspace/install/rcutils/include
+[3.122s] -- Up-to-date: /opt/workspace/install/rcutils/include/rcutils
+[3.122s] -- Installing: /opt/workspace/install/rcutils/include/rcutils/logging_macros.h

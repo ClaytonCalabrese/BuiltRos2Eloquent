@@ -1,0 +1,5 @@
+[3.833s] CMake Warning at CMakeLists.txt:19 (message):
+[3.833s]   Could not find PrismTech OpenSplice - skipping
+[3.833s]   'rosidl_typesupport_opensplice_cpp'
+[3.834s] 
+[3.834s] 

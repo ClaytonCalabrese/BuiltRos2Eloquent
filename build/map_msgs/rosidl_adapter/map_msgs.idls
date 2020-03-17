@@ -1,0 +1,10 @@
+/opt/workspace/build/map_msgs/rosidl_adapter/map_msgs:msg/OccupancyGridUpdate.idl
+/opt/workspace/build/map_msgs/rosidl_adapter/map_msgs:msg/PointCloud2Update.idl
+/opt/workspace/build/map_msgs/rosidl_adapter/map_msgs:msg/ProjectedMapInfo.idl
+/opt/workspace/build/map_msgs/rosidl_adapter/map_msgs:msg/ProjectedMap.idl
+/opt/workspace/build/map_msgs/rosidl_adapter/map_msgs:srv/GetMapROI.idl
+/opt/workspace/build/map_msgs/rosidl_adapter/map_msgs:srv/GetPointMapROI.idl
+/opt/workspace/build/map_msgs/rosidl_adapter/map_msgs:srv/GetPointMap.idl
+/opt/workspace/build/map_msgs/rosidl_adapter/map_msgs:srv/ProjectedMapsInfo.idl
+/opt/workspace/build/map_msgs/rosidl_adapter/map_msgs:srv/SaveMap.idl
+/opt/workspace/build/map_msgs/rosidl_adapter/map_msgs:srv/SetMapProjections.idl

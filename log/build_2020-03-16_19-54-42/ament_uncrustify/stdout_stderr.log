@@ -1,0 +1,39 @@
+[1.733s] running egg_info
+[1.738s] creating /opt/workspace/build/ament_uncrustify/ament_uncrustify.egg-info
+[1.747s] writing /opt/workspace/build/ament_uncrustify/ament_uncrustify.egg-info/PKG-INFO
+[1.747s] writing dependency_links to /opt/workspace/build/ament_uncrustify/ament_uncrustify.egg-info/dependency_links.txt
+[1.747s] writing entry points to /opt/workspace/build/ament_uncrustify/ament_uncrustify.egg-info/entry_points.txt
+[1.748s] writing requirements to /opt/workspace/build/ament_uncrustify/ament_uncrustify.egg-info/requires.txt
+[1.748s] writing top-level names to /opt/workspace/build/ament_uncrustify/ament_uncrustify.egg-info/top_level.txt
+[1.748s] writing manifest file '/opt/workspace/build/ament_uncrustify/ament_uncrustify.egg-info/SOURCES.txt'
+[1.831s] reading manifest file '/opt/workspace/build/ament_uncrustify/ament_uncrustify.egg-info/SOURCES.txt'
+[1.835s] writing manifest file '/opt/workspace/build/ament_uncrustify/ament_uncrustify.egg-info/SOURCES.txt'
+[1.836s] running build
+[1.837s] running build_py
+[1.837s] creating /opt/workspace/build/ament_uncrustify/build
+[1.837s] creating /opt/workspace/build/ament_uncrustify/build/lib
+[1.837s] creating /opt/workspace/build/ament_uncrustify/build/lib/ament_uncrustify
+[1.838s] copying ament_uncrustify/__init__.py -> /opt/workspace/build/ament_uncrustify/build/lib/ament_uncrustify
+[1.838s] copying ament_uncrustify/main.py -> /opt/workspace/build/ament_uncrustify/build/lib/ament_uncrustify
+[1.838s] creating /opt/workspace/build/ament_uncrustify/build/lib/ament_uncrustify/configuration
+[1.839s] copying ament_uncrustify/configuration/ament_code_style.cfg -> /opt/workspace/build/ament_uncrustify/build/lib/ament_uncrustify/configuration
+[1.839s] running install
+[1.839s] running install_lib
+[1.846s] creating /opt/workspace/install/ament_uncrustify/lib/python3.6/site-packages/ament_uncrustify
+[1.846s] copying /opt/workspace/build/ament_uncrustify/build/lib/ament_uncrustify/__init__.py -> /opt/workspace/install/ament_uncrustify/lib/python3.6/site-packages/ament_uncrustify
+[1.847s] copying /opt/workspace/build/ament_uncrustify/build/lib/ament_uncrustify/main.py -> /opt/workspace/install/ament_uncrustify/lib/python3.6/site-packages/ament_uncrustify
+[1.847s] creating /opt/workspace/install/ament_uncrustify/lib/python3.6/site-packages/ament_uncrustify/configuration
+[1.847s] copying /opt/workspace/build/ament_uncrustify/build/lib/ament_uncrustify/configuration/ament_code_style.cfg -> /opt/workspace/install/ament_uncrustify/lib/python3.6/site-packages/ament_uncrustify/configuration
+[1.848s] byte-compiling /opt/workspace/install/ament_uncrustify/lib/python3.6/site-packages/ament_uncrustify/__init__.py to __init__.cpython-36.pyc
+[1.848s] byte-compiling /opt/workspace/install/ament_uncrustify/lib/python3.6/site-packages/ament_uncrustify/main.py to main.cpython-36.pyc
+[1.852s] running install_data
+[1.853s] copying package.xml -> /opt/workspace/install/ament_uncrustify/share/ament_uncrustify
+[1.853s] creating /opt/workspace/install/ament_uncrustify/share/ament_index
+[1.853s] creating /opt/workspace/install/ament_uncrustify/share/ament_index/resource_index
+[1.854s] creating /opt/workspace/install/ament_uncrustify/share/ament_index/resource_index/packages
+[1.854s] copying resource/ament_uncrustify -> /opt/workspace/install/ament_uncrustify/share/ament_index/resource_index/packages
+[1.854s] running install_egg_info
+[1.857s] Copying /opt/workspace/build/ament_uncrustify/ament_uncrustify.egg-info to /opt/workspace/install/ament_uncrustify/lib/python3.6/site-packages/ament_uncrustify-0.8.1-py3.6.egg-info
+[1.858s] running install_scripts
+[1.902s] Installing ament_uncrustify script to /opt/workspace/install/ament_uncrustify/bin
+[1.902s] writing list of installed files to '/opt/workspace/build/ament_uncrustify/install.log'

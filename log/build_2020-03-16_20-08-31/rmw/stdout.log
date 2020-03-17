@@ -1,0 +1,142 @@
+[0.914s] -- The C compiler identification is GNU 7.4.0
+[1.076s] -- The CXX compiler identification is GNU 7.4.0
+[1.092s] -- Check for working C compiler: /usr/bin/cc
+[1.286s] -- Check for working C compiler: /usr/bin/cc -- works
+[1.287s] -- Detecting C compiler ABI info
+[1.586s] -- Detecting C compiler ABI info - done
+[1.602s] -- Detecting C compile features
+[2.399s] -- Detecting C compile features - done
+[2.418s] -- Check for working CXX compiler: /usr/bin/c++
+[2.715s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[2.717s] -- Detecting CXX compiler ABI info
+[3.140s] -- Detecting CXX compiler ABI info - done
+[3.164s] -- Detecting CXX compile features
+[4.291s] -- Detecting CXX compile features - done
+[4.294s] -- Found ament_cmake_ros: 0.8.0 (/opt/workspace/install/ament_cmake_ros/share/ament_cmake_ros/cmake)
+[4.433s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[4.434s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[5.004s] -- Found rcutils: 0.8.4 (/opt/workspace/install/rcutils/share/rcutils/cmake)
+[5.017s] -- Found ament_lint_auto: 0.8.1 (/opt/workspace/install/ament_lint_auto/share/ament_lint_auto/cmake)
+[5.260s] -- Found gmock sources under '/opt/workspace/install/gmock_vendor/src/gmock_vendor': C++ tests using 'Google Mock' will be built
+[5.271s] -- Found gtest sources under '/opt/workspace/install/gtest_vendor/src/gtest_vendor': C++ tests using 'Google Test' will be built
+[5.303s] -- Added test 'copyright' to check for copyright in CMake / C / C++ / Python code
+[5.308s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[5.309s] -- Configured cppcheck include dirs: /opt/workspace/src/ros2/rmw/rmw/include
+[5.337s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[5.337s] -- Added test 'lint_cmake' to check CMake code style
+[5.337s] -- Added test 'uncrustify' to check C / C++ code style
+[5.337s] -- Added test 'xmllint' to check XML markup files
+[5.340s] -- Configuring done
+[5.388s] -- Generating done
+[5.401s] -- Build files have been written to: /opt/workspace/build/rmw
+[5.646s] [35m[1mScanning dependencies of target gmock_main[0m
+[5.667s] [35m[1mScanning dependencies of target rmw[0m
+[5.683s] [35m[1mScanning dependencies of target gmock[0m
+[5.711s] [  3%] [32mBuilding C object CMakeFiles/rmw.dir/src/allocators.c.o[0m
+[5.745s] [  7%] [32mBuilding C object CMakeFiles/rmw.dir/src/convert_rcutils_ret_to_rmw_ret.c.o[0m
+[5.746s] [ 14%] [32mBuilding C object CMakeFiles/rmw.dir/src/event.c.o[0m
+[5.746s] [ 10%] [32mBuilding CXX object gmock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o[0m
+[5.751s] [ 17%] [32mBuilding C object CMakeFiles/rmw.dir/src/init.c.o[0m
+[5.753s] [ 21%] [32mBuilding C object CMakeFiles/rmw.dir/src/loaned_message_sequence.c.o[0m
+[5.755s] [ 25%] [32mBuilding C object CMakeFiles/rmw.dir/src/init_options.c.o[0m
+[5.815s] [ 28%] [32mBuilding CXX object gmock/CMakeFiles/gmock.dir/opt/workspace/install/gtest_vendor/src/gtest_vendor/src/gtest-all.cc.o[0m
+[5.886s] [ 32%] [32mBuilding C object CMakeFiles/rmw.dir/src/names_and_types.c.o[0m
+[5.909s] [ 35%] [32mBuilding C object CMakeFiles/rmw.dir/src/publisher_options.c.o[0m
+[5.933s] [ 39%] [32mBuilding C object CMakeFiles/rmw.dir/src/sanity_checks.c.o[0m
+[5.934s] [ 42%] [32mBuilding C object CMakeFiles/rmw.dir/src/subscription_options.c.o[0m
+[5.977s] [ 46%] [32mBuilding C object CMakeFiles/rmw.dir/src/node_security_options.c.o[0m
+[5.997s] [ 50%] [32mBuilding C object CMakeFiles/rmw.dir/src/validate_full_topic_name.c.o[0m
+[6.120s] [ 53%] [32mBuilding C object CMakeFiles/rmw.dir/src/validate_namespace.c.o[0m
+[6.142s] [ 57%] [32mBuilding CXX object gmock/CMakeFiles/gmock.dir/src/gmock-all.cc.o[0m
+[6.149s] [ 60%] [32mBuilding C object CMakeFiles/rmw.dir/src/validate_node_name.c.o[0m
+[6.334s] [ 64%] [32m[1mLinking C shared library librmw.so[0m
+[6.459s] [ 64%] Built target rmw
+[8.488s] [ 67%] [32m[1mLinking CXX static library libgmock_main.a[0m
+[8.712s] [ 67%] Built target gmock_main
+[17.543s] [ 71%] [32m[1mLinking CXX static library libgmock.a[0m
+[17.958s] [ 71%] Built target gmock
+[18.051s] [35m[1mScanning dependencies of target test_validate_node_name[0m
+[18.211s] [ 75%] [32mBuilding CXX object test/CMakeFiles/test_validate_node_name.dir/test_validate_node_name.cpp.o[0m
+[22.116s] [ 78%] [32m[1mLinking CXX executable test_validate_node_name[0m
+[22.587s] [ 78%] Built target test_validate_node_name
+[22.619s] [35m[1mScanning dependencies of target test_serialized_message[0m
+[22.676s] [ 82%] [32mBuilding CXX object test/CMakeFiles/test_serialized_message.dir/test_serialized_message.cpp.o[0m
+[25.051s] [ 85%] [32m[1mLinking CXX executable test_serialized_message[0m
+[25.448s] [ 85%] Built target test_serialized_message
+[25.500s] [35m[1mScanning dependencies of target test_validate_namespace[0m
+[25.589s] [ 89%] [32mBuilding CXX object test/CMakeFiles/test_validate_namespace.dir/test_validate_namespace.cpp.o[0m
+[28.195s] [ 92%] [32m[1mLinking CXX executable test_validate_namespace[0m
+[28.642s] [ 92%] Built target test_validate_namespace
+[28.663s] [35m[1mScanning dependencies of target test_validate_full_topic_name[0m
+[28.709s] [ 96%] [32mBuilding CXX object test/CMakeFiles/test_validate_full_topic_name.dir/test_validate_full_topic_name.cpp.o[0m
+[30.783s] [100%] [32m[1mLinking CXX executable test_validate_full_topic_name[0m
+[31.159s] [100%] Built target test_validate_full_topic_name
+[31.449s] [ 53%] Built target rmw
+[31.493s] [ 60%] Built target gmock_main
+[31.543s] [ 71%] Built target gmock
+[31.593s] [ 78%] Built target test_validate_node_name
+[31.641s] [ 85%] Built target test_serialized_message
+[31.697s] [ 92%] Built target test_validate_namespace
+[31.741s] [100%] Built target test_validate_full_topic_name
+[31.779s] [36mInstall the project...[0m
+[31.796s] -- Install configuration: ""
+[31.796s] -- Installing: /opt/workspace/install/rmw/share/rmw/environment/library_path.sh
+[31.797s] -- Installing: /opt/workspace/install/rmw/share/rmw/environment/library_path.dsv
+[31.797s] -- Installing: /opt/workspace/install/rmw/share/ament_index/resource_index/package_run_dependencies/rmw
+[31.798s] -- Installing: /opt/workspace/install/rmw/share/ament_index/resource_index/parent_prefix_path/rmw
+[31.798s] -- Installing: /opt/workspace/install/rmw/share/rmw/environment/ament_prefix_path.sh
+[31.799s] -- Installing: /opt/workspace/install/rmw/share/rmw/environment/ament_prefix_path.dsv
+[31.799s] -- Installing: /opt/workspace/install/rmw/share/rmw/environment/path.sh
+[31.799s] -- Installing: /opt/workspace/install/rmw/share/rmw/environment/path.dsv
+[31.800s] -- Installing: /opt/workspace/install/rmw/share/rmw/local_setup.bash
+[31.800s] -- Installing: /opt/workspace/install/rmw/share/rmw/local_setup.sh
+[31.801s] -- Installing: /opt/workspace/install/rmw/share/rmw/local_setup.zsh
+[31.801s] -- Installing: /opt/workspace/install/rmw/share/rmw/local_setup.dsv
+[31.801s] -- Installing: /opt/workspace/install/rmw/share/rmw/package.dsv
+[31.801s] -- Installing: /opt/workspace/install/rmw/share/ament_index/resource_index/packages/rmw
+[31.802s] -- Installing: /opt/workspace/install/rmw/share/rmw/cmake/rmw-extras.cmake
+[31.802s] -- Installing: /opt/workspace/install/rmw/share/rmw/cmake/ament_cmake_export_dependencies-extras.cmake
+[31.803s] -- Installing: /opt/workspace/install/rmw/share/rmw/cmake/ament_cmake_export_include_directories-extras.cmake
+[31.803s] -- Installing: /opt/workspace/install/rmw/share/rmw/cmake/ament_cmake_export_libraries-extras.cmake
+[31.803s] -- Installing: /opt/workspace/install/rmw/share/rmw/cmake/rmwConfig.cmake
+[31.803s] -- Installing: /opt/workspace/install/rmw/share/rmw/cmake/rmwConfig-version.cmake
+[31.804s] -- Installing: /opt/workspace/install/rmw/share/rmw/package.xml
+[31.804s] -- Up-to-date: /opt/workspace/install/rmw/share/rmw/cmake
+[31.804s] -- Installing: /opt/workspace/install/rmw/share/rmw/cmake/get_rmw_typesupport.cmake
+[31.805s] -- Installing: /opt/workspace/install/rmw/share/rmw/cmake/register_rmw_implementation.cmake
+[31.805s] -- Installing: /opt/workspace/install/rmw/share/rmw/cmake/configure_rmw_library.cmake
+[31.805s] -- Installing: /opt/workspace/install/rmw/include
+[31.806s] -- Installing: /opt/workspace/install/rmw/include/rmw
+[31.806s] -- Installing: /opt/workspace/install/rmw/include/rmw/loaned_message_sequence.h
+[31.806s] -- Installing: /opt/workspace/install/rmw/include/rmw/visibility_control.h
+[31.807s] -- Installing: /opt/workspace/install/rmw/include/rmw/publisher_options.h
+[31.807s] -- Installing: /opt/workspace/install/rmw/include/rmw/macros.h
+[31.807s] -- Installing: /opt/workspace/install/rmw/include/rmw/serialized_message.h
+[31.808s] -- Installing: /opt/workspace/install/rmw/include/rmw/get_service_names_and_types.h
+[31.808s] -- Installing: /opt/workspace/install/rmw/include/rmw/node_security_options.h
+[31.808s] -- Installing: /opt/workspace/install/rmw/include/rmw/allocators.h
+[31.809s] -- Installing: /opt/workspace/install/rmw/include/rmw/rmw.h
+[31.810s] -- Installing: /opt/workspace/install/rmw/include/rmw/impl
+[31.810s] -- Installing: /opt/workspace/install/rmw/include/rmw/impl/config.h
+[31.810s] -- Installing: /opt/workspace/install/rmw/include/rmw/impl/cpp
+[31.811s] -- Installing: /opt/workspace/install/rmw/include/rmw/impl/cpp/key_value.hpp
+[31.811s] -- Installing: /opt/workspace/install/rmw/include/rmw/impl/cpp/macros.hpp
+[31.811s] -- Installing: /opt/workspace/install/rmw/include/rmw/impl/cpp/demangle.hpp
+[31.811s] -- Installing: /opt/workspace/install/rmw/include/rmw/qos_profiles.h
+[31.812s] -- Installing: /opt/workspace/install/rmw/include/rmw/error_handling.h
+[31.812s] -- Installing: /opt/workspace/install/rmw/include/rmw/subscription_options.h
+[31.812s] -- Installing: /opt/workspace/install/rmw/include/rmw/validate_node_name.h
+[31.813s] -- Installing: /opt/workspace/install/rmw/include/rmw/ret_types.h
+[31.813s] -- Installing: /opt/workspace/install/rmw/include/rmw/convert_rcutils_ret_to_rmw_ret.h
+[31.813s] -- Installing: /opt/workspace/install/rmw/include/rmw/validate_namespace.h
+[31.813s] -- Installing: /opt/workspace/install/rmw/include/rmw/get_topic_names_and_types.h
+[31.813s] -- Installing: /opt/workspace/install/rmw/include/rmw/init.h
+[31.814s] -- Installing: /opt/workspace/install/rmw/include/rmw/validate_full_topic_name.h
+[31.814s] -- Installing: /opt/workspace/install/rmw/include/rmw/event.h
+[31.814s] -- Installing: /opt/workspace/install/rmw/include/rmw/init_options.h
+[31.814s] -- Installing: /opt/workspace/install/rmw/include/rmw/get_node_info_and_types.h
+[31.814s] -- Installing: /opt/workspace/install/rmw/include/rmw/names_and_types.h
+[31.815s] -- Installing: /opt/workspace/install/rmw/include/rmw/sanity_checks.h
+[31.815s] -- Installing: /opt/workspace/install/rmw/include/rmw/types.h
+[31.815s] -- Installing: /opt/workspace/install/rmw/lib/librmw.so
+[31.815s] -- Set runtime path of "/opt/workspace/install/rmw/lib/librmw.so" to ""

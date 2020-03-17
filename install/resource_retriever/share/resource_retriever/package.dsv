@@ -1,0 +1,11 @@
+source;share/resource_retriever/hook/cmake_prefix_path.ps1
+source;share/resource_retriever/hook/cmake_prefix_path.dsv
+source;share/resource_retriever/hook/cmake_prefix_path.sh
+source;share/resource_retriever/hook/ld_library_path_lib.ps1
+source;share/resource_retriever/hook/ld_library_path_lib.dsv
+source;share/resource_retriever/hook/ld_library_path_lib.sh
+source;share/resource_retriever/local_setup.bash
+source;share/resource_retriever/local_setup.dsv
+source;share/resource_retriever/local_setup.ps1
+source;share/resource_retriever/local_setup.sh
+source;share/resource_retriever/local_setup.zsh

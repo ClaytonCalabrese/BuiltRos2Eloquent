@@ -1,0 +1,15 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from rqt_py_common/test/msg/ArrayVal.msg
+// generated code does not contain a copyright notice
+
+#include "rqt_py_common/msg/Val.idl"
+
+module rqt_py_common {
+  module msg {
+    typedef rqt_py_common::msg::Val rqt_py_common__msg__Val;
+    typedef rqt_py_common__msg__Val rqt_py_common__msg__Val__5[5];
+    struct ArrayVal {
+      rqt_py_common__msg__Val__5 vals;
+    };
+  };
+};

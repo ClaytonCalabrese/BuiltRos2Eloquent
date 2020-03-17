@@ -1,0 +1,40 @@
+[1.124s] Invoking command in '/opt/workspace/src/ament/ament_lint/ament_clang_format': AMENT_PREFIX_PATH=/opt/workspace/install/ament_copyright:/opt/workspace/install/ament_pep257:/opt/workspace/install/ament_flake8:/opt/workspace/install/ament_lint:${AMENT_PREFIX_PATH} PATH=/opt/workspace/install/ament_copyright/bin:/opt/workspace/install/ament_pep257/bin:/opt/workspace/install/ament_flake8/bin:${PATH} PYTHONPATH=/opt/workspace/install/ament_clang_format/lib/python3.6/site-packages:/opt/workspace/install/ament_copyright/lib/python3.6/site-packages:/opt/workspace/install/ament_pep257/lib/python3.6/site-packages:/opt/workspace/install/ament_flake8/lib/python3.6/site-packages:/opt/workspace/install/ament_lint/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base /opt/workspace/build/ament_clang_format build --build-base /opt/workspace/build/ament_clang_format/build install --prefix /opt/workspace/install/ament_clang_format --record /opt/workspace/build/ament_clang_format/install.log --single-version-externally-managed
+[1.570s] running egg_info
+[1.571s] creating /opt/workspace/build/ament_clang_format/ament_clang_format.egg-info
+[1.571s] writing /opt/workspace/build/ament_clang_format/ament_clang_format.egg-info/PKG-INFO
+[1.572s] writing dependency_links to /opt/workspace/build/ament_clang_format/ament_clang_format.egg-info/dependency_links.txt
+[1.572s] writing entry points to /opt/workspace/build/ament_clang_format/ament_clang_format.egg-info/entry_points.txt
+[1.572s] writing requirements to /opt/workspace/build/ament_clang_format/ament_clang_format.egg-info/requires.txt
+[1.573s] writing top-level names to /opt/workspace/build/ament_clang_format/ament_clang_format.egg-info/top_level.txt
+[1.573s] writing manifest file '/opt/workspace/build/ament_clang_format/ament_clang_format.egg-info/SOURCES.txt'
+[1.643s] reading manifest file '/opt/workspace/build/ament_clang_format/ament_clang_format.egg-info/SOURCES.txt'
+[1.645s] writing manifest file '/opt/workspace/build/ament_clang_format/ament_clang_format.egg-info/SOURCES.txt'
+[1.645s] running build
+[1.645s] running build_py
+[1.646s] creating /opt/workspace/build/ament_clang_format/build
+[1.646s] creating /opt/workspace/build/ament_clang_format/build/lib
+[1.646s] creating /opt/workspace/build/ament_clang_format/build/lib/ament_clang_format
+[1.647s] copying ament_clang_format/__init__.py -> /opt/workspace/build/ament_clang_format/build/lib/ament_clang_format
+[1.647s] copying ament_clang_format/main.py -> /opt/workspace/build/ament_clang_format/build/lib/ament_clang_format
+[1.647s] creating /opt/workspace/build/ament_clang_format/build/lib/ament_clang_format/configuration
+[1.647s] copying ament_clang_format/configuration/.clang-format -> /opt/workspace/build/ament_clang_format/build/lib/ament_clang_format/configuration
+[1.647s] running install
+[1.648s] running install_lib
+[1.648s] creating /opt/workspace/install/ament_clang_format/lib/python3.6/site-packages/ament_clang_format
+[1.648s] copying /opt/workspace/build/ament_clang_format/build/lib/ament_clang_format/__init__.py -> /opt/workspace/install/ament_clang_format/lib/python3.6/site-packages/ament_clang_format
+[1.649s] copying /opt/workspace/build/ament_clang_format/build/lib/ament_clang_format/main.py -> /opt/workspace/install/ament_clang_format/lib/python3.6/site-packages/ament_clang_format
+[1.649s] creating /opt/workspace/install/ament_clang_format/lib/python3.6/site-packages/ament_clang_format/configuration
+[1.649s] copying /opt/workspace/build/ament_clang_format/build/lib/ament_clang_format/configuration/.clang-format -> /opt/workspace/install/ament_clang_format/lib/python3.6/site-packages/ament_clang_format/configuration
+[1.649s] byte-compiling /opt/workspace/install/ament_clang_format/lib/python3.6/site-packages/ament_clang_format/__init__.py to __init__.cpython-36.pyc
+[1.650s] byte-compiling /opt/workspace/install/ament_clang_format/lib/python3.6/site-packages/ament_clang_format/main.py to main.cpython-36.pyc
+[1.653s] running install_data
+[1.653s] copying package.xml -> /opt/workspace/install/ament_clang_format/share/ament_clang_format
+[1.654s] creating /opt/workspace/install/ament_clang_format/share/ament_index
+[1.655s] creating /opt/workspace/install/ament_clang_format/share/ament_index/resource_index
+[1.655s] creating /opt/workspace/install/ament_clang_format/share/ament_index/resource_index/packages
+[1.655s] copying resource/ament_clang_format -> /opt/workspace/install/ament_clang_format/share/ament_index/resource_index/packages
+[1.655s] running install_egg_info
+[1.657s] Copying /opt/workspace/build/ament_clang_format/ament_clang_format.egg-info to /opt/workspace/install/ament_clang_format/lib/python3.6/site-packages/ament_clang_format-0.8.1-py3.6.egg-info
+[1.658s] running install_scripts
+[1.694s] Installing ament_clang_format script to /opt/workspace/install/ament_clang_format/bin
+[1.694s] writing list of installed files to '/opt/workspace/build/ament_clang_format/install.log'

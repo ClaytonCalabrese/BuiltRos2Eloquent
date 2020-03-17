@@ -1,0 +1,26 @@
+{
+  "package_name": "rqt_py_common",
+  "output_dir": "/opt/workspace/build/rqt_py_common/rosidl_generator_cpp/rqt_py_common",
+  "template_dir": "/opt/workspace/install/rosidl_generator_cpp/share/rosidl_generator_cpp/cmake/../resource",
+  "idl_tuples": [
+    "/opt/workspace/build/rqt_py_common/rosidl_adapter/rqt_py_common:msg/Val.idl",
+    "/opt/workspace/build/rqt_py_common/rosidl_adapter/rqt_py_common:msg/ArrayVal.idl",
+    "/opt/workspace/build/rqt_py_common/rosidl_adapter/rqt_py_common:srv/AddTwoInts.idl"
+  ],
+  "target_dependencies": [
+    "/opt/workspace/install/rosidl_generator_cpp/share/rosidl_generator_cpp/cmake/../../../lib/rosidl_generator_cpp/rosidl_generator_cpp",
+    "/opt/workspace/install/rosidl_generator_cpp/share/rosidl_generator_cpp/cmake/../../../lib/python3.6/site-packages/rosidl_generator_cpp/__init__.py",
+    "/opt/workspace/install/rosidl_generator_cpp/share/rosidl_generator_cpp/cmake/../resource/action__struct.hpp.em",
+    "/opt/workspace/install/rosidl_generator_cpp/share/rosidl_generator_cpp/cmake/../resource/action__traits.hpp.em",
+    "/opt/workspace/install/rosidl_generator_cpp/share/rosidl_generator_cpp/cmake/../resource/idl.hpp.em",
+    "/opt/workspace/install/rosidl_generator_cpp/share/rosidl_generator_cpp/cmake/../resource/idl__struct.hpp.em",
+    "/opt/workspace/install/rosidl_generator_cpp/share/rosidl_generator_cpp/cmake/../resource/idl__traits.hpp.em",
+    "/opt/workspace/install/rosidl_generator_cpp/share/rosidl_generator_cpp/cmake/../resource/msg__struct.hpp.em",
+    "/opt/workspace/install/rosidl_generator_cpp/share/rosidl_generator_cpp/cmake/../resource/msg__traits.hpp.em",
+    "/opt/workspace/install/rosidl_generator_cpp/share/rosidl_generator_cpp/cmake/../resource/srv__struct.hpp.em",
+    "/opt/workspace/install/rosidl_generator_cpp/share/rosidl_generator_cpp/cmake/../resource/srv__traits.hpp.em",
+    "/opt/workspace/build/rqt_py_common/rosidl_adapter/rqt_py_common/msg/Val.idl",
+    "/opt/workspace/build/rqt_py_common/rosidl_adapter/rqt_py_common/msg/ArrayVal.idl",
+    "/opt/workspace/build/rqt_py_common/rosidl_adapter/rqt_py_common/srv/AddTwoInts.idl"
+  ]
+}

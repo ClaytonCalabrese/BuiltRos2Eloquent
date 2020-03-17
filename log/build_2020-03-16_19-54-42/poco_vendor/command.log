@@ -1,0 +1,6 @@
+[0.720s] Invoking command in '/opt/workspace/build/poco_vendor': CMAKE_PREFIX_PATH=/opt/ros/eloquent /usr/bin/cmake /opt/workspace/src/ros2/poco_vendor -DCMAKE_INSTALL_PREFIX=/opt/workspace/install/poco_vendor
+[2.563s] Invoked command in '/opt/workspace/build/poco_vendor' returned '0': CMAKE_PREFIX_PATH=/opt/ros/eloquent /usr/bin/cmake /opt/workspace/src/ros2/poco_vendor -DCMAKE_INSTALL_PREFIX=/opt/workspace/install/poco_vendor
+[2.564s] Invoking command in '/opt/workspace/build/poco_vendor': CMAKE_PREFIX_PATH=/opt/ros/eloquent /usr/bin/cmake --build /opt/workspace/build/poco_vendor -- -j8 -l8
+[2.652s] Invoked command in '/opt/workspace/build/poco_vendor' returned '0': CMAKE_PREFIX_PATH=/opt/ros/eloquent /usr/bin/cmake --build /opt/workspace/build/poco_vendor -- -j8 -l8
+[3.190s] Invoking command in '/opt/workspace/build/poco_vendor': CMAKE_PREFIX_PATH=/opt/ros/eloquent /usr/bin/cmake --build /opt/workspace/build/poco_vendor --target install -- -j8 -l8
+[3.677s] Invoked command in '/opt/workspace/build/poco_vendor' returned '0': CMAKE_PREFIX_PATH=/opt/ros/eloquent /usr/bin/cmake --build /opt/workspace/build/poco_vendor --target install -- -j8 -l8

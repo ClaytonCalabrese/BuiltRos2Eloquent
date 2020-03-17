@@ -1,0 +1,1178 @@
+[0.178s] -- The C compiler identification is GNU 7.4.0
+[0.285s] -- The CXX compiler identification is GNU 7.4.0
+[0.293s] -- Check for working C compiler: /usr/bin/cc
+[0.439s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.441s] -- Detecting C compiler ABI info
+[0.594s] -- Detecting C compiler ABI info - done
+[0.609s] -- Detecting C compile features
+[1.038s] -- Detecting C compile features - done
+[1.043s] -- Check for working CXX compiler: /usr/bin/c++
+[1.212s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[1.213s] -- Detecting CXX compiler ABI info
+[1.404s] -- Detecting CXX compiler ABI info - done
+[1.417s] -- Detecting CXX compile features
+[2.159s] -- Detecting CXX compile features - done
+[2.160s] -- Found ament_cmake: 0.8.2 (/opt/workspace/install/ament_cmake/share/ament_cmake/cmake)
+[2.203s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[2.203s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[2.863s] -- Configuring done
+[2.875s] -- Generating done
+[2.879s] -- Build files have been written to: /opt/workspace/build/libcurl_vendor
+[2.996s] [35m[1mScanning dependencies of target curl-7.57.0[0m
+[3.020s] [ 12%] [34m[1mCreating directories for 'curl-7.57.0'[0m
+[3.164s] [ 25%] [34m[1mPerforming download step (download, verify and extract) for 'curl-7.57.0'[0m
+[3.182s] -- Downloading...
+[3.182s]    dst='/opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0.tar.gz'
+[3.183s]    timeout='600 seconds'
+[3.183s] -- Using src='https://github.com/curl/curl/releases/download/curl-7_57_0/curl-7.57.0.tar.gz'
+[3.452s] -- [download 31% complete]
+[3.453s] -- [download 100% complete]
+[3.683s] -- [download 0% complete]
+[3.717s] -- [download 1% complete]
+[3.744s] -- [download 2% complete]
+[3.746s] -- [download 3% complete]
+[3.781s] -- [download 4% complete]
+[3.782s] -- [download 5% complete]
+[3.783s] -- [download 6% complete]
+[3.785s] -- [download 7% complete]
+[3.787s] -- [download 8% complete]
+[3.810s] -- [download 9% complete]
+[3.813s] -- [download 10% complete]
+[3.817s] -- [download 11% complete]
+[3.819s] -- [download 12% complete]
+[3.824s] -- [download 13% complete]
+[3.826s] -- [download 14% complete]
+[3.829s] -- [download 15% complete]
+[3.922s] -- [download 16% complete]
+[3.923s] -- [download 17% complete]
+[3.923s] -- [download 18% complete]
+[3.925s] -- [download 19% complete]
+[3.925s] -- [download 20% complete]
+[3.926s] -- [download 21% complete]
+[3.927s] -- [download 22% complete]
+[3.928s] -- [download 23% complete]
+[3.929s] -- [download 24% complete]
+[3.929s] -- [download 25% complete]
+[3.930s] -- [download 26% complete]
+[3.930s] -- [download 27% complete]
+[3.930s] -- [download 28% complete]
+[3.931s] -- [download 29% complete]
+[3.931s] -- [download 30% complete]
+[3.931s] -- [download 31% complete]
+[3.932s] -- [download 32% complete]
+[3.932s] -- [download 33% complete]
+[3.932s] -- [download 34% complete]
+[3.932s] -- [download 35% complete]
+[3.932s] -- [download 36% complete]
+[3.934s] -- [download 37% complete]
+[3.954s] -- [download 38% complete]
+[3.960s] -- [download 39% complete]
+[3.984s] -- [download 40% complete]
+[3.991s] -- [download 41% complete]
+[3.993s] -- [download 42% complete]
+[3.994s] -- [download 43% complete]
+[3.998s] -- [download 44% complete]
+[4.033s] -- [download 45% complete]
+[4.039s] -- [download 46% complete]
+[4.040s] -- [download 47% complete]
+[4.041s] -- [download 48% complete]
+[4.041s] -- [download 49% complete]
+[4.041s] -- [download 50% complete]
+[4.041s] -- [download 51% complete]
+[4.041s] -- [download 52% complete]
+[4.042s] -- [download 53% complete]
+[4.042s] -- [download 54% complete]
+[4.049s] -- [download 55% complete]
+[4.056s] -- [download 56% complete]
+[4.063s] -- [download 57% complete]
+[4.066s] -- [download 58% complete]
+[4.071s] -- [download 59% complete]
+[4.079s] -- [download 60% complete]
+[4.086s] -- [download 61% complete]
+[4.090s] -- [download 62% complete]
+[4.096s] -- [download 63% complete]
+[4.098s] -- [download 64% complete]
+[4.102s] -- [download 65% complete]
+[4.116s] -- [download 66% complete]
+[4.118s] -- [download 67% complete]
+[4.121s] -- [download 68% complete]
+[4.127s] -- [download 69% complete]
+[4.131s] -- [download 70% complete]
+[4.141s] -- [download 71% complete]
+[4.148s] -- [download 72% complete]
+[4.152s] -- [download 73% complete]
+[4.156s] -- [download 74% complete]
+[4.161s] -- [download 75% complete]
+[4.167s] -- [download 76% complete]
+[4.176s] -- [download 77% complete]
+[4.179s] -- [download 78% complete]
+[4.186s] -- [download 79% complete]
+[4.191s] -- [download 80% complete]
+[4.195s] -- [download 81% complete]
+[4.201s] -- [download 82% complete]
+[4.208s] -- [download 83% complete]
+[4.215s] -- [download 84% complete]
+[4.217s] -- [download 85% complete]
+[4.227s] -- [download 86% complete]
+[4.231s] -- [download 87% complete]
+[4.235s] -- [download 88% complete]
+[4.242s] -- [download 89% complete]
+[4.249s] -- [download 90% complete]
+[4.254s] -- [download 91% complete]
+[4.259s] -- [download 92% complete]
+[4.264s] -- [download 93% complete]
+[4.266s] -- [download 94% complete]
+[4.274s] -- [download 95% complete]
+[4.284s] -- [download 96% complete]
+[4.288s] -- [download 97% complete]
+[4.292s] -- [download 98% complete]
+[4.296s] -- [download 99% complete]
+[4.302s] -- [download 100% complete]
+[4.307s] -- verifying file...
+[4.307s]        file='/opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0.tar.gz'
+[4.317s] -- Downloading... done
+[4.355s] -- extracting...
+[4.356s]      src='/opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0.tar.gz'
+[4.356s]      dst='/opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0'
+[4.356s] -- extracting... [tar xfz]
+[4.594s] -- extracting... [analysis]
+[4.595s] -- extracting... [rename]
+[4.595s] -- extracting... [clean up]
+[4.595s] -- extracting... done
+[4.646s] [ 37%] [34m[1mNo patch step for 'curl-7.57.0'[0m
+[4.699s] [ 50%] [34m[1mNo update step for 'curl-7.57.0'[0m
+[4.753s] [ 62%] [34m[1mPerforming configure step for 'curl-7.57.0'[0m
+[5.168s] checking whether to enable maintainer-specific portions of Makefiles... no
+[5.173s] checking whether make supports nested variables... yes
+[5.174s] checking whether to enable debug build options... no
+[5.174s] checking whether to enable compiler optimizer... (assumed) yes
+[5.175s] checking whether to enable strict compiler warnings... no
+[5.176s] checking whether to enable compiler warnings as errors... no
+[5.177s] checking whether to enable curl debug memory tracking... no
+[5.178s] checking whether to enable hiding of library internal symbols... yes
+[5.179s] checking whether to enable c-ares for DNS lookups... no
+[5.180s] checking whether to disable dependency on -lrt... (assumed no)
+[5.180s] checking for path separator... :
+[5.190s] checking for a sed that does not truncate output... /bin/sed
+[5.193s] checking whether to build with code coverage support... no
+[5.197s] checking for grep... /bin/grep
+[5.201s] checking for egrep... /bin/grep -E
+[5.203s] checking for ar... /usr/bin/ar
+[5.232s] checking for a BSD-compatible install... /usr/bin/install -c
+[5.236s] checking for gcc... gcc
+[5.392s] checking whether the C compiler works... yes
+[5.393s] checking for C compiler default output file name... a.out
+[5.468s] checking for suffix of executables... 
+[5.595s] checking whether we are cross compiling... no
+[5.653s] checking for suffix of object files... o
+[5.687s] checking whether we are using the GNU C compiler... yes
+[5.724s] checking whether gcc accepts -g... yes
+[5.775s] checking for gcc option to accept ISO C89... none needed
+[5.846s] checking whether gcc understands -c and -o together... yes
+[5.887s] checking how to run the C preprocessor... gcc -E
+[5.948s] checking whether build environment is sane... yes
+[5.968s] checking for a thread-safe mkdir -p... /bin/mkdir -p
+[5.969s] checking for gawk... no
+[5.970s] checking for mawk... mawk
+[5.984s] checking whether make sets $(MAKE)... yes
+[6.002s] checking for style of include used by make... GNU
+[6.100s] checking dependency style of gcc... gcc3
+[6.106s] checking curl version... 7.57.0
+[6.230s] checking build system type... x86_64-pc-linux-gnu
+[6.230s] checking host system type... x86_64-pc-linux-gnu
+[6.238s] checking for grep that handles long lines and -e... (cached) /bin/grep
+[6.244s] checking for egrep... /bin/grep -E
+[6.267s] checking if OS is AIX (to define _ALL_SOURCE)... no
+[6.301s] checking if _THREAD_SAFE is already defined... no
+[6.305s] checking if _THREAD_SAFE is actually needed... no
+[6.306s] checking if _THREAD_SAFE is onwards defined... no
+[6.354s] checking if _REENTRANT is already defined... no
+[7.402s] checking if _REENTRANT is actually needed... no
+[7.404s] checking if _REENTRANT is onwards defined... no
+[7.405s] checking for special C compiler options needed for large files... no
+[7.446s] checking for _FILE_OFFSET_BITS value needed for large files... no
+[7.508s] checking how to print strings... printf
+[7.510s] checking for a sed that does not truncate output... (cached) /bin/sed
+[7.517s] checking for fgrep... /bin/grep -F
+[7.527s] checking for ld used by gcc... /usr/bin/ld
+[7.541s] checking if the linker (/usr/bin/ld) is GNU ld... yes
+[7.559s] checking for BSD- or MS-compatible name lister (nm)... /usr/bin/nm -B
+[7.602s] checking the name lister (/usr/bin/nm -B) interface... BSD nm
+[7.602s] checking whether ln -s works... yes
+[7.610s] checking the maximum length of command line arguments... 1572864
+[7.616s] checking how to convert x86_64-pc-linux-gnu file names to x86_64-pc-linux-gnu format... func_convert_file_noop
+[7.616s] checking how to convert x86_64-pc-linux-gnu file names to toolchain format... func_convert_file_noop
+[7.616s] checking for /usr/bin/ld option to reload object files... -r
+[7.618s] checking for objdump... objdump
+[7.619s] checking how to recognize dependent libraries... pass_all
+[7.623s] checking for dlltool... no
+[7.623s] checking how to associate runtime and link libraries... printf %s\n
+[7.674s] checking for archiver @FILE support... @
+[7.677s] checking for strip... strip
+[7.678s] checking for ranlib... ranlib
+[7.808s] checking command to parse /usr/bin/nm -B output from gcc object... ok
+[7.813s] checking for sysroot... no
+[7.822s] checking for a working dd... /bin/dd
+[7.830s] checking how to truncate binary pipes... /bin/dd bs=4096 count=1
+[7.859s] checking for mt... no
+[7.867s] checking if : is a manifest tool... no
+[8.088s] checking for ANSI C header files... yes
+[8.153s] checking for sys/types.h... yes
+[8.223s] checking for sys/stat.h... yes
+[8.294s] checking for stdlib.h... yes
+[8.380s] checking for string.h... yes
+[8.446s] checking for memory.h... yes
+[8.515s] checking for strings.h... yes
+[8.577s] checking for inttypes.h... yes
+[8.640s] checking for stdint.h... yes
+[8.698s] checking for unistd.h... yes
+[8.758s] checking for dlfcn.h... yes
+[8.769s] checking for objdir... .libs
+[8.960s] checking if gcc supports -fno-rtti -fno-exceptions... yes
+[8.960s] checking for gcc option to produce PIC... -fPIC -DPIC
+[8.997s] checking if gcc PIC flag -fPIC -DPIC works... yes
+[9.129s] checking if gcc static flag -static works... yes
+[9.178s] checking if gcc supports -c -o file.o... yes
+[9.179s] checking if gcc supports -c -o file.o... (cached) yes
+[9.205s] checking whether the gcc linker (/usr/bin/ld -m elf_x86_64) supports shared libraries... yes
+[9.260s] checking whether -lc should be explicitly linked in... no
+[9.367s] checking dynamic linker characteristics... GNU/Linux ld.so
+[9.368s] checking how to hardcode library paths into programs... immediate
+[9.372s] checking whether stripping libraries is possible... yes
+[9.373s] checking if libtool supports shared libraries... yes
+[9.374s] checking whether to build shared libraries... yes
+[9.376s] checking whether to build static libraries... yes
+[9.377s] checking whether to build shared libraries with -version-info... yes
+[9.378s] checking whether to build shared libraries with -no-undefined... no
+[9.378s] checking whether to build shared libraries with -mimpure-text... no
+[9.379s] checking whether to build shared libraries with PIC... yes
+[9.380s] checking whether to build static libraries with PIC... yes
+[9.381s] checking whether to build shared libraries only... no
+[9.381s] checking whether to build static libraries only... no
+[9.412s] checking for inline... inline
+[9.431s] checking if cpp -P is needed... yes
+[9.447s] checking if cpp -P works... yes
+[9.554s] checking if compiler is DEC/Compaq/HP C... no
+[9.587s] checking if compiler is HP-UX C... no
+[9.621s] checking if compiler is IBM C... no
+[9.650s] checking if compiler is Intel C... no
+[9.678s] checking if compiler is clang... no
+[9.708s] checking if compiler is GNU C... yes
+[9.791s] checking if compiler is LCC... no
+[9.890s] checking if compiler is SGI MIPSpro C... no
+[9.962s] checking if compiler is SGI MIPS C... no
+[9.997s] checking if compiler is SunPro C... no
+[10.039s] checking if compiler is Tiny C... no
+[10.075s] checking if compiler is Watcom C... no
+[10.291s] checking if compiler accepts some basic options... yes
+[10.293s] configure: compiler options added: -Werror-implicit-function-declaration 
+[10.526s] checking if compiler accepts debug disabling options... yes
+[10.527s] configure: compiler options added: 
+[10.531s] checking if compiler optimizer assumed setting might be used... yes
+[10.742s] checking if compiler accepts optimizer enabling options... yes
+[10.746s] configure: compiler options added: -O2
+[10.959s] checking if compiler accepts strict warning options... yes
+[10.960s] configure: compiler options added: -Wno-system-headers 
+[10.992s] checking if compiler halts on compilation errors... yes
+[11.023s] checking if compiler halts on negative sized arrays... yes
+[11.068s] checking if compiler halts on function prototype mismatch... yes
+[11.150s] checking if compiler supports hiding library internal symbols... yes
+[11.179s] checking for windows.h... no
+[11.180s] checking whether build target is a native Windows one... no
+[11.182s] checking whether build target supports WIN32 file API... no
+[11.183s] checking for good-to-use Mac CFLAGS... no
+[11.233s] checking to see if the compiler supports __builtin_available()... no
+[11.236s] checking whether to support http... yes
+[11.237s] checking whether to support ftp... yes
+[11.237s] checking whether to support file... yes
+[11.238s] checking whether to support ldap... yes
+[11.238s] checking whether to support ldaps... yes
+[11.239s] checking whether to support rtsp... yes
+[11.239s] checking whether to support proxies... yes
+[11.240s] checking whether to support dict... yes
+[11.240s] checking whether to support telnet... yes
+[11.241s] checking whether to support tftp... yes
+[11.241s] checking whether to support pop3... yes
+[11.242s] checking whether to support imap... yes
+[11.242s] checking whether to support smb... yes
+[11.243s] checking whether to support smtp... yes
+[11.243s] checking whether to support gopher... yes
+[11.244s] checking whether to provide built-in manual... yes
+[11.245s] checking whether to enable generation of C code... yes
+[11.245s] checking whether to use libgcc... no
+[11.276s] checking if X/Open network library is required... no
+[11.357s] checking for gethostbyname... yes
+[11.360s] checking for windows.h... (cached) no
+[11.361s] checking for winsock.h... (cached) no
+[11.362s] checking for winsock2.h... (cached) no
+[11.441s] checking for connect in libraries... yes
+[11.520s] checking whether time.h and sys/time.h may both be included... yes
+[11.527s] checking for sys/types.h... (cached) yes
+[11.610s] checking sys/time.h usability... yes
+[11.627s] checking sys/time.h presence... yes
+[11.628s] checking for sys/time.h... yes
+[11.731s] checking time.h usability... yes
+[11.756s] checking time.h presence... yes
+[11.756s] checking for time.h... yes
+[11.822s] checking for monotonic clock_gettime... yes
+[11.913s] checking for clock_gettime in libraries... no additional lib required
+[12.011s] checking if monotonic clock_gettime works... yes
+[12.019s] checking for pkg-config... /usr/bin/pkg-config
+[12.026s] checking for zlib options with pkg-config... found
+[12.110s] checking zlib.h usability... yes
+[12.134s] checking zlib.h presence... yes
+[12.135s] checking for zlib.h... yes
+[12.136s] configure: found both libz and libz.h header
+[12.203s] checking for BrotliDecoderDecompress in -lbrotlidec... no
+[12.275s] checking brotli/decode.h usability... no
+[12.299s] checking brotli/decode.h presence... no
+[12.301s] checking for brotli/decode.h... no
+[12.362s] checking for lber.h... yes
+[12.501s] checking for ldap.h... yes
+[12.593s] checking for ldapssl.h... no
+[12.644s] checking for ldap_ssl.h... no
+[13.181s] checking for LDAP libraries... -lldap -llber
+[13.352s] checking for ldap_url_parse... yes
+[13.510s] checking for ldap_init_fd... yes
+[13.627s] checking whether to enable IPv6... yes
+[13.690s] checking if struct sockaddr_in6 has sin6_scope_id member... yes
+[13.776s] checking if argv can be written to... yes
+[13.778s] checking if GSS-API support is requested... no
+[13.780s] checking whether to enable Windows native SSL/TLS (Windows native builds only)... no
+[13.781s] checking whether to enable Apple OS native SSL/TLS... no
+[13.789s] checking for pkg-config... (cached) /usr/bin/pkg-config
+[13.795s] checking for openssl options with pkg-config... found
+[13.809s] configure: pkg-config: SSL_LIBS: "-lssl -lcrypto"
+[13.809s] configure: pkg-config: SSL_LDFLAGS: ""
+[13.809s] configure: pkg-config: SSL_CPPFLAGS: ""
+[13.962s] checking for HMAC_Update in -lcrypto... yes
+[14.100s] checking for SSL_connect in -lssl... yes
+[14.262s] checking openssl/x509.h usability... yes
+[14.347s] checking openssl/x509.h presence... yes
+[14.347s] checking for openssl/x509.h... yes
+[14.453s] checking openssl/rsa.h usability... yes
+[14.515s] checking openssl/rsa.h presence... yes
+[14.515s] checking for openssl/rsa.h... yes
+[14.617s] checking openssl/crypto.h usability... yes
+[14.654s] checking openssl/crypto.h presence... yes
+[14.655s] checking for openssl/crypto.h... yes
+[14.846s] checking openssl/pem.h usability... yes
+[14.937s] checking openssl/pem.h presence... yes
+[14.938s] checking for openssl/pem.h... yes
+[15.137s] checking openssl/ssl.h usability... yes
+[15.238s] checking openssl/ssl.h presence... yes
+[15.238s] checking for openssl/ssl.h... yes
+[15.367s] checking openssl/err.h usability... yes
+[15.417s] checking openssl/err.h presence... yes
+[15.417s] checking for openssl/err.h... yes
+[15.565s] checking for ENGINE_init... yes
+[15.684s] checking openssl/engine.h usability... yes
+[15.755s] checking openssl/engine.h presence... yes
+[15.756s] checking for openssl/engine.h... yes
+[15.875s] checking for ENGINE_load_builtin_engines... yes
+[15.990s] checking for RAND_egd... no
+[16.090s] checking for ENGINE_cleanup... no
+[16.237s] checking for SSL_get_shutdown... yes
+[16.420s] checking for SSLv2_client_method... no
+[16.450s] checking for BoringSSL... no
+[16.493s] checking for libressl... no
+[16.593s] checking for OpenSSL headers version... unknown - 0x1010100fL
+[16.760s] checking for OpenSSL library version... 1.1.0
+[16.760s] configure: WARNING: OpenSSL headers and library versions do not match.
+[16.761s] checking for OpenSSL headers and library versions matching... no
+[16.772s] checking for "/dev/urandom"... yes
+[16.946s] checking for SRP_Calc_client_key in -lcrypto... yes
+[17.068s] checking for ssl_version in -laxtls... no
+[17.068s] configure: built with one SSL backend
+[17.072s] checking default CA cert bundle/path... /etc/ssl/certs/ca-certificates.crt
+[17.073s] checking whether to use builtin CA store of SSL library... no
+[17.306s] checking for library containing psl_builtin... no
+[17.306s] configure: WARNING: libpsl was not found
+[17.415s] checking for libssh2_channel_open_ex in -lssh2... no
+[17.520s] checking libssh2.h usability... no
+[17.560s] checking libssh2.h presence... no
+[17.561s] checking for libssh2.h... no
+[17.680s] checking for RTMP_Init in -lrtmp... no
+[17.681s] checking whether versioned symbols are wanted... no
+[17.681s] checking whether to enable Windows native IDN (Windows native builds only)... no
+[17.682s] checking whether to build with libidn2... (assumed) yes
+[17.686s] checking for pkg-config... (cached) /usr/bin/pkg-config
+[17.690s] checking for libidn2 options with pkg-config... no
+[17.690s] configure: IDN_LIBS: "-lidn2"
+[17.691s] configure: IDN_LDFLAGS: ""
+[17.693s] configure: IDN_CPPFLAGS: ""
+[17.693s] configure: IDN_DIR: ""
+[17.804s] checking if idn2_lookup_ul can be linked... no
+[17.889s] checking idn2.h usability... no
+[17.919s] checking idn2.h presence... no
+[17.919s] checking for idn2.h... no
+[17.920s] configure: WARNING: Cannot find libraries for IDN support: IDN disabled
+[17.921s] checking for pkg-config... (cached) /usr/bin/pkg-config
+[17.928s] checking for libnghttp2 options with pkg-config... no
+[17.930s] checking for ANSI C header files... (cached) yes
+[17.987s] checking for malloc.h... yes
+[18.106s] checking for memory.h... yes
+[18.188s] checking for sys/types.h... (cached) yes
+[18.214s] checking for sys/time.h... (cached) yes
+[18.276s] checking for sys/select.h... yes
+[18.349s] checking for sys/socket.h... yes
+[18.420s] checking for sys/ioctl.h... yes
+[18.504s] checking for sys/uio.h... yes
+[18.566s] checking for assert.h... yes
+[18.604s] checking for unistd.h... (cached) yes
+[18.620s] checking for stdlib.h... (cached) yes
+[18.679s] checking for limits.h... yes
+[18.741s] checking for arpa/inet.h... yes
+[18.828s] checking for net/if.h... yes
+[18.888s] checking for netinet/in.h... yes
+[18.962s] checking for sys/un.h... yes
+[19.050s] checking for linux/tcp.h... yes
+[19.128s] checking for netinet/tcp.h... yes
+[19.205s] checking for netdb.h... yes
+[19.287s] checking for sys/sockio.h... no
+[19.296s] checking for sys/stat.h... (cached) yes
+[19.379s] checking for sys/param.h... yes
+[19.448s] checking for termios.h... yes
+[19.520s] checking for termio.h... yes
+[19.594s] checking for sgtty.h... yes
+[19.660s] checking for fcntl.h... yes
+[19.733s] checking for alloca.h... yes
+[19.759s] checking for time.h... (cached) yes
+[19.835s] checking for io.h... no
+[19.897s] checking for pwd.h... yes
+[19.965s] checking for utime.h... yes
+[20.039s] checking for sys/utime.h... no
+[20.094s] checking for sys/poll.h... yes
+[20.155s] checking for poll.h... yes
+[20.250s] checking for socket.h... no
+[20.323s] checking for sys/resource.h... yes
+[20.390s] checking for libgen.h... yes
+[20.476s] checking for locale.h... yes
+[20.545s] checking for errno.h... yes
+[20.629s] checking for stdbool.h... yes
+[20.714s] checking for arpa/tftp.h... yes
+[20.780s] checking for sys/filio.h... no
+[20.841s] checking for sys/wait.h... yes
+[20.915s] checking for setjmp.h... yes
+[20.971s] checking for an ANSI C-conforming const... yes
+[21.018s] checking for compiler support of C99 variadic macro style... yes
+[21.061s] checking for compiler support of old gcc variadic macro style... yes
+[21.205s] checking for size_t... yes
+[21.206s] checking whether time.h and sys/time.h may both be included... (cached) yes
+[21.212s] checking for sys/types.h... (cached) yes
+[21.233s] checking for sys/time.h... (cached) yes
+[21.258s] checking for time.h... (cached) yes
+[21.283s] checking for sys/socket.h... (cached) yes
+[21.345s] checking for struct timeval... yes
+[21.433s] checking run-time libs availability... fine
+[21.558s] checking size of size_t... 8
+[21.697s] checking size of long... 8
+[21.838s] checking size of int... 4
+[21.995s] checking size of short... 2
+[22.143s] checking size of time_t... 8
+[22.315s] checking size of off_t... 8
+[22.485s] checking size of curl_off_t... 8
+[22.644s] checking for long long... yes
+[22.689s] checking if numberLL works... yes
+[22.836s] checking for ssize_t... yes
+[22.929s] checking for bool... yes
+[22.930s] checking for windows.h... (cached) no
+[22.930s] checking for winsock2.h... (cached) no
+[22.931s] checking for ws2tcpip.h... (cached) no
+[22.940s] checking for sys/types.h... (cached) yes
+[22.979s] checking for sys/socket.h... (cached) yes
+[23.053s] checking for curl_socklen_t data type... socklen_t
+[23.199s] checking size of curl_socklen_t... 4
+[23.214s] checking for sys/types.h... (cached) yes
+[23.233s] checking for poll.h... (cached) yes
+[23.252s] checking for sys/poll.h... (cached) yes
+[23.424s] checking for in_addr_t... yes
+[23.526s] checking for struct sockaddr_storage... yes
+[23.602s] checking signal.h usability... yes
+[23.629s] checking signal.h presence... yes
+[23.630s] checking for signal.h... yes
+[23.718s] checking for sig_atomic_t... yes
+[23.821s] checking if sig_atomic_t is already defined as volatile... no
+[23.870s] checking return type of signal handlers... void
+[23.880s] checking for sys/select.h... (cached) yes
+[23.894s] checking for sys/socket.h... (cached) yes
+[24.019s] checking for select... yes
+[24.080s] checking types of args and return type for select... int,fd_set *,struct timeval *,int
+[24.106s] checking for sys/types.h... (cached) yes
+[24.126s] checking for sys/socket.h... (cached) yes
+[24.269s] checking for recv... yes
+[26.987s] checking types of args and return type for recv... int,void *,size_t,int,ssize_t
+[27.026s] checking for sys/types.h... (cached) yes
+[27.044s] checking for sys/socket.h... (cached) yes
+[27.168s] checking for send... yes
+[32.873s] checking types of args and return type for send... int,const void *,size_t,int,ssize_t
+[32.904s] checking for sys/types.h... (cached) yes
+[32.934s] checking for sys/socket.h... (cached) yes
+[33.009s] checking for MSG_NOSIGNAL... yes
+[33.024s] checking for sys/types.h... (cached) yes
+[33.036s] checking for unistd.h... (cached) yes
+[33.135s] checking if alarm can be linked... yes
+[33.169s] checking if alarm is prototyped... yes
+[33.274s] checking if alarm is compilable... yes
+[33.275s] checking if alarm usage allowed... yes
+[33.275s] checking if alarm might be used... yes
+[33.276s] checking for sys/types.h... (cached) yes
+[33.285s] checking for string.h... (cached) yes
+[33.303s] checking for strings.h... (cached) yes
+[33.319s] checking for sys/types.h... (cached) yes
+[33.351s] checking for libgen.h... (cached) yes
+[33.498s] checking if basename can be linked... yes
+[33.529s] checking if basename is prototyped... yes
+[33.582s] checking if basename is compilable... yes
+[33.588s] checking if basename usage allowed... yes
+[33.588s] checking if basename might be used... yes
+[33.601s] checking for sys/types.h... (cached) yes
+[33.613s] checking for socket.h... (cached) no
+[33.742s] checking if closesocket can be linked... no
+[33.745s] checking if closesocket might be used... no
+[33.865s] checking if CloseSocket can be linked... no
+[33.867s] checking if CloseSocket might be used... no
+[33.967s] checking if connect can be linked... yes
+[33.995s] checking if connect is prototyped... yes
+[34.052s] checking if connect is compilable... yes
+[34.054s] checking if connect usage allowed... yes
+[34.056s] checking if connect might be used... yes
+[34.066s] checking for sys/types.h... (cached) yes
+[34.087s] checking for unistd.h... (cached) yes
+[34.104s] checking for fcntl.h... (cached) yes
+[34.206s] checking if fcntl can be linked... yes
+[34.229s] checking if fcntl is prototyped... yes
+[34.332s] checking if fcntl is compilable... yes
+[34.332s] checking if fcntl usage allowed... yes
+[34.332s] checking if fcntl might be used... yes
+[34.398s] checking if fcntl O_NONBLOCK is compilable... yes
+[34.400s] checking if fcntl O_NONBLOCK usage allowed... yes
+[34.400s] checking if fcntl O_NONBLOCK might be used... yes
+[34.409s] checking for sys/types.h... (cached) yes
+[34.489s] checking for stdio.h... yes
+[34.620s] checking if fdopen can be linked... yes
+[34.653s] checking if fdopen is prototyped... yes
+[34.714s] checking if fdopen is compilable... yes
+[34.719s] checking if fdopen usage allowed... yes
+[34.720s] checking if fdopen might be used... yes
+[34.732s] checking for sys/types.h... (cached) yes
+[34.747s] checking for netdb.h... (cached) yes
+[34.911s] checking if freeaddrinfo can be linked... yes
+[34.944s] checking if freeaddrinfo is prototyped... yes
+[35.008s] checking if freeaddrinfo is compilable... yes
+[35.011s] checking if freeaddrinfo usage allowed... yes
+[35.011s] checking if freeaddrinfo might be used... yes
+[35.020s] checking for sys/types.h... (cached) yes
+[35.038s] checking for sys/socket.h... (cached) yes
+[35.053s] checking for netinet/in.h... (cached) yes
+[35.119s] checking for ifaddrs.h... yes
+[35.248s] checking if freeifaddrs can be linked... yes
+[35.279s] checking if freeifaddrs is prototyped... yes
+[35.341s] checking if freeifaddrs is compilable... yes
+[35.344s] checking if freeifaddrs usage allowed... yes
+[35.344s] checking if freeifaddrs might be used... yes
+[35.354s] checking for sys/types.h... (cached) yes
+[35.422s] checking for sys/xattr.h... yes
+[35.576s] checking if fsetxattr can be linked... yes
+[35.634s] checking if fsetxattr is prototyped... yes
+[35.688s] checking if fsetxattr takes 5 args.... yes
+[35.694s] checking if fsetxattr is compilable... yes
+[35.694s] checking if fsetxattr usage allowed... yes
+[35.695s] checking if fsetxattr might be used... yes
+[35.807s] checking if ftruncate can be linked... yes
+[35.831s] checking if ftruncate is prototyped... yes
+[35.898s] checking if ftruncate is compilable... yes
+[35.901s] checking if ftruncate usage allowed... yes
+[35.901s] checking if ftruncate might be used... yes
+[35.910s] checking for sys/types.h... (cached) yes
+[35.924s] checking for stdlib.h... (cached) yes
+[36.044s] checking if getaddrinfo can be linked... yes
+[36.078s] checking if getaddrinfo is prototyped... yes
+[36.146s] checking if getaddrinfo is compilable... yes
+[36.377s] checking if getaddrinfo seems to work... yes
+[36.381s] checking if getaddrinfo usage allowed... yes
+[36.382s] checking if getaddrinfo might be used... yes
+[36.570s] checking if getaddrinfo is threadsafe... yes
+[36.682s] checking if gai_strerror can be linked... yes
+[36.714s] checking if gai_strerror is prototyped... yes
+[36.773s] checking if gai_strerror is compilable... yes
+[36.775s] checking if gai_strerror usage allowed... yes
+[36.775s] checking if gai_strerror might be used... yes
+[36.888s] checking if gethostbyaddr can be linked... yes
+[36.916s] checking if gethostbyaddr is prototyped... yes
+[36.959s] checking if gethostbyaddr is compilable... yes
+[36.962s] checking if gethostbyaddr usage allowed... yes
+[36.962s] checking if gethostbyaddr might be used... yes
+[37.075s] checking if gethostbyaddr_r can be linked... yes
+[37.119s] checking if gethostbyaddr_r is prototyped... yes
+[37.156s] checking if gethostbyaddr_r takes 5 args.... no
+[37.199s] checking if gethostbyaddr_r takes 7 args.... no
+[37.259s] checking if gethostbyaddr_r takes 8 args.... yes
+[37.261s] checking if gethostbyaddr_r is compilable... yes
+[37.261s] checking if gethostbyaddr_r usage allowed... yes
+[37.262s] checking if gethostbyaddr_r might be used... yes
+[37.402s] checking if gethostbyname can be linked... yes
+[37.435s] checking if gethostbyname is prototyped... yes
+[37.499s] checking if gethostbyname is compilable... yes
+[37.506s] checking if gethostbyname usage allowed... yes
+[37.507s] checking if gethostbyname might be used... yes
+[37.619s] checking if gethostbyname_r can be linked... yes
+[37.645s] checking if gethostbyname_r is prototyped... yes
+[37.697s] checking if gethostbyname_r takes 3 args.... no
+[37.750s] checking if gethostbyname_r takes 5 args.... no
+[37.798s] checking if gethostbyname_r takes 6 args.... yes
+[37.807s] checking if gethostbyname_r is compilable... yes
+[37.808s] checking if gethostbyname_r usage allowed... yes
+[37.808s] checking if gethostbyname_r might be used... yes
+[37.956s] checking if gethostname can be linked... yes
+[37.979s] checking if gethostname is prototyped... yes
+[38.053s] checking if gethostname is compilable... yes
+[38.237s] checking for gethostname arg 2 data type... size_t
+[38.242s] checking if gethostname usage allowed... yes
+[38.242s] checking if gethostname might be used... yes
+[38.361s] checking if getifaddrs can be linked... yes
+[38.397s] checking if getifaddrs is prototyped... yes
+[38.456s] checking if getifaddrs is compilable... yes
+[38.601s] checking if getifaddrs seems to work... yes
+[38.605s] checking if getifaddrs usage allowed... yes
+[38.605s] checking if getifaddrs might be used... yes
+[38.717s] checking if getservbyport_r can be linked... yes
+[38.750s] checking if getservbyport_r is prototyped... yes
+[38.792s] checking if getservbyport_r takes 4 args.... no
+[38.851s] checking if getservbyport_r takes 5 args.... no
+[38.912s] checking if getservbyport_r takes 6 args.... yes
+[38.915s] checking if getservbyport_r is compilable... yes
+[38.916s] checking if getservbyport_r usage allowed... yes
+[38.916s] checking if getservbyport_r might be used... yes
+[38.928s] checking for sys/types.h... (cached) yes
+[38.943s] checking for sys/time.h... (cached) yes
+[38.970s] checking for time.h... (cached) yes
+[39.093s] checking if gmtime_r can be linked... yes
+[39.114s] checking if gmtime_r is prototyped... yes
+[39.167s] checking if gmtime_r is compilable... yes
+[39.287s] checking if gmtime_r seems to work... yes
+[39.288s] checking if gmtime_r usage allowed... yes
+[39.289s] checking if gmtime_r might be used... yes
+[39.298s] checking for sys/types.h... (cached) yes
+[39.318s] checking for sys/socket.h... (cached) yes
+[39.363s] checking for netinet/in.h... (cached) yes
+[39.378s] checking for arpa/inet.h... (cached) yes
+[39.494s] checking if inet_ntoa_r can be linked... no
+[39.496s] checking if inet_ntoa_r might be used... no
+[39.593s] checking if inet_ntop can be linked... yes
+[39.626s] checking if inet_ntop is prototyped... yes
+[39.688s] checking if inet_ntop is compilable... yes
+[39.820s] checking if inet_ntop seems to work... yes
+[39.822s] checking if inet_ntop usage allowed... yes
+[39.823s] checking if inet_ntop might be used... yes
+[39.930s] checking if inet_pton can be linked... yes
+[39.969s] checking if inet_pton is prototyped... yes
+[40.020s] checking if inet_pton is compilable... yes
+[40.152s] checking if inet_pton seems to work... yes
+[40.154s] checking if inet_pton usage allowed... yes
+[40.154s] checking if inet_pton might be used... yes
+[40.163s] checking for sys/types.h... (cached) yes
+[40.175s] checking for unistd.h... (cached) yes
+[40.193s] checking for sys/socket.h... (cached) yes
+[40.212s] checking for sys/ioctl.h... (cached) yes
+[40.279s] checking for stropts.h... yes
+[40.378s] checking if ioctl can be linked... yes
+[40.407s] checking if ioctl is prototyped... yes
+[40.450s] checking if ioctl is compilable... yes
+[40.451s] checking if ioctl usage allowed... yes
+[40.453s] checking if ioctl might be used... yes
+[40.505s] checking if ioctl FIONBIO is compilable... yes
+[40.507s] checking if ioctl FIONBIO usage allowed... yes
+[40.507s] checking if ioctl FIONBIO might be used... yes
+[40.561s] checking if ioctl SIOCGIFADDR is compilable... yes
+[40.562s] checking if ioctl SIOCGIFADDR usage allowed... yes
+[40.563s] checking if ioctl SIOCGIFADDR might be used... yes
+[40.647s] checking if ioctlsocket can be linked... no
+[40.650s] checking if ioctlsocket might be used... no
+[40.759s] checking if IoctlSocket can be linked... no
+[40.762s] checking if IoctlSocket might be used... no
+[40.880s] checking if localtime_r can be linked... yes
+[40.903s] checking if localtime_r is prototyped... yes
+[40.955s] checking if localtime_r is compilable... yes
+[41.079s] checking if localtime_r seems to work... yes
+[41.081s] checking if localtime_r usage allowed... yes
+[41.083s] checking if localtime_r might be used... yes
+[41.189s] checking if memrchr can be linked... yes
+[41.215s] checking if memrchr is prototyped... no
+[41.219s] checking if memrchr might be used... no
+[41.320s] checking if poll can be linked... yes
+[41.346s] checking if poll is prototyped... yes
+[41.395s] checking if poll is compilable... yes
+[42.025s] checking if poll seems to work... yes
+[42.027s] checking if poll usage allowed... yes
+[42.027s] checking if poll might be used... yes
+[42.138s] checking if setsockopt can be linked... yes
+[42.160s] checking if setsockopt is prototyped... yes
+[42.217s] checking if setsockopt is compilable... yes
+[42.218s] checking if setsockopt usage allowed... yes
+[42.219s] checking if setsockopt might be used... yes
+[42.294s] checking if setsockopt SO_NONBLOCK is compilable... no
+[42.308s] checking if setsockopt SO_NONBLOCK might be used... no
+[42.351s] checking for sys/types.h... (cached) yes
+[42.370s] checking for signal.h... (cached) yes
+[42.485s] checking if sigaction can be linked... yes
+[42.507s] checking if sigaction is prototyped... yes
+[42.553s] checking if sigaction is compilable... yes
+[42.555s] checking if sigaction usage allowed... yes
+[42.555s] checking if sigaction might be used... yes
+[42.653s] checking if siginterrupt can be linked... yes
+[42.678s] checking if siginterrupt is prototyped... yes
+[42.730s] checking if siginterrupt is compilable... yes
+[42.733s] checking if siginterrupt usage allowed... yes
+[42.733s] checking if siginterrupt might be used... yes
+[42.833s] checking if signal can be linked... yes
+[42.859s] checking if signal is prototyped... yes
+[42.905s] checking if signal is compilable... yes
+[42.907s] checking if signal usage allowed... yes
+[42.908s] checking if signal might be used... yes
+[42.922s] checking for sys/types.h... (cached) yes
+[42.947s] checking for setjmp.h... (cached) yes
+[43.082s] checking if sigsetjmp can be linked... no
+[43.185s] checking if sigsetjmp seems a macro... yes
+[43.224s] checking if sigsetjmp is compilable... yes
+[43.228s] checking if sigsetjmp usage allowed... yes
+[43.229s] checking if sigsetjmp might be used... yes
+[43.350s] checking if socket can be linked... yes
+[43.402s] checking if socket is prototyped... yes
+[43.468s] checking if socket is compilable... yes
+[43.481s] checking if socket usage allowed... yes
+[43.482s] checking if socket might be used... yes
+[43.601s] checking if socketpair can be linked... yes
+[43.627s] checking if socketpair is prototyped... yes
+[43.682s] checking if socketpair is compilable... yes
+[43.684s] checking if socketpair usage allowed... yes
+[43.685s] checking if socketpair might be used... yes
+[43.787s] checking if strcasecmp can be linked... yes
+[43.814s] checking if strcasecmp is prototyped... yes
+[43.867s] checking if strcasecmp is compilable... yes
+[43.869s] checking if strcasecmp usage allowed... yes
+[43.870s] checking if strcasecmp might be used... yes
+[43.986s] checking if strcmpi can be linked... no
+[43.988s] checking if strcmpi might be used... no
+[44.093s] checking if strdup can be linked... yes
+[44.130s] checking if strdup is prototyped... yes
+[44.175s] checking if strdup is compilable... yes
+[44.178s] checking if strdup usage allowed... yes
+[44.178s] checking if strdup might be used... yes
+[44.284s] checking if strerror_r can be linked... yes
+[44.309s] checking if strerror_r is prototyped... yes
+[44.355s] checking if strerror_r is compilable... yes
+[44.509s] checking if strerror_r is glibc like... no
+[44.603s] checking if strerror_r is POSIX like... yes
+[44.719s] checking if strerror_r seems to work... yes
+[44.721s] checking if strerror_r usage allowed... yes
+[44.722s] checking if strerror_r might be used... yes
+[44.840s] checking if stricmp can be linked... no
+[44.843s] checking if stricmp might be used... no
+[44.941s] checking if strncasecmp can be linked... yes
+[44.966s] checking if strncasecmp is prototyped... yes
+[45.020s] checking if strncasecmp is compilable... yes
+[45.031s] checking if strncasecmp usage allowed... yes
+[45.031s] checking if strncasecmp might be used... yes
+[45.128s] checking if strncmpi can be linked... no
+[45.130s] checking if strncmpi might be used... no
+[45.228s] checking if strnicmp can be linked... no
+[45.267s] checking if strnicmp might be used... no
+[45.411s] checking if strstr can be linked... yes
+[45.435s] checking if strstr is prototyped... yes
+[45.502s] checking if strstr is compilable... yes
+[45.504s] checking if strstr usage allowed... yes
+[45.504s] checking if strstr might be used... yes
+[45.627s] checking if strtok_r can be linked... yes
+[45.648s] checking if strtok_r is prototyped... yes
+[45.699s] checking if strtok_r is compilable... yes
+[45.705s] checking if strtok_r usage allowed... yes
+[45.706s] checking if strtok_r might be used... yes
+[45.800s] checking if strtoll can be linked... yes
+[45.824s] checking if strtoll is prototyped... yes
+[45.881s] checking if strtoll is compilable... yes
+[45.884s] checking if strtoll usage allowed... yes
+[45.884s] checking if strtoll might be used... yes
+[45.913s] checking for sys/types.h... (cached) yes
+[45.932s] checking for sys/uio.h... (cached) yes
+[46.070s] checking if writev can be linked... yes
+[46.100s] checking if writev is prototyped... yes
+[46.151s] checking if writev is compilable... yes
+[46.156s] checking if writev usage allowed... yes
+[46.157s] checking if writev might be used... yes
+[46.269s] checking for geteuid... yes
+[46.415s] checking for getpass_r... no
+[46.627s] checking deeper for getpass_r... but still no
+[46.741s] checking for getppid... yes
+[46.894s] checking for getpwuid... yes
+[47.033s] checking for getpwuid_r... yes
+[47.167s] checking for getrlimit... yes
+[47.281s] checking for gettimeofday... yes
+[47.439s] checking for if_nametoindex... yes
+[47.577s] checking for mach_absolute_time... no
+[47.695s] checking deeper for mach_absolute_time... but still no
+[47.810s] checking for pipe... yes
+[47.932s] checking for setlocale... yes
+[48.075s] checking for setmode... no
+[48.187s] checking deeper for setmode... but still no
+[48.321s] checking for setrlimit... yes
+[48.459s] checking for utime... yes
+[48.601s] checking for utimes... yes
+[48.623s] checking for sys/types.h... (cached) yes
+[48.645s] checking for sys/socket.h... (cached) yes
+[48.666s] checking for netdb.h... (cached) yes
+[48.783s] checking for getnameinfo... yes
+[50.726s] checking types of arguments for getnameinfo... const struct sockaddr *,socklen_t,socklen_t,int
+[50.766s] checking for stdio.h... (cached) yes
+[50.792s] checking for sys/types.h... (cached) yes
+[50.807s] checking for sys/socket.h... (cached) yes
+[50.828s] checking for netdb.h... (cached) yes
+[50.842s] checking for netinet/in.h... (cached) yes
+[50.866s] checking for arpa/inet.h... (cached) yes
+[50.930s] checking for working NI_WITHSCOPEID... no
+[50.930s] checking how to set a socket into non-blocking mode... fcntl O_NONBLOCK
+[50.933s] checking for perl... /usr/bin/perl
+[50.934s] configure: WARNING: disabling built-in manual
+[50.935s] checking for gnroff... no
+[50.935s] checking for nroff... no
+[50.936s] checking whether to enable the threaded resolver... yes
+[50.936s] checking whether to use POSIX threads for threaded resolver... auto
+[50.994s] checking pthread.h usability... yes
+[51.016s] checking pthread.h presence... yes
+[51.017s] checking for pthread.h... yes
+[51.127s] checking for pthread_create... no
+[51.217s] checking for pthread_create in -lpthread... yes
+[51.217s] checking whether to enable verbose strings... yes
+[51.218s] checking whether to enable SSPI support (Windows native builds only)... no
+[51.223s] checking whether to enable cryptographic authentication methods... yes
+[51.223s] checking whether to enable NTLM delegation to winbind's helper... yes
+[51.227s] checking whether to enable TLS-SRP authentication... yes
+[51.227s] checking whether to enable Unix domain sockets... auto
+[51.261s] checking for struct sockaddr_un.sun_path... yes
+[51.263s] checking whether to enable support for cookies... yes
+[51.272s] checking whether hiding of library internal symbols will actually happen... yes
+[51.421s] checking that generated files are newer than configure... done
+[51.423s] configure: creating ./config.status
+[52.951s] config.status: creating Makefile
+[52.988s] config.status: creating docs/Makefile
+[53.036s] config.status: creating docs/examples/Makefile
+[53.077s] config.status: creating docs/libcurl/Makefile
+[53.122s] config.status: creating docs/libcurl/opts/Makefile
+[53.174s] config.status: creating docs/cmdline-opts/Makefile
+[53.208s] config.status: creating include/Makefile
+[53.258s] config.status: creating include/curl/Makefile
+[53.301s] config.status: creating src/Makefile
+[53.364s] config.status: creating lib/Makefile
+[53.453s] config.status: creating scripts/Makefile
+[53.501s] config.status: creating lib/libcurl.vers
+[53.563s] config.status: creating tests/Makefile
+[53.612s] config.status: creating tests/certs/Makefile
+[53.668s] config.status: creating tests/certs/scripts/Makefile
+[53.723s] config.status: creating tests/data/Makefile
+[53.785s] config.status: creating tests/server/Makefile
+[53.825s] config.status: creating tests/libtest/Makefile
+[53.917s] config.status: creating tests/unit/Makefile
+[53.985s] config.status: creating packages/Makefile
+[54.029s] config.status: creating packages/Win32/Makefile
+[54.065s] config.status: creating packages/Win32/cygwin/Makefile
+[54.102s] config.status: creating packages/Linux/Makefile
+[54.168s] config.status: creating packages/Linux/RPM/Makefile
+[54.230s] config.status: creating packages/Linux/RPM/curl.spec
+[54.271s] config.status: creating packages/Linux/RPM/curl-ssl.spec
+[54.325s] config.status: creating packages/Solaris/Makefile
+[54.377s] config.status: creating packages/EPM/curl.list
+[54.429s] config.status: creating packages/EPM/Makefile
+[54.494s] config.status: creating packages/vms/Makefile
+[54.525s] config.status: creating packages/AIX/Makefile
+[54.595s] config.status: creating packages/AIX/RPM/Makefile
+[54.628s] config.status: creating packages/AIX/RPM/curl.spec
+[54.674s] config.status: creating curl-config
+[54.710s] config.status: creating libcurl.pc
+[54.739s] config.status: creating lib/curl_config.h
+[54.782s] config.status: executing depfiles commands
+[60.000s] config.status: executing libtool commands
+[60.065s] configure: amending lib/Makefile
+[60.139s] configure: amending src/Makefile
+[60.219s] configure: amending tests/unit/Makefile
+[60.289s] configure: amending tests/server/Makefile
+[60.384s] configure: amending tests/libtest/Makefile
+[60.491s] configure: amending docs/examples/Makefile
+[60.581s] configure: Configured to build curl/libcurl:
+[60.581s] 
+[60.582s]   curl version:     7.57.0
+[60.582s]   Host setup:       x86_64-pc-linux-gnu
+[60.582s]   Install prefix:   /opt/workspace/build/libcurl_vendor/libcurl_install
+[60.582s]   Compiler:         gcc
+[60.582s]   SSL support:      enabled (OpenSSL)
+[60.583s]   SSH support:      no      (--with-libssh2)
+[60.583s]   zlib support:     enabled
+[60.583s]   brotli support:   no      (--with-brotli)
+[60.583s]   GSS-API support:  no      (--with-gssapi)
+[60.584s]   TLS-SRP support:  enabled
+[60.584s]   resolver:         POSIX threaded
+[60.584s]   IPv6 support:     enabled
+[60.584s]   Unix sockets support: enabled
+[60.584s]   IDN support:      no      (--with-{libidn2,winidn})
+[60.585s]   Build libcurl:    Shared=yes, Static=yes
+[60.585s]   Built-in manual:  no      (--enable-manual)
+[60.585s]   --libcurl option: enabled (--disable-libcurl-option)
+[60.585s]   Verbose errors:   enabled (--disable-verbose)
+[60.585s]   SSPI support:     no      (--enable-sspi)
+[60.585s]   ca cert bundle:   /etc/ssl/certs/ca-certificates.crt
+[60.586s]   ca cert path:     no
+[60.586s]   ca fallback:      no
+[60.586s]   LDAP support:     enabled (OpenLDAP)
+[60.586s]   LDAPS support:    enabled
+[60.586s]   RTSP support:     enabled
+[60.587s]   RTMP support:     no      (--with-librtmp)
+[60.587s]   metalink support: no      (--with-libmetalink)
+[60.587s]   PSL support:      no      (libpsl not found)
+[60.587s]   HTTP2 support:    disabled (--with-nghttp2)
+[60.587s]   Protocols:        DICT FILE FTP FTPS GOPHER HTTP HTTPS IMAP IMAPS LDAP LDAPS POP3 POP3S RTSP SMB SMBS SMTP SMTPS TELNET TFTP
+[60.588s] 
+[60.765s] [ 75%] [34m[1mPerforming build step for 'curl-7.57.0'[0m
+[60.781s] Making all in lib
+[60.880s]   CC       libcurl_la-file.lo
+[61.520s]   CC       libcurl_la-http.lo
+[63.656s]   CC       libcurl_la-sendf.lo
+[64.295s]   CC       libcurl_la-ftp.lo
+[66.300s]   CC       libcurl_la-url.lo
+[68.517s]   CC       libcurl_la-dict.lo
+[68.879s]   CC       libcurl_la-if2ip.lo
+[69.175s]   CC       libcurl_la-speedcheck.lo
+[69.483s]   CC       libcurl_la-ldap.lo
+[69.734s]   CC       libcurl_la-version.lo
+[70.013s]   CC       libcurl_la-getenv.lo
+[70.244s]   CC       libcurl_la-escape.lo
+[70.574s]   CC       libcurl_la-mprintf.lo
+[71.252s]   CC       libcurl_la-telnet.lo
+[72.054s]   CC       libcurl_la-netrc.lo
+[72.397s]   CC       libcurl_la-getinfo.lo
+[72.790s]   CC       libcurl_la-transfer.lo
+[73.801s]   CC       libcurl_la-strcase.lo
+[74.080s]   CC       libcurl_la-easy.lo
+[74.631s]   CC       libcurl_la-security.lo
+[74.859s]   CC       libcurl_la-curl_fnmatch.lo
+[75.377s]   CC       libcurl_la-fileinfo.lo
+[75.630s]   CC       libcurl_la-ftplistparser.lo
+[76.219s]   CC       libcurl_la-wildcard.lo
+[76.455s]   CC       libcurl_la-krb5.lo
+[76.644s]   CC       libcurl_la-memdebug.lo
+[76.853s]   CC       libcurl_la-http_chunks.lo
+[77.135s]   CC       libcurl_la-strtok.lo
+[77.360s]   CC       libcurl_la-connect.lo
+[78.079s]   CC       libcurl_la-llist.lo
+[78.368s]   CC       libcurl_la-hash.lo
+[78.760s]   CC       libcurl_la-multi.lo
+[80.257s]   CC       libcurl_la-content_encoding.lo
+[80.817s]   CC       libcurl_la-share.lo
+[81.114s]   CC       libcurl_la-http_digest.lo
+[81.396s]   CC       libcurl_la-md4.lo
+[81.597s]   CC       libcurl_la-md5.lo
+[81.862s]   CC       libcurl_la-http_negotiate.lo
+[82.106s]   CC       libcurl_la-inet_pton.lo
+[82.364s]   CC       libcurl_la-strtoofft.lo
+[82.655s]   CC       libcurl_la-strerror.lo
+[82.927s]   CC       libcurl_la-amigaos.lo
+[83.131s]   CC       libcurl_la-hostasyn.lo
+[83.364s]   CC       libcurl_la-hostip4.lo
+[83.589s]   CC       libcurl_la-hostip6.lo
+[83.853s]   CC       libcurl_la-hostsyn.lo
+[84.110s]   CC       libcurl_la-inet_ntop.lo
+[84.324s]   CC       libcurl_la-parsedate.lo
+[84.813s]   CC       libcurl_la-select.lo
+[85.272s]   CC       libcurl_la-tftp.lo
+[86.089s]   CC       libcurl_la-splay.lo
+[86.444s]   CC       libcurl_la-strdup.lo
+[86.741s]   CC       libcurl_la-socks.lo
+[87.327s]   CC       libcurl_la-ssh.lo
+[87.586s]   CC       libcurl_la-curl_addrinfo.lo
+[88.019s]   CC       libcurl_la-socks_gssapi.lo
+[88.267s]   CC       libcurl_la-socks_sspi.lo
+[88.528s]   CC       libcurl_la-curl_sspi.lo
+[88.752s]   CC       libcurl_la-slist.lo
+[89.061s]   CC       libcurl_la-nonblock.lo
+[89.346s]   CC       libcurl_la-curl_memrchr.lo
+[89.648s]   CC       libcurl_la-imap.lo
+[90.549s]   CC       libcurl_la-pop3.lo
+[91.148s]   CC       libcurl_la-smtp.lo
+[91.825s]   CC       libcurl_la-pingpong.lo
+[92.327s]   CC       libcurl_la-rtsp.lo
+[92.869s]   CC       libcurl_la-curl_threads.lo
+[93.146s]   CC       libcurl_la-warnless.lo
+[93.409s]   CC       libcurl_la-hmac.lo
+[93.690s]   CC       libcurl_la-curl_rtmp.lo
+[93.926s]   CC       libcurl_la-openldap.lo
+[94.478s]   CC       libcurl_la-curl_gethostname.lo
+[94.744s]   CC       libcurl_la-gopher.lo
+[95.019s]   CC       libcurl_la-idn_win32.lo
+[95.233s]   CC       libcurl_la-http_proxy.lo
+[95.798s]   CC       libcurl_la-non-ascii.lo
+[95.989s]   CC       libcurl_la-asyn-ares.lo
+[96.200s]   CC       libcurl_la-asyn-thread.lo
+[96.563s]   CC       libcurl_la-curl_gssapi.lo
+[96.745s]   CC       libcurl_la-http_ntlm.lo
+[97.117s]   CC       libcurl_la-curl_ntlm_wb.lo
+[97.579s]   CC       libcurl_la-curl_ntlm_core.lo
+[98.039s]   CC       libcurl_la-curl_sasl.lo
+[98.421s]   CC       libcurl_la-rand.lo
+[98.670s]   CC       libcurl_la-curl_multibyte.lo
+[98.843s]   CC       libcurl_la-hostcheck.lo
+[99.111s]   CC       libcurl_la-conncache.lo
+[99.491s]   CC       libcurl_la-pipeline.lo
+[99.823s]   CC       libcurl_la-dotdot.lo
+[100.053s]   CC       libcurl_la-x509asn1.lo
+[100.233s]   CC       libcurl_la-http2.lo
+[100.433s]   CC       libcurl_la-smb.lo
+[101.059s]   CC       libcurl_la-curl_endian.lo
+[101.261s]   CC       libcurl_la-curl_des.lo
+[101.438s]   CC       libcurl_la-system_win32.lo
+[101.644s]   CC       libcurl_la-mime.lo
+[102.440s]   CC       libcurl_la-sha256.lo
+[102.673s]   CC       libcurl_la-setopt.lo
+[104.154s]   CC       vauth/libcurl_la-vauth.lo
+[104.434s]   CC       vauth/libcurl_la-cleartext.lo
+[104.437s]   CC       libcurl_la-cookie.lo
+[104.778s]   CC       vauth/libcurl_la-cram.lo
+[105.093s]   CC       vauth/libcurl_la-digest.lo
+[105.360s]   CC       libcurl_la-formdata.lo
+[105.361s]   CC       vauth/libcurl_la-digest_sspi.lo
+[105.701s]   CC       vauth/libcurl_la-krb5_gssapi.lo
+[105.813s]   CC       vauth/libcurl_la-krb5_sspi.lo
+[105.961s]   CC       vauth/libcurl_la-ntlm.lo
+[106.107s]   CC       vauth/libcurl_la-ntlm_sspi.lo
+[106.242s]   CC       vauth/libcurl_la-oauth2.lo
+[106.405s]   CC       vauth/libcurl_la-spnego_gssapi.lo
+[106.420s]   CC       libcurl_la-progress.lo
+[106.704s]   CC       vauth/libcurl_la-spnego_sspi.lo
+[106.762s]   CC       vtls/libcurl_la-openssl.lo
+[107.110s]   CC       vtls/libcurl_la-gtls.lo
+[107.363s]   CC       libcurl_la-hostip.lo
+[107.378s]   CC       vtls/libcurl_la-vtls.lo
+[107.413s]   CC       vtls/libcurl_la-nss.lo
+[107.955s]   CC       vtls/libcurl_la-polarssl.lo
+[108.251s]   CC       vtls/libcurl_la-polarssl_threadlock.lo
+[108.604s]   CC       vtls/libcurl_la-axtls.lo
+[108.644s]   CC       libcurl_la-base64.lo
+[110.502s]   CC       vtls/libcurl_la-mbedtls.lo
+[110.720s]   CC       vtls/libcurl_la-gskit.lo
+[110.969s]   CC       vtls/libcurl_la-darwinssl.lo
+[111.265s]   CC       vtls/libcurl_la-schannel.lo
+[111.544s]   CC       vtls/libcurl_la-cyassl.lo
+[111.810s]   CC       libcurl_la-timeval.lo
+[112.108s]   CCLD     libcurl.la
+[112.837s] /usr/bin/ar: `u' modifier ignored since `D' is the default (see `U')
+[112.881s] Making all in src
+[112.898s] Making all in ../docs
+[112.907s] Making all in .
+[112.921s] Making all in cmdline-opts
+[112.938s]   CC       curl-slist_wc.o
+[113.003s]   CC       curl-tool_cb_see.o
+[113.069s]   CC       curl-tool_cb_wrt.o
+[113.150s]   CC       curl-tool_cfgable.o
+[113.242s]   CC       curl-tool_convert.o
+[113.297s]   CC       curl-tool_dirhie.o
+[113.388s]   CC       curl-tool_doswin.o
+[113.450s]   CC       curl-tool_easysrc.o
+[113.565s]   CC       curl-tool_formparse.o
+[113.829s]   CC       curl-tool_getparam.o
+[114.444s]   CC       curl-tool_getpass.o
+[114.530s]   CC       curl-tool_help.o
+[114.613s]   CC       curl-tool_helpers.o
+[114.691s]   CC       curl-tool_homedir.o
+[114.771s]   CC       curl-tool_hugehelp.o
+[114.845s]   CC       curl-tool_libinfo.o
+[114.911s]   CC       curl-tool_main.o
+[115.002s]   CC       curl-tool_metalink.o
+[115.055s]   CC       curl-tool_msgs.o
+[115.147s]   CC       curl-tool_operate.o
+[115.758s]   CC       curl-tool_operhlp.o
+[115.842s]   CC       curl-tool_panykey.o
+[115.898s]   CC       curl-tool_paramhlp.o
+[116.057s]   CC       curl-tool_parsecfg.o
+[116.180s]   CC       curl-tool_strdup.o
+[116.242s]   CC       curl-tool_setopt.o
+[116.468s]   CC       curl-tool_sleep.o
+[116.532s]   CC       curl-tool_urlglob.o
+[116.732s]   CC       curl-tool_util.o
+[116.805s]   CC       curl-tool_vms.o
+[116.858s]   CC       curl-tool_writeout.o
+[116.974s]   CC       curl-tool_xattr.o
+[117.055s]   CC       curl-tool_cb_rea.o
+[117.119s]   CC       ../lib/curl-nonblock.o
+[117.191s]   CC       ../lib/curl-warnless.o
+[117.267s]   CC       ../lib/curl-strtoofft.o
+[117.343s]   CC       curl-tool_cb_prg.o
+[117.445s]   CC       curl-tool_cb_hdr.o
+[117.544s]   CC       curl-tool_cb_dbg.o
+[117.650s]   CC       curl-tool_bname.o
+[117.706s]   CC       curl-tool_binmode.o
+[117.762s]   CCLD     curl
+[118.096s] [ 87%] [34m[1mPerforming install step for 'curl-7.57.0'[0m
+[118.099s] make[3]: warning: jobserver unavailable: using -j1.  Add '+' to parent make rule.
+[118.109s] Making install in lib
+[118.375s]  /bin/mkdir -p '/opt/workspace/build/libcurl_vendor/libcurl_install/lib'
+[118.377s]  /bin/bash ../libtool   --mode=install /usr/bin/install -c   libcurl.la '/opt/workspace/build/libcurl_vendor/libcurl_install/lib'
+[118.412s] libtool: install: /usr/bin/install -c .libs/libcurl.so.4.5.0 /opt/workspace/build/libcurl_vendor/libcurl_install/lib/libcurl.so.4.5.0
+[118.414s] libtool: install: (cd /opt/workspace/build/libcurl_vendor/libcurl_install/lib && { ln -s -f libcurl.so.4.5.0 libcurl.so.4 || { rm -f libcurl.so.4 && ln -s libcurl.so.4.5.0 libcurl.so.4; }; })
+[118.416s] libtool: install: (cd /opt/workspace/build/libcurl_vendor/libcurl_install/lib && { ln -s -f libcurl.so.4.5.0 libcurl.so || { rm -f libcurl.so && ln -s libcurl.so.4.5.0 libcurl.so; }; })
+[118.418s] libtool: install: /usr/bin/install -c .libs/libcurl.lai /opt/workspace/build/libcurl_vendor/libcurl_install/lib/libcurl.la
+[118.420s] libtool: install: /usr/bin/install -c .libs/libcurl.a /opt/workspace/build/libcurl_vendor/libcurl_install/lib/libcurl.a
+[118.423s] libtool: install: chmod 644 /opt/workspace/build/libcurl_vendor/libcurl_install/lib/libcurl.a
+[118.424s] libtool: install: ranlib /opt/workspace/build/libcurl_vendor/libcurl_install/lib/libcurl.a
+[118.497s] libtool: finish: PATH="/opt/ros/eloquent/bin:.:/usr/local/share/ace/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/sbin" ldconfig -n /opt/workspace/build/libcurl_vendor/libcurl_install/lib
+[118.498s] ----------------------------------------------------------------------
+[118.499s] Libraries have been installed in:
+[118.499s]    /opt/workspace/build/libcurl_vendor/libcurl_install/lib
+[118.499s] 
+[118.499s] If you ever happen to want to link against installed libraries
+[118.499s] in a given directory, LIBDIR, you must either use libtool, and
+[118.500s] specify the full pathname of the library, or use the '-LLIBDIR'
+[118.500s] flag during linking and do at least one of the following:
+[118.500s]    - add LIBDIR to the 'LD_LIBRARY_PATH' environment variable
+[118.500s]      during execution
+[118.501s]    - add LIBDIR to the 'LD_RUN_PATH' environment variable
+[118.501s]      during linking
+[118.501s]    - use the '-Wl,-rpath -Wl,LIBDIR' linker flag
+[118.501s]    - have your system administrator add LIBDIR to '/etc/ld.so.conf'
+[118.501s] 
+[118.501s] See any operating system documentation about shared libraries for
+[118.502s] more information, such as the ld(1) and ld.so(8) manual pages.
+[118.502s] ----------------------------------------------------------------------
+[118.502s] Making install in src
+[118.539s] Making install in ../docs
+[118.548s] Making install in .
+[118.558s]  /bin/mkdir -p '/opt/workspace/build/libcurl_vendor/libcurl_install/share/man/man1'
+[118.564s]  /usr/bin/install -c -m 644 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/curl-config.1 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0-build/docs/curl.1 '/opt/workspace/build/libcurl_vendor/libcurl_install/share/man/man1'
+[118.567s] Making install in cmdline-opts
+[118.678s]  /bin/mkdir -p '/opt/workspace/build/libcurl_vendor/libcurl_install/bin'
+[118.682s]   /bin/bash ../libtool   --mode=install /usr/bin/install -c curl '/opt/workspace/build/libcurl_vendor/libcurl_install/bin'
+[118.737s] libtool: install: /usr/bin/install -c .libs/curl /opt/workspace/build/libcurl_vendor/libcurl_install/bin/curl
+[118.750s]  /bin/mkdir -p '/opt/workspace/build/libcurl_vendor/libcurl_install/bin'
+[118.753s]  /usr/bin/install -c curl-config '/opt/workspace/build/libcurl_vendor/libcurl_install/bin'
+[118.758s]  /bin/mkdir -p '/opt/workspace/build/libcurl_vendor/libcurl_install/lib/pkgconfig'
+[118.761s]  /usr/bin/install -c -m 644 libcurl.pc '/opt/workspace/build/libcurl_vendor/libcurl_install/lib/pkgconfig'
+[118.778s] Making install in curl
+[118.786s]  /bin/mkdir -p '/opt/workspace/build/libcurl_vendor/libcurl_install/include/curl'
+[118.790s]  /usr/bin/install -c -m 644 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/include/curl/curl.h /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/include/curl/curlver.h /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/include/curl/easy.h /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/include/curl/mprintf.h /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/include/curl/stdcheaders.h /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/include/curl/multi.h /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/include/curl/typecheck-gcc.h /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/include/curl/system.h '/opt/workspace/build/libcurl_vendor/libcurl_install/include/curl'
+[118.810s] Making install in .
+[118.819s]  /bin/mkdir -p '/opt/workspace/build/libcurl_vendor/libcurl_install/share/man/man1'
+[118.825s]  /usr/bin/install -c -m 644 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/curl-config.1 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0-build/docs/curl.1 '/opt/workspace/build/libcurl_vendor/libcurl_install/share/man/man1'
+[118.829s] Making install in cmdline-opts
+[118.848s] Making install in opts
+[118.876s]  /bin/mkdir -p '/opt/workspace/build/libcurl_vendor/libcurl_install/share/man/man3'
+[119.009s]  /usr/bin/install -c -m 644 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLINFO_ACTIVESOCKET.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLINFO_APPCONNECT_TIME.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLINFO_CERTINFO.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLINFO_CONDITION_UNMET.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLINFO_CONNECT_TIME.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLINFO_CONTENT_LENGTH_DOWNLOAD.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLINFO_CONTENT_LENGTH_DOWNLOAD_T.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLINFO_CONTENT_LENGTH_UPLOAD.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLINFO_CONTENT_LENGTH_UPLOAD_T.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLINFO_CONTENT_TYPE.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLINFO_COOKIELIST.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLINFO_EFFECTIVE_URL.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLINFO_FILETIME.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLINFO_FTP_ENTRY_PATH.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLINFO_HEADER_SIZE.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLINFO_HTTPAUTH_AVAIL.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLINFO_HTTP_CONNECTCODE.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLINFO_HTTP_VERSION.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLINFO_LASTSOCKET.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLINFO_LOCAL_IP.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLINFO_LOCAL_PORT.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLINFO_NAMELOOKUP_TIME.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLINFO_NUM_CONNECTS.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLINFO_OS_ERRNO.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLINFO_PRETRANSFER_TIME.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLINFO_PRIMARY_IP.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLINFO_PRIMARY_PORT.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLINFO_PRIVATE.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLINFO_PROTOCOL.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLINFO_PROXYAUTH_AVAIL.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLINFO_PROXY_SSL_VERIFYRESULT.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLINFO_REDIRECT_COUNT.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLINFO_REDIRECT_TIME.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLINFO_REDIRECT_URL.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLINFO_REQUEST_SIZE.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLINFO_RESPONSE_CODE.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLINFO_RTSP_CLIENT_CSEQ.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLINFO_RTSP_CSEQ_RECV.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLINFO_RTSP_SERVER_CSEQ.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLINFO_RTSP_SESSION_ID.3 '/opt/workspace/build/libcurl_vendor/libcurl_install/share/man/man3'
+[119.018s]  /usr/bin/install -c -m 644 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLINFO_SCHEME.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLINFO_SIZE_DOWNLOAD.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLINFO_SIZE_DOWNLOAD_T.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLINFO_SIZE_UPLOAD.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLINFO_SIZE_UPLOAD_T.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLINFO_SPEED_DOWNLOAD.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLINFO_SPEED_DOWNLOAD_T.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLINFO_SPEED_UPLOAD.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLINFO_SPEED_UPLOAD_T.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLINFO_SSL_ENGINES.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLINFO_SSL_VERIFYRESULT.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLINFO_STARTTRANSFER_TIME.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLINFO_TLS_SESSION.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLINFO_TLS_SSL_PTR.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLINFO_TOTAL_TIME.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLMOPT_CHUNK_LENGTH_PENALTY_SIZE.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLMOPT_CONTENT_LENGTH_PENALTY_SIZE.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLMOPT_MAXCONNECTS.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLMOPT_MAX_HOST_CONNECTIONS.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLMOPT_MAX_PIPELINE_LENGTH.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLMOPT_MAX_TOTAL_CONNECTIONS.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLMOPT_PIPELINING.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLMOPT_PIPELINING_SERVER_BL.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLMOPT_PIPELINING_SITE_BL.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLMOPT_PUSHDATA.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLMOPT_PUSHFUNCTION.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLMOPT_SOCKETDATA.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLMOPT_SOCKETFUNCTION.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLMOPT_TIMERDATA.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLMOPT_TIMERFUNCTION.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_ABSTRACT_UNIX_SOCKET.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_ACCEPTTIMEOUT_MS.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_ACCEPT_ENCODING.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_ADDRESS_SCOPE.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_APPEND.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_AUTOREFERER.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_BUFFERSIZE.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_CAINFO.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_CAPATH.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_CERTINFO.3 '/opt/workspace/build/libcurl_vendor/libcurl_install/share/man/man3'
+[119.025s]  /usr/bin/install -c -m 644 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_CHUNK_BGN_FUNCTION.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_CHUNK_DATA.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_CHUNK_END_FUNCTION.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_CLOSESOCKETDATA.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_CLOSESOCKETFUNCTION.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_CONNECTTIMEOUT.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_CONNECTTIMEOUT_MS.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_CONNECT_ONLY.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_CONNECT_TO.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_CONV_FROM_NETWORK_FUNCTION.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_CONV_FROM_UTF8_FUNCTION.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_CONV_TO_NETWORK_FUNCTION.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_COOKIE.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_COOKIEFILE.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_COOKIEJAR.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_COOKIELIST.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_COOKIESESSION.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_COPYPOSTFIELDS.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_CRLF.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_CRLFILE.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_CUSTOMREQUEST.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_DEBUGDATA.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_DEBUGFUNCTION.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_DEFAULT_PROTOCOL.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_DIRLISTONLY.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_DNS_CACHE_TIMEOUT.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_DNS_INTERFACE.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_DNS_LOCAL_IP4.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_DNS_LOCAL_IP6.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_DNS_SERVERS.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_DNS_USE_GLOBAL_CACHE.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_EGDSOCKET.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_ERRORBUFFER.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_EXPECT_100_TIMEOUT_MS.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_FAILONERROR.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_FILETIME.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_FNMATCH_DATA.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_FNMATCH_FUNCTION.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_FOLLOWLOCATION.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_FORBID_REUSE.3 '/opt/workspace/build/libcurl_vendor/libcurl_install/share/man/man3'
+[119.033s]  /usr/bin/install -c -m 644 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_FRESH_CONNECT.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_FTPPORT.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_FTPSSLAUTH.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_FTP_ACCOUNT.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_FTP_ALTERNATIVE_TO_USER.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_FTP_CREATE_MISSING_DIRS.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_FTP_FILEMETHOD.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_FTP_RESPONSE_TIMEOUT.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_FTP_SKIP_PASV_IP.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_FTP_SSL_CCC.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_FTP_USE_EPRT.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_FTP_USE_EPSV.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_FTP_USE_PRET.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_GSSAPI_DELEGATION.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_HEADER.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_HEADERDATA.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_HEADERFUNCTION.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_HEADEROPT.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_HTTP200ALIASES.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_HTTPAUTH.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_HTTPGET.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_HTTPHEADER.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_HTTPPOST.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_HTTPPROXYTUNNEL.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_HTTP_CONTENT_DECODING.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_HTTP_TRANSFER_DECODING.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_HTTP_VERSION.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_IGNORE_CONTENT_LENGTH.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_INFILESIZE.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_INFILESIZE_LARGE.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_INTERFACE.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_INTERLEAVEDATA.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_INTERLEAVEFUNCTION.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_IOCTLDATA.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_IOCTLFUNCTION.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_IPRESOLVE.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_ISSUERCERT.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_KEEP_SENDING_ON_ERROR.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_KEYPASSWD.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_KRBLEVEL.3 '/opt/workspace/build/libcurl_vendor/libcurl_install/share/man/man3'
+[119.040s]  /usr/bin/install -c -m 644 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_LOCALPORT.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_LOCALPORTRANGE.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_LOGIN_OPTIONS.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_LOW_SPEED_LIMIT.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_LOW_SPEED_TIME.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_MAIL_AUTH.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_MAIL_FROM.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_MAIL_RCPT.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_MAXCONNECTS.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_MAXFILESIZE.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_MAXFILESIZE_LARGE.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_MAXREDIRS.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_MAX_RECV_SPEED_LARGE.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_MAX_SEND_SPEED_LARGE.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_MIMEPOST.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_NETRC.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_NETRC_FILE.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_NEW_DIRECTORY_PERMS.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_NEW_FILE_PERMS.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_NOBODY.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_NOPROGRESS.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_NOPROXY.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_NOSIGNAL.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_OPENSOCKETDATA.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_OPENSOCKETFUNCTION.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_PASSWORD.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_PATH_AS_IS.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_PINNEDPUBLICKEY.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_PIPEWAIT.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_PORT.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_POST.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_POSTFIELDS.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_POSTFIELDSIZE.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_POSTFIELDSIZE_LARGE.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_POSTQUOTE.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_POSTREDIR.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_PREQUOTE.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_PRE_PROXY.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_PRIVATE.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_PROGRESSDATA.3 '/opt/workspace/build/libcurl_vendor/libcurl_install/share/man/man3'
+[119.048s]  /usr/bin/install -c -m 644 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_PROGRESSFUNCTION.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_PROTOCOLS.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_PROXY.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_PROXYAUTH.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_PROXYHEADER.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_PROXYPASSWORD.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_PROXYPORT.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_PROXYTYPE.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_PROXYUSERNAME.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_PROXYUSERPWD.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_PROXY_CAINFO.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_PROXY_CAPATH.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_PROXY_CRLFILE.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_PROXY_KEYPASSWD.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_PROXY_PINNEDPUBLICKEY.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_PROXY_SERVICE_NAME.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_PROXY_SSLCERT.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_PROXY_SSLCERTTYPE.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_PROXY_SSLKEY.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_PROXY_SSLKEYTYPE.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_PROXY_SSLVERSION.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_PROXY_SSL_CIPHER_LIST.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_PROXY_SSL_OPTIONS.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_PROXY_SSL_VERIFYHOST.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_PROXY_SSL_VERIFYPEER.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_PROXY_TLSAUTH_PASSWORD.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_PROXY_TLSAUTH_TYPE.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_PROXY_TLSAUTH_USERNAME.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_PROXY_TRANSFER_MODE.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_PUT.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_QUOTE.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_RANDOM_FILE.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_RANGE.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_READDATA.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_READFUNCTION.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_REDIR_PROTOCOLS.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_REFERER.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_REQUEST_TARGET.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_RESOLVE.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_RESUME_FROM.3 '/opt/workspace/build/libcurl_vendor/libcurl_install/share/man/man3'
+[119.056s]  /usr/bin/install -c -m 644 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_RESUME_FROM_LARGE.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_RTSP_CLIENT_CSEQ.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_RTSP_REQUEST.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_RTSP_SERVER_CSEQ.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_RTSP_SESSION_ID.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_RTSP_STREAM_URI.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_RTSP_TRANSPORT.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_SASL_IR.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_SEEKDATA.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_SEEKFUNCTION.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_SERVICE_NAME.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_SHARE.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_SOCKOPTDATA.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_SOCKOPTFUNCTION.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_SOCKS5_AUTH.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_SOCKS5_GSSAPI_NEC.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_SOCKS5_GSSAPI_SERVICE.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_SSH_AUTH_TYPES.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_SSH_COMPRESSION.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_SSH_HOST_PUBLIC_KEY_MD5.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_SSH_KEYDATA.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_SSH_KEYFUNCTION.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_SSH_KNOWNHOSTS.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_SSH_PRIVATE_KEYFILE.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_SSH_PUBLIC_KEYFILE.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_SSLCERT.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_SSLCERTTYPE.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_SSLENGINE.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_SSLENGINE_DEFAULT.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_SSLKEY.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_SSLKEYTYPE.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_SSLVERSION.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_SSL_CIPHER_LIST.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_SSL_CTX_DATA.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_SSL_CTX_FUNCTION.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_SSL_ENABLE_ALPN.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_SSL_ENABLE_NPN.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_SSL_FALSESTART.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_SSL_OPTIONS.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_SSL_SESSIONID_CACHE.3 '/opt/workspace/build/libcurl_vendor/libcurl_install/share/man/man3'
+[119.064s]  /usr/bin/install -c -m 644 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_SSL_VERIFYHOST.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_SSL_VERIFYPEER.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_SSL_VERIFYSTATUS.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_STDERR.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_STREAM_DEPENDS.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_STREAM_DEPENDS_E.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_STREAM_WEIGHT.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_SUPPRESS_CONNECT_HEADERS.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_TCP_FASTOPEN.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_TCP_KEEPALIVE.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_TCP_KEEPIDLE.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_TCP_KEEPINTVL.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_TCP_NODELAY.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_TELNETOPTIONS.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_TFTP_BLKSIZE.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_TFTP_NO_OPTIONS.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_TIMECONDITION.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_TIMEOUT.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_TIMEOUT_MS.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_TIMEVALUE.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_TLSAUTH_PASSWORD.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_TLSAUTH_TYPE.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_TLSAUTH_USERNAME.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_TRANSFERTEXT.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_TRANSFER_ENCODING.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_UNIX_SOCKET_PATH.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_UNRESTRICTED_AUTH.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_UPLOAD.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_URL.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_USERAGENT.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_USERNAME.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_USERPWD.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_USE_SSL.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_VERBOSE.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_WILDCARDMATCH.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_WRITEDATA.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_WRITEFUNCTION.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_XFERINFODATA.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_XFERINFOFUNCTION.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/opts/CURLOPT_XOAUTH2_BEARER.3 '/opt/workspace/build/libcurl_vendor/libcurl_install/share/man/man3'
+[119.081s]  /bin/mkdir -p '/opt/workspace/build/libcurl_vendor/libcurl_install/share/aclocal'
+[119.084s]  /usr/bin/install -c -m 644 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/libcurl.m4 '/opt/workspace/build/libcurl_vendor/libcurl_install/share/aclocal'
+[119.091s]  /bin/mkdir -p '/opt/workspace/build/libcurl_vendor/libcurl_install/share/man/man3'
+[119.117s]  /usr/bin/install -c -m 644 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/curl_easy_cleanup.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/curl_easy_getinfo.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/curl_easy_init.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/curl_easy_perform.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/curl_easy_setopt.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/curl_easy_duphandle.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/curl_formadd.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/curl_formfree.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/curl_getdate.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/curl_getenv.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/curl_slist_append.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/curl_slist_free_all.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/curl_version.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/curl_version_info.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/curl_escape.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/curl_unescape.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/curl_free.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/curl_strequal.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/curl_strnequal.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/curl_mprintf.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/curl_global_init.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/curl_global_cleanup.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/curl_multi_add_handle.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/curl_multi_cleanup.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/curl_multi_fdset.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/curl_multi_info_read.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/curl_multi_init.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/curl_multi_perform.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/curl_multi_remove_handle.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/curl_share_cleanup.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/curl_share_init.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/curl_share_setopt.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/libcurl.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/libcurl-easy.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/libcurl-multi.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/libcurl-share.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/libcurl-errors.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/curl_easy_strerror.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/curl_multi_strerror.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/curl_share_strerror.3 '/opt/workspace/build/libcurl_vendor/libcurl_install/share/man/man3'
+[119.126s]  /usr/bin/install -c -m 644 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/curl_global_init_mem.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/libcurl-tutorial.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/curl_easy_reset.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/curl_easy_escape.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/curl_easy_unescape.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/curl_multi_setopt.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/curl_multi_socket.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/curl_multi_timeout.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/curl_formget.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/curl_multi_assign.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/curl_easy_pause.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/curl_easy_recv.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/curl_easy_send.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/curl_multi_socket_action.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/curl_multi_wait.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/libcurl-symbols.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/libcurl-thread.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/curl_multi_socket_all.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/curl_global_sslset.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/curl_mime_init.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/curl_mime_free.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/curl_mime_addpart.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/curl_mime_name.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/curl_mime_data.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/curl_mime_data_cb.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/curl_mime_filedata.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/curl_mime_filename.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/curl_mime_subparts.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/curl_mime_type.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/curl_mime_headers.3 /opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0/docs/libcurl/curl_mime_encoder.3 '/opt/workspace/build/libcurl_vendor/libcurl_install/share/man/man3'
+[119.154s] [100%] [34m[1mCompleted 'curl-7.57.0'[0m
+[119.196s] [100%] Built target curl-7.57.0

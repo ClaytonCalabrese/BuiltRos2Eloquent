@@ -1,0 +1,12 @@
+[0.902s] Invoking command in '/opt/workspace/build/tinyxml_vendor': CMAKE_PREFIX_PATH=/opt/ros/eloquent /usr/bin/cmake --build /opt/workspace/build/tinyxml_vendor -- -j8 -l8
+[1.009s] Invoked command in '/opt/workspace/build/tinyxml_vendor' returned '0': CMAKE_PREFIX_PATH=/opt/ros/eloquent /usr/bin/cmake --build /opt/workspace/build/tinyxml_vendor -- -j8 -l8
+[1.072s] Invoking command in '/opt/workspace/build/tinyxml_vendor': CMAKE_PREFIX_PATH=/opt/ros/eloquent /usr/bin/cmake --build /opt/workspace/build/tinyxml_vendor --target install -- -j8 -l8
+[1.193s] [36mInstall the project...[0m
+[1.200s] -- Install configuration: ""
+[1.201s] -- Up-to-date: /opt/workspace/install/tinyxml_vendor/share/tinyxml_vendor/cmake
+[1.201s] -- Up-to-date: /opt/workspace/install/tinyxml_vendor/share/tinyxml_vendor/cmake/Modules
+[1.201s] -- Up-to-date: /opt/workspace/install/tinyxml_vendor/share/tinyxml_vendor/cmake/Modules/FindTinyXML.cmake
+[1.201s] -- Up-to-date: /opt/workspace/install/tinyxml_vendor/share/tinyxml_vendor/package.xml
+[1.202s] -- Up-to-date: /opt/workspace/install/tinyxml_vendor/share/tinyxml_vendor/cmake/tinyxml_vendorConfig.cmake
+[1.208s] -- Up-to-date: /opt/workspace/install/tinyxml_vendor/share/tinyxml_vendor/cmake/tinyxml_vendorConfig-version.cmake
+[1.302s] Invoked command in '/opt/workspace/build/tinyxml_vendor' returned '0': CMAKE_PREFIX_PATH=/opt/ros/eloquent /usr/bin/cmake --build /opt/workspace/build/tinyxml_vendor --target install -- -j8 -l8

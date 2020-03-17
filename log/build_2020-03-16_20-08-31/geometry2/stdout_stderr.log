@@ -1,0 +1,23 @@
+[0.506s] -- Found ament_cmake: 0.8.2 (/opt/workspace/install/ament_cmake/share/ament_cmake/cmake)
+[0.623s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[0.624s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.410s] -- Configuring done
+[1.414s] -- Generating done
+[1.417s] -- Build files have been written to: /opt/workspace/build/geometry2
+[1.746s] [36mInstall the project...[0m
+[1.771s] -- Install configuration: ""
+[1.772s] -- Installing: /opt/workspace/install/geometry2/share/ament_index/resource_index/package_run_dependencies/geometry2
+[1.772s] -- Installing: /opt/workspace/install/geometry2/share/ament_index/resource_index/parent_prefix_path/geometry2
+[1.773s] -- Installing: /opt/workspace/install/geometry2/share/geometry2/environment/ament_prefix_path.sh
+[1.773s] -- Installing: /opt/workspace/install/geometry2/share/geometry2/environment/ament_prefix_path.dsv
+[1.773s] -- Installing: /opt/workspace/install/geometry2/share/geometry2/environment/path.sh
+[1.773s] -- Installing: /opt/workspace/install/geometry2/share/geometry2/environment/path.dsv
+[1.774s] -- Installing: /opt/workspace/install/geometry2/share/geometry2/local_setup.bash
+[1.774s] -- Installing: /opt/workspace/install/geometry2/share/geometry2/local_setup.sh
+[1.775s] -- Installing: /opt/workspace/install/geometry2/share/geometry2/local_setup.zsh
+[1.775s] -- Installing: /opt/workspace/install/geometry2/share/geometry2/local_setup.dsv
+[1.775s] -- Installing: /opt/workspace/install/geometry2/share/geometry2/package.dsv
+[1.776s] -- Installing: /opt/workspace/install/geometry2/share/ament_index/resource_index/packages/geometry2
+[1.776s] -- Installing: /opt/workspace/install/geometry2/share/geometry2/cmake/geometry2Config.cmake
+[1.776s] -- Installing: /opt/workspace/install/geometry2/share/geometry2/cmake/geometry2Config-version.cmake
+[1.777s] -- Installing: /opt/workspace/install/geometry2/share/geometry2/package.xml

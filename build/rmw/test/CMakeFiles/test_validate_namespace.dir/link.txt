@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/test_validate_namespace.dir/test_validate_namespace.cpp.o  -o test_validate_namespace -Wl,-rpath,/opt/workspace/build/rmw:/opt/workspace/install/rcutils/lib ../gmock/libgmock_main.a ../gmock/libgmock.a ../librmw.so -lpthread -pthread /opt/workspace/install/rcutils/lib/librcutils.so 

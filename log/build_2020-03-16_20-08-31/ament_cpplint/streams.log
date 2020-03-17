@@ -1,0 +1,21 @@
+[2.177s] Invoking command in '/opt/workspace/src/ament/ament_lint/ament_cpplint': AMENT_PREFIX_PATH=/opt/workspace/install/ament_copyright:/opt/workspace/install/ament_pep257:/opt/workspace/install/ament_flake8:/opt/workspace/install/ament_lint:${AMENT_PREFIX_PATH} PATH=/opt/workspace/install/ament_copyright/bin:/opt/workspace/install/ament_pep257/bin:/opt/workspace/install/ament_flake8/bin:${PATH} PYTHONPATH=/opt/workspace/install/ament_cpplint/lib/python3.6/site-packages:/opt/workspace/install/ament_copyright/lib/python3.6/site-packages:/opt/workspace/install/ament_pep257/lib/python3.6/site-packages:/opt/workspace/install/ament_flake8/lib/python3.6/site-packages:/opt/workspace/install/ament_lint/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base /opt/workspace/build/ament_cpplint build --build-base /opt/workspace/build/ament_cpplint/build install --prefix /opt/workspace/install/ament_cpplint --record /opt/workspace/build/ament_cpplint/install.log --single-version-externally-managed
+[2.590s] running egg_info
+[2.590s] writing /opt/workspace/build/ament_cpplint/ament_cpplint.egg-info/PKG-INFO
+[2.591s] writing dependency_links to /opt/workspace/build/ament_cpplint/ament_cpplint.egg-info/dependency_links.txt
+[2.591s] writing entry points to /opt/workspace/build/ament_cpplint/ament_cpplint.egg-info/entry_points.txt
+[2.594s] writing requirements to /opt/workspace/build/ament_cpplint/ament_cpplint.egg-info/requires.txt
+[2.595s] writing top-level names to /opt/workspace/build/ament_cpplint/ament_cpplint.egg-info/top_level.txt
+[2.595s] reading manifest file '/opt/workspace/build/ament_cpplint/ament_cpplint.egg-info/SOURCES.txt'
+[2.595s] writing manifest file '/opt/workspace/build/ament_cpplint/ament_cpplint.egg-info/SOURCES.txt'
+[2.599s] running build
+[2.604s] running build_py
+[2.605s] running install
+[2.605s] running install_lib
+[2.606s] running install_data
+[2.606s] running install_egg_info
+[2.607s] removing '/opt/workspace/install/ament_cpplint/lib/python3.6/site-packages/ament_cpplint-0.8.1-py3.6.egg-info' (and everything under it)
+[2.607s] Copying /opt/workspace/build/ament_cpplint/ament_cpplint.egg-info to /opt/workspace/install/ament_cpplint/lib/python3.6/site-packages/ament_cpplint-0.8.1-py3.6.egg-info
+[2.608s] running install_scripts
+[2.615s] Installing ament_cpplint script to /opt/workspace/install/ament_cpplint/bin
+[2.616s] writing list of installed files to '/opt/workspace/build/ament_cpplint/install.log'
+[3.051s] Invoked command in '/opt/workspace/src/ament/ament_lint/ament_cpplint' returned '0': AMENT_PREFIX_PATH=/opt/workspace/install/ament_copyright:/opt/workspace/install/ament_pep257:/opt/workspace/install/ament_flake8:/opt/workspace/install/ament_lint:${AMENT_PREFIX_PATH} PATH=/opt/workspace/install/ament_copyright/bin:/opt/workspace/install/ament_pep257/bin:/opt/workspace/install/ament_flake8/bin:${PATH} PYTHONPATH=/opt/workspace/install/ament_cpplint/lib/python3.6/site-packages:/opt/workspace/install/ament_copyright/lib/python3.6/site-packages:/opt/workspace/install/ament_pep257/lib/python3.6/site-packages:/opt/workspace/install/ament_flake8/lib/python3.6/site-packages:/opt/workspace/install/ament_lint/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base /opt/workspace/build/ament_cpplint build --build-base /opt/workspace/build/ament_cpplint/build install --prefix /opt/workspace/install/ament_cpplint --record /opt/workspace/build/ament_cpplint/install.log --single-version-externally-managed

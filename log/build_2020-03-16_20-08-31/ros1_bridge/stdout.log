@@ -1,0 +1,56 @@
+[1.073s] -- The C compiler identification is GNU 7.4.0
+[1.234s] -- The CXX compiler identification is GNU 7.4.0
+[1.249s] -- Check for working C compiler: /usr/bin/cc
+[1.470s] -- Check for working C compiler: /usr/bin/cc -- works
+[1.476s] -- Detecting C compiler ABI info
+[1.675s] -- Detecting C compiler ABI info - done
+[1.689s] -- Detecting C compile features
+[2.227s] -- Detecting C compile features - done
+[2.233s] -- Check for working CXX compiler: /usr/bin/c++
+[2.455s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[2.458s] -- Detecting CXX compiler ABI info
+[2.709s] -- Detecting CXX compiler ABI info - done
+[2.723s] -- Detecting CXX compile features
+[3.671s] -- Detecting CXX compile features - done
+[3.687s] -- Found rmw: 0.8.1 (/opt/workspace/install/rmw/share/rmw/cmake)
+[3.870s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[3.871s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[4.806s] -- Found rosidl_adapter: 0.8.2 (/opt/workspace/install/rosidl_adapter/share/rosidl_adapter/cmake)
+[4.838s] -- Found rclcpp: 0.8.4 (/opt/workspace/install/rclcpp/share/rclcpp/cmake)
+[5.080s] -- Found rmw_implementation_cmake: 0.8.1 (/opt/workspace/install/rmw_implementation_cmake/share/rmw_implementation_cmake/cmake)
+[5.108s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[5.110s] -- Looking for pthread.h
+[5.323s] -- Looking for pthread.h - found
+[5.323s] -- Looking for pthread_create
+[5.537s] -- Looking for pthread_create - not found
+[5.538s] -- Looking for pthread_create in pthreads
+[5.731s] -- Looking for pthread_create in pthreads - not found
+[5.732s] -- Looking for pthread_create in pthread
+[5.940s] -- Looking for pthread_create in pthread - found
+[5.943s] -- Found Threads: TRUE  
+[6.072s] -- Found std_msgs: 0.8.1 (/opt/workspace/install/std_msgs/share/std_msgs/cmake)
+[6.099s] -- Found PkgConfig: /usr/bin/pkg-config (found version "0.29.1") 
+[6.115s] -- Checking for module 'roscpp'
+[6.130s] --   No package 'roscpp' found
+[6.396s] -- Configuring done
+[6.400s] -- Generating done
+[6.403s] -- Build files have been written to: /opt/workspace/build/ros1_bridge
+[6.774s] [36mInstall the project...[0m
+[6.805s] -- Install configuration: ""
+[6.805s] -- Installing: /opt/workspace/install/ros1_bridge/share/ament_index/resource_index/package_run_dependencies/ros1_bridge
+[6.806s] -- Installing: /opt/workspace/install/ros1_bridge/share/ament_index/resource_index/parent_prefix_path/ros1_bridge
+[6.807s] -- Installing: /opt/workspace/install/ros1_bridge/share/ros1_bridge/environment/ament_prefix_path.sh
+[6.808s] -- Installing: /opt/workspace/install/ros1_bridge/share/ros1_bridge/environment/ament_prefix_path.dsv
+[6.808s] -- Installing: /opt/workspace/install/ros1_bridge/share/ros1_bridge/environment/path.sh
+[6.809s] -- Installing: /opt/workspace/install/ros1_bridge/share/ros1_bridge/environment/path.dsv
+[6.810s] -- Installing: /opt/workspace/install/ros1_bridge/share/ros1_bridge/local_setup.bash
+[6.810s] -- Installing: /opt/workspace/install/ros1_bridge/share/ros1_bridge/local_setup.sh
+[6.811s] -- Installing: /opt/workspace/install/ros1_bridge/share/ros1_bridge/local_setup.zsh
+[6.812s] -- Installing: /opt/workspace/install/ros1_bridge/share/ros1_bridge/local_setup.dsv
+[6.812s] -- Installing: /opt/workspace/install/ros1_bridge/share/ros1_bridge/package.dsv
+[6.813s] -- Installing: /opt/workspace/install/ros1_bridge/share/ament_index/resource_index/packages/ros1_bridge
+[6.814s] -- Installing: /opt/workspace/install/ros1_bridge/share/ros1_bridge/cmake/find_ros1_package.cmake
+[6.815s] -- Installing: /opt/workspace/install/ros1_bridge/share/ros1_bridge/cmake/find_ros1_interface_packages.cmake
+[6.815s] -- Installing: /opt/workspace/install/ros1_bridge/share/ros1_bridge/cmake/ros1_bridgeConfig.cmake
+[6.816s] -- Installing: /opt/workspace/install/ros1_bridge/share/ros1_bridge/cmake/ros1_bridgeConfig-version.cmake
+[6.817s] -- Installing: /opt/workspace/install/ros1_bridge/share/ros1_bridge/package.xml

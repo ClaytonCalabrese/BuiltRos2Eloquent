@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/opt/workspace/build/libcurl_vendor/CMakeFiles/curl-7.57.0"
+		},
+		{
+			"file" : "/opt/workspace/build/libcurl_vendor/CMakeFiles/curl-7.57.0.rule"
+		},
+		{
+			"file" : "/opt/workspace/build/libcurl_vendor/CMakeFiles/curl-7.57.0-complete.rule"
+		},
+		{
+			"file" : "/opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0-stamp/curl-7.57.0-install.rule"
+		},
+		{
+			"file" : "/opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0-stamp/curl-7.57.0-mkdir.rule"
+		},
+		{
+			"file" : "/opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0-stamp/curl-7.57.0-download.rule"
+		},
+		{
+			"file" : "/opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0-stamp/curl-7.57.0-update.rule"
+		},
+		{
+			"file" : "/opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0-stamp/curl-7.57.0-patch.rule"
+		},
+		{
+			"file" : "/opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0-stamp/curl-7.57.0-configure.rule"
+		},
+		{
+			"file" : "/opt/workspace/build/libcurl_vendor/curl-7.57.0-prefix/src/curl-7.57.0-stamp/curl-7.57.0-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"curl-7.57.0"
+		],
+		"name" : "curl-7.57.0"
+	}
+}

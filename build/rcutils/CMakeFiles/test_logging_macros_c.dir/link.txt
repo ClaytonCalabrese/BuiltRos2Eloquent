@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/test_logging_macros_c.dir/test/test_logging_macros.c.o  -o test_logging_macros_c -Wl,-rpath,/opt/workspace/build/rcutils librcutils.so 

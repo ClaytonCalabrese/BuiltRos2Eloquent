@@ -1,0 +1,85 @@
+[0.564s] -- The C compiler identification is GNU 7.4.0
+[0.704s] -- The CXX compiler identification is GNU 7.4.0
+[0.717s] -- Check for working C compiler: /usr/bin/cc
+[0.907s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.909s] -- Detecting C compiler ABI info
+[1.084s] -- Detecting C compiler ABI info - done
+[1.097s] -- Detecting C compile features
+[1.575s] -- Detecting C compile features - done
+[1.581s] -- Check for working CXX compiler: /usr/bin/c++
+[1.779s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[1.781s] -- Detecting CXX compiler ABI info
+[1.990s] -- Detecting CXX compiler ABI info - done
+[2.003s] -- Detecting CXX compile features
+[2.810s] -- Detecting CXX compile features - done
+[2.824s] -- Found ament_cmake: 0.8.2 (/opt/workspace/install/ament_cmake/share/ament_cmake/cmake)
+[2.947s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[2.948s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[3.650s] -- Found action_tutorials_interfaces: 0.8.4 (/opt/workspace/install/action_tutorials_interfaces/share/action_tutorials_interfaces/cmake)
+[3.751s] -- Found rosidl_adapter: 0.8.2 (/opt/workspace/install/rosidl_adapter/share/rosidl_adapter/cmake)
+[3.849s] -- Found rclcpp: 0.8.4 (/opt/workspace/install/rclcpp/share/rclcpp/cmake)
+[3.898s] -- Found rmw_implementation_cmake: 0.8.1 (/opt/workspace/install/rmw_implementation_cmake/share/rmw_implementation_cmake/cmake)
+[3.916s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[3.918s] -- Looking for pthread.h
+[4.096s] -- Looking for pthread.h - found
+[4.098s] -- Looking for pthread_create
+[4.277s] -- Looking for pthread_create - not found
+[4.279s] -- Looking for pthread_create in pthreads
+[4.454s] -- Looking for pthread_create in pthreads - not found
+[4.461s] -- Looking for pthread_create in pthread
+[4.621s] -- Looking for pthread_create in pthread - found
+[4.623s] -- Found Threads: TRUE  
+[4.732s] -- Found rclcpp_action: 0.8.4 (/opt/workspace/install/rclcpp_action/share/rclcpp_action/cmake)
+[4.875s] -- Found rclcpp_components: 0.8.4 (/opt/workspace/install/rclcpp_components/share/rclcpp_components/cmake)
+[4.901s] -- Found poco_vendor:  (/opt/workspace/install/poco_vendor/share/poco_vendor/cmake)
+[5.495s] -- Found ament_lint_auto: 0.8.1 (/opt/workspace/install/ament_lint_auto/share/ament_lint_auto/cmake)
+[5.806s] -- Added test 'copyright' to check for copyright in CMake / C / C++ / Python code
+[5.811s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[5.813s] -- Configured cppcheck include dirs: /opt/workspace/src/ros2/demos/action_tutorials/action_tutorials_cpp/include
+[5.817s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[5.821s] -- Added test 'lint_cmake' to check CMake code style
+[5.825s] -- Added test 'uncrustify' to check C / C++ code style
+[5.828s] -- Added test 'xmllint' to check XML markup files
+[5.837s] -- Configuring done
+[5.924s] -- Generating done
+[5.927s] -- Build files have been written to: /opt/workspace/build/action_tutorials_cpp
+[6.055s] [35m[1mScanning dependencies of target fibonacci_action_server[0m
+[6.155s] [ 14%] [32mBuilding CXX object CMakeFiles/fibonacci_action_server.dir/rclcpp_components/node_main_fibonacci_action_server.cpp.o[0m
+[9.659s] [ 28%] [32m[1mLinking CXX executable fibonacci_action_server[0m
+[10.188s] [ 28%] Built target fibonacci_action_server
+[10.220s] [35m[1mScanning dependencies of target fibonacci_action_client[0m
+[10.341s] [ 42%] [32mBuilding CXX object CMakeFiles/fibonacci_action_client.dir/rclcpp_components/node_main_fibonacci_action_client.cpp.o[0m
+[13.884s] [ 57%] [32m[1mLinking CXX executable fibonacci_action_client[0m
+[14.413s] [ 57%] Built target fibonacci_action_client
+[14.451s] [35m[1mScanning dependencies of target action_tutorials[0m
+[14.598s] [ 71%] [32mBuilding CXX object CMakeFiles/action_tutorials.dir/src/fibonacci_action_client.cpp.o[0m
+[20.640s] [ 85%] [32mBuilding CXX object CMakeFiles/action_tutorials.dir/src/fibonacci_action_server.cpp.o[0m
+[25.992s] [100%] [32m[1mLinking CXX shared library libaction_tutorials.so[0m
+[26.742s] [100%] Built target action_tutorials
+[27.057s] [ 28%] Built target fibonacci_action_server
+[27.155s] [ 57%] Built target fibonacci_action_client
+[27.267s] [100%] Built target action_tutorials
+[27.332s] [36mInstall the project...[0m
+[27.359s] -- Install configuration: ""
+[27.359s] -- Installing: /opt/workspace/install/action_tutorials_cpp/lib/action_tutorials_cpp/fibonacci_action_client
+[27.361s] -- Set runtime path of "/opt/workspace/install/action_tutorials_cpp/lib/action_tutorials_cpp/fibonacci_action_client" to ""
+[27.362s] -- Installing: /opt/workspace/install/action_tutorials_cpp/lib/action_tutorials_cpp/fibonacci_action_server
+[27.363s] -- Set runtime path of "/opt/workspace/install/action_tutorials_cpp/lib/action_tutorials_cpp/fibonacci_action_server" to ""
+[27.364s] -- Installing: /opt/workspace/install/action_tutorials_cpp/lib/libaction_tutorials.so
+[27.368s] -- Set runtime path of "/opt/workspace/install/action_tutorials_cpp/lib/libaction_tutorials.so" to ""
+[27.369s] -- Installing: /opt/workspace/install/action_tutorials_cpp/share/ament_index/resource_index/package_run_dependencies/action_tutorials_cpp
+[27.369s] -- Installing: /opt/workspace/install/action_tutorials_cpp/share/ament_index/resource_index/parent_prefix_path/action_tutorials_cpp
+[27.370s] -- Installing: /opt/workspace/install/action_tutorials_cpp/share/action_tutorials_cpp/environment/ament_prefix_path.sh
+[27.370s] -- Installing: /opt/workspace/install/action_tutorials_cpp/share/action_tutorials_cpp/environment/ament_prefix_path.dsv
+[27.370s] -- Installing: /opt/workspace/install/action_tutorials_cpp/share/action_tutorials_cpp/environment/path.sh
+[27.371s] -- Installing: /opt/workspace/install/action_tutorials_cpp/share/action_tutorials_cpp/environment/path.dsv
+[27.371s] -- Installing: /opt/workspace/install/action_tutorials_cpp/share/action_tutorials_cpp/local_setup.bash
+[27.371s] -- Installing: /opt/workspace/install/action_tutorials_cpp/share/action_tutorials_cpp/local_setup.sh
+[27.372s] -- Installing: /opt/workspace/install/action_tutorials_cpp/share/action_tutorials_cpp/local_setup.zsh
+[27.373s] -- Installing: /opt/workspace/install/action_tutorials_cpp/share/action_tutorials_cpp/local_setup.dsv
+[27.373s] -- Installing: /opt/workspace/install/action_tutorials_cpp/share/action_tutorials_cpp/package.dsv
+[27.373s] -- Installing: /opt/workspace/install/action_tutorials_cpp/share/ament_index/resource_index/packages/action_tutorials_cpp
+[27.374s] -- Installing: /opt/workspace/install/action_tutorials_cpp/share/ament_index/resource_index/rclcpp_components/action_tutorials_cpp
+[27.375s] -- Installing: /opt/workspace/install/action_tutorials_cpp/share/action_tutorials_cpp/cmake/action_tutorials_cppConfig.cmake
+[27.375s] -- Installing: /opt/workspace/install/action_tutorials_cpp/share/action_tutorials_cpp/cmake/action_tutorials_cppConfig-version.cmake
+[27.375s] -- Installing: /opt/workspace/install/action_tutorials_cpp/share/action_tutorials_cpp/package.xml

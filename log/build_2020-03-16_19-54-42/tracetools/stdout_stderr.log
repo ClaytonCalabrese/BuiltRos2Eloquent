@@ -1,0 +1,77 @@
+[0.350s] -- The C compiler identification is GNU 7.4.0
+[0.462s] -- The CXX compiler identification is GNU 7.4.0
+[0.471s] -- Check for working C compiler: /usr/bin/cc
+[0.638s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.638s] -- Detecting C compiler ABI info
+[0.819s] -- Detecting C compiler ABI info - done
+[0.832s] -- Detecting C compile features
+[1.290s] -- Detecting C compile features - done
+[1.295s] -- Check for working CXX compiler: /usr/bin/c++
+[1.460s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[1.461s] -- Detecting CXX compiler ABI info
+[1.635s] -- Detecting CXX compiler ABI info - done
+[1.649s] -- Detecting CXX compile features
+[2.434s] -- Detecting CXX compile features - done
+[2.437s] -- Found ament_cmake_ros: 0.8.0 (/opt/workspace/install/ament_cmake_ros/share/ament_cmake_ros/cmake)
+[2.506s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[2.506s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[2.960s] -- Found PkgConfig: /usr/bin/pkg-config (found version "0.29.1") 
+[2.961s] -- Checking for module 'lttng-ust'
+[2.968s] --   No package 'lttng-ust' found
+[2.978s] -- Found ament_lint_auto: 0.8.1 (/opt/workspace/install/ament_lint_auto/share/ament_lint_auto/cmake)
+[3.159s] -- Added test 'copyright' to check for copyright in CMake / C / C++ / Python code
+[3.163s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[3.164s] -- Configured cppcheck include dirs: /opt/workspace/src/micro-ROS/ros_tracing/ros2_tracing/tracetools/include
+[3.169s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[3.173s] -- Added test 'lint_cmake' to check CMake code style
+[3.178s] -- Added test 'uncrustify' to check C / C++ code style
+[3.181s] -- Added test 'xmllint' to check XML markup files
+[3.188s] -- Configuring done
+[3.200s] -- Generating done
+[3.203s] -- Build files have been written to: /opt/workspace/build/tracetools
+[3.316s] [35m[1mScanning dependencies of target tracetools[0m
+[3.346s] [ 20%] [32mBuilding C object CMakeFiles/tracetools.dir/src/tracetools.c.o[0m
+[3.407s] [ 40%] [32mBuilding CXX object CMakeFiles/tracetools.dir/src/utils.cpp.o[0m
+[3.790s] [ 60%] [32m[1mLinking CXX shared library libtracetools.so[0m
+[3.869s] [ 60%] Built target tracetools
+[3.888s] [35m[1mScanning dependencies of target status[0m
+[3.911s] [ 80%] [32mBuilding C object CMakeFiles/status.dir/src/status.c.o[0m
+[3.994s] [100%] [32m[1mLinking C executable status[0m
+[4.065s] [100%] Built target status
+[4.326s] [ 60%] Built target tracetools
+[4.366s] [100%] Built target status
+[4.409s] [36mInstall the project...[0m
+[4.438s] -- Install configuration: ""
+[4.439s] -- Installing: /opt/workspace/install/tracetools/share/tracetools/environment/library_path.sh
+[4.439s] -- Installing: /opt/workspace/install/tracetools/share/tracetools/environment/library_path.dsv
+[4.439s] -- Installing: /opt/workspace/install/tracetools/lib/tracetools/status
+[4.439s] -- Set runtime path of "/opt/workspace/install/tracetools/lib/tracetools/status" to ""
+[4.440s] -- Installing: /opt/workspace/install/tracetools/include
+[4.440s] -- Installing: /opt/workspace/install/tracetools/include/tracetools
+[4.440s] -- Installing: /opt/workspace/install/tracetools/include/tracetools/utils.hpp
+[4.440s] -- Installing: /opt/workspace/install/tracetools/include/tracetools/tracetools.h
+[4.441s] -- Installing: /opt/workspace/install/tracetools/include/tracetools/visibility_control.hpp
+[4.441s] -- Installing: /opt/workspace/install/tracetools/include/tracetools/tp_call.h
+[4.441s] -- Installing: /opt/workspace/install/tracetools/include/tracetools/config.h.in
+[4.441s] -- Installing: /opt/workspace/install/tracetools/include/tracetools/config.h
+[4.441s] -- Installing: /opt/workspace/install/tracetools/lib/libtracetools.so
+[4.442s] -- Installing: /opt/workspace/install/tracetools/share/ament_index/resource_index/package_run_dependencies/tracetools
+[4.442s] -- Installing: /opt/workspace/install/tracetools/share/ament_index/resource_index/parent_prefix_path/tracetools
+[4.442s] -- Installing: /opt/workspace/install/tracetools/share/tracetools/environment/ament_prefix_path.sh
+[4.442s] -- Installing: /opt/workspace/install/tracetools/share/tracetools/environment/ament_prefix_path.dsv
+[4.442s] -- Installing: /opt/workspace/install/tracetools/share/tracetools/environment/path.sh
+[4.442s] -- Installing: /opt/workspace/install/tracetools/share/tracetools/environment/path.dsv
+[4.443s] -- Installing: /opt/workspace/install/tracetools/share/tracetools/local_setup.bash
+[4.443s] -- Installing: /opt/workspace/install/tracetools/share/tracetools/local_setup.sh
+[4.443s] -- Installing: /opt/workspace/install/tracetools/share/tracetools/local_setup.zsh
+[4.443s] -- Installing: /opt/workspace/install/tracetools/share/tracetools/local_setup.dsv
+[4.448s] -- Installing: /opt/workspace/install/tracetools/share/tracetools/package.dsv
+[4.449s] -- Installing: /opt/workspace/install/tracetools/share/ament_index/resource_index/packages/tracetools
+[4.450s] -- Installing: /opt/workspace/install/tracetools/share/tracetools/cmake/tracetools_exportExport.cmake
+[4.450s] -- Installing: /opt/workspace/install/tracetools/share/tracetools/cmake/tracetools_exportExport-noconfig.cmake
+[4.451s] -- Installing: /opt/workspace/install/tracetools/share/tracetools/cmake/ament_cmake_export_interfaces-extras.cmake
+[4.451s] -- Installing: /opt/workspace/install/tracetools/share/tracetools/cmake/ament_cmake_export_include_directories-extras.cmake
+[4.452s] -- Installing: /opt/workspace/install/tracetools/share/tracetools/cmake/ament_cmake_export_libraries-extras.cmake
+[4.452s] -- Installing: /opt/workspace/install/tracetools/share/tracetools/cmake/tracetoolsConfig.cmake
+[4.452s] -- Installing: /opt/workspace/install/tracetools/share/tracetools/cmake/tracetoolsConfig-version.cmake
+[4.453s] -- Installing: /opt/workspace/install/tracetools/share/tracetools/package.xml

@@ -1,0 +1,6 @@
+{
+  "package_name": "action_tutorials_interfaces",
+  "non_idl_tuples": [
+    "/opt/workspace/src/ros2/demos/action_tutorials/action_tutorials_interfaces:action/Fibonacci.action"
+  ]
+}

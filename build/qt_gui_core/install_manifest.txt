@@ -1,0 +1,15 @@
+/opt/workspace/install/qt_gui_core/share/ament_index/resource_index/package_run_dependencies/qt_gui_core
+/opt/workspace/install/qt_gui_core/share/ament_index/resource_index/parent_prefix_path/qt_gui_core
+/opt/workspace/install/qt_gui_core/share/qt_gui_core/environment/ament_prefix_path.sh
+/opt/workspace/install/qt_gui_core/share/qt_gui_core/environment/ament_prefix_path.dsv
+/opt/workspace/install/qt_gui_core/share/qt_gui_core/environment/path.sh
+/opt/workspace/install/qt_gui_core/share/qt_gui_core/environment/path.dsv
+/opt/workspace/install/qt_gui_core/share/qt_gui_core/local_setup.bash
+/opt/workspace/install/qt_gui_core/share/qt_gui_core/local_setup.sh
+/opt/workspace/install/qt_gui_core/share/qt_gui_core/local_setup.zsh
+/opt/workspace/install/qt_gui_core/share/qt_gui_core/local_setup.dsv
+/opt/workspace/install/qt_gui_core/share/qt_gui_core/package.dsv
+/opt/workspace/install/qt_gui_core/share/ament_index/resource_index/packages/qt_gui_core
+/opt/workspace/install/qt_gui_core/share/qt_gui_core/cmake/qt_gui_coreConfig.cmake
+/opt/workspace/install/qt_gui_core/share/qt_gui_core/cmake/qt_gui_coreConfig-version.cmake
+/opt/workspace/install/qt_gui_core/share/qt_gui_core/package.xml

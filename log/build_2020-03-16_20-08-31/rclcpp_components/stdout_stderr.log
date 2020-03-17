@@ -1,0 +1,123 @@
+[0.897s] -- The C compiler identification is GNU 7.4.0
+[1.066s] -- The CXX compiler identification is GNU 7.4.0
+[1.078s] -- Check for working C compiler: /usr/bin/cc
+[1.355s] -- Check for working C compiler: /usr/bin/cc -- works
+[1.357s] -- Detecting C compiler ABI info
+[1.635s] -- Detecting C compiler ABI info - done
+[1.659s] -- Detecting C compile features
+[2.404s] -- Detecting C compile features - done
+[2.410s] -- Check for working CXX compiler: /usr/bin/c++
+[2.748s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[2.749s] -- Detecting CXX compiler ABI info
+[3.060s] -- Detecting CXX compiler ABI info - done
+[3.071s] -- Detecting CXX compile features
+[4.325s] -- Detecting CXX compile features - done
+[4.344s] -- Found ament_cmake_ros: 0.8.0 (/opt/workspace/install/ament_cmake_ros/share/ament_cmake_ros/cmake)
+[4.531s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[4.531s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[5.186s] -- Found ament_index_cpp: 0.7.2 (/opt/workspace/install/ament_index_cpp/share/ament_index_cpp/cmake)
+[5.199s] -- Found class_loader: 1.4.1 (/opt/workspace/install/class_loader/share/class_loader/cmake)
+[5.212s] -- Found poco_vendor:  (/opt/workspace/install/poco_vendor/share/poco_vendor/cmake)
+[5.250s] -- Found composition_interfaces: 0.8.0 (/opt/workspace/install/composition_interfaces/share/composition_interfaces/cmake)
+[5.343s] -- Found rosidl_adapter: 0.8.2 (/opt/workspace/install/rosidl_adapter/share/rosidl_adapter/cmake)
+[5.424s] -- Found rclcpp: 0.8.4 (/opt/workspace/install/rclcpp/share/rclcpp/cmake)
+[5.455s] -- Found rmw_implementation_cmake: 0.8.1 (/opt/workspace/install/rmw_implementation_cmake/share/rmw_implementation_cmake/cmake)
+[5.472s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[5.474s] -- Looking for pthread.h
+[5.809s] -- Looking for pthread.h - found
+[5.810s] -- Looking for pthread_create
+[6.090s] -- Looking for pthread_create - not found
+[6.090s] -- Looking for pthread_create in pthreads
+[6.367s] -- Looking for pthread_create in pthreads - not found
+[6.368s] -- Looking for pthread_create in pthread
+[6.622s] -- Looking for pthread_create in pthread - found
+[6.625s] -- Found Threads: TRUE  
+[7.061s] -- Found ament_lint_auto: 0.8.1 (/opt/workspace/install/ament_lint_auto/share/ament_lint_auto/cmake)
+[7.574s] -- Found gtest sources under '/opt/workspace/install/gtest_vendor/src/gtest_vendor': C++ tests using 'Google Test' will be built
+[7.579s] -- Check if compiler accepts -pthread
+[7.773s] -- Check if compiler accepts -pthread - yes
+[7.794s] -- Added test 'copyright' to check for copyright in CMake / C / C++ / Python code
+[7.800s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[7.804s] -- Configured cppcheck include dirs: /opt/workspace/src/ros2/rclcpp/rclcpp_components/include;/opt/workspace/src/ros2/rclcpp/rclcpp_components/src
+[7.810s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[7.814s] -- Added test 'lint_cmake' to check CMake code style
+[7.820s] -- Added test 'uncrustify' to check C / C++ code style
+[7.824s] -- Added test 'xmllint' to check XML markup files
+[7.840s] -- Configuring done
+[8.018s] -- Generating done
+[8.028s] -- Build files have been written to: /opt/workspace/build/rclcpp_components
+[8.185s] [35m[1mScanning dependencies of target component_manager[0m
+[8.290s] [  6%] [32mBuilding CXX object CMakeFiles/component_manager.dir/src/component_manager.cpp.o[0m
+[14.817s] [ 12%] [32m[1mLinking CXX static library libcomponent_manager.a[0m
+[14.933s] [ 12%] Built target component_manager
+[14.965s] [35m[1mScanning dependencies of target test_component[0m
+[15.058s] [ 18%] [32mBuilding CXX object CMakeFiles/test_component.dir/test/components/test_component.cpp.o[0m
+[18.501s] [ 25%] [32m[1mLinking CXX shared library libtest_component.so[0m
+[19.049s] [ 25%] Built target test_component
+[19.092s] [35m[1mScanning dependencies of target component_container[0m
+[19.219s] [ 31%] [32mBuilding CXX object CMakeFiles/component_container.dir/src/component_container.cpp.o[0m
+[22.291s] [ 37%] [32m[1mLinking CXX executable component_container[0m
+[23.309s] [ 37%] Built target component_container
+[23.371s] [35m[1mScanning dependencies of target component_container_mt[0m
+[23.485s] [ 43%] [32mBuilding CXX object CMakeFiles/component_container_mt.dir/src/component_container_mt.cpp.o[0m
+[26.567s] [ 50%] [32m[1mLinking CXX executable component_container_mt[0m
+[27.469s] [ 50%] Built target component_container_mt
+[27.530s] [35m[1mScanning dependencies of target gtest[0m
+[27.586s] [ 56%] [32mBuilding CXX object gtest/CMakeFiles/gtest.dir/src/gtest-all.cc.o[0m
+[33.988s] [ 62%] [32m[1mLinking CXX static library libgtest.a[0m
+[34.182s] [ 62%] Built target gtest
+[34.235s] [35m[1mScanning dependencies of target gtest_main[0m
+[34.289s] [ 68%] [32mBuilding CXX object gtest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o[0m
+[35.936s] [ 75%] [32m[1mLinking CXX static library libgtest_main.a[0m
+[36.199s] [ 75%] Built target gtest_main
+[36.298s] [35m[1mScanning dependencies of target test_component_manager_api[0m
+[36.528s] [ 81%] [32mBuilding CXX object CMakeFiles/test_component_manager_api.dir/test/test_component_manager_api.cpp.o[0m
+[44.200s] [ 87%] [32m[1mLinking CXX executable test_component_manager_api[0m
+[45.362s] [ 87%] Built target test_component_manager_api
+[45.424s] [35m[1mScanning dependencies of target test_component_manager[0m
+[45.577s] [ 93%] [32mBuilding CXX object CMakeFiles/test_component_manager.dir/test/test_component_manager.cpp.o[0m
+[50.143s] [100%] [32m[1mLinking CXX executable test_component_manager[0m
+[51.067s] [100%] Built target test_component_manager
+[52.060s] [ 12%] Built target component_manager
+[52.205s] [ 25%] Built target test_component
+[52.444s] [ 37%] Built target component_container
+[52.596s] [ 50%] Built target component_container_mt
+[52.731s] [ 62%] Built target gtest
+[52.905s] [ 75%] Built target gtest_main
+[53.104s] [ 87%] Built target test_component_manager_api
+[53.307s] [100%] Built target test_component_manager
+[53.391s] [36mInstall the project...[0m
+[53.417s] -- Install configuration: ""
+[53.418s] -- Installing: /opt/workspace/install/rclcpp_components/share/rclcpp_components/node_main.cpp.in
+[53.420s] -- Installing: /opt/workspace/install/rclcpp_components/lib/rclcpp_components/component_container
+[53.422s] -- Set runtime path of "/opt/workspace/install/rclcpp_components/lib/rclcpp_components/component_container" to ""
+[53.429s] -- Installing: /opt/workspace/install/rclcpp_components/lib/rclcpp_components/component_container_mt
+[53.431s] -- Set runtime path of "/opt/workspace/install/rclcpp_components/lib/rclcpp_components/component_container_mt" to ""
+[53.432s] -- Installing: /opt/workspace/install/rclcpp_components/include
+[53.432s] -- Installing: /opt/workspace/install/rclcpp_components/include/rclcpp_components
+[53.432s] -- Installing: /opt/workspace/install/rclcpp_components/include/rclcpp_components/node_factory_template.hpp
+[53.432s] -- Installing: /opt/workspace/install/rclcpp_components/include/rclcpp_components/register_node_macro.hpp
+[53.433s] -- Installing: /opt/workspace/install/rclcpp_components/include/rclcpp_components/node_factory.hpp
+[53.433s] -- Installing: /opt/workspace/install/rclcpp_components/include/rclcpp_components/node_instance_wrapper.hpp
+[53.433s] -- Installing: /opt/workspace/install/rclcpp_components/share/rclcpp_components/cmake
+[53.433s] -- Installing: /opt/workspace/install/rclcpp_components/share/rclcpp_components/cmake/rclcpp_components_package_hook.cmake
+[53.434s] -- Installing: /opt/workspace/install/rclcpp_components/share/rclcpp_components/cmake/rclcpp_components_register_nodes.cmake
+[53.434s] -- Installing: /opt/workspace/install/rclcpp_components/share/rclcpp_components/cmake/rclcpp_components_register_node.cmake
+[53.436s] -- Installing: /opt/workspace/install/rclcpp_components/share/ament_index/resource_index/package_run_dependencies/rclcpp_components
+[53.437s] -- Installing: /opt/workspace/install/rclcpp_components/share/ament_index/resource_index/parent_prefix_path/rclcpp_components
+[53.437s] -- Installing: /opt/workspace/install/rclcpp_components/share/rclcpp_components/environment/ament_prefix_path.sh
+[53.438s] -- Installing: /opt/workspace/install/rclcpp_components/share/rclcpp_components/environment/ament_prefix_path.dsv
+[53.439s] -- Installing: /opt/workspace/install/rclcpp_components/share/rclcpp_components/environment/path.sh
+[53.439s] -- Installing: /opt/workspace/install/rclcpp_components/share/rclcpp_components/environment/path.dsv
+[53.440s] -- Installing: /opt/workspace/install/rclcpp_components/share/rclcpp_components/local_setup.bash
+[53.441s] -- Installing: /opt/workspace/install/rclcpp_components/share/rclcpp_components/local_setup.sh
+[53.441s] -- Installing: /opt/workspace/install/rclcpp_components/share/rclcpp_components/local_setup.zsh
+[53.442s] -- Installing: /opt/workspace/install/rclcpp_components/share/rclcpp_components/local_setup.dsv
+[53.443s] -- Installing: /opt/workspace/install/rclcpp_components/share/rclcpp_components/package.dsv
+[53.444s] -- Installing: /opt/workspace/install/rclcpp_components/share/ament_index/resource_index/packages/rclcpp_components
+[53.444s] -- Installing: /opt/workspace/install/rclcpp_components/share/rclcpp_components/cmake/rclcpp_components-extras.cmake
+[53.445s] -- Installing: /opt/workspace/install/rclcpp_components/share/rclcpp_components/cmake/ament_cmake_export_include_directories-extras.cmake
+[53.446s] -- Installing: /opt/workspace/install/rclcpp_components/share/rclcpp_components/cmake/ament_cmake_export_dependencies-extras.cmake
+[53.446s] -- Installing: /opt/workspace/install/rclcpp_components/share/rclcpp_components/cmake/rclcpp_componentsConfig.cmake
+[53.447s] -- Installing: /opt/workspace/install/rclcpp_components/share/rclcpp_components/cmake/rclcpp_componentsConfig-version.cmake
+[53.447s] -- Installing: /opt/workspace/install/rclcpp_components/share/rclcpp_components/package.xml

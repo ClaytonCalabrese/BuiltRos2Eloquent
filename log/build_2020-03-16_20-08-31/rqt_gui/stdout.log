@@ -1,0 +1,50 @@
+[5.720s] running egg_info
+[5.722s] creating /opt/workspace/build/rqt_gui/rqt_gui.egg-info
+[5.723s] writing /opt/workspace/build/rqt_gui/rqt_gui.egg-info/PKG-INFO
+[5.724s] writing dependency_links to /opt/workspace/build/rqt_gui/rqt_gui.egg-info/dependency_links.txt
+[5.724s] writing entry points to /opt/workspace/build/rqt_gui/rqt_gui.egg-info/entry_points.txt
+[5.725s] writing requirements to /opt/workspace/build/rqt_gui/rqt_gui.egg-info/requires.txt
+[5.725s] writing top-level names to /opt/workspace/build/rqt_gui/rqt_gui.egg-info/top_level.txt
+[5.738s] writing manifest file '/opt/workspace/build/rqt_gui/rqt_gui.egg-info/SOURCES.txt'
+[5.852s] reading manifest file '/opt/workspace/build/rqt_gui/rqt_gui.egg-info/SOURCES.txt'
+[5.857s] writing manifest file '/opt/workspace/build/rqt_gui/rqt_gui.egg-info/SOURCES.txt'
+[5.857s] running build
+[5.858s] running build_py
+[5.859s] creating /opt/workspace/build/rqt_gui/build
+[5.859s] creating /opt/workspace/build/rqt_gui/build/lib
+[5.860s] creating /opt/workspace/build/rqt_gui/build/lib/rqt_gui
+[5.861s] copying src/rqt_gui/ros2_plugin_context.py -> /opt/workspace/build/rqt_gui/build/lib/rqt_gui
+[5.862s] copying src/rqt_gui/__init__.py -> /opt/workspace/build/rqt_gui/build/lib/rqt_gui
+[5.862s] copying src/rqt_gui/main.py -> /opt/workspace/build/rqt_gui/build/lib/rqt_gui
+[5.863s] copying src/rqt_gui/ros_plugin_provider.py -> /opt/workspace/build/rqt_gui/build/lib/rqt_gui
+[5.865s] copying src/rqt_gui/rospkg_plugin_provider.py -> /opt/workspace/build/rqt_gui/build/lib/rqt_gui
+[5.867s] running install
+[5.869s] running install_lib
+[5.871s] creating /opt/workspace/install/rqt_gui/lib/python3.6/site-packages/rqt_gui
+[5.871s] copying /opt/workspace/build/rqt_gui/build/lib/rqt_gui/ros2_plugin_context.py -> /opt/workspace/install/rqt_gui/lib/python3.6/site-packages/rqt_gui
+[5.872s] copying /opt/workspace/build/rqt_gui/build/lib/rqt_gui/__init__.py -> /opt/workspace/install/rqt_gui/lib/python3.6/site-packages/rqt_gui
+[5.872s] copying /opt/workspace/build/rqt_gui/build/lib/rqt_gui/main.py -> /opt/workspace/install/rqt_gui/lib/python3.6/site-packages/rqt_gui
+[5.873s] copying /opt/workspace/build/rqt_gui/build/lib/rqt_gui/ros_plugin_provider.py -> /opt/workspace/install/rqt_gui/lib/python3.6/site-packages/rqt_gui
+[5.874s] copying /opt/workspace/build/rqt_gui/build/lib/rqt_gui/rospkg_plugin_provider.py -> /opt/workspace/install/rqt_gui/lib/python3.6/site-packages/rqt_gui
+[5.876s] byte-compiling /opt/workspace/install/rqt_gui/lib/python3.6/site-packages/rqt_gui/ros2_plugin_context.py to ros2_plugin_context.cpython-36.pyc
+[5.877s] byte-compiling /opt/workspace/install/rqt_gui/lib/python3.6/site-packages/rqt_gui/__init__.py to __init__.cpython-36.pyc
+[5.878s] byte-compiling /opt/workspace/install/rqt_gui/lib/python3.6/site-packages/rqt_gui/main.py to main.cpython-36.pyc
+[5.880s] byte-compiling /opt/workspace/install/rqt_gui/lib/python3.6/site-packages/rqt_gui/ros_plugin_provider.py to ros_plugin_provider.cpython-36.pyc
+[5.883s] byte-compiling /opt/workspace/install/rqt_gui/lib/python3.6/site-packages/rqt_gui/rospkg_plugin_provider.py to rospkg_plugin_provider.cpython-36.pyc
+[5.886s] running install_data
+[5.888s] creating /opt/workspace/install/rqt_gui/share/rqt_gui/resource
+[5.888s] copying resource/rqt.graffle -> /opt/workspace/install/rqt_gui/share/rqt_gui/resource
+[5.889s] copying resource/rqt.png -> /opt/workspace/install/rqt_gui/share/rqt_gui/resource
+[5.891s] copying resource/rqt.svg -> /opt/workspace/install/rqt_gui/share/rqt_gui/resource
+[5.892s] creating /opt/workspace/install/rqt_gui/share/ament_index
+[5.893s] creating /opt/workspace/install/rqt_gui/share/ament_index/resource_index
+[5.894s] creating /opt/workspace/install/rqt_gui/share/ament_index/resource_index/packages
+[5.895s] copying resource/rqt_gui -> /opt/workspace/install/rqt_gui/share/ament_index/resource_index/packages
+[5.895s] copying package.xml -> /opt/workspace/install/rqt_gui/share/rqt_gui
+[5.896s] creating /opt/workspace/install/rqt_gui/lib/rqt_gui
+[5.896s] copying bin/rqt_gui -> /opt/workspace/install/rqt_gui/lib/rqt_gui
+[5.898s] running install_egg_info
+[5.902s] Copying /opt/workspace/build/rqt_gui/rqt_gui.egg-info to /opt/workspace/install/rqt_gui/lib/python3.6/site-packages/rqt_gui-1.0.0-py3.6.egg-info
+[5.905s] running install_scripts
+[5.955s] Installing rqt script to /opt/workspace/install/rqt_gui/bin
+[5.956s] writing list of installed files to '/opt/workspace/build/rqt_gui/install.log'

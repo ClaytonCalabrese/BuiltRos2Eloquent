@@ -1,0 +1,61 @@
+[2.697s] -- The C compiler identification is GNU 7.4.0
+[2.697s] -- The CXX compiler identification is GNU 7.4.0
+[2.697s] -- Check for working C compiler: /usr/bin/cc
+[2.698s] -- Check for working C compiler: /usr/bin/cc -- works
+[2.698s] -- Detecting C compiler ABI info
+[2.698s] -- Detecting C compiler ABI info - done
+[2.698s] -- Detecting C compile features
+[3.313s] -- Detecting C compile features - done
+[3.322s] -- Check for working CXX compiler: /usr/bin/c++
+[3.556s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[3.558s] -- Detecting CXX compiler ABI info
+[3.914s] -- Detecting CXX compiler ABI info - done
+[3.931s] -- Detecting CXX compile features
+[5.461s] -- Detecting CXX compile features - done
+[5.474s] -- Found ament_cmake: 0.8.2 (/opt/workspace/install/ament_cmake/share/ament_cmake/cmake)
+[5.593s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[5.593s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[6.234s] -- Found geometry_msgs: 0.8.1 (/opt/workspace/install/geometry_msgs/share/geometry_msgs/cmake)
+[6.343s] -- Found rosidl_adapter: 0.8.2 (/opt/workspace/install/rosidl_adapter/share/rosidl_adapter/cmake)
+[6.436s] -- Found tf2: 0.12.5 (/opt/workspace/install/tf2/share/tf2/cmake)
+[6.464s] -- Found python_cmake_module: 0.8.0 (/opt/workspace/install/python_cmake_module/share/python_cmake_module/cmake)
+[6.541s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3.5") 
+[6.567s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.6m.so (found suitable version "3.6.9", minimum required is "3.5") 
+[6.568s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[6.568s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.6m
+[6.568s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.6m.so
+[6.655s] -- Found PythonExtra: .so  
+[6.829s] -- Found ament_lint_auto: 0.8.1 (/opt/workspace/install/ament_lint_auto/share/ament_lint_auto/cmake)
+[7.981s] -- Configuring done
+[8.009s] -- Generating done
+[8.013s] -- Build files have been written to: /opt/workspace/build/tf2_py
+[9.145s] [35m[1mScanning dependencies of target tf2_py[0m
+[9.231s] [ 50%] [32mBuilding CXX object CMakeFiles/tf2_py.dir/src/tf2_py.cpp.o[0m
+[11.169s] [100%] [32m[1mLinking CXX shared library test_tf2_py/_tf2_py.cpython-36m-x86_64-linux-gnu.so[0m
+[11.500s] [100%] Built target tf2_py
+[12.553s] [100%] Built target tf2_py
+[12.642s] [36mInstall the project...[0m
+[12.701s] -- Install configuration: ""
+[12.702s] -- Installing: /opt/workspace/install/tf2_py/share/tf2_py/environment/pythonpath.sh
+[12.702s] -- Installing: /opt/workspace/install/tf2_py/share/tf2_py/environment/pythonpath.dsv
+[12.703s] -- Installing: /opt/workspace/install/tf2_py/lib/python3.6/site-packages/tf2_py
+[12.704s] -- Installing: /opt/workspace/install/tf2_py/lib/python3.6/site-packages/tf2_py/__init__.py
+[12.881s] Listing '/opt/workspace/install/tf2_py/lib/python3.6/site-packages/tf2_py'...
+[12.882s] Compiling '/opt/workspace/install/tf2_py/lib/python3.6/site-packages/tf2_py/__init__.py'...
+[12.905s] -- Installing: /opt/workspace/install/tf2_py/lib/python3.6/site-packages/tf2_py/_tf2_py.cpython-36m-x86_64-linux-gnu.so
+[12.906s] -- Set runtime path of "/opt/workspace/install/tf2_py/lib/python3.6/site-packages/tf2_py/_tf2_py.cpython-36m-x86_64-linux-gnu.so" to ""
+[12.907s] -- Installing: /opt/workspace/install/tf2_py/share/ament_index/resource_index/package_run_dependencies/tf2_py
+[12.907s] -- Installing: /opt/workspace/install/tf2_py/share/ament_index/resource_index/parent_prefix_path/tf2_py
+[12.908s] -- Installing: /opt/workspace/install/tf2_py/share/tf2_py/environment/ament_prefix_path.sh
+[12.908s] -- Installing: /opt/workspace/install/tf2_py/share/tf2_py/environment/ament_prefix_path.dsv
+[12.908s] -- Installing: /opt/workspace/install/tf2_py/share/tf2_py/environment/path.sh
+[12.908s] -- Installing: /opt/workspace/install/tf2_py/share/tf2_py/environment/path.dsv
+[12.909s] -- Installing: /opt/workspace/install/tf2_py/share/tf2_py/local_setup.bash
+[12.909s] -- Installing: /opt/workspace/install/tf2_py/share/tf2_py/local_setup.sh
+[12.909s] -- Installing: /opt/workspace/install/tf2_py/share/tf2_py/local_setup.zsh
+[12.910s] -- Installing: /opt/workspace/install/tf2_py/share/tf2_py/local_setup.dsv
+[12.910s] -- Installing: /opt/workspace/install/tf2_py/share/tf2_py/package.dsv
+[12.910s] -- Installing: /opt/workspace/install/tf2_py/share/ament_index/resource_index/packages/tf2_py
+[12.910s] -- Installing: /opt/workspace/install/tf2_py/share/tf2_py/cmake/tf2_pyConfig.cmake
+[12.911s] -- Installing: /opt/workspace/install/tf2_py/share/tf2_py/cmake/tf2_pyConfig-version.cmake
+[12.911s] -- Installing: /opt/workspace/install/tf2_py/share/tf2_py/package.xml

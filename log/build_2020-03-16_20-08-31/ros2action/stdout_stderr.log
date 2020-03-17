@@ -1,0 +1,61 @@
+[3.554s] running egg_info
+[3.555s] creating /opt/workspace/build/ros2action/ros2action.egg-info
+[3.556s] writing /opt/workspace/build/ros2action/ros2action.egg-info/PKG-INFO
+[3.563s] writing dependency_links to /opt/workspace/build/ros2action/ros2action.egg-info/dependency_links.txt
+[3.563s] writing entry points to /opt/workspace/build/ros2action/ros2action.egg-info/entry_points.txt
+[3.563s] writing requirements to /opt/workspace/build/ros2action/ros2action.egg-info/requires.txt
+[3.564s] writing top-level names to /opt/workspace/build/ros2action/ros2action.egg-info/top_level.txt
+[3.564s] writing manifest file '/opt/workspace/build/ros2action/ros2action.egg-info/SOURCES.txt'
+[3.564s] reading manifest file '/opt/workspace/build/ros2action/ros2action.egg-info/SOURCES.txt'
+[3.564s] writing manifest file '/opt/workspace/build/ros2action/ros2action.egg-info/SOURCES.txt'
+[3.564s] running build
+[3.565s] running build_py
+[3.565s] creating /opt/workspace/build/ros2action/build
+[3.565s] creating /opt/workspace/build/ros2action/build/lib
+[3.565s] creating /opt/workspace/build/ros2action/build/lib/ros2action
+[3.565s] copying ros2action/__init__.py -> /opt/workspace/build/ros2action/build/lib/ros2action
+[3.566s] creating /opt/workspace/build/ros2action/build/lib/ros2action/api
+[3.566s] copying ros2action/api/__init__.py -> /opt/workspace/build/ros2action/build/lib/ros2action/api
+[3.566s] creating /opt/workspace/build/ros2action/build/lib/ros2action/verb
+[3.566s] copying ros2action/verb/show.py -> /opt/workspace/build/ros2action/build/lib/ros2action/verb
+[3.566s] copying ros2action/verb/__init__.py -> /opt/workspace/build/ros2action/build/lib/ros2action/verb
+[3.567s] copying ros2action/verb/send_goal.py -> /opt/workspace/build/ros2action/build/lib/ros2action/verb
+[3.567s] copying ros2action/verb/list.py -> /opt/workspace/build/ros2action/build/lib/ros2action/verb
+[3.567s] copying ros2action/verb/info.py -> /opt/workspace/build/ros2action/build/lib/ros2action/verb
+[3.567s] creating /opt/workspace/build/ros2action/build/lib/ros2action/command
+[3.567s] copying ros2action/command/__init__.py -> /opt/workspace/build/ros2action/build/lib/ros2action/command
+[3.568s] copying ros2action/command/action.py -> /opt/workspace/build/ros2action/build/lib/ros2action/command
+[3.568s] running install
+[3.568s] running install_lib
+[3.568s] creating /opt/workspace/install/ros2action/lib/python3.6/site-packages/ros2action
+[3.568s] copying /opt/workspace/build/ros2action/build/lib/ros2action/__init__.py -> /opt/workspace/install/ros2action/lib/python3.6/site-packages/ros2action
+[3.569s] creating /opt/workspace/install/ros2action/lib/python3.6/site-packages/ros2action/api
+[3.569s] copying /opt/workspace/build/ros2action/build/lib/ros2action/api/__init__.py -> /opt/workspace/install/ros2action/lib/python3.6/site-packages/ros2action/api
+[3.569s] creating /opt/workspace/install/ros2action/lib/python3.6/site-packages/ros2action/verb
+[3.569s] copying /opt/workspace/build/ros2action/build/lib/ros2action/verb/show.py -> /opt/workspace/install/ros2action/lib/python3.6/site-packages/ros2action/verb
+[3.569s] copying /opt/workspace/build/ros2action/build/lib/ros2action/verb/__init__.py -> /opt/workspace/install/ros2action/lib/python3.6/site-packages/ros2action/verb
+[3.569s] copying /opt/workspace/build/ros2action/build/lib/ros2action/verb/send_goal.py -> /opt/workspace/install/ros2action/lib/python3.6/site-packages/ros2action/verb
+[3.570s] copying /opt/workspace/build/ros2action/build/lib/ros2action/verb/list.py -> /opt/workspace/install/ros2action/lib/python3.6/site-packages/ros2action/verb
+[3.570s] copying /opt/workspace/build/ros2action/build/lib/ros2action/verb/info.py -> /opt/workspace/install/ros2action/lib/python3.6/site-packages/ros2action/verb
+[3.570s] creating /opt/workspace/install/ros2action/lib/python3.6/site-packages/ros2action/command
+[3.570s] copying /opt/workspace/build/ros2action/build/lib/ros2action/command/__init__.py -> /opt/workspace/install/ros2action/lib/python3.6/site-packages/ros2action/command
+[3.570s] copying /opt/workspace/build/ros2action/build/lib/ros2action/command/action.py -> /opt/workspace/install/ros2action/lib/python3.6/site-packages/ros2action/command
+[3.571s] byte-compiling /opt/workspace/install/ros2action/lib/python3.6/site-packages/ros2action/__init__.py to __init__.cpython-36.pyc
+[3.577s] byte-compiling /opt/workspace/install/ros2action/lib/python3.6/site-packages/ros2action/api/__init__.py to __init__.cpython-36.pyc
+[3.578s] byte-compiling /opt/workspace/install/ros2action/lib/python3.6/site-packages/ros2action/verb/show.py to show.cpython-36.pyc
+[3.579s] byte-compiling /opt/workspace/install/ros2action/lib/python3.6/site-packages/ros2action/verb/__init__.py to __init__.cpython-36.pyc
+[3.579s] byte-compiling /opt/workspace/install/ros2action/lib/python3.6/site-packages/ros2action/verb/send_goal.py to send_goal.cpython-36.pyc
+[3.579s] byte-compiling /opt/workspace/install/ros2action/lib/python3.6/site-packages/ros2action/verb/list.py to list.cpython-36.pyc
+[3.579s] byte-compiling /opt/workspace/install/ros2action/lib/python3.6/site-packages/ros2action/verb/info.py to info.cpython-36.pyc
+[3.579s] byte-compiling /opt/workspace/install/ros2action/lib/python3.6/site-packages/ros2action/command/__init__.py to __init__.cpython-36.pyc
+[3.580s] byte-compiling /opt/workspace/install/ros2action/lib/python3.6/site-packages/ros2action/command/action.py to action.cpython-36.pyc
+[3.580s] running install_data
+[3.583s] copying package.xml -> /opt/workspace/install/ros2action/share/ros2action
+[3.583s] creating /opt/workspace/install/ros2action/share/ament_index
+[3.588s] creating /opt/workspace/install/ros2action/share/ament_index/resource_index
+[3.589s] creating /opt/workspace/install/ros2action/share/ament_index/resource_index/packages
+[3.589s] copying resource/ros2action -> /opt/workspace/install/ros2action/share/ament_index/resource_index/packages
+[3.590s] running install_egg_info
+[3.590s] Copying /opt/workspace/build/ros2action/ros2action.egg-info to /opt/workspace/install/ros2action/lib/python3.6/site-packages/ros2action-0.8.7-py3.6.egg-info
+[3.590s] running install_scripts
+[3.590s] writing list of installed files to '/opt/workspace/build/ros2action/install.log'

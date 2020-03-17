@@ -1,0 +1,61 @@
+[4.523s] running egg_info
+[4.523s] creating /opt/workspace/build/ros2srv/ros2srv.egg-info
+[4.524s] writing /opt/workspace/build/ros2srv/ros2srv.egg-info/PKG-INFO
+[4.525s] writing dependency_links to /opt/workspace/build/ros2srv/ros2srv.egg-info/dependency_links.txt
+[4.525s] writing entry points to /opt/workspace/build/ros2srv/ros2srv.egg-info/entry_points.txt
+[4.526s] writing requirements to /opt/workspace/build/ros2srv/ros2srv.egg-info/requires.txt
+[4.526s] writing top-level names to /opt/workspace/build/ros2srv/ros2srv.egg-info/top_level.txt
+[4.532s] writing manifest file '/opt/workspace/build/ros2srv/ros2srv.egg-info/SOURCES.txt'
+[4.598s] reading manifest file '/opt/workspace/build/ros2srv/ros2srv.egg-info/SOURCES.txt'
+[4.600s] writing manifest file '/opt/workspace/build/ros2srv/ros2srv.egg-info/SOURCES.txt'
+[4.601s] running build
+[4.601s] running build_py
+[4.602s] creating /opt/workspace/build/ros2srv/build
+[4.602s] creating /opt/workspace/build/ros2srv/build/lib
+[4.602s] creating /opt/workspace/build/ros2srv/build/lib/ros2srv
+[4.602s] copying ros2srv/__init__.py -> /opt/workspace/build/ros2srv/build/lib/ros2srv
+[4.603s] creating /opt/workspace/build/ros2srv/build/lib/ros2srv/api
+[4.603s] copying ros2srv/api/__init__.py -> /opt/workspace/build/ros2srv/build/lib/ros2srv/api
+[4.603s] creating /opt/workspace/build/ros2srv/build/lib/ros2srv/verb
+[4.603s] copying ros2srv/verb/show.py -> /opt/workspace/build/ros2srv/build/lib/ros2srv/verb
+[4.603s] copying ros2srv/verb/__init__.py -> /opt/workspace/build/ros2srv/build/lib/ros2srv/verb
+[4.604s] copying ros2srv/verb/package.py -> /opt/workspace/build/ros2srv/build/lib/ros2srv/verb
+[4.604s] copying ros2srv/verb/list.py -> /opt/workspace/build/ros2srv/build/lib/ros2srv/verb
+[4.604s] copying ros2srv/verb/packages.py -> /opt/workspace/build/ros2srv/build/lib/ros2srv/verb
+[4.604s] creating /opt/workspace/build/ros2srv/build/lib/ros2srv/command
+[4.604s] copying ros2srv/command/__init__.py -> /opt/workspace/build/ros2srv/build/lib/ros2srv/command
+[4.604s] copying ros2srv/command/srv.py -> /opt/workspace/build/ros2srv/build/lib/ros2srv/command
+[4.605s] running install
+[4.606s] running install_lib
+[4.607s] creating /opt/workspace/install/ros2srv/lib/python3.6/site-packages/ros2srv
+[4.607s] copying /opt/workspace/build/ros2srv/build/lib/ros2srv/__init__.py -> /opt/workspace/install/ros2srv/lib/python3.6/site-packages/ros2srv
+[4.607s] creating /opt/workspace/install/ros2srv/lib/python3.6/site-packages/ros2srv/api
+[4.607s] copying /opt/workspace/build/ros2srv/build/lib/ros2srv/api/__init__.py -> /opt/workspace/install/ros2srv/lib/python3.6/site-packages/ros2srv/api
+[4.608s] creating /opt/workspace/install/ros2srv/lib/python3.6/site-packages/ros2srv/verb
+[4.608s] copying /opt/workspace/build/ros2srv/build/lib/ros2srv/verb/show.py -> /opt/workspace/install/ros2srv/lib/python3.6/site-packages/ros2srv/verb
+[4.608s] copying /opt/workspace/build/ros2srv/build/lib/ros2srv/verb/__init__.py -> /opt/workspace/install/ros2srv/lib/python3.6/site-packages/ros2srv/verb
+[4.608s] copying /opt/workspace/build/ros2srv/build/lib/ros2srv/verb/package.py -> /opt/workspace/install/ros2srv/lib/python3.6/site-packages/ros2srv/verb
+[4.609s] copying /opt/workspace/build/ros2srv/build/lib/ros2srv/verb/list.py -> /opt/workspace/install/ros2srv/lib/python3.6/site-packages/ros2srv/verb
+[4.609s] copying /opt/workspace/build/ros2srv/build/lib/ros2srv/verb/packages.py -> /opt/workspace/install/ros2srv/lib/python3.6/site-packages/ros2srv/verb
+[4.609s] creating /opt/workspace/install/ros2srv/lib/python3.6/site-packages/ros2srv/command
+[4.609s] copying /opt/workspace/build/ros2srv/build/lib/ros2srv/command/__init__.py -> /opt/workspace/install/ros2srv/lib/python3.6/site-packages/ros2srv/command
+[4.609s] copying /opt/workspace/build/ros2srv/build/lib/ros2srv/command/srv.py -> /opt/workspace/install/ros2srv/lib/python3.6/site-packages/ros2srv/command
+[4.611s] byte-compiling /opt/workspace/install/ros2srv/lib/python3.6/site-packages/ros2srv/__init__.py to __init__.cpython-36.pyc
+[4.611s] byte-compiling /opt/workspace/install/ros2srv/lib/python3.6/site-packages/ros2srv/api/__init__.py to __init__.cpython-36.pyc
+[4.612s] byte-compiling /opt/workspace/install/ros2srv/lib/python3.6/site-packages/ros2srv/verb/show.py to show.cpython-36.pyc
+[4.613s] byte-compiling /opt/workspace/install/ros2srv/lib/python3.6/site-packages/ros2srv/verb/__init__.py to __init__.cpython-36.pyc
+[4.613s] byte-compiling /opt/workspace/install/ros2srv/lib/python3.6/site-packages/ros2srv/verb/package.py to package.cpython-36.pyc
+[4.614s] byte-compiling /opt/workspace/install/ros2srv/lib/python3.6/site-packages/ros2srv/verb/list.py to list.cpython-36.pyc
+[4.614s] byte-compiling /opt/workspace/install/ros2srv/lib/python3.6/site-packages/ros2srv/verb/packages.py to packages.cpython-36.pyc
+[4.615s] byte-compiling /opt/workspace/install/ros2srv/lib/python3.6/site-packages/ros2srv/command/__init__.py to __init__.cpython-36.pyc
+[4.615s] byte-compiling /opt/workspace/install/ros2srv/lib/python3.6/site-packages/ros2srv/command/srv.py to srv.cpython-36.pyc
+[4.616s] running install_data
+[4.616s] copying package.xml -> /opt/workspace/install/ros2srv/share/ros2srv
+[4.617s] creating /opt/workspace/install/ros2srv/share/ament_index
+[4.618s] creating /opt/workspace/install/ros2srv/share/ament_index/resource_index
+[4.618s] creating /opt/workspace/install/ros2srv/share/ament_index/resource_index/packages
+[4.618s] copying resource/ros2srv -> /opt/workspace/install/ros2srv/share/ament_index/resource_index/packages
+[4.618s] running install_egg_info
+[4.622s] Copying /opt/workspace/build/ros2srv/ros2srv.egg-info to /opt/workspace/install/ros2srv/lib/python3.6/site-packages/ros2srv-0.8.7-py3.6.egg-info
+[4.623s] running install_scripts
+[4.667s] writing list of installed files to '/opt/workspace/build/ros2srv/install.log'

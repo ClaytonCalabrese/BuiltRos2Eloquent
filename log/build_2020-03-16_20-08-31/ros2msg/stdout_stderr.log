@@ -1,0 +1,61 @@
+[4.119s] running egg_info
+[4.119s] creating /opt/workspace/build/ros2msg/ros2msg.egg-info
+[4.125s] writing /opt/workspace/build/ros2msg/ros2msg.egg-info/PKG-INFO
+[4.125s] writing dependency_links to /opt/workspace/build/ros2msg/ros2msg.egg-info/dependency_links.txt
+[4.126s] writing entry points to /opt/workspace/build/ros2msg/ros2msg.egg-info/entry_points.txt
+[4.126s] writing requirements to /opt/workspace/build/ros2msg/ros2msg.egg-info/requires.txt
+[4.126s] writing top-level names to /opt/workspace/build/ros2msg/ros2msg.egg-info/top_level.txt
+[4.126s] writing manifest file '/opt/workspace/build/ros2msg/ros2msg.egg-info/SOURCES.txt'
+[4.126s] reading manifest file '/opt/workspace/build/ros2msg/ros2msg.egg-info/SOURCES.txt'
+[4.127s] writing manifest file '/opt/workspace/build/ros2msg/ros2msg.egg-info/SOURCES.txt'
+[4.127s] running build
+[4.127s] running build_py
+[4.127s] creating /opt/workspace/build/ros2msg/build
+[4.127s] creating /opt/workspace/build/ros2msg/build/lib
+[4.127s] creating /opt/workspace/build/ros2msg/build/lib/ros2msg
+[4.128s] copying ros2msg/__init__.py -> /opt/workspace/build/ros2msg/build/lib/ros2msg
+[4.128s] creating /opt/workspace/build/ros2msg/build/lib/ros2msg/api
+[4.128s] copying ros2msg/api/__init__.py -> /opt/workspace/build/ros2msg/build/lib/ros2msg/api
+[4.128s] creating /opt/workspace/build/ros2msg/build/lib/ros2msg/verb
+[4.128s] copying ros2msg/verb/show.py -> /opt/workspace/build/ros2msg/build/lib/ros2msg/verb
+[4.129s] copying ros2msg/verb/__init__.py -> /opt/workspace/build/ros2msg/build/lib/ros2msg/verb
+[4.129s] copying ros2msg/verb/package.py -> /opt/workspace/build/ros2msg/build/lib/ros2msg/verb
+[4.129s] copying ros2msg/verb/list.py -> /opt/workspace/build/ros2msg/build/lib/ros2msg/verb
+[4.129s] copying ros2msg/verb/packages.py -> /opt/workspace/build/ros2msg/build/lib/ros2msg/verb
+[4.129s] creating /opt/workspace/build/ros2msg/build/lib/ros2msg/command
+[4.130s] copying ros2msg/command/__init__.py -> /opt/workspace/build/ros2msg/build/lib/ros2msg/command
+[4.130s] copying ros2msg/command/msg.py -> /opt/workspace/build/ros2msg/build/lib/ros2msg/command
+[4.130s] running install
+[4.130s] running install_lib
+[4.130s] creating /opt/workspace/install/ros2msg/lib/python3.6/site-packages/ros2msg
+[4.131s] copying /opt/workspace/build/ros2msg/build/lib/ros2msg/__init__.py -> /opt/workspace/install/ros2msg/lib/python3.6/site-packages/ros2msg
+[4.131s] creating /opt/workspace/install/ros2msg/lib/python3.6/site-packages/ros2msg/api
+[4.131s] copying /opt/workspace/build/ros2msg/build/lib/ros2msg/api/__init__.py -> /opt/workspace/install/ros2msg/lib/python3.6/site-packages/ros2msg/api
+[4.131s] creating /opt/workspace/install/ros2msg/lib/python3.6/site-packages/ros2msg/verb
+[4.131s] copying /opt/workspace/build/ros2msg/build/lib/ros2msg/verb/show.py -> /opt/workspace/install/ros2msg/lib/python3.6/site-packages/ros2msg/verb
+[4.132s] copying /opt/workspace/build/ros2msg/build/lib/ros2msg/verb/__init__.py -> /opt/workspace/install/ros2msg/lib/python3.6/site-packages/ros2msg/verb
+[4.132s] copying /opt/workspace/build/ros2msg/build/lib/ros2msg/verb/package.py -> /opt/workspace/install/ros2msg/lib/python3.6/site-packages/ros2msg/verb
+[4.132s] copying /opt/workspace/build/ros2msg/build/lib/ros2msg/verb/list.py -> /opt/workspace/install/ros2msg/lib/python3.6/site-packages/ros2msg/verb
+[4.132s] copying /opt/workspace/build/ros2msg/build/lib/ros2msg/verb/packages.py -> /opt/workspace/install/ros2msg/lib/python3.6/site-packages/ros2msg/verb
+[4.132s] creating /opt/workspace/install/ros2msg/lib/python3.6/site-packages/ros2msg/command
+[4.133s] copying /opt/workspace/build/ros2msg/build/lib/ros2msg/command/__init__.py -> /opt/workspace/install/ros2msg/lib/python3.6/site-packages/ros2msg/command
+[4.133s] copying /opt/workspace/build/ros2msg/build/lib/ros2msg/command/msg.py -> /opt/workspace/install/ros2msg/lib/python3.6/site-packages/ros2msg/command
+[4.133s] byte-compiling /opt/workspace/install/ros2msg/lib/python3.6/site-packages/ros2msg/__init__.py to __init__.cpython-36.pyc
+[4.133s] byte-compiling /opt/workspace/install/ros2msg/lib/python3.6/site-packages/ros2msg/api/__init__.py to __init__.cpython-36.pyc
+[4.133s] byte-compiling /opt/workspace/install/ros2msg/lib/python3.6/site-packages/ros2msg/verb/show.py to show.cpython-36.pyc
+[4.134s] byte-compiling /opt/workspace/install/ros2msg/lib/python3.6/site-packages/ros2msg/verb/__init__.py to __init__.cpython-36.pyc
+[4.134s] byte-compiling /opt/workspace/install/ros2msg/lib/python3.6/site-packages/ros2msg/verb/package.py to package.cpython-36.pyc
+[4.134s] byte-compiling /opt/workspace/install/ros2msg/lib/python3.6/site-packages/ros2msg/verb/list.py to list.cpython-36.pyc
+[4.134s] byte-compiling /opt/workspace/install/ros2msg/lib/python3.6/site-packages/ros2msg/verb/packages.py to packages.cpython-36.pyc
+[4.134s] byte-compiling /opt/workspace/install/ros2msg/lib/python3.6/site-packages/ros2msg/command/__init__.py to __init__.cpython-36.pyc
+[4.135s] byte-compiling /opt/workspace/install/ros2msg/lib/python3.6/site-packages/ros2msg/command/msg.py to msg.cpython-36.pyc
+[4.135s] running install_data
+[4.136s] copying package.xml -> /opt/workspace/install/ros2msg/share/ros2msg
+[4.137s] creating /opt/workspace/install/ros2msg/share/ament_index
+[4.137s] creating /opt/workspace/install/ros2msg/share/ament_index/resource_index
+[4.137s] creating /opt/workspace/install/ros2msg/share/ament_index/resource_index/packages
+[4.137s] copying resource/ros2msg -> /opt/workspace/install/ros2msg/share/ament_index/resource_index/packages
+[4.138s] running install_egg_info
+[4.138s] Copying /opt/workspace/build/ros2msg/ros2msg.egg-info to /opt/workspace/install/ros2msg/lib/python3.6/site-packages/ros2msg-0.8.7-py3.6.egg-info
+[4.138s] running install_scripts
+[4.138s] writing list of installed files to '/opt/workspace/build/ros2msg/install.log'

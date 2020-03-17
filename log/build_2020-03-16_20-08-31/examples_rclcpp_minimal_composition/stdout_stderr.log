@@ -1,0 +1,84 @@
+[0.440s] -- The C compiler identification is GNU 7.4.0
+[0.565s] -- The CXX compiler identification is GNU 7.4.0
+[0.577s] -- Check for working C compiler: /usr/bin/cc
+[0.750s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.752s] -- Detecting C compiler ABI info
+[0.922s] -- Detecting C compiler ABI info - done
+[0.937s] -- Detecting C compile features
+[1.443s] -- Detecting C compile features - done
+[1.449s] -- Check for working CXX compiler: /usr/bin/c++
+[1.637s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[1.638s] -- Detecting CXX compiler ABI info
+[1.832s] -- Detecting CXX compiler ABI info - done
+[1.846s] -- Detecting CXX compile features
+[2.745s] -- Detecting CXX compile features - done
+[2.758s] -- Found ament_cmake: 0.8.2 (/opt/workspace/install/ament_cmake/share/ament_cmake/cmake)
+[2.864s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[2.864s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[3.472s] -- Found rclcpp: 0.8.4 (/opt/workspace/install/rclcpp/share/rclcpp/cmake)
+[3.570s] -- Found rosidl_adapter: 0.8.2 (/opt/workspace/install/rosidl_adapter/share/rosidl_adapter/cmake)
+[3.663s] -- Found rmw_implementation_cmake: 0.8.1 (/opt/workspace/install/rmw_implementation_cmake/share/rmw_implementation_cmake/cmake)
+[3.676s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[3.677s] -- Looking for pthread.h
+[3.838s] -- Looking for pthread.h - found
+[3.839s] -- Looking for pthread_create
+[4.051s] -- Looking for pthread_create - not found
+[4.052s] -- Looking for pthread_create in pthreads
+[4.214s] -- Looking for pthread_create in pthreads - not found
+[4.214s] -- Looking for pthread_create in pthread
+[4.370s] -- Looking for pthread_create in pthread - found
+[4.372s] -- Found Threads: TRUE  
+[4.475s] -- Found rclcpp_components: 0.8.4 (/opt/workspace/install/rclcpp_components/share/rclcpp_components/cmake)
+[4.500s] -- Found poco_vendor:  (/opt/workspace/install/poco_vendor/share/poco_vendor/cmake)
+[4.577s] -- Found std_msgs: 0.8.1 (/opt/workspace/install/std_msgs/share/std_msgs/cmake)
+[5.160s] -- Configuring done
+[5.283s] -- Generating done
+[5.287s] -- Build files have been written to: /opt/workspace/build/examples_rclcpp_minimal_composition
+[5.420s] [35m[1mScanning dependencies of target composition_nodes[0m
+[5.542s] [ 11%] [32mBuilding CXX object CMakeFiles/composition_nodes.dir/src/publisher_node.cpp.o[0m
+[11.125s] [ 22%] [32mBuilding CXX object CMakeFiles/composition_nodes.dir/src/subscriber_node.cpp.o[0m
+[17.389s] [ 33%] [32m[1mLinking CXX shared library libcomposition_nodes.so[0m
+[18.242s] [ 33%] Built target composition_nodes
+[18.274s] [35m[1mScanning dependencies of target composition_publisher[0m
+[18.371s] [ 44%] [32mBuilding CXX object CMakeFiles/composition_publisher.dir/src/standalone_publisher.cpp.o[0m
+[21.239s] [ 55%] [32m[1mLinking CXX executable composition_publisher[0m
+[21.975s] [ 55%] Built target composition_publisher
+[22.005s] [35m[1mScanning dependencies of target composition_subscriber[0m
+[22.108s] [ 66%] [32mBuilding CXX object CMakeFiles/composition_subscriber.dir/src/standalone_subscriber.cpp.o[0m
+[25.159s] [ 77%] [32m[1mLinking CXX executable composition_subscriber[0m
+[25.938s] [ 77%] Built target composition_subscriber
+[25.969s] [35m[1mScanning dependencies of target composition_composed[0m
+[26.065s] [ 88%] [32mBuilding CXX object CMakeFiles/composition_composed.dir/src/composed.cpp.o[0m
+[29.068s] [100%] [32m[1mLinking CXX executable composition_composed[0m
+[29.686s] [100%] Built target composition_composed
+[29.983s] [ 33%] Built target composition_nodes
+[30.061s] [ 55%] Built target composition_publisher
+[30.141s] [ 77%] Built target composition_subscriber
+[30.225s] [100%] Built target composition_composed
+[30.277s] [36mInstall the project...[0m
+[30.301s] -- Install configuration: ""
+[30.301s] -- Installing: /opt/workspace/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/environment/library_path.sh
+[30.302s] -- Installing: /opt/workspace/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/environment/library_path.dsv
+[30.302s] -- Installing: /opt/workspace/install/examples_rclcpp_minimal_composition/lib/libcomposition_nodes.so
+[30.306s] -- Set runtime path of "/opt/workspace/install/examples_rclcpp_minimal_composition/lib/libcomposition_nodes.so" to ""
+[30.307s] -- Installing: /opt/workspace/install/examples_rclcpp_minimal_composition/lib/examples_rclcpp_minimal_composition/composition_publisher
+[30.308s] -- Set runtime path of "/opt/workspace/install/examples_rclcpp_minimal_composition/lib/examples_rclcpp_minimal_composition/composition_publisher" to ""
+[30.308s] -- Installing: /opt/workspace/install/examples_rclcpp_minimal_composition/lib/examples_rclcpp_minimal_composition/composition_subscriber
+[30.309s] -- Set runtime path of "/opt/workspace/install/examples_rclcpp_minimal_composition/lib/examples_rclcpp_minimal_composition/composition_subscriber" to ""
+[30.309s] -- Installing: /opt/workspace/install/examples_rclcpp_minimal_composition/lib/examples_rclcpp_minimal_composition/composition_composed
+[30.310s] -- Set runtime path of "/opt/workspace/install/examples_rclcpp_minimal_composition/lib/examples_rclcpp_minimal_composition/composition_composed" to ""
+[30.310s] -- Installing: /opt/workspace/install/examples_rclcpp_minimal_composition/share/ament_index/resource_index/package_run_dependencies/examples_rclcpp_minimal_composition
+[30.311s] -- Installing: /opt/workspace/install/examples_rclcpp_minimal_composition/share/ament_index/resource_index/parent_prefix_path/examples_rclcpp_minimal_composition
+[30.311s] -- Installing: /opt/workspace/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/environment/ament_prefix_path.sh
+[30.312s] -- Installing: /opt/workspace/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/environment/ament_prefix_path.dsv
+[30.312s] -- Installing: /opt/workspace/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/environment/path.sh
+[30.313s] -- Installing: /opt/workspace/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/environment/path.dsv
+[30.314s] -- Installing: /opt/workspace/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/local_setup.bash
+[30.314s] -- Installing: /opt/workspace/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/local_setup.sh
+[30.314s] -- Installing: /opt/workspace/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/local_setup.zsh
+[30.315s] -- Installing: /opt/workspace/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/local_setup.dsv
+[30.315s] -- Installing: /opt/workspace/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/package.dsv
+[30.315s] -- Installing: /opt/workspace/install/examples_rclcpp_minimal_composition/share/ament_index/resource_index/packages/examples_rclcpp_minimal_composition
+[30.316s] -- Installing: /opt/workspace/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/cmake/examples_rclcpp_minimal_compositionConfig.cmake
+[30.316s] -- Installing: /opt/workspace/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/cmake/examples_rclcpp_minimal_compositionConfig-version.cmake
+[30.317s] -- Installing: /opt/workspace/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/package.xml

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/opt/workspace/src/ros2/rosidl_typesupport_fastrtps/rosidl_typesupport_fastrtps_cpp/include/rosidl_typesupport_fastrtps_cpp/visibility_control.h
+
+/opt/workspace/src/ros2/rosidl_typesupport_fastrtps/rosidl_typesupport_fastrtps_cpp/include/rosidl_typesupport_fastrtps_cpp/wstring_conversion.hpp
+rosidl_typesupport_fastrtps_cpp/visibility_control.h
+-
+string
+-
+
+/opt/workspace/src/ros2/rosidl_typesupport_fastrtps/rosidl_typesupport_fastrtps_cpp/src/identifier.cpp
+rosidl_typesupport_fastrtps_cpp/visibility_control.h
+-
+
+/opt/workspace/src/ros2/rosidl_typesupport_fastrtps/rosidl_typesupport_fastrtps_cpp/src/wstring_conversion.cpp
+rosidl_typesupport_fastrtps_cpp/wstring_conversion.hpp
+-
+

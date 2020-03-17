@@ -1,0 +1,85 @@
+[0.713s] -- The C compiler identification is GNU 7.4.0
+[0.854s] -- The CXX compiler identification is GNU 7.4.0
+[0.870s] -- Check for working C compiler: /usr/bin/cc
+[1.252s] -- Check for working C compiler: /usr/bin/cc -- works
+[1.254s] -- Detecting C compiler ABI info
+[1.433s] -- Detecting C compiler ABI info - done
+[1.446s] -- Detecting C compile features
+[2.034s] -- Detecting C compile features - done
+[2.039s] -- Check for working CXX compiler: /usr/bin/c++
+[2.261s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[2.263s] -- Detecting CXX compiler ABI info
+[2.473s] -- Detecting CXX compiler ABI info - done
+[2.487s] -- Detecting CXX compile features
+[3.362s] -- Detecting CXX compile features - done
+[3.382s] -- Found ament_cmake: 0.8.2 (/opt/workspace/install/ament_cmake/share/ament_cmake/cmake)
+[3.531s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[3.531s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[4.315s] -- Found geometry_msgs: 0.8.1 (/opt/workspace/install/geometry_msgs/share/geometry_msgs/cmake)
+[4.428s] -- Found rosidl_adapter: 0.8.2 (/opt/workspace/install/rosidl_adapter/share/rosidl_adapter/cmake)
+[4.518s] -- Found rclcpp: 0.8.4 (/opt/workspace/install/rclcpp/share/rclcpp/cmake)
+[4.573s] -- Found rmw_implementation_cmake: 0.8.1 (/opt/workspace/install/rmw_implementation_cmake/share/rmw_implementation_cmake/cmake)
+[4.594s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[4.595s] -- Looking for pthread.h
+[4.773s] -- Looking for pthread.h - found
+[4.774s] -- Looking for pthread_create
+[4.954s] -- Looking for pthread_create - not found
+[4.955s] -- Looking for pthread_create in pthreads
+[5.107s] -- Looking for pthread_create in pthreads - not found
+[5.108s] -- Looking for pthread_create in pthread
+[5.285s] -- Looking for pthread_create in pthread - found
+[5.288s] -- Found Threads: TRUE  
+[5.435s] -- Found sensor_msgs: 0.8.1 (/opt/workspace/install/sensor_msgs/share/sensor_msgs/cmake)
+[5.495s] -- Found urdf: 2.2.0 (/opt/workspace/install/urdf/share/urdf/cmake)
+[5.644s] -- Found kdl_parser: 2.2.0 (/opt/workspace/install/kdl_parser/share/kdl_parser/cmake)
+[5.652s] -- Found tf2_ros: 0.12.5 (/opt/workspace/install/tf2_ros/share/tf2_ros/cmake)
+[5.822s] -- Found ament_cmake_cppcheck: 0.8.1 (/opt/workspace/install/ament_cmake_cppcheck/share/ament_cmake_cppcheck/cmake)
+[5.836s] -- Found ament_cmake_cpplint: 0.8.1 (/opt/workspace/install/ament_cmake_cpplint/share/ament_cmake_cpplint/cmake)
+[5.849s] -- Found ament_cmake_lint_cmake: 0.8.1 (/opt/workspace/install/ament_cmake_lint_cmake/share/ament_cmake_lint_cmake/cmake)
+[5.862s] -- Found ament_cmake_uncrustify: 0.8.1 (/opt/workspace/install/ament_cmake_uncrustify/share/ament_cmake_uncrustify/cmake)
+[6.095s] -- Configuring done
+[6.472s] -- Generating done
+[6.477s] -- Build files have been written to: /opt/workspace/build/robot_state_publisher
+[6.634s] [35m[1mScanning dependencies of target robot_state_publisher_solver[0m
+[6.816s] [ 16%] [32mBuilding CXX object CMakeFiles/robot_state_publisher_solver.dir/src/robot_state_publisher.cpp.o[0m
+[14.033s] [ 33%] [32m[1mLinking CXX static library librobot_state_publisher_solver.a[0m
+[14.170s] [ 33%] Built target robot_state_publisher_solver
+[14.206s] [35m[1mScanning dependencies of target joint_state_listener[0m
+[14.337s] [ 50%] [32mBuilding CXX object CMakeFiles/joint_state_listener.dir/src/joint_state_listener.cpp.o[0m
+[21.728s] [ 66%] [32m[1mLinking CXX static library libjoint_state_listener.a[0m
+[21.876s] [ 66%] Built target joint_state_listener
+[21.916s] [35m[1mScanning dependencies of target robot_state_publisher[0m
+[22.050s] [ 83%] [32mBuilding CXX object CMakeFiles/robot_state_publisher.dir/src/joint_state_listener.cpp.o[0m
+[29.606s] [100%] [32m[1mLinking CXX executable robot_state_publisher[0m
+[33.220s] [100%] Built target robot_state_publisher
+[33.504s] [ 33%] Built target robot_state_publisher_solver
+[33.580s] [ 66%] Built target joint_state_listener
+[33.677s] [100%] Built target robot_state_publisher
+[33.737s] [36mInstall the project...[0m
+[33.764s] -- Install configuration: ""
+[33.765s] -- Installing: /opt/workspace/install/robot_state_publisher/lib/librobot_state_publisher_solver.a
+[33.768s] -- Installing: /opt/workspace/install/robot_state_publisher/lib/libjoint_state_listener.a
+[33.774s] -- Installing: /opt/workspace/install/robot_state_publisher/include
+[33.774s] -- Installing: /opt/workspace/install/robot_state_publisher/include/robot_state_publisher
+[33.775s] -- Installing: /opt/workspace/install/robot_state_publisher/include/robot_state_publisher/joint_state_listener.h
+[33.775s] -- Installing: /opt/workspace/install/robot_state_publisher/include/robot_state_publisher/robot_state_publisher.h
+[33.776s] -- Installing: /opt/workspace/install/robot_state_publisher/lib/robot_state_publisher/robot_state_publisher
+[33.780s] -- Set runtime path of "/opt/workspace/install/robot_state_publisher/lib/robot_state_publisher/robot_state_publisher" to ""
+[33.781s] -- Installing: /opt/workspace/install/robot_state_publisher/share/robot_state_publisher/environment/library_path.sh
+[33.782s] -- Installing: /opt/workspace/install/robot_state_publisher/share/robot_state_publisher/environment/library_path.dsv
+[33.783s] -- Installing: /opt/workspace/install/robot_state_publisher/share/ament_index/resource_index/package_run_dependencies/robot_state_publisher
+[33.784s] -- Installing: /opt/workspace/install/robot_state_publisher/share/ament_index/resource_index/parent_prefix_path/robot_state_publisher
+[33.784s] -- Installing: /opt/workspace/install/robot_state_publisher/share/robot_state_publisher/environment/ament_prefix_path.sh
+[33.785s] -- Installing: /opt/workspace/install/robot_state_publisher/share/robot_state_publisher/environment/ament_prefix_path.dsv
+[33.786s] -- Installing: /opt/workspace/install/robot_state_publisher/share/robot_state_publisher/environment/path.sh
+[33.787s] -- Installing: /opt/workspace/install/robot_state_publisher/share/robot_state_publisher/environment/path.dsv
+[33.788s] -- Installing: /opt/workspace/install/robot_state_publisher/share/robot_state_publisher/local_setup.bash
+[33.788s] -- Installing: /opt/workspace/install/robot_state_publisher/share/robot_state_publisher/local_setup.sh
+[33.789s] -- Installing: /opt/workspace/install/robot_state_publisher/share/robot_state_publisher/local_setup.zsh
+[33.790s] -- Installing: /opt/workspace/install/robot_state_publisher/share/robot_state_publisher/local_setup.dsv
+[33.790s] -- Installing: /opt/workspace/install/robot_state_publisher/share/robot_state_publisher/package.dsv
+[33.791s] -- Installing: /opt/workspace/install/robot_state_publisher/share/ament_index/resource_index/packages/robot_state_publisher
+[33.792s] -- Installing: /opt/workspace/install/robot_state_publisher/share/robot_state_publisher/cmake/ament_cmake_export_libraries-extras.cmake
+[33.793s] -- Installing: /opt/workspace/install/robot_state_publisher/share/robot_state_publisher/cmake/robot_state_publisherConfig.cmake
+[33.793s] -- Installing: /opt/workspace/install/robot_state_publisher/share/robot_state_publisher/cmake/robot_state_publisherConfig-version.cmake
+[33.794s] -- Installing: /opt/workspace/install/robot_state_publisher/share/robot_state_publisher/package.xml

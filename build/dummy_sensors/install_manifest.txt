@@ -1,0 +1,17 @@
+/opt/workspace/install/dummy_sensors/lib/dummy_sensors/dummy_joint_states
+/opt/workspace/install/dummy_sensors/lib/dummy_sensors/dummy_laser
+/opt/workspace/install/dummy_sensors/share/ament_index/resource_index/package_run_dependencies/dummy_sensors
+/opt/workspace/install/dummy_sensors/share/ament_index/resource_index/parent_prefix_path/dummy_sensors
+/opt/workspace/install/dummy_sensors/share/dummy_sensors/environment/ament_prefix_path.sh
+/opt/workspace/install/dummy_sensors/share/dummy_sensors/environment/ament_prefix_path.dsv
+/opt/workspace/install/dummy_sensors/share/dummy_sensors/environment/path.sh
+/opt/workspace/install/dummy_sensors/share/dummy_sensors/environment/path.dsv
+/opt/workspace/install/dummy_sensors/share/dummy_sensors/local_setup.bash
+/opt/workspace/install/dummy_sensors/share/dummy_sensors/local_setup.sh
+/opt/workspace/install/dummy_sensors/share/dummy_sensors/local_setup.zsh
+/opt/workspace/install/dummy_sensors/share/dummy_sensors/local_setup.dsv
+/opt/workspace/install/dummy_sensors/share/dummy_sensors/package.dsv
+/opt/workspace/install/dummy_sensors/share/ament_index/resource_index/packages/dummy_sensors
+/opt/workspace/install/dummy_sensors/share/dummy_sensors/cmake/dummy_sensorsConfig.cmake
+/opt/workspace/install/dummy_sensors/share/dummy_sensors/cmake/dummy_sensorsConfig-version.cmake
+/opt/workspace/install/dummy_sensors/share/dummy_sensors/package.xml

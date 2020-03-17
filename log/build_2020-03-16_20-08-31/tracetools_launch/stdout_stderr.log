@@ -1,0 +1,31 @@
+[6.375s] running egg_info
+[6.379s] creating /opt/workspace/build/tracetools_launch/tracetools_launch.egg-info
+[6.380s] writing /opt/workspace/build/tracetools_launch/tracetools_launch.egg-info/PKG-INFO
+[6.380s] writing dependency_links to /opt/workspace/build/tracetools_launch/tracetools_launch.egg-info/dependency_links.txt
+[6.381s] writing requirements to /opt/workspace/build/tracetools_launch/tracetools_launch.egg-info/requires.txt
+[6.381s] writing top-level names to /opt/workspace/build/tracetools_launch/tracetools_launch.egg-info/top_level.txt
+[6.398s] writing manifest file '/opt/workspace/build/tracetools_launch/tracetools_launch.egg-info/SOURCES.txt'
+[6.508s] reading manifest file '/opt/workspace/build/tracetools_launch/tracetools_launch.egg-info/SOURCES.txt'
+[6.511s] writing manifest file '/opt/workspace/build/tracetools_launch/tracetools_launch.egg-info/SOURCES.txt'
+[6.512s] running build
+[6.514s] running build_py
+[6.515s] creating /opt/workspace/build/tracetools_launch/build
+[6.515s] creating /opt/workspace/build/tracetools_launch/build/lib
+[6.516s] creating /opt/workspace/build/tracetools_launch/build/lib/tracetools_launch
+[6.517s] copying tracetools_launch/__init__.py -> /opt/workspace/build/tracetools_launch/build/lib/tracetools_launch
+[6.518s] copying tracetools_launch/action.py -> /opt/workspace/build/tracetools_launch/build/lib/tracetools_launch
+[6.520s] running install
+[6.522s] running install_lib
+[6.525s] creating /opt/workspace/install/tracetools_launch/lib/python3.6/site-packages/tracetools_launch
+[6.526s] copying /opt/workspace/build/tracetools_launch/build/lib/tracetools_launch/__init__.py -> /opt/workspace/install/tracetools_launch/lib/python3.6/site-packages/tracetools_launch
+[6.527s] copying /opt/workspace/build/tracetools_launch/build/lib/tracetools_launch/action.py -> /opt/workspace/install/tracetools_launch/lib/python3.6/site-packages/tracetools_launch
+[6.529s] byte-compiling /opt/workspace/install/tracetools_launch/lib/python3.6/site-packages/tracetools_launch/__init__.py to __init__.cpython-36.pyc
+[6.530s] byte-compiling /opt/workspace/install/tracetools_launch/lib/python3.6/site-packages/tracetools_launch/action.py to action.cpython-36.pyc
+[6.533s] running install_data
+[6.535s] copying package.xml -> /opt/workspace/install/tracetools_launch/share/tracetools_launch
+[6.545s] creating /opt/workspace/install/tracetools_launch/share/tracetools_launch/launch
+[6.545s] copying launch/example.launch.py -> /opt/workspace/install/tracetools_launch/share/tracetools_launch/launch
+[6.546s] running install_egg_info
+[6.554s] Copying /opt/workspace/build/tracetools_launch/tracetools_launch.egg-info to /opt/workspace/install/tracetools_launch/lib/python3.6/site-packages/tracetools_launch-0.2.10-py3.6.egg-info
+[6.556s] running install_scripts
+[6.621s] writing list of installed files to '/opt/workspace/build/tracetools_launch/install.log'

@@ -1,0 +1,51 @@
+[2.373s] running egg_info
+[2.374s] creating /opt/workspace/build/rqt_topic/rqt_topic.egg-info
+[2.375s] writing /opt/workspace/build/rqt_topic/rqt_topic.egg-info/PKG-INFO
+[2.375s] writing dependency_links to /opt/workspace/build/rqt_topic/rqt_topic.egg-info/dependency_links.txt
+[2.375s] writing requirements to /opt/workspace/build/rqt_topic/rqt_topic.egg-info/requires.txt
+[2.376s] writing top-level names to /opt/workspace/build/rqt_topic/rqt_topic.egg-info/top_level.txt
+[2.385s] writing manifest file '/opt/workspace/build/rqt_topic/rqt_topic.egg-info/SOURCES.txt'
+[2.472s] reading manifest file '/opt/workspace/build/rqt_topic/rqt_topic.egg-info/SOURCES.txt'
+[2.474s] writing manifest file '/opt/workspace/build/rqt_topic/rqt_topic.egg-info/SOURCES.txt'
+[2.475s] running build
+[2.475s] running build_py
+[2.475s] creating /opt/workspace/build/rqt_topic/build
+[2.476s] creating /opt/workspace/build/rqt_topic/build/lib
+[2.476s] creating /opt/workspace/build/rqt_topic/build/lib/rqt_topic
+[2.476s] copying src/rqt_topic/__init__.py -> /opt/workspace/build/rqt_topic/build/lib/rqt_topic
+[2.477s] copying src/rqt_topic/topic_info.py -> /opt/workspace/build/rqt_topic/build/lib/rqt_topic
+[2.477s] copying src/rqt_topic/topic_widget.py -> /opt/workspace/build/rqt_topic/build/lib/rqt_topic
+[2.477s] copying src/rqt_topic/topic.py -> /opt/workspace/build/rqt_topic/build/lib/rqt_topic
+[2.478s] running build_scripts
+[2.478s] creating /opt/workspace/build/rqt_topic/build/scripts-3.6
+[2.479s] copying and adjusting scripts/rqt_topic -> /opt/workspace/build/rqt_topic/build/scripts-3.6
+[2.479s] changing mode of /opt/workspace/build/rqt_topic/build/scripts-3.6/rqt_topic from 644 to 755
+[2.479s] running install
+[2.480s] running install_lib
+[2.481s] creating /opt/workspace/install/rqt_topic/lib/python3.6/site-packages/rqt_topic
+[2.482s] copying /opt/workspace/build/rqt_topic/build/lib/rqt_topic/__init__.py -> /opt/workspace/install/rqt_topic/lib/python3.6/site-packages/rqt_topic
+[2.482s] copying /opt/workspace/build/rqt_topic/build/lib/rqt_topic/topic_info.py -> /opt/workspace/install/rqt_topic/lib/python3.6/site-packages/rqt_topic
+[2.482s] copying /opt/workspace/build/rqt_topic/build/lib/rqt_topic/topic_widget.py -> /opt/workspace/install/rqt_topic/lib/python3.6/site-packages/rqt_topic
+[2.483s] copying /opt/workspace/build/rqt_topic/build/lib/rqt_topic/topic.py -> /opt/workspace/install/rqt_topic/lib/python3.6/site-packages/rqt_topic
+[2.485s] byte-compiling /opt/workspace/install/rqt_topic/lib/python3.6/site-packages/rqt_topic/__init__.py to __init__.cpython-36.pyc
+[2.485s] byte-compiling /opt/workspace/install/rqt_topic/lib/python3.6/site-packages/rqt_topic/topic_info.py to topic_info.cpython-36.pyc
+[2.486s] byte-compiling /opt/workspace/install/rqt_topic/lib/python3.6/site-packages/rqt_topic/topic_widget.py to topic_widget.cpython-36.pyc
+[2.493s] byte-compiling /opt/workspace/install/rqt_topic/lib/python3.6/site-packages/rqt_topic/topic.py to topic.cpython-36.pyc
+[2.493s] running install_data
+[2.494s] creating /opt/workspace/install/rqt_topic/share/ament_index
+[2.495s] creating /opt/workspace/install/rqt_topic/share/ament_index/resource_index
+[2.495s] creating /opt/workspace/install/rqt_topic/share/ament_index/resource_index/packages
+[2.495s] copying resource/rqt_topic -> /opt/workspace/install/rqt_topic/share/ament_index/resource_index/packages
+[2.496s] creating /opt/workspace/install/rqt_topic/share/rqt_topic/resource
+[2.496s] copying resource/TopicWidget.ui -> /opt/workspace/install/rqt_topic/share/rqt_topic/resource
+[2.496s] copying package.xml -> /opt/workspace/install/rqt_topic/share/rqt_topic
+[2.496s] copying plugin.xml -> /opt/workspace/install/rqt_topic/share/rqt_topic
+[2.497s] creating /opt/workspace/install/rqt_topic/lib/rqt_topic
+[2.497s] copying scripts/rqt_topic -> /opt/workspace/install/rqt_topic/lib/rqt_topic
+[2.497s] running install_egg_info
+[2.502s] Copying /opt/workspace/build/rqt_topic/rqt_topic.egg-info to /opt/workspace/install/rqt_topic/lib/python3.6/site-packages/rqt_topic-0.4.9-py3.6.egg-info
+[2.504s] running install_scripts
+[2.547s] creating /opt/workspace/install/rqt_topic/bin
+[2.548s] copying /opt/workspace/build/rqt_topic/build/scripts-3.6/rqt_topic -> /opt/workspace/install/rqt_topic/bin
+[2.548s] changing mode of /opt/workspace/install/rqt_topic/bin/rqt_topic to 755
+[2.552s] writing list of installed files to '/opt/workspace/build/rqt_topic/install.log'

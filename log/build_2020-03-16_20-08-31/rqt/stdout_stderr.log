@@ -1,0 +1,20 @@
+[2.670s] running egg_info
+[2.672s] creating /opt/workspace/build/rqt/rqt.egg-info
+[2.672s] writing /opt/workspace/build/rqt/rqt.egg-info/PKG-INFO
+[2.673s] writing dependency_links to /opt/workspace/build/rqt/rqt.egg-info/dependency_links.txt
+[2.674s] writing top-level names to /opt/workspace/build/rqt/rqt.egg-info/top_level.txt
+[2.684s] writing manifest file '/opt/workspace/build/rqt/rqt.egg-info/SOURCES.txt'
+[2.686s] reading manifest file '/opt/workspace/build/rqt/rqt.egg-info/SOURCES.txt'
+[2.689s] writing manifest file '/opt/workspace/build/rqt/rqt.egg-info/SOURCES.txt'
+[2.690s] running build
+[2.690s] running install
+[2.692s] running install_data
+[2.693s] creating /opt/workspace/install/rqt/share/ament_index
+[2.694s] creating /opt/workspace/install/rqt/share/ament_index/resource_index
+[2.694s] creating /opt/workspace/install/rqt/share/ament_index/resource_index/packages
+[2.695s] copying resource/rqt -> /opt/workspace/install/rqt/share/ament_index/resource_index/packages
+[2.695s] copying package.xml -> /opt/workspace/install/rqt/share/rqt
+[2.696s] running install_egg_info
+[2.702s] Copying /opt/workspace/build/rqt/rqt.egg-info to /opt/workspace/install/rqt/lib/python3.6/site-packages/rqt-1.0.0-py3.6.egg-info
+[2.704s] running install_scripts
+[2.761s] writing list of installed files to '/opt/workspace/build/rqt/install.log'

@@ -1,0 +1,27 @@
+[0.377s] -- Found ament_cmake_core: 0.8.2 (/opt/workspace/install/ament_cmake_core/share/ament_cmake_core/cmake)
+[0.451s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[0.451s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.205s] -- Configuring done
+[1.208s] -- Generating done
+[1.223s] -- Build files have been written to: /opt/workspace/build/ament_cmake_pytest
+[2.789s] [36mInstall the project...[0m
+[2.851s] -- Install configuration: ""
+[2.851s] -- Installing: /opt/workspace/install/ament_cmake_pytest/share/ament_index/resource_index/package_run_dependencies/ament_cmake_pytest
+[2.851s] -- Installing: /opt/workspace/install/ament_cmake_pytest/share/ament_index/resource_index/parent_prefix_path/ament_cmake_pytest
+[2.852s] -- Installing: /opt/workspace/install/ament_cmake_pytest/share/ament_cmake_pytest/environment/ament_prefix_path.sh
+[2.852s] -- Installing: /opt/workspace/install/ament_cmake_pytest/share/ament_cmake_pytest/environment/ament_prefix_path.dsv
+[2.852s] -- Installing: /opt/workspace/install/ament_cmake_pytest/share/ament_cmake_pytest/environment/path.sh
+[2.852s] -- Installing: /opt/workspace/install/ament_cmake_pytest/share/ament_cmake_pytest/environment/path.dsv
+[2.853s] -- Installing: /opt/workspace/install/ament_cmake_pytest/share/ament_cmake_pytest/local_setup.bash
+[2.853s] -- Installing: /opt/workspace/install/ament_cmake_pytest/share/ament_cmake_pytest/local_setup.sh
+[2.853s] -- Installing: /opt/workspace/install/ament_cmake_pytest/share/ament_cmake_pytest/local_setup.zsh
+[2.854s] -- Installing: /opt/workspace/install/ament_cmake_pytest/share/ament_cmake_pytest/local_setup.dsv
+[2.854s] -- Installing: /opt/workspace/install/ament_cmake_pytest/share/ament_cmake_pytest/package.dsv
+[2.854s] -- Installing: /opt/workspace/install/ament_cmake_pytest/share/ament_index/resource_index/packages/ament_cmake_pytest
+[2.855s] -- Installing: /opt/workspace/install/ament_cmake_pytest/share/ament_cmake_pytest/cmake/ament_cmake_pytest-extras.cmake
+[2.855s] -- Installing: /opt/workspace/install/ament_cmake_pytest/share/ament_cmake_pytest/cmake/ament_cmake_pytestConfig.cmake
+[2.855s] -- Installing: /opt/workspace/install/ament_cmake_pytest/share/ament_cmake_pytest/cmake/ament_cmake_pytestConfig-version.cmake
+[2.856s] -- Installing: /opt/workspace/install/ament_cmake_pytest/share/ament_cmake_pytest/package.xml
+[2.856s] -- Up-to-date: /opt/workspace/install/ament_cmake_pytest/share/ament_cmake_pytest/cmake
+[2.856s] -- Installing: /opt/workspace/install/ament_cmake_pytest/share/ament_cmake_pytest/cmake/ament_has_pytest.cmake
+[2.857s] -- Installing: /opt/workspace/install/ament_cmake_pytest/share/ament_cmake_pytest/cmake/ament_add_pytest_test.cmake

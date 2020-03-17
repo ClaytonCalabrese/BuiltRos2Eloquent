@@ -1,0 +1,55 @@
+[2.805s] running egg_info
+[2.806s] creating /opt/workspace/build/ros2multicast/ros2multicast.egg-info
+[2.806s] writing /opt/workspace/build/ros2multicast/ros2multicast.egg-info/PKG-INFO
+[2.807s] writing dependency_links to /opt/workspace/build/ros2multicast/ros2multicast.egg-info/dependency_links.txt
+[2.807s] writing entry points to /opt/workspace/build/ros2multicast/ros2multicast.egg-info/entry_points.txt
+[2.807s] writing requirements to /opt/workspace/build/ros2multicast/ros2multicast.egg-info/requires.txt
+[2.808s] writing top-level names to /opt/workspace/build/ros2multicast/ros2multicast.egg-info/top_level.txt
+[2.814s] writing manifest file '/opt/workspace/build/ros2multicast/ros2multicast.egg-info/SOURCES.txt'
+[2.875s] reading manifest file '/opt/workspace/build/ros2multicast/ros2multicast.egg-info/SOURCES.txt'
+[2.877s] writing manifest file '/opt/workspace/build/ros2multicast/ros2multicast.egg-info/SOURCES.txt'
+[2.877s] running build
+[2.877s] running build_py
+[2.878s] creating /opt/workspace/build/ros2multicast/build
+[2.878s] creating /opt/workspace/build/ros2multicast/build/lib
+[2.878s] creating /opt/workspace/build/ros2multicast/build/lib/ros2multicast
+[2.878s] copying ros2multicast/__init__.py -> /opt/workspace/build/ros2multicast/build/lib/ros2multicast
+[2.878s] creating /opt/workspace/build/ros2multicast/build/lib/ros2multicast/api
+[2.879s] copying ros2multicast/api/__init__.py -> /opt/workspace/build/ros2multicast/build/lib/ros2multicast/api
+[2.879s] creating /opt/workspace/build/ros2multicast/build/lib/ros2multicast/verb
+[2.879s] copying ros2multicast/verb/send.py -> /opt/workspace/build/ros2multicast/build/lib/ros2multicast/verb
+[2.879s] copying ros2multicast/verb/receive.py -> /opt/workspace/build/ros2multicast/build/lib/ros2multicast/verb
+[2.880s] copying ros2multicast/verb/__init__.py -> /opt/workspace/build/ros2multicast/build/lib/ros2multicast/verb
+[2.880s] creating /opt/workspace/build/ros2multicast/build/lib/ros2multicast/command
+[2.880s] copying ros2multicast/command/__init__.py -> /opt/workspace/build/ros2multicast/build/lib/ros2multicast/command
+[2.881s] copying ros2multicast/command/multicast.py -> /opt/workspace/build/ros2multicast/build/lib/ros2multicast/command
+[2.881s] running install
+[2.882s] running install_lib
+[2.883s] creating /opt/workspace/install/ros2multicast/lib/python3.6/site-packages/ros2multicast
+[2.883s] copying /opt/workspace/build/ros2multicast/build/lib/ros2multicast/__init__.py -> /opt/workspace/install/ros2multicast/lib/python3.6/site-packages/ros2multicast
+[2.883s] creating /opt/workspace/install/ros2multicast/lib/python3.6/site-packages/ros2multicast/api
+[2.884s] copying /opt/workspace/build/ros2multicast/build/lib/ros2multicast/api/__init__.py -> /opt/workspace/install/ros2multicast/lib/python3.6/site-packages/ros2multicast/api
+[2.884s] creating /opt/workspace/install/ros2multicast/lib/python3.6/site-packages/ros2multicast/verb
+[2.884s] copying /opt/workspace/build/ros2multicast/build/lib/ros2multicast/verb/send.py -> /opt/workspace/install/ros2multicast/lib/python3.6/site-packages/ros2multicast/verb
+[2.884s] copying /opt/workspace/build/ros2multicast/build/lib/ros2multicast/verb/receive.py -> /opt/workspace/install/ros2multicast/lib/python3.6/site-packages/ros2multicast/verb
+[2.885s] copying /opt/workspace/build/ros2multicast/build/lib/ros2multicast/verb/__init__.py -> /opt/workspace/install/ros2multicast/lib/python3.6/site-packages/ros2multicast/verb
+[2.885s] creating /opt/workspace/install/ros2multicast/lib/python3.6/site-packages/ros2multicast/command
+[2.885s] copying /opt/workspace/build/ros2multicast/build/lib/ros2multicast/command/__init__.py -> /opt/workspace/install/ros2multicast/lib/python3.6/site-packages/ros2multicast/command
+[2.885s] copying /opt/workspace/build/ros2multicast/build/lib/ros2multicast/command/multicast.py -> /opt/workspace/install/ros2multicast/lib/python3.6/site-packages/ros2multicast/command
+[2.886s] byte-compiling /opt/workspace/install/ros2multicast/lib/python3.6/site-packages/ros2multicast/__init__.py to __init__.cpython-36.pyc
+[2.886s] byte-compiling /opt/workspace/install/ros2multicast/lib/python3.6/site-packages/ros2multicast/api/__init__.py to __init__.cpython-36.pyc
+[2.887s] byte-compiling /opt/workspace/install/ros2multicast/lib/python3.6/site-packages/ros2multicast/verb/send.py to send.cpython-36.pyc
+[2.887s] byte-compiling /opt/workspace/install/ros2multicast/lib/python3.6/site-packages/ros2multicast/verb/receive.py to receive.cpython-36.pyc
+[2.888s] byte-compiling /opt/workspace/install/ros2multicast/lib/python3.6/site-packages/ros2multicast/verb/__init__.py to __init__.cpython-36.pyc
+[2.888s] byte-compiling /opt/workspace/install/ros2multicast/lib/python3.6/site-packages/ros2multicast/command/__init__.py to __init__.cpython-36.pyc
+[2.888s] byte-compiling /opt/workspace/install/ros2multicast/lib/python3.6/site-packages/ros2multicast/command/multicast.py to multicast.cpython-36.pyc
+[2.889s] running install_data
+[2.889s] copying package.xml -> /opt/workspace/install/ros2multicast/share/ros2multicast
+[2.890s] creating /opt/workspace/install/ros2multicast/share/ament_index
+[2.890s] creating /opt/workspace/install/ros2multicast/share/ament_index/resource_index
+[2.890s] creating /opt/workspace/install/ros2multicast/share/ament_index/resource_index/packages
+[2.890s] copying resource/ros2multicast -> /opt/workspace/install/ros2multicast/share/ament_index/resource_index/packages
+[2.891s] running install_egg_info
+[2.894s] Copying /opt/workspace/build/ros2multicast/ros2multicast.egg-info to /opt/workspace/install/ros2multicast/lib/python3.6/site-packages/ros2multicast-0.8.7-py3.6.egg-info
+[2.895s] running install_scripts
+[2.940s] writing list of installed files to '/opt/workspace/build/ros2multicast/install.log'

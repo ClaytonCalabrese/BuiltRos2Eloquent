@@ -1,0 +1,15 @@
+/opt/workspace/install/rosbag2_tests/share/ament_index/resource_index/package_run_dependencies/rosbag2_tests
+/opt/workspace/install/rosbag2_tests/share/ament_index/resource_index/parent_prefix_path/rosbag2_tests
+/opt/workspace/install/rosbag2_tests/share/rosbag2_tests/environment/ament_prefix_path.sh
+/opt/workspace/install/rosbag2_tests/share/rosbag2_tests/environment/ament_prefix_path.dsv
+/opt/workspace/install/rosbag2_tests/share/rosbag2_tests/environment/path.sh
+/opt/workspace/install/rosbag2_tests/share/rosbag2_tests/environment/path.dsv
+/opt/workspace/install/rosbag2_tests/share/rosbag2_tests/local_setup.bash
+/opt/workspace/install/rosbag2_tests/share/rosbag2_tests/local_setup.sh
+/opt/workspace/install/rosbag2_tests/share/rosbag2_tests/local_setup.zsh
+/opt/workspace/install/rosbag2_tests/share/rosbag2_tests/local_setup.dsv
+/opt/workspace/install/rosbag2_tests/share/rosbag2_tests/package.dsv
+/opt/workspace/install/rosbag2_tests/share/ament_index/resource_index/packages/rosbag2_tests
+/opt/workspace/install/rosbag2_tests/share/rosbag2_tests/cmake/rosbag2_testsConfig.cmake
+/opt/workspace/install/rosbag2_tests/share/rosbag2_tests/cmake/rosbag2_testsConfig-version.cmake
+/opt/workspace/install/rosbag2_tests/share/rosbag2_tests/package.xml

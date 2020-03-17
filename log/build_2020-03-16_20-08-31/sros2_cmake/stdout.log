@@ -1,0 +1,44 @@
+[0.583s] -- The C compiler identification is GNU 7.4.0
+[0.697s] -- The CXX compiler identification is GNU 7.4.0
+[0.708s] -- Check for working C compiler: /usr/bin/cc
+[0.861s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.862s] -- Detecting C compiler ABI info
+[0.991s] -- Detecting C compiler ABI info - done
+[1.003s] -- Detecting C compile features
+[1.426s] -- Detecting C compile features - done
+[1.431s] -- Check for working CXX compiler: /usr/bin/c++
+[1.607s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[1.608s] -- Detecting CXX compiler ABI info
+[1.782s] -- Detecting CXX compiler ABI info - done
+[1.794s] -- Detecting CXX compile features
+[2.509s] -- Detecting CXX compile features - done
+[2.521s] -- Found ament_cmake: 0.8.2 (/opt/workspace/install/ament_cmake/share/ament_cmake/cmake)
+[2.625s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[2.626s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[3.200s] -- Found ament_lint_auto: 0.8.1 (/opt/workspace/install/ament_lint_auto/share/ament_lint_auto/cmake)
+[3.479s] -- Added test 'copyright' to check for copyright in CMake / C / C++ / Python code
+[3.483s] -- Added test 'lint_cmake' to check CMake code style
+[3.487s] -- Added test 'xmllint' to check XML markup files
+[3.495s] -- Configuring done
+[3.499s] -- Generating done
+[3.501s] -- Build files have been written to: /opt/workspace/build/sros2_cmake
+[4.435s] [36mInstall the project...[0m
+[4.456s] -- Install configuration: ""
+[4.456s] -- Installing: /opt/workspace/install/sros2_cmake/share/ament_index/resource_index/package_run_dependencies/sros2_cmake
+[4.457s] -- Installing: /opt/workspace/install/sros2_cmake/share/ament_index/resource_index/parent_prefix_path/sros2_cmake
+[4.457s] -- Installing: /opt/workspace/install/sros2_cmake/share/sros2_cmake/environment/ament_prefix_path.sh
+[4.457s] -- Installing: /opt/workspace/install/sros2_cmake/share/sros2_cmake/environment/ament_prefix_path.dsv
+[4.457s] -- Installing: /opt/workspace/install/sros2_cmake/share/sros2_cmake/environment/path.sh
+[4.458s] -- Installing: /opt/workspace/install/sros2_cmake/share/sros2_cmake/environment/path.dsv
+[4.458s] -- Installing: /opt/workspace/install/sros2_cmake/share/sros2_cmake/local_setup.bash
+[4.458s] -- Installing: /opt/workspace/install/sros2_cmake/share/sros2_cmake/local_setup.sh
+[4.458s] -- Installing: /opt/workspace/install/sros2_cmake/share/sros2_cmake/local_setup.zsh
+[4.459s] -- Installing: /opt/workspace/install/sros2_cmake/share/sros2_cmake/local_setup.dsv
+[4.459s] -- Installing: /opt/workspace/install/sros2_cmake/share/sros2_cmake/package.dsv
+[4.459s] -- Installing: /opt/workspace/install/sros2_cmake/share/ament_index/resource_index/packages/sros2_cmake
+[4.459s] -- Installing: /opt/workspace/install/sros2_cmake/share/sros2_cmake/cmake/sros2_cmake-extras.cmake
+[4.459s] -- Installing: /opt/workspace/install/sros2_cmake/share/sros2_cmake/cmake/sros2_cmakeConfig.cmake
+[4.460s] -- Installing: /opt/workspace/install/sros2_cmake/share/sros2_cmake/cmake/sros2_cmakeConfig-version.cmake
+[4.460s] -- Installing: /opt/workspace/install/sros2_cmake/share/sros2_cmake/package.xml
+[4.460s] -- Up-to-date: /opt/workspace/install/sros2_cmake/share/sros2_cmake/cmake
+[4.460s] -- Installing: /opt/workspace/install/sros2_cmake/share/sros2_cmake/cmake/ros2_secure_node.cmake

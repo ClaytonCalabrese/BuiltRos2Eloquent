@@ -1,0 +1,21 @@
+[1.931s] Invoking command in '/opt/workspace/src/ament/ament_lint/ament_lint_cmake': AMENT_PREFIX_PATH=/opt/workspace/install/ament_copyright:/opt/workspace/install/ament_pep257:/opt/workspace/install/ament_flake8:/opt/workspace/install/ament_lint:${AMENT_PREFIX_PATH} PATH=/opt/workspace/install/ament_copyright/bin:/opt/workspace/install/ament_pep257/bin:/opt/workspace/install/ament_flake8/bin:${PATH} PYTHONPATH=/opt/workspace/install/ament_lint_cmake/lib/python3.6/site-packages:/opt/workspace/install/ament_copyright/lib/python3.6/site-packages:/opt/workspace/install/ament_pep257/lib/python3.6/site-packages:/opt/workspace/install/ament_flake8/lib/python3.6/site-packages:/opt/workspace/install/ament_lint/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base /opt/workspace/build/ament_lint_cmake build --build-base /opt/workspace/build/ament_lint_cmake/build install --prefix /opt/workspace/install/ament_lint_cmake --record /opt/workspace/build/ament_lint_cmake/install.log --single-version-externally-managed
+[2.270s] running egg_info
+[2.270s] writing /opt/workspace/build/ament_lint_cmake/ament_lint_cmake.egg-info/PKG-INFO
+[2.271s] writing dependency_links to /opt/workspace/build/ament_lint_cmake/ament_lint_cmake.egg-info/dependency_links.txt
+[2.271s] writing entry points to /opt/workspace/build/ament_lint_cmake/ament_lint_cmake.egg-info/entry_points.txt
+[2.271s] writing requirements to /opt/workspace/build/ament_lint_cmake/ament_lint_cmake.egg-info/requires.txt
+[2.271s] writing top-level names to /opt/workspace/build/ament_lint_cmake/ament_lint_cmake.egg-info/top_level.txt
+[2.339s] reading manifest file '/opt/workspace/build/ament_lint_cmake/ament_lint_cmake.egg-info/SOURCES.txt'
+[2.341s] writing manifest file '/opt/workspace/build/ament_lint_cmake/ament_lint_cmake.egg-info/SOURCES.txt'
+[2.342s] running build
+[2.342s] running build_py
+[2.342s] running install
+[2.343s] running install_lib
+[2.345s] running install_data
+[2.346s] running install_egg_info
+[2.350s] removing '/opt/workspace/install/ament_lint_cmake/lib/python3.6/site-packages/ament_lint_cmake-0.8.1-py3.6.egg-info' (and everything under it)
+[2.350s] Copying /opt/workspace/build/ament_lint_cmake/ament_lint_cmake.egg-info to /opt/workspace/install/ament_lint_cmake/lib/python3.6/site-packages/ament_lint_cmake-0.8.1-py3.6.egg-info
+[2.352s] running install_scripts
+[2.379s] Installing ament_lint_cmake script to /opt/workspace/install/ament_lint_cmake/bin
+[2.379s] writing list of installed files to '/opt/workspace/build/ament_lint_cmake/install.log'
+[3.155s] Invoked command in '/opt/workspace/src/ament/ament_lint/ament_lint_cmake' returned '0': AMENT_PREFIX_PATH=/opt/workspace/install/ament_copyright:/opt/workspace/install/ament_pep257:/opt/workspace/install/ament_flake8:/opt/workspace/install/ament_lint:${AMENT_PREFIX_PATH} PATH=/opt/workspace/install/ament_copyright/bin:/opt/workspace/install/ament_pep257/bin:/opt/workspace/install/ament_flake8/bin:${PATH} PYTHONPATH=/opt/workspace/install/ament_lint_cmake/lib/python3.6/site-packages:/opt/workspace/install/ament_copyright/lib/python3.6/site-packages:/opt/workspace/install/ament_pep257/lib/python3.6/site-packages:/opt/workspace/install/ament_flake8/lib/python3.6/site-packages:/opt/workspace/install/ament_lint/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base /opt/workspace/build/ament_lint_cmake build --build-base /opt/workspace/build/ament_lint_cmake/build install --prefix /opt/workspace/install/ament_lint_cmake --record /opt/workspace/build/ament_lint_cmake/install.log --single-version-externally-managed

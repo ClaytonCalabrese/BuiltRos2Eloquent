@@ -1,0 +1,51 @@
+[0.484s] -- The C compiler identification is GNU 7.4.0
+[0.604s] -- The CXX compiler identification is GNU 7.4.0
+[0.615s] -- Check for working C compiler: /usr/bin/cc
+[0.762s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.763s] -- Detecting C compiler ABI info
+[0.920s] -- Detecting C compiler ABI info - done
+[0.933s] -- Detecting C compile features
+[1.413s] -- Detecting C compile features - done
+[1.419s] -- Check for working CXX compiler: /usr/bin/c++
+[1.591s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[1.592s] -- Detecting CXX compiler ABI info
+[1.772s] -- Detecting CXX compiler ABI info - done
+[1.784s] -- Detecting CXX compile features
+[2.603s] -- Detecting CXX compile features - done
+[2.614s] -- Found ament_cmake: 0.8.2 (/opt/workspace/install/ament_cmake/share/ament_cmake/cmake)
+[2.727s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[2.727s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[3.597s] -- Configuring done
+[3.602s] -- Generating done
+[3.605s] -- Build files have been written to: /opt/workspace/build/rqt_service_caller
+[3.927s] [36mInstall the project...[0m
+[3.951s] -- Install configuration: ""
+[3.952s] -- Installing: /opt/workspace/install/rqt_service_caller/share/rqt_service_caller/environment/pythonpath.sh
+[3.952s] -- Installing: /opt/workspace/install/rqt_service_caller/share/rqt_service_caller/environment/pythonpath.dsv
+[3.952s] -- Installing: /opt/workspace/install/rqt_service_caller/lib/python3.6/site-packages/rqt_service_caller
+[3.953s] -- Installing: /opt/workspace/install/rqt_service_caller/lib/python3.6/site-packages/rqt_service_caller/__init__.py
+[3.953s] -- Installing: /opt/workspace/install/rqt_service_caller/lib/python3.6/site-packages/rqt_service_caller/service_caller.py
+[3.954s] -- Installing: /opt/workspace/install/rqt_service_caller/lib/python3.6/site-packages/rqt_service_caller/service_caller_widget.py
+[4.079s] Listing '/opt/workspace/install/rqt_service_caller/lib/python3.6/site-packages/rqt_service_caller'...
+[4.080s] Compiling '/opt/workspace/install/rqt_service_caller/lib/python3.6/site-packages/rqt_service_caller/__init__.py'...
+[4.080s] Compiling '/opt/workspace/install/rqt_service_caller/lib/python3.6/site-packages/rqt_service_caller/service_caller.py'...
+[4.080s] Compiling '/opt/workspace/install/rqt_service_caller/lib/python3.6/site-packages/rqt_service_caller/service_caller_widget.py'...
+[4.087s] -- Installing: /opt/workspace/install/rqt_service_caller/share/rqt_service_caller/plugin.xml
+[4.088s] -- Installing: /opt/workspace/install/rqt_service_caller/share/rqt_service_caller/resource
+[4.088s] -- Installing: /opt/workspace/install/rqt_service_caller/share/rqt_service_caller/resource/ServiceCaller.ui
+[4.089s] -- Installing: /opt/workspace/install/rqt_service_caller/lib/rqt_service_caller/rqt_service_caller
+[4.090s] -- Installing: /opt/workspace/install/rqt_service_caller/share/ament_index/resource_index/package_run_dependencies/rqt_service_caller
+[4.091s] -- Installing: /opt/workspace/install/rqt_service_caller/share/ament_index/resource_index/parent_prefix_path/rqt_service_caller
+[4.091s] -- Installing: /opt/workspace/install/rqt_service_caller/share/rqt_service_caller/environment/ament_prefix_path.sh
+[4.092s] -- Installing: /opt/workspace/install/rqt_service_caller/share/rqt_service_caller/environment/ament_prefix_path.dsv
+[4.093s] -- Installing: /opt/workspace/install/rqt_service_caller/share/rqt_service_caller/environment/path.sh
+[4.093s] -- Installing: /opt/workspace/install/rqt_service_caller/share/rqt_service_caller/environment/path.dsv
+[4.094s] -- Installing: /opt/workspace/install/rqt_service_caller/share/rqt_service_caller/local_setup.bash
+[4.094s] -- Installing: /opt/workspace/install/rqt_service_caller/share/rqt_service_caller/local_setup.sh
+[4.095s] -- Installing: /opt/workspace/install/rqt_service_caller/share/rqt_service_caller/local_setup.zsh
+[4.096s] -- Installing: /opt/workspace/install/rqt_service_caller/share/rqt_service_caller/local_setup.dsv
+[4.096s] -- Installing: /opt/workspace/install/rqt_service_caller/share/rqt_service_caller/package.dsv
+[4.097s] -- Installing: /opt/workspace/install/rqt_service_caller/share/ament_index/resource_index/packages/rqt_service_caller
+[4.098s] -- Installing: /opt/workspace/install/rqt_service_caller/share/rqt_service_caller/cmake/rqt_service_callerConfig.cmake
+[4.098s] -- Installing: /opt/workspace/install/rqt_service_caller/share/rqt_service_caller/cmake/rqt_service_callerConfig-version.cmake
+[4.098s] -- Installing: /opt/workspace/install/rqt_service_caller/share/rqt_service_caller/package.xml

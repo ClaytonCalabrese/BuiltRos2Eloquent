@@ -1,0 +1,25 @@
+[1.626s] -- Found ament_cmake_core: 0.8.2 (/opt/workspace/install/ament_cmake_core/share/ament_cmake_core/cmake)
+[1.711s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[1.712s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[2.415s] -- Found ament_cmake_export_dependencies: 0.8.2 (/opt/workspace/install/ament_cmake_export_dependencies/share/ament_cmake_export_dependencies/cmake)
+[2.685s] -- Configuring done
+[2.688s] -- Generating done
+[2.691s] -- Build files have been written to: /opt/workspace/build/ament_cmake
+[5.022s] [36mInstall the project...[0m
+[5.073s] -- Install configuration: ""
+[5.074s] -- Installing: /opt/workspace/install/ament_cmake/share/ament_index/resource_index/package_run_dependencies/ament_cmake
+[5.074s] -- Installing: /opt/workspace/install/ament_cmake/share/ament_index/resource_index/parent_prefix_path/ament_cmake
+[5.074s] -- Installing: /opt/workspace/install/ament_cmake/share/ament_cmake/environment/ament_prefix_path.sh
+[5.076s] -- Installing: /opt/workspace/install/ament_cmake/share/ament_cmake/environment/ament_prefix_path.dsv
+[5.076s] -- Installing: /opt/workspace/install/ament_cmake/share/ament_cmake/environment/path.sh
+[5.076s] -- Installing: /opt/workspace/install/ament_cmake/share/ament_cmake/environment/path.dsv
+[5.077s] -- Installing: /opt/workspace/install/ament_cmake/share/ament_cmake/local_setup.bash
+[5.077s] -- Installing: /opt/workspace/install/ament_cmake/share/ament_cmake/local_setup.sh
+[5.077s] -- Installing: /opt/workspace/install/ament_cmake/share/ament_cmake/local_setup.zsh
+[5.078s] -- Installing: /opt/workspace/install/ament_cmake/share/ament_cmake/local_setup.dsv
+[5.078s] -- Installing: /opt/workspace/install/ament_cmake/share/ament_cmake/package.dsv
+[5.078s] -- Installing: /opt/workspace/install/ament_cmake/share/ament_index/resource_index/packages/ament_cmake
+[5.078s] -- Installing: /opt/workspace/install/ament_cmake/share/ament_cmake/cmake/ament_cmake_export_dependencies-extras.cmake
+[5.079s] -- Installing: /opt/workspace/install/ament_cmake/share/ament_cmake/cmake/ament_cmakeConfig.cmake
+[5.079s] -- Installing: /opt/workspace/install/ament_cmake/share/ament_cmake/cmake/ament_cmakeConfig-version.cmake
+[5.079s] -- Installing: /opt/workspace/install/ament_cmake/share/ament_cmake/package.xml

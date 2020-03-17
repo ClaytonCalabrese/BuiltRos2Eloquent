@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/opt/workspace/build/unique_identifier_msgs/rosidl_generator_c/unique_identifier_msgs/msg/uuid__functions.c
+unique_identifier_msgs/msg/uuid__functions.h
+/opt/workspace/build/unique_identifier_msgs/rosidl_generator_c/unique_identifier_msgs/msg/unique_identifier_msgs/msg/uuid__functions.h
+assert.h
+-
+stdbool.h
+-
+stdlib.h
+-
+string.h
+-
+
+/opt/workspace/install/rosidl_generator_c/include/rosidl_generator_c/visibility_control.h
+
+rosidl_generator_c/unique_identifier_msgs/msg/rosidl_generator_c__visibility_control.h
+
+rosidl_generator_c/unique_identifier_msgs/msg/uuid__functions.h
+stdbool.h
+-
+stdlib.h
+-
+rosidl_generator_c/visibility_control.h
+rosidl_generator_c/unique_identifier_msgs/msg/rosidl_generator_c/visibility_control.h
+unique_identifier_msgs/msg/rosidl_generator_c__visibility_control.h
+rosidl_generator_c/unique_identifier_msgs/msg/unique_identifier_msgs/msg/rosidl_generator_c__visibility_control.h
+unique_identifier_msgs/msg/uuid__struct.h
+rosidl_generator_c/unique_identifier_msgs/msg/unique_identifier_msgs/msg/uuid__struct.h
+
+rosidl_generator_c/unique_identifier_msgs/msg/uuid__struct.h
+stdbool.h
+-
+stddef.h
+-
+stdint.h
+-
+

@@ -1,0 +1,4 @@
+[2.548s] CMake Warning at CMakeLists.txt:27 (message):
+[2.548s]   Could not find RTI Connext - skipping 'rmw_connext_cpp'
+[2.549s] 
+[2.549s] 

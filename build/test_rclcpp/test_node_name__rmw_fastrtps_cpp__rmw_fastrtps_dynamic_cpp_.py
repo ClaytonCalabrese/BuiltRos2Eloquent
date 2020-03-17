@@ -1,0 +1,76 @@
+# generated from test_rclcpp/test/test_two_executables.py.in
+
+import os
+
+from launch import LaunchDescription
+from launch.actions import ExecuteProcess
+from launch.actions import OpaqueFunction
+from launch.substitutions import LaunchConfiguration
+
+import launch_testing
+import launch_testing.asserts
+
+import unittest
+
+
+def generate_test_description(ready_fn):
+    launch_description = LaunchDescription()
+
+    cmd = ['/opt/workspace/build/test_rclcpp/node_with_name']
+    if 'rmw_fastrtps_cpp':
+      cmd += 'rmw_fastrtps_cpp'.split(' ')
+    env = None
+    if 'rmw_fastrtps_cpp':
+        env = dict(os.environ)
+        env['RMW_IMPLEMENTATION'] = 'rmw_fastrtps_cpp'
+    executable_1 = ExecuteProcess(
+        cmd=cmd,
+        name='node_with_name',
+        env=env,
+        sigterm_timeout=LaunchConfiguration('sigterm_timeout', default=30)
+    )
+    launch_description.add_action(executable_1)
+
+    cmd = ['/opt/workspace/build/test_rclcpp/node_name_list']
+    if 'node_with_name_rmw_fastrtps_cpp':
+      cmd += 'node_with_name_rmw_fastrtps_cpp'.split(' ')
+    env = None
+    if 'rmw_fastrtps_dynamic_cpp':
+        env = dict(os.environ)
+        env['RMW_IMPLEMENTATION'] = 'rmw_fastrtps_dynamic_cpp'
+    executable_2 = ExecuteProcess(
+        cmd=cmd,
+        name='node_name_list',
+        env=env,
+        sigterm_timeout=LaunchConfiguration('sigterm_timeout', default=30)
+    )
+
+    launch_description.add_action(executable_2)
+
+    launch_description.add_action(
+        OpaqueFunction(function=lambda context: ready_fn())
+    )
+    return launch_description, locals()
+
+
+class TestTwoExecutables(unittest.TestCase):
+
+    def test_node_name(self, executable_2):
+        """Test that the second executable terminates after a finite amount of time."""
+        self.proc_info.assertWaitForShutdown(process=executable_2, timeout=60)
+
+
+@launch_testing.post_shutdown_test()
+class TestTwoExecutablesAfterShutdown(unittest.TestCase):
+
+    def test_node_name(self, proc_info):
+        """Test that both executables finished cleanly."""
+        launch_testing.asserts.assertExitCodes(
+            proc_info,
+            [launch_testing.asserts.EXIT_OK],
+            'node_name_list'
+        )
+        launch_testing.asserts.assertExitCodes(
+            proc_info,
+            process='node_with_name'
+        )

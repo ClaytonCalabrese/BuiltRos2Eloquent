@@ -1,0 +1,131 @@
+[0.293s] -- The C compiler identification is GNU 7.4.0
+[0.413s] -- The CXX compiler identification is GNU 7.4.0
+[0.423s] -- Check for working C compiler: /usr/bin/cc
+[0.574s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.575s] -- Detecting C compiler ABI info
+[0.735s] -- Detecting C compiler ABI info - done
+[0.748s] -- Detecting C compile features
+[1.182s] -- Detecting C compile features - done
+[1.191s] -- Check for working CXX compiler: /usr/bin/c++
+[1.342s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[1.343s] -- Detecting CXX compiler ABI info
+[1.501s] -- Detecting CXX compiler ABI info - done
+[1.519s] -- Detecting CXX compile features
+[2.321s] -- Detecting CXX compile features - done
+[2.328s] -- Found ament_cmake: 0.8.2 (/opt/workspace/install/ament_cmake/share/ament_cmake/cmake)
+[2.381s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[2.382s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[2.851s] -- Found console_bridge_vendor: 1.2.0 (/opt/workspace/install/console_bridge_vendor/share/console_bridge_vendor/cmake)
+[2.859s] -- Found poco_vendor:  (/opt/workspace/install/poco_vendor/share/poco_vendor/cmake)
+[3.051s] -- Checking to see if CXX compiler accepts flag -Wl,--version-script,"/opt/workspace/build/class_loader/test/class_loader_hide_library_symbols__class_loader_TestPlugins1.script"
+[3.208s] -- Checking to see if CXX compiler accepts flag -Wl,--version-script,"/opt/workspace/build/class_loader/test/class_loader_hide_library_symbols__class_loader_TestPlugins1.script" - yes
+[3.218s] -- Found gtest sources under '/opt/workspace/install/gtest_vendor/src/gtest_vendor': C++ tests using 'Google Test' will be built
+[3.222s] -- Looking for pthread.h
+[3.367s] -- Looking for pthread.h - found
+[3.368s] -- Looking for pthread_create
+[3.534s] -- Looking for pthread_create - not found
+[3.535s] -- Check if compiler accepts -pthread
+[3.689s] -- Check if compiler accepts -pthread - yes
+[3.694s] -- Found Threads: TRUE  
+[3.730s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[3.731s] -- Configured cppcheck include dirs: /opt/workspace/src/ros/class_loader/include
+[3.741s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[3.746s] -- Added test 'lint_cmake' to check CMake code style
+[3.759s] -- Added test 'uncrustify' to check C / C++ code style
+[3.761s] -- Added test 'xmllint' to check XML markup files
+[3.772s] -- Configuring done
+[3.825s] -- Generating done
+[3.831s] -- Build files have been written to: /opt/workspace/build/class_loader
+[3.939s] [35m[1mScanning dependencies of target class_loader[0m
+[3.975s] [  4%] [32mBuilding CXX object CMakeFiles/class_loader.dir/src/class_loader.cpp.o[0m
+[4.783s] [  8%] [32mBuilding CXX object CMakeFiles/class_loader.dir/src/multi_library_class_loader.cpp.o[0m
+[5.841s] [ 12%] [32mBuilding CXX object CMakeFiles/class_loader.dir/src/meta_object.cpp.o[0m
+[6.680s] [ 16%] [32mBuilding CXX object CMakeFiles/class_loader.dir/src/class_loader_core.cpp.o[0m
+[8.373s] [ 20%] [32m[1mLinking CXX shared library libclass_loader.so[0m
+[8.602s] [ 20%] Built target class_loader
+[8.627s] [35m[1mScanning dependencies of target class_loader_Test_Fviz[0m
+[8.654s] [ 24%] [32mBuilding CXX object test/fviz_case_study/CMakeFiles/class_loader_Test_Fviz.dir/fviz.cpp.o[0m
+[8.985s] [ 28%] [32m[1mLinking CXX shared library libclass_loader_Test_Fviz.so[0m
+[9.122s] [ 28%] Built target class_loader_Test_Fviz
+[9.143s] [35m[1mScanning dependencies of target class_loader_TestPlugins1[0m
+[9.167s] [ 32%] [32mBuilding CXX object test/CMakeFiles/class_loader_TestPlugins1.dir/plugins1.cpp.o[0m
+[10.257s] [ 36%] [32m[1mLinking CXX shared library libclass_loader_TestPlugins1.so[0m
+[10.424s] [ 36%] Built target class_loader_TestPlugins1
+[10.453s] [35m[1mScanning dependencies of target class_loader_Test_Fviz_Main[0m
+[10.481s] [ 40%] [32mBuilding CXX object test/fviz_case_study/CMakeFiles/class_loader_Test_Fviz_Main.dir/fviz_main.cpp.o[0m
+[11.587s] [ 44%] [32m[1mLinking CXX executable class_loader_Test_Fviz_Main[0m
+[11.786s] [ 44%] Built target class_loader_Test_Fviz_Main
+[11.810s] [35m[1mScanning dependencies of target class_loader_Test_FvizDefaultPlugin[0m
+[11.836s] [ 48%] [32mBuilding CXX object test/fviz_case_study/CMakeFiles/class_loader_Test_FvizDefaultPlugin.dir/fviz_default_plugin.cpp.o[0m
+[12.697s] [ 52%] [32m[1mLinking CXX shared library libclass_loader_Test_FvizDefaultPlugin.so[0m
+[12.864s] [ 52%] Built target class_loader_Test_FvizDefaultPlugin
+[12.887s] [35m[1mScanning dependencies of target class_loader_TestPlugins2[0m
+[12.907s] [ 56%] [32mBuilding CXX object test/CMakeFiles/class_loader_TestPlugins2.dir/plugins2.cpp.o[0m
+[13.871s] [ 60%] [32m[1mLinking CXX shared library libclass_loader_TestPlugins2.so[0m
+[14.012s] [ 60%] Built target class_loader_TestPlugins2
+[14.036s] [35m[1mScanning dependencies of target gtest_main[0m
+[14.070s] [ 64%] [32mBuilding CXX object gtest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o[0m
+[15.345s] [ 68%] [32m[1mLinking CXX static library libgtest_main.a[0m
+[15.414s] [ 68%] Built target gtest_main
+[15.436s] [35m[1mScanning dependencies of target gtest[0m
+[15.477s] [ 72%] [32mBuilding CXX object gtest/CMakeFiles/gtest.dir/src/gtest-all.cc.o[0m
+[21.197s] [ 76%] [32m[1mLinking CXX static library libgtest.a[0m
+[21.310s] [ 76%] Built target gtest
+[21.332s] [35m[1mScanning dependencies of target class_loader_utest[0m
+[21.373s] [ 80%] [32mBuilding CXX object test/CMakeFiles/class_loader_utest.dir/utest.cpp.o[0m
+[24.035s] [ 84%] [32m[1mLinking CXX executable class_loader_utest[0m
+[24.399s] [ 84%] Built target class_loader_utest
+[24.418s] [35m[1mScanning dependencies of target class_loader_fviz_test[0m
+[24.454s] [ 88%] [32mBuilding CXX object test/fviz_case_study/CMakeFiles/class_loader_fviz_test.dir/fviz_test.cpp.o[0m
+[26.297s] [ 92%] [32m[1mLinking CXX executable class_loader_fviz_test[0m
+[26.624s] [ 92%] Built target class_loader_fviz_test
+[26.659s] [35m[1mScanning dependencies of target class_loader_unique_ptr_test[0m
+[26.695s] [ 96%] [32mBuilding CXX object test/CMakeFiles/class_loader_unique_ptr_test.dir/unique_ptr_test.cpp.o[0m
+[29.356s] [100%] [32m[1mLinking CXX executable class_loader_unique_ptr_test[0m
+[29.758s] [100%] Built target class_loader_unique_ptr_test
+[30.041s] [ 20%] Built target class_loader
+[30.084s] [ 28%] Built target class_loader_Test_Fviz
+[30.140s] [ 36%] Built target class_loader_TestPlugins1
+[30.185s] [ 44%] Built target class_loader_Test_Fviz_Main
+[30.223s] [ 52%] Built target class_loader_Test_FvizDefaultPlugin
+[30.276s] [ 60%] Built target class_loader_TestPlugins2
+[30.324s] [ 68%] Built target gtest_main
+[30.367s] [ 76%] Built target gtest
+[30.417s] [ 84%] Built target class_loader_utest
+[30.463s] [ 92%] Built target class_loader_fviz_test
+[30.511s] [100%] Built target class_loader_unique_ptr_test
+[30.554s] [36mInstall the project...[0m
+[30.573s] -- Install configuration: ""
+[30.574s] -- Installing: /opt/workspace/install/class_loader/share/class_loader/environment/library_path.sh
+[30.574s] -- Installing: /opt/workspace/install/class_loader/share/class_loader/environment/library_path.dsv
+[30.574s] -- Installing: /opt/workspace/install/class_loader/share/ament_index/resource_index/package_run_dependencies/class_loader
+[30.575s] -- Installing: /opt/workspace/install/class_loader/share/ament_index/resource_index/parent_prefix_path/class_loader
+[30.575s] -- Installing: /opt/workspace/install/class_loader/share/class_loader/environment/ament_prefix_path.sh
+[30.576s] -- Installing: /opt/workspace/install/class_loader/share/class_loader/environment/ament_prefix_path.dsv
+[30.577s] -- Installing: /opt/workspace/install/class_loader/share/class_loader/environment/path.sh
+[30.577s] -- Installing: /opt/workspace/install/class_loader/share/class_loader/environment/path.dsv
+[30.578s] -- Installing: /opt/workspace/install/class_loader/share/class_loader/local_setup.bash
+[30.579s] -- Installing: /opt/workspace/install/class_loader/share/class_loader/local_setup.sh
+[30.579s] -- Installing: /opt/workspace/install/class_loader/share/class_loader/local_setup.zsh
+[30.580s] -- Installing: /opt/workspace/install/class_loader/share/class_loader/local_setup.dsv
+[30.581s] -- Installing: /opt/workspace/install/class_loader/share/class_loader/package.dsv
+[30.581s] -- Installing: /opt/workspace/install/class_loader/share/ament_index/resource_index/packages/class_loader
+[30.581s] -- Installing: /opt/workspace/install/class_loader/share/class_loader/cmake/class_loader-extras.cmake
+[30.582s] -- Installing: /opt/workspace/install/class_loader/share/class_loader/cmake/ament_cmake_export_dependencies-extras.cmake
+[30.582s] -- Installing: /opt/workspace/install/class_loader/share/class_loader/cmake/ament_cmake_export_include_directories-extras.cmake
+[30.582s] -- Installing: /opt/workspace/install/class_loader/share/class_loader/cmake/ament_cmake_export_libraries-extras.cmake
+[30.582s] -- Installing: /opt/workspace/install/class_loader/share/class_loader/cmake/class_loaderConfig.cmake
+[30.583s] -- Installing: /opt/workspace/install/class_loader/share/class_loader/cmake/class_loaderConfig-version.cmake
+[30.583s] -- Installing: /opt/workspace/install/class_loader/share/class_loader/package.xml
+[30.583s] -- Installing: /opt/workspace/install/class_loader/lib/libclass_loader.so
+[30.584s] -- Set runtime path of "/opt/workspace/install/class_loader/lib/libclass_loader.so" to ""
+[30.585s] -- Up-to-date: /opt/workspace/install/class_loader/share/class_loader/cmake
+[30.585s] -- Installing: /opt/workspace/install/class_loader/share/class_loader/cmake/class_loader_hide_library_symbols.cmake
+[30.585s] -- Installing: /opt/workspace/install/class_loader/include/class_loader
+[30.585s] -- Installing: /opt/workspace/install/class_loader/include/class_loader/class_loader_core.hpp
+[30.586s] -- Installing: /opt/workspace/install/class_loader/include/class_loader/register_macro.hpp
+[30.586s] -- Installing: /opt/workspace/install/class_loader/include/class_loader/meta_object.hpp
+[30.586s] -- Installing: /opt/workspace/install/class_loader/include/class_loader/visibility_control.hpp
+[30.586s] -- Installing: /opt/workspace/install/class_loader/include/class_loader/class_loader.hpp
+[30.586s] -- Installing: /opt/workspace/install/class_loader/include/class_loader/multi_library_class_loader.hpp
+[30.587s] -- Installing: /opt/workspace/install/class_loader/include/class_loader/exceptions.hpp

@@ -1,0 +1,11 @@
+source;share/python_qt_binding/hook/cmake_prefix_path.ps1
+source;share/python_qt_binding/hook/cmake_prefix_path.dsv
+source;share/python_qt_binding/hook/cmake_prefix_path.sh
+source;share/python_qt_binding/hook/pythonpath.ps1
+source;share/python_qt_binding/hook/pythonpath.dsv
+source;share/python_qt_binding/hook/pythonpath.sh
+source;share/python_qt_binding/local_setup.bash
+source;share/python_qt_binding/local_setup.dsv
+source;share/python_qt_binding/local_setup.ps1
+source;share/python_qt_binding/local_setup.sh
+source;share/python_qt_binding/local_setup.zsh

@@ -1,0 +1,77 @@
+[0.538s] [  6%] Built target gtest
+[0.543s] [ 12%] Built target gtest_main
+[0.583s] [ 60%] Built target rosidl_generator_cpp__rosidl_generator_c
+[0.601s] [ 63%] Built target rosidl_generator_cpp__cpp
+[0.685s] [ 69%] Built target test_bounded_vector
+[0.772s] [ 69%] Built target rosidl_generator_cpp
+[0.897s] [ 81%] Built target test_msg_datatype
+[0.899s] [ 78%] Built target test_traits
+[0.919s] [ 87%] Built target test_srv_initialization
+[0.924s] [ 93%] Built target test_interfaces_cpp
+[0.936s] [100%] Built target test_msg_initialization
+[2.424s] [  6%] Built target gtest
+[2.449s] [  9%] Built target rosidl_generator_cpp__cpp
+[2.477s] [ 57%] Built target rosidl_generator_cpp__rosidl_generator_c
+[2.496s] [ 63%] Built target gtest_main
+[2.541s] [ 63%] Built target rosidl_generator_cpp
+[2.634s] [ 69%] Built target test_bounded_vector
+[2.636s] [ 75%] Built target test_traits
+[2.649s] [ 81%] Built target test_msg_initialization
+[2.660s] [ 87%] Built target test_srv_initialization
+[2.663s] [ 93%] Built target test_interfaces_cpp
+[2.679s] [100%] Built target test_msg_datatype
+[2.741s] [36mInstall the project...[0m
+[2.778s] -- Install configuration: ""
+[2.778s] -- Installing: /opt/workspace/install/rosidl_generator_cpp/share/ament_index/resource_index/rosidl_generator_packages/rosidl_generator_cpp
+[2.779s] -- Installing: /opt/workspace/install/rosidl_generator_cpp/share/ament_index/resource_index/rosidl_runtime_packages/rosidl_generator_cpp
+[2.779s] -- Installing: /opt/workspace/install/rosidl_generator_cpp/share/rosidl_generator_cpp/environment/pythonpath.sh
+[2.780s] -- Installing: /opt/workspace/install/rosidl_generator_cpp/share/rosidl_generator_cpp/environment/pythonpath.dsv
+[2.780s] -- Installing: /opt/workspace/install/rosidl_generator_cpp/lib/python3.6/site-packages/rosidl_generator_cpp
+[2.780s] -- Installing: /opt/workspace/install/rosidl_generator_cpp/lib/python3.6/site-packages/rosidl_generator_cpp/__init__.py
+[2.903s] Listing '/opt/workspace/install/rosidl_generator_cpp/lib/python3.6/site-packages/rosidl_generator_cpp'...
+[2.903s] Compiling '/opt/workspace/install/rosidl_generator_cpp/lib/python3.6/site-packages/rosidl_generator_cpp/__init__.py'...
+[2.926s] -- Installing: /opt/workspace/install/rosidl_generator_cpp/share/ament_index/resource_index/package_run_dependencies/rosidl_generator_cpp
+[2.926s] -- Installing: /opt/workspace/install/rosidl_generator_cpp/share/ament_index/resource_index/parent_prefix_path/rosidl_generator_cpp
+[2.927s] -- Installing: /opt/workspace/install/rosidl_generator_cpp/share/rosidl_generator_cpp/environment/ament_prefix_path.sh
+[2.927s] -- Installing: /opt/workspace/install/rosidl_generator_cpp/share/rosidl_generator_cpp/environment/ament_prefix_path.dsv
+[2.927s] -- Installing: /opt/workspace/install/rosidl_generator_cpp/share/rosidl_generator_cpp/environment/path.sh
+[2.927s] -- Installing: /opt/workspace/install/rosidl_generator_cpp/share/rosidl_generator_cpp/environment/path.dsv
+[2.928s] -- Installing: /opt/workspace/install/rosidl_generator_cpp/share/rosidl_generator_cpp/local_setup.bash
+[2.929s] -- Installing: /opt/workspace/install/rosidl_generator_cpp/share/rosidl_generator_cpp/local_setup.sh
+[2.929s] -- Installing: /opt/workspace/install/rosidl_generator_cpp/share/rosidl_generator_cpp/local_setup.zsh
+[2.929s] -- Installing: /opt/workspace/install/rosidl_generator_cpp/share/rosidl_generator_cpp/local_setup.dsv
+[2.930s] -- Installing: /opt/workspace/install/rosidl_generator_cpp/share/rosidl_generator_cpp/package.dsv
+[2.930s] -- Installing: /opt/workspace/install/rosidl_generator_cpp/share/ament_index/resource_index/packages/rosidl_generator_cpp
+[2.932s] -- Installing: /opt/workspace/install/rosidl_generator_cpp/share/rosidl_generator_cpp/cmake/rosidl_generator_cpp-extras.cmake
+[2.934s] -- Installing: /opt/workspace/install/rosidl_generator_cpp/share/rosidl_generator_cpp/cmake/ament_cmake_export_dependencies-extras.cmake
+[2.935s] -- Installing: /opt/workspace/install/rosidl_generator_cpp/share/rosidl_generator_cpp/cmake/ament_cmake_export_include_directories-extras.cmake
+[2.936s] -- Installing: /opt/workspace/install/rosidl_generator_cpp/share/rosidl_generator_cpp/cmake/rosidl_cmake-extras.cmake
+[2.936s] -- Installing: /opt/workspace/install/rosidl_generator_cpp/share/rosidl_generator_cpp/cmake/rosidl_generator_cppConfig.cmake
+[2.936s] -- Installing: /opt/workspace/install/rosidl_generator_cpp/share/rosidl_generator_cpp/cmake/rosidl_generator_cppConfig-version.cmake
+[2.937s] -- Installing: /opt/workspace/install/rosidl_generator_cpp/share/rosidl_generator_cpp/package.xml
+[2.937s] -- Installing: /opt/workspace/install/rosidl_generator_cpp/lib/rosidl_generator_cpp/rosidl_generator_cpp
+[2.937s] -- Up-to-date: /opt/workspace/install/rosidl_generator_cpp/share/rosidl_generator_cpp/cmake
+[2.937s] -- Installing: /opt/workspace/install/rosidl_generator_cpp/share/rosidl_generator_cpp/cmake/rosidl_generator_cpp_generate_interfaces.cmake
+[2.938s] -- Installing: /opt/workspace/install/rosidl_generator_cpp/share/rosidl_generator_cpp/cmake/register_cpp.cmake
+[2.938s] -- Installing: /opt/workspace/install/rosidl_generator_cpp/share/rosidl_generator_cpp/resource
+[2.938s] -- Installing: /opt/workspace/install/rosidl_generator_cpp/share/rosidl_generator_cpp/resource/idl.hpp.em
+[2.938s] -- Installing: /opt/workspace/install/rosidl_generator_cpp/share/rosidl_generator_cpp/resource/srv__struct.hpp.em
+[2.938s] -- Installing: /opt/workspace/install/rosidl_generator_cpp/share/rosidl_generator_cpp/resource/msg__traits.hpp.em
+[2.939s] -- Installing: /opt/workspace/install/rosidl_generator_cpp/share/rosidl_generator_cpp/resource/msg__struct.hpp.em
+[2.939s] -- Installing: /opt/workspace/install/rosidl_generator_cpp/share/rosidl_generator_cpp/resource/idl__traits.hpp.em
+[2.939s] -- Installing: /opt/workspace/install/rosidl_generator_cpp/share/rosidl_generator_cpp/resource/action__struct.hpp.em
+[2.939s] -- Installing: /opt/workspace/install/rosidl_generator_cpp/share/rosidl_generator_cpp/resource/idl__struct.hpp.em
+[2.945s] -- Installing: /opt/workspace/install/rosidl_generator_cpp/share/rosidl_generator_cpp/resource/action__traits.hpp.em
+[2.945s] -- Installing: /opt/workspace/install/rosidl_generator_cpp/share/rosidl_generator_cpp/resource/srv__traits.hpp.em
+[2.946s] -- Installing: /opt/workspace/install/rosidl_generator_cpp/include
+[2.946s] -- Installing: /opt/workspace/install/rosidl_generator_cpp/include/rosidl_generator_cpp
+[2.946s] -- Installing: /opt/workspace/install/rosidl_generator_cpp/include/rosidl_generator_cpp/action_type_support_decl.hpp
+[2.946s] -- Installing: /opt/workspace/install/rosidl_generator_cpp/include/rosidl_generator_cpp/service_type_support_decl.hpp
+[2.947s] -- Installing: /opt/workspace/install/rosidl_generator_cpp/include/rosidl_generator_cpp/message_type_support_decl.hpp
+[2.947s] -- Installing: /opt/workspace/install/rosidl_generator_cpp/include/rosidl_generator_cpp/traits.hpp
+[2.947s] -- Installing: /opt/workspace/install/rosidl_generator_cpp/include/rosidl_generator_cpp/bounded_vector.hpp
+[2.947s] -- Installing: /opt/workspace/install/rosidl_generator_cpp/include/rosidl_generator_cpp/message_initialization.hpp
+[2.948s] -- Installing: /opt/workspace/install/rosidl_generator_cpp/include/rosidl_typesupport_cpp
+[2.949s] -- Installing: /opt/workspace/install/rosidl_generator_cpp/include/rosidl_typesupport_cpp/message_type_support.hpp
+[2.949s] -- Installing: /opt/workspace/install/rosidl_generator_cpp/include/rosidl_typesupport_cpp/action_type_support.hpp
+[2.949s] -- Installing: /opt/workspace/install/rosidl_generator_cpp/include/rosidl_typesupport_cpp/service_type_support.hpp

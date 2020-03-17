@@ -1,0 +1,331 @@
+[0.717s] Invoking command in '/opt/workspace/build/cyclonedds': CMAKE_PREFIX_PATH=/opt/ros/eloquent /usr/bin/cmake /opt/workspace/src/eclipse-cyclonedds/cyclonedds -DBUILD_IDLC=AUTO -DCMAKE_INSTALL_PREFIX=/opt/workspace/install/cyclonedds
+[1.167s] -- The C compiler identification is GNU 7.4.0
+[1.167s] -- The CXX compiler identification is GNU 7.4.0
+[1.168s] -- Check for working C compiler: /usr/bin/cc
+[1.168s] -- Check for working C compiler: /usr/bin/cc -- works
+[1.168s] -- Detecting C compiler ABI info
+[1.168s] -- Detecting C compiler ABI info - done
+[1.168s] -- Detecting C compile features
+[1.388s] -- Detecting C compile features - done
+[1.393s] -- Check for working CXX compiler: /usr/bin/c++
+[1.526s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[1.527s] -- Detecting CXX compiler ABI info
+[1.662s] -- Detecting CXX compiler ABI info - done
+[1.674s] -- Detecting CXX compile features
+[2.269s] -- Detecting CXX compile features - done
+[2.270s] -- Setting build type to 'RelWithDebInfo' as none was specified.
+[2.589s] -- Looking for pthread.h
+[2.712s] -- Looking for pthread.h - found
+[2.714s] -- Looking for pthread_create
+[2.831s] -- Looking for pthread_create - not found
+[2.831s] -- Looking for pthread_create in pthreads
+[2.909s] -- Looking for pthread_create in pthreads - not found
+[2.910s] -- Looking for pthread_create in pthread
+[3.013s] -- Looking for pthread_create in pthread - found
+[3.015s] -- Found Threads: TRUE  
+[3.015s] -- Looking for clock_gettime in c
+[3.104s] -- Looking for clock_gettime in c - found
+[3.107s] You have called ADD_LIBRARY for library ddsc without any source files. This typically indicates a problem with your CMakeLists.txt file
+[3.168s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "1.1.1") 
+[3.168s] -- Building with OpenSSL support
+[3.173s] -- Performing Test COMPILER_HAS_HIDDEN_VISIBILITY
+[3.291s] -- Performing Test COMPILER_HAS_HIDDEN_VISIBILITY - Success
+[3.292s] -- Performing Test COMPILER_HAS_HIDDEN_INLINE_VISIBILITY
+[3.389s] -- Performing Test COMPILER_HAS_HIDDEN_INLINE_VISIBILITY - Success
+[3.390s] -- Performing Test COMPILER_HAS_DEPRECATED_ATTR
+[3.482s] -- Performing Test COMPILER_HAS_DEPRECATED_ATTR - Success
+[3.495s] -- Found Perl: /usr/bin/perl (found version "5.26.1") 
+[3.499s] -- Could NOT find Java (missing: Java_JAVA_EXECUTABLE Runtime) 
+[3.500s] -- Java or not trang not found: not converting/checking RNC to XSD
+[3.525s] -- Configuring done
+[3.584s] -- Generating done
+[3.586s] -- Build files have been written to: /opt/workspace/build/cyclonedds
+[3.666s] Invoked command in '/opt/workspace/build/cyclonedds' returned '0': CMAKE_PREFIX_PATH=/opt/ros/eloquent /usr/bin/cmake /opt/workspace/src/eclipse-cyclonedds/cyclonedds -DBUILD_IDLC=AUTO -DCMAKE_INSTALL_PREFIX=/opt/workspace/install/cyclonedds
+[3.668s] Invoking command in '/opt/workspace/build/cyclonedds': CMAKE_PREFIX_PATH=/opt/ros/eloquent /usr/bin/cmake --build /opt/workspace/build/cyclonedds -- -j8 -l8
+[4.371s] [35m[1mScanning dependencies of target options_doc[0m
+[4.371s] [35m[1mScanning dependencies of target ddsc[0m
+[4.372s] [  0%] [34m[1mGenerating options.md, cyclonedds.rnc[0m
+[4.372s] [  0%] Built target options_doc
+[4.372s] [  1%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/ddsi/src/ddsi_raweth.c.o[0m
+[4.372s] [  1%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/ddsi/src/ddsi_ipaddr.c.o[0m
+[4.372s] [  1%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/ddsi/src/ddsi_eth.c.o[0m
+[4.373s] [  2%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/ddsi/src/ddsi_udp.c.o[0m
+[4.373s] [  3%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/ddsi/src/ddsi_ssl.c.o[0m
+[4.373s] [  4%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/ddsi/src/ddsi_tcp.c.o[0m
+[4.373s] [  5%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/ddsi/src/ddsi_mcgroup.c.o[0m
+[4.373s] [  6%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/ddsi/src/ddsi_tran.c.o[0m
+[4.449s] [  7%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/ddsi/src/ddsi_portmapping.c.o[0m
+[4.592s] [  8%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/ddsi/src/ddsi_serdata.c.o[0m
+[4.647s] [  9%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/ddsi/src/ddsi_serdata_default.c.o[0m
+[4.662s] [ 10%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/ddsi/src/ddsi_sertopic.c.o[0m
+[4.697s] [ 10%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/ddsi/src/ddsi_sertopic_default.c.o[0m
+[4.749s] [ 11%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/ddsi/src/ddsi_iid.c.o[0m
+[4.807s] [ 12%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/ddsi/src/ddsi_tkmap.c.o[0m
+[4.854s] [ 13%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/ddsi/src/ddsi_vendor.c.o[0m
+[4.900s] [ 14%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/ddsi/src/ddsi_threadmon.c.o[0m
+[4.928s] [ 15%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/ddsi/src/ddsi_rhc.c.o[0m
+[4.951s] [ 15%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/ddsi/src/q_addrset.c.o[0m
+[5.008s] [ 16%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/ddsi/src/q_bswap.c.o[0m
+[5.014s] [ 17%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/ddsi/src/q_bitset_inlines.c.o[0m
+[5.079s] [ 18%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/ddsi/src/q_config.c.o[0m
+[5.086s] [ 19%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/ddsi/src/q_ddsi_discovery.c.o[0m
+[5.116s] [ 20%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/ddsi/src/q_ephash.c.o[0m
+[5.124s] [ 21%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/ddsi/src/q_debmon.c.o[0m
+[5.145s] [ 21%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/ddsi/src/q_entity.c.o[0m
+[5.279s] [ 22%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/ddsi/src/q_gc.c.o[0m
+[5.336s] [ 23%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/ddsi/src/q_init.c.o[0m
+[5.554s] [ 24%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/ddsi/src/q_lat_estim.c.o[0m
+[5.641s] [ 25%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/ddsi/src/q_lease.c.o[0m
+[5.751s] [ 25%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/ddsi/src/q_misc.c.o[0m
+[5.810s] [ 26%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/ddsi/src/q_nwif.c.o[0m
+[6.041s] [ 27%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/ddsi/src/q_pcap.c.o[0m
+[6.047s] [ 28%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/ddsi/src/q_plist.c.o[0m
+[6.220s] [ 29%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/ddsi/src/q_qosmatch.c.o[0m
+[6.315s] [ 30%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/ddsi/src/q_radmin.c.o[0m
+[6.418s] [ 30%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/ddsi/src/q_receive.c.o[0m
+[6.545s] [ 31%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/ddsi/src/q_sockwaitset.c.o[0m
+[6.595s] [ 32%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/ddsi/src/q_transmit.c.o[0m
+[6.599s] [ 33%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/ddsi/src/q_thread.c.o[0m
+[6.609s] [ 34%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/ddsi/src/q_time.c.o[0m
+[6.868s] [ 35%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/ddsi/src/q_inverse_uint32_set.c.o[0m
+[6.896s] [ 35%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/ddsi/src/q_whc.c.o[0m
+[6.993s] [ 36%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/ddsi/src/q_xevent.c.o[0m
+[7.147s] [ 37%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/ddsi/src/q_xmsg.c.o[0m
+[7.150s] [ 38%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/ddsi/src/q_freelist.c.o[0m
+[7.288s] [ 39%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/ddsi/src/sysdeps.c.o[0m
+[7.476s] [ 40%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/ddsc/src/dds_alloc.c.o[0m
+[7.544s] [ 40%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/ddsc/src/dds_builtin.c.o[0m
+[7.692s] [ 41%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/ddsc/src/dds_coherent.c.o[0m
+[7.987s] [ 42%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/ddsc/src/dds_reader.c.o[0m
+[7.995s] [ 43%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/ddsc/src/dds_participant.c.o[0m
+[8.046s] [ 44%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/ddsc/src/dds_writer.c.o[0m
+[8.091s] [ 45%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/ddsc/src/dds_init.c.o[0m
+[8.127s] [ 45%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/ddsc/src/dds_publisher.c.o[0m
+[8.292s] [ 46%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/ddsc/src/dds_rhc.c.o[0m
+[8.316s] [ 47%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/ddsc/src/dds_rhc_default.c.o[0m
+[8.486s] [ 48%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/ddsc/src/dds_domain.c.o[0m
+[8.488s] [ 49%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/ddsc/src/dds_instance.c.o[0m
+[8.507s] [ 50%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/ddsc/src/dds_qos.c.o[0m
+[8.557s] [ 50%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/ddsc/src/dds_handles.c.o[0m
+[8.686s] [ 51%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/ddsc/src/dds_entity.c.o[0m
+[8.694s] [ 52%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/ddsc/src/dds_matched.c.o[0m
+[8.978s] [ 53%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/ddsc/src/dds_querycond.c.o[0m
+[9.006s] [ 54%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/ddsc/src/dds_topic.c.o[0m
+[9.044s] [ 55%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/ddsc/src/dds_listener.c.o[0m
+[9.069s] [ 55%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/ddsc/src/dds_read.c.o[0m
+[9.121s] [ 56%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/ddsc/src/dds_stream.c.o[0m
+[9.235s] [ 57%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/ddsc/src/dds_waitset.c.o[0m
+[9.330s] [ 58%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/ddsc/src/dds_readcond.c.o[0m
+[9.563s] [ 59%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/ddsc/src/dds_guardcond.c.o[0m
+[9.644s] [ 60%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/ddsc/src/dds_subscriber.c.o[0m
+[9.666s] [ 60%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/ddsc/src/dds_write.c.o[0m
+[9.703s] [ 61%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/ddsc/src/dds_whc_builtintopic.c.o[0m
+[9.725s] [ 62%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/ddsc/src/dds_whc.c.o[0m
+[9.764s] [ 63%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/ddsc/src/dds_serdata_builtintopic.c.o[0m
+[9.866s] [ 64%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/ddsc/src/dds_sertopic_builtintopic.c.o[0m
+[9.988s] [ 65%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/__/ddsrt/src/bswap.c.o[0m
+[10.024s] [ 65%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/__/ddsrt/src/io.c.o[0m
+[10.145s] [ 66%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/__/ddsrt/src/log.c.o[0m
+[10.194s] [ 67%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/__/ddsrt/src/retcode.c.o[0m
+[10.218s] [ 68%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/__/ddsrt/src/strtod.c.o[0m
+[10.261s] [ 69%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/__/ddsrt/src/strtol.c.o[0m
+[10.269s] [ 70%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/__/ddsrt/src/avl.c.o[0m
+[10.284s] [ 70%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/__/ddsrt/src/expand_envvars.c.o[0m
+[10.305s] [ 71%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/__/ddsrt/src/fibheap.c.o[0m
+[10.426s] [ 72%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/__/ddsrt/src/hopscotch.c.o[0m
+[10.479s] [ 73%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/__/ddsrt/src/thread_pool.c.o[0m
+[10.512s] [ 74%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/__/ddsrt/src/xmlparser.c.o[0m
+[10.559s] [ 75%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/__/ddsrt/src/atomics.c.o[0m
+[10.635s] [ 75%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/__/ddsrt/src/cdtors.c.o[0m
+[10.719s] [ 76%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/__/ddsrt/src/environ/posix/environ.c.o[0m
+[10.768s] [ 77%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/__/ddsrt/src/heap/posix/heap.c.o[0m
+[10.820s] [ 78%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/__/ddsrt/src/ifaddrs.c.o[0m
+[10.891s] [ 79%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/__/ddsrt/src/random.c.o[0m
+[10.892s] [ 80%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/__/ddsrt/src/ifaddrs/posix/ifaddrs.c.o[0m
+[10.911s] [ 80%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/__/ddsrt/src/random/posix/random.c.o[0m
+[10.980s] [ 81%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/__/ddsrt/src/rusage/posix/rusage.c.o[0m
+[11.045s] [ 82%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/__/ddsrt/src/sockets/posix/gethostname.c.o[0m
+[11.084s] [ 83%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/__/ddsrt/src/sockets.c.o[0m
+[11.116s] [ 83%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/__/ddsrt/src/string/posix/strerror.c.o[0m
+[11.116s] [ 84%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/__/ddsrt/src/sockets/posix/socket.c.o[0m
+[11.130s] [ 85%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/__/ddsrt/src/string.c.o[0m
+[11.170s] [ 86%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/__/ddsrt/src/sync/posix/sync.c.o[0m
+[11.206s] [ 87%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/__/ddsrt/src/threads.c.o[0m
+[11.228s] [ 88%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/__/ddsrt/src/time.c.o[0m
+[11.236s] [ 89%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/__/ddsrt/src/time/posix/time.c.o[0m
+[11.236s] [ 90%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/__/ddsrt/src/threads/posix/threads.c.o[0m
+[11.349s] [ 90%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/__/ddsrt/src/md5.c.o[0m
+[11.366s] [ 91%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/__/ddsrt/src/process/posix/process.c.o[0m
+[11.375s] [ 92%] [32mBuilding C object src/core/CMakeFiles/ddsc.dir/__/ddsrt/src/netstat/linux/netstat.c.o[0m
+[11.546s] [ 93%] [32m[1mLinking C shared library ../../lib/libddsc.so[0m
+[11.731s] [ 93%] Built target ddsc
+[11.745s] [35m[1mScanning dependencies of target pubsub[0m
+[11.746s] [35m[1mScanning dependencies of target ddsls[0m
+[11.764s] [ 94%] [32mBuilding C object src/tools/ddsls/CMakeFiles/ddsls.dir/ddsls.c.o[0m
+[11.775s] [ 95%] [32mBuilding C object src/tools/pubsub/CMakeFiles/pubsub.dir/porting.c.o[0m
+[11.775s] [ 97%] [32mBuilding C object src/tools/pubsub/CMakeFiles/pubsub.dir/common.c.o[0m
+[11.775s] [ 97%] [32mBuilding C object src/tools/pubsub/CMakeFiles/pubsub.dir/testtype.c.o[0m
+[11.778s] [ 98%] [32mBuilding C object src/tools/pubsub/CMakeFiles/pubsub.dir/pubsub.c.o[0m
+[12.008s] [ 99%] [32m[1mLinking C executable ../../../bin/ddsls[0m
+[12.082s] [ 99%] Built target ddsls
+[12.825s] [100%] [32m[1mLinking C executable ../../../bin/pubsub[0m
+[12.906s] [100%] Built target pubsub
+[13.013s] Invoked command in '/opt/workspace/build/cyclonedds' returned '0': CMAKE_PREFIX_PATH=/opt/ros/eloquent /usr/bin/cmake --build /opt/workspace/build/cyclonedds -- -j8 -l8
+[13.102s] Invoking command in '/opt/workspace/build/cyclonedds': CMAKE_PREFIX_PATH=/opt/ros/eloquent /usr/bin/cmake --build /opt/workspace/build/cyclonedds --target install -- -j8 -l8
+[13.187s] [  0%] Built target options_doc
+[13.302s] [ 93%] Built target ddsc
+[13.333s] [ 98%] Built target pubsub
+[13.334s] [100%] Built target ddsls
+[13.361s] [36mInstall the project...[0m
+[13.378s] -- Install configuration: "RelWithDebInfo"
+[13.380s] -- Installing: /opt/workspace/install/cyclonedds/lib/cmake/CycloneDDS/CycloneDDSConfig.cmake
+[13.380s] -- Installing: /opt/workspace/install/cyclonedds/lib/cmake/CycloneDDS/CycloneDDSVersion.cmake
+[13.380s] -- Installing: /opt/workspace/install/cyclonedds/lib/cmake/CycloneDDS/CycloneDDSTargets.cmake
+[13.381s] -- Installing: /opt/workspace/install/cyclonedds/lib/cmake/CycloneDDS/CycloneDDSTargets-relwithdebinfo.cmake
+[13.381s] -- Installing: /opt/workspace/install/cyclonedds/include
+[13.381s] -- Installing: /opt/workspace/install/cyclonedds/include/dds
+[13.381s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsrt
+[13.381s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsrt/threads.h
+[13.382s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsrt/cdtors.h
+[13.383s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsrt/bswap.h
+[13.383s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsrt/countargs.h
+[13.383s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsrt/string.h
+[13.384s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsrt/md5.h
+[13.384s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsrt/netstat.h
+[13.384s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsrt/sync
+[13.384s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsrt/sync/freertos.h
+[13.384s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsrt/sync/windows.h
+[13.385s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsrt/sync/solaris2.6.h
+[13.385s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsrt/sync/posix.h
+[13.385s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsrt/heap.h
+[13.385s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsrt/attributes.h
+[13.386s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsrt/rusage.h
+[13.386s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsrt/environ.h
+[13.386s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsrt/sync.h
+[13.386s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsrt/io.h
+[13.387s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsrt/strtol.h
+[13.387s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsrt/log.h
+[13.387s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsrt/xmlparser.h
+[13.388s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsrt/static_assert.h
+[13.388s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsrt/endian.h
+[13.388s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsrt/strtod.h
+[13.388s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsrt/sockets
+[13.389s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsrt/sockets/windows.h
+[13.389s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsrt/sockets/posix.h
+[13.389s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsrt/atomics.h
+[13.390s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsrt/sockets.h
+[13.390s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsrt/avl.h
+[13.390s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsrt/atomics
+[13.390s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsrt/atomics/gcc.h
+[13.390s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsrt/atomics/arm.h
+[13.391s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsrt/atomics/sun.h
+[13.391s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsrt/atomics/msvc.h
+[13.391s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsrt/random.h
+[13.392s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsrt/threads
+[13.392s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsrt/threads/freertos.h
+[13.392s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsrt/threads/windows.h
+[13.392s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsrt/threads/posix.h
+[13.393s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsrt/types
+[13.393s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsrt/types/vxworks.h
+[13.393s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsrt/types/windows.h
+[13.393s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsrt/types/posix.h
+[13.393s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsrt/process.h
+[13.394s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsrt/ifaddrs.h
+[13.394s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsrt/retcode.h
+[13.394s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsrt/time
+[13.394s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsrt/time/freertos.h
+[13.395s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsrt/misc.h
+[13.395s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsrt/thread_pool.h
+[13.395s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsrt/arch.h
+[13.395s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsrt/hopscotch.h
+[13.396s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsrt/fibheap.h
+[13.396s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsrt/time.h
+[13.396s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsrt/types.h
+[13.396s] -- Up-to-date: /opt/workspace/install/cyclonedds/include
+[13.397s] -- Up-to-date: /opt/workspace/install/cyclonedds/include/dds
+[13.397s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/version.h
+[13.397s] -- Up-to-date: /opt/workspace/install/cyclonedds/include
+[13.397s] -- Up-to-date: /opt/workspace/install/cyclonedds/include/dds
+[13.397s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsi
+[13.398s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsi/ddsi_ipaddr.h
+[13.398s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsi/q_gc.h
+[13.398s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsi/ddsi_plist_generic.h
+[13.398s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsi/q_ddsi_discovery.h
+[13.398s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsi/q_pcap.h
+[13.398s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsi/q_misc.h
+[13.399s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsi/q_xqos.h
+[13.399s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsi/ddsi_serdata_default.h
+[13.399s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsi/q_protocol.h
+[13.399s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsi/q_feature_check.h
+[13.399s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsi/q_radmin.h
+[13.399s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsi/sysdeps.h
+[13.400s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsi/q_thread.h
+[13.400s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsi/q_globals.h
+[13.400s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsi/q_qosmatch.h
+[13.400s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsi/q_hbcontrol.h
+[13.401s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsi/ddsi_rhc.h
+[13.401s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsi/ddsi_udp.h
+[13.401s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsi/q_nwif.h
+[13.401s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsi/q_transmit.h
+[13.401s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsi/q_time.h
+[13.402s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsi/q_init.h
+[13.402s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsi/q_freelist.h
+[13.402s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsi/q_lease.h
+[13.402s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsi/ddsi_serdata.h
+[13.402s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsi/ddsi_builtin_topic_if.h
+[13.403s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsi/ddsi_tcp.h
+[13.403s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsi/q_sockwaitset.h
+[13.403s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsi/q_rtps.h
+[13.403s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsi/q_bswap.h
+[13.403s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsi/q_whc.h
+[13.403s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsi/q_lat_estim.h
+[13.404s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsi/q_addrset.h
+[13.404s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsi/ddsi_threadmon.h
+[13.404s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsi/q_receive.h
+[13.404s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsi/q_xmsg.h
+[13.404s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsi/ddsi_mcgroup.h
+[13.404s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsi/q_bitset.h
+[13.404s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsi/q_entity.h
+[13.405s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsi/ddsi_portmapping.h
+[13.405s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsi/q_ephash.h
+[13.405s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsi/q_config.h
+[13.405s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsi/q_log.h
+[13.405s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsi/ddsi_tkmap.h
+[13.406s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsi/ddsi_tran.h
+[13.406s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsi/ddsi_raweth.h
+[13.406s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsi/ddsi_guid.h
+[13.406s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsi/q_plist.h
+[13.406s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsi/q_debmon.h
+[13.406s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsi/q_xevent.h
+[13.406s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsi/ddsi_sertopic.h
+[13.407s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsi/q_inverse_uint32_set.h
+[13.407s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsi/ddsi_vendor.h
+[13.407s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsi/ddsi_iid.h
+[13.407s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsi/q_unused.h
+[13.407s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsi/ddsi_ssl.h
+[13.407s] -- Up-to-date: /opt/workspace/install/cyclonedds/include
+[13.407s] -- Up-to-date: /opt/workspace/install/cyclonedds/include/dds
+[13.408s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsc
+[13.408s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsc/dds_public_status.h
+[13.408s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsc/dds_public_qosdefs.h
+[13.408s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsc/dds_public_listener.h
+[13.408s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsc/dds_public_error.h
+[13.409s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsc/dds_public_alloc.h
+[13.409s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsc/dds_rhc.h
+[13.409s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsc/dds_public_impl.h
+[13.410s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/ddsc/dds_public_qos.h
+[13.410s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/dds.h
+[13.410s] -- Installing: /opt/workspace/install/cyclonedds/include/ddsc
+[13.410s] -- Installing: /opt/workspace/install/cyclonedds/include/ddsc/dds.h
+[13.411s] -- Up-to-date: /opt/workspace/install/cyclonedds/include
+[13.411s] -- Up-to-date: /opt/workspace/install/cyclonedds/include/dds
+[13.411s] -- Installing: /opt/workspace/install/cyclonedds/include/dds/export.h
+[13.411s] -- Installing: /opt/workspace/install/cyclonedds/lib/libddsc.so.0.1.0
+[13.413s] -- Installing: /opt/workspace/install/cyclonedds/lib/libddsc.so.0
+[13.413s] -- Installing: /opt/workspace/install/cyclonedds/lib/libddsc.so
+[13.414s] -- Set runtime path of "/opt/workspace/install/cyclonedds/lib/libddsc.so.0.1.0" to "$ORIGIN/../lib"
+[13.414s] -- Installing: /opt/workspace/install/cyclonedds/bin/pubsub
+[13.414s] -- Set runtime path of "/opt/workspace/install/cyclonedds/bin/pubsub" to "$ORIGIN/../lib"
+[13.415s] -- Installing: /opt/workspace/install/cyclonedds/bin/ddsls
+[13.415s] -- Set runtime path of "/opt/workspace/install/cyclonedds/bin/ddsls" to "$ORIGIN/../lib"
+[13.686s] Invoked command in '/opt/workspace/build/cyclonedds' returned '0': CMAKE_PREFIX_PATH=/opt/ros/eloquent /usr/bin/cmake --build /opt/workspace/build/cyclonedds --target install -- -j8 -l8

@@ -1,0 +1,72 @@
+[0.719s] Invoking command in '/opt/workspace/build/fastcdr': /usr/bin/cmake /opt/workspace/src/eProsima/Fast-CDR -DCMAKE_INSTALL_PREFIX=/opt/workspace/install/fastcdr
+[1.172s] -- Setting build type to 'Release' as none was specified.
+[1.173s] -- The C compiler identification is GNU 7.4.0
+[1.174s] -- The CXX compiler identification is GNU 7.4.0
+[1.174s] -- Check for working C compiler: /usr/bin/cc
+[1.174s] -- Check for working C compiler: /usr/bin/cc -- works
+[1.175s] -- Detecting C compiler ABI info
+[1.177s] -- Detecting C compiler ABI info - done
+[1.177s] -- Detecting C compile features
+[1.473s] -- Detecting C compile features - done
+[1.479s] -- Check for working CXX compiler: /usr/bin/c++
+[1.609s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[1.610s] -- Detecting CXX compiler ABI info
+[1.745s] -- Detecting CXX compiler ABI info - done
+[1.765s] -- Detecting CXX compile features
+[2.381s] -- Detecting CXX compile features - done
+[2.382s] -- Configuring Fast CDR
+[2.382s] -- Version: 1.0.10
+[2.383s] -- To change the version modify the file configure.ac
+[2.388s] -- Performing Test SUPPORTS_CXX14
+[2.555s] -- Performing Test SUPPORTS_CXX14 - Success
+[2.555s] -- Check if the system is big endian
+[2.555s] -- Searching 16 bit integer
+[2.555s] -- Looking for sys/types.h
+[2.665s] -- Looking for sys/types.h - found
+[2.665s] -- Looking for stdint.h
+[2.790s] -- Looking for stdint.h - found
+[2.791s] -- Looking for stddef.h
+[2.893s] -- Looking for stddef.h - found
+[2.893s] -- Check size of unsigned short
+[3.014s] -- Check size of unsigned short - done
+[3.014s] -- Using unsigned short
+[3.114s] -- Check if the system is big endian - little endian
+[3.150s] -- Configuring done
+[3.159s] -- Generating done
+[3.161s] -- Build files have been written to: /opt/workspace/build/fastcdr
+[3.634s] Invoked command in '/opt/workspace/build/fastcdr' returned '0': /usr/bin/cmake /opt/workspace/src/eProsima/Fast-CDR -DCMAKE_INSTALL_PREFIX=/opt/workspace/install/fastcdr
+[3.636s] Invoking command in '/opt/workspace/build/fastcdr': /usr/bin/cmake --build /opt/workspace/build/fastcdr -- -j8 -l8
+[3.703s] [35m[1mScanning dependencies of target fastcdr[0m
+[3.737s] [ 14%] [32mBuilding CXX object src/cpp/CMakeFiles/fastcdr.dir/exceptions/Exception.cpp.o[0m
+[3.740s] [ 57%] [32mBuilding CXX object src/cpp/CMakeFiles/fastcdr.dir/FastCdr.cpp.o[0m
+[3.740s] [ 57%] [32mBuilding CXX object src/cpp/CMakeFiles/fastcdr.dir/FastBuffer.cpp.o[0m
+[3.741s] [ 57%] [32mBuilding CXX object src/cpp/CMakeFiles/fastcdr.dir/Cdr.cpp.o[0m
+[3.741s] [ 71%] [32mBuilding CXX object src/cpp/CMakeFiles/fastcdr.dir/exceptions/BadParamException.cpp.o[0m
+[3.741s] [ 85%] [32mBuilding CXX object src/cpp/CMakeFiles/fastcdr.dir/exceptions/NotEnoughMemoryException.cpp.o[0m
+[6.154s] [100%] [32m[1mLinking CXX shared library libfastcdr.so[0m
+[6.565s] [100%] Built target fastcdr
+[7.256s] Invoked command in '/opt/workspace/build/fastcdr' returned '0': /usr/bin/cmake --build /opt/workspace/build/fastcdr -- -j8 -l8
+[7.553s] Invoking command in '/opt/workspace/build/fastcdr': /usr/bin/cmake --build /opt/workspace/build/fastcdr --target install -- -j8 -l8
+[7.806s] [100%] Built target fastcdr
+[7.969s] [36mInstall the project...[0m
+[8.016s] -- Install configuration: "Release"
+[8.016s] -- Installing: /opt/workspace/install/fastcdr/share/fastcdr/LICENSE
+[8.017s] -- Installing: /opt/workspace/install/fastcdr/include/fastcdr
+[8.017s] -- Installing: /opt/workspace/install/fastcdr/include/fastcdr/FastBuffer.h
+[8.018s] -- Installing: /opt/workspace/install/fastcdr/include/fastcdr/exceptions
+[8.018s] -- Installing: /opt/workspace/install/fastcdr/include/fastcdr/exceptions/NotEnoughMemoryException.h
+[8.018s] -- Installing: /opt/workspace/install/fastcdr/include/fastcdr/exceptions/BadParamException.h
+[8.019s] -- Installing: /opt/workspace/install/fastcdr/include/fastcdr/exceptions/Exception.h
+[8.019s] -- Installing: /opt/workspace/install/fastcdr/include/fastcdr/fastcdr_dll.h
+[8.019s] -- Installing: /opt/workspace/install/fastcdr/include/fastcdr/eProsima_auto_link.h
+[8.025s] -- Installing: /opt/workspace/install/fastcdr/include/fastcdr/FastCdr.h
+[8.026s] -- Installing: /opt/workspace/install/fastcdr/include/fastcdr/Cdr.h
+[8.026s] -- Installing: /opt/workspace/install/fastcdr/include/fastcdr/config.h
+[8.027s] -- Installing: /opt/workspace/install/fastcdr/lib/libfastcdr.so.1.0.10
+[8.027s] -- Installing: /opt/workspace/install/fastcdr/lib/libfastcdr.so.1
+[8.028s] -- Installing: /opt/workspace/install/fastcdr/lib/libfastcdr.so
+[8.028s] -- Installing: /opt/workspace/install/fastcdr/share/fastcdr/cmake/fastcdr-targets.cmake
+[8.029s] -- Installing: /opt/workspace/install/fastcdr/share/fastcdr/cmake/fastcdr-targets-release.cmake
+[8.029s] -- Installing: /opt/workspace/install/fastcdr/share/fastcdr/cmake/fastcdr-config.cmake
+[8.030s] -- Installing: /opt/workspace/install/fastcdr/share/fastcdr/cmake/fastcdr-config-version.cmake
+[8.034s] Invoked command in '/opt/workspace/build/fastcdr' returned '0': /usr/bin/cmake --build /opt/workspace/build/fastcdr --target install -- -j8 -l8

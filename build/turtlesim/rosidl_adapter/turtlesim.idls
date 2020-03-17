@@ -1,0 +1,8 @@
+/opt/workspace/build/turtlesim/rosidl_adapter/turtlesim:action/RotateAbsolute.idl
+/opt/workspace/build/turtlesim/rosidl_adapter/turtlesim:msg/Color.idl
+/opt/workspace/build/turtlesim/rosidl_adapter/turtlesim:msg/Pose.idl
+/opt/workspace/build/turtlesim/rosidl_adapter/turtlesim:srv/Kill.idl
+/opt/workspace/build/turtlesim/rosidl_adapter/turtlesim:srv/SetPen.idl
+/opt/workspace/build/turtlesim/rosidl_adapter/turtlesim:srv/Spawn.idl
+/opt/workspace/build/turtlesim/rosidl_adapter/turtlesim:srv/TeleportAbsolute.idl
+/opt/workspace/build/turtlesim/rosidl_adapter/turtlesim:srv/TeleportRelative.idl

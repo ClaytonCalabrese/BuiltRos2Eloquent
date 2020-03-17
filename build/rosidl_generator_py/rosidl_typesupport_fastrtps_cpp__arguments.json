@@ -1,0 +1,41 @@
+{
+  "package_name": "rosidl_generator_py",
+  "output_dir": "/opt/workspace/build/rosidl_generator_py/rosidl_typesupport_fastrtps_cpp/rosidl_generator_py",
+  "template_dir": "/opt/workspace/install/rosidl_typesupport_fastrtps_cpp/share/rosidl_typesupport_fastrtps_cpp/resource",
+  "idl_tuples": [
+    "/opt/workspace/build/rosidl_generator_py/rosidl_adapter/rosidl_generator_py:msg/Arrays.idl",
+    "/opt/workspace/build/rosidl_generator_py/rosidl_adapter/rosidl_generator_py:msg/BasicTypes.idl",
+    "/opt/workspace/build/rosidl_generator_py/rosidl_adapter/rosidl_generator_py:msg/BoundedSequences.idl",
+    "/opt/workspace/build/rosidl_generator_py/rosidl_adapter/rosidl_generator_py:msg/Constants.idl",
+    "/opt/workspace/build/rosidl_generator_py/rosidl_adapter/rosidl_generator_py:msg/Defaults.idl",
+    "/opt/workspace/build/rosidl_generator_py/rosidl_adapter/rosidl_generator_py:msg/Empty.idl",
+    "/opt/workspace/build/rosidl_generator_py/rosidl_adapter/rosidl_generator_py:msg/MultiNested.idl",
+    "/opt/workspace/build/rosidl_generator_py/rosidl_adapter/rosidl_generator_py:msg/Nested.idl",
+    "/opt/workspace/build/rosidl_generator_py/rosidl_adapter/rosidl_generator_py:msg/Strings.idl",
+    "/opt/workspace/build/rosidl_generator_py/rosidl_adapter/rosidl_generator_py:msg/UnboundedSequences.idl",
+    "/opt/workspace/build/rosidl_generator_py/rosidl_adapter/rosidl_generator_py:msg/WStrings.idl",
+    "/opt/workspace/build/rosidl_generator_py/rosidl_adapter/rosidl_generator_py:msg/StringArrays.idl"
+  ],
+  "target_dependencies": [
+    "/opt/workspace/install/rosidl_typesupport_fastrtps_cpp/lib/rosidl_typesupport_fastrtps_cpp/rosidl_typesupport_fastrtps_cpp",
+    "/opt/workspace/install/rosidl_typesupport_fastrtps_cpp/lib/python3.6/site-packages/rosidl_typesupport_fastrtps_cpp/__init__.py",
+    "/opt/workspace/install/rosidl_typesupport_fastrtps_cpp/share/rosidl_typesupport_fastrtps_cpp/resource/idl__rosidl_typesupport_fastrtps_cpp.hpp.em",
+    "/opt/workspace/install/rosidl_typesupport_fastrtps_cpp/share/rosidl_typesupport_fastrtps_cpp/resource/idl__type_support.cpp.em",
+    "/opt/workspace/install/rosidl_typesupport_fastrtps_cpp/share/rosidl_typesupport_fastrtps_cpp/resource/msg__rosidl_typesupport_fastrtps_cpp.hpp.em",
+    "/opt/workspace/install/rosidl_typesupport_fastrtps_cpp/share/rosidl_typesupport_fastrtps_cpp/resource/msg__type_support.cpp.em",
+    "/opt/workspace/install/rosidl_typesupport_fastrtps_cpp/share/rosidl_typesupport_fastrtps_cpp/resource/srv__rosidl_typesupport_fastrtps_cpp.hpp.em",
+    "/opt/workspace/install/rosidl_typesupport_fastrtps_cpp/share/rosidl_typesupport_fastrtps_cpp/resource/srv__type_support.cpp.em",
+    "/opt/workspace/build/rosidl_generator_py/rosidl_adapter/rosidl_generator_py/msg/Arrays.idl",
+    "/opt/workspace/build/rosidl_generator_py/rosidl_adapter/rosidl_generator_py/msg/BasicTypes.idl",
+    "/opt/workspace/build/rosidl_generator_py/rosidl_adapter/rosidl_generator_py/msg/BoundedSequences.idl",
+    "/opt/workspace/build/rosidl_generator_py/rosidl_adapter/rosidl_generator_py/msg/Constants.idl",
+    "/opt/workspace/build/rosidl_generator_py/rosidl_adapter/rosidl_generator_py/msg/Defaults.idl",
+    "/opt/workspace/build/rosidl_generator_py/rosidl_adapter/rosidl_generator_py/msg/Empty.idl",
+    "/opt/workspace/build/rosidl_generator_py/rosidl_adapter/rosidl_generator_py/msg/MultiNested.idl",
+    "/opt/workspace/build/rosidl_generator_py/rosidl_adapter/rosidl_generator_py/msg/Nested.idl",
+    "/opt/workspace/build/rosidl_generator_py/rosidl_adapter/rosidl_generator_py/msg/Strings.idl",
+    "/opt/workspace/build/rosidl_generator_py/rosidl_adapter/rosidl_generator_py/msg/UnboundedSequences.idl",
+    "/opt/workspace/build/rosidl_generator_py/rosidl_adapter/rosidl_generator_py/msg/WStrings.idl",
+    "/opt/workspace/build/rosidl_generator_py/rosidl_adapter/rosidl_generator_py/msg/StringArrays.idl"
+  ]
+}

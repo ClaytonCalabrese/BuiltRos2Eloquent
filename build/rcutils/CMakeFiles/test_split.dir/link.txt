@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++14   CMakeFiles/test_split.dir/test/test_split.cpp.o  -o test_split -Wl,-rpath,/opt/workspace/build/rcutils gtest/libgtest_main.a gtest/libgtest.a librcutils.so -pthread 

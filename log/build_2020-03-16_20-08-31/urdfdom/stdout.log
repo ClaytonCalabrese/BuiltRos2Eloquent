@@ -1,0 +1,39 @@
+[0.992s] [ 10%] Built target urdfdom_model_state
+[0.992s] [ 17%] Built target gtest
+[0.993s] [ 39%] Built target urdfdom_world
+[0.993s] [ 57%] Built target urdfdom_model
+[1.025s] [ 64%] Built target gtest_main
+[1.037s] [ 71%] Built target urdf_mem_test
+[1.047s] [ 78%] Built target check_urdf
+[1.055s] [ 85%] Built target urdf_to_graphiz
+[1.061s] [ 92%] Built target urdfdom_sensor
+[1.073s] [100%] Built target urdf_unit_test
+[1.811s] [ 10%] Built target urdfdom_model_state
+[1.833s] [ 32%] Built target urdfdom_world
+[1.842s] [ 39%] Built target gtest
+[1.849s] [ 57%] Built target urdfdom_model
+[1.917s] [ 64%] Built target check_urdf
+[1.925s] [ 71%] Built target urdf_to_graphiz
+[1.931s] [ 78%] Built target gtest_main
+[1.933s] [ 85%] Built target urdfdom_sensor
+[1.955s] [ 92%] Built target urdf_mem_test
+[2.154s] [100%] Built target urdf_unit_test
+[2.159s] [36mInstall the project...[0m
+[2.160s] -- Install configuration: "Release"
+[2.160s] -- Up-to-date: /opt/workspace/install/urdfdom/share/urdfdom/package.xml
+[2.161s] -- Up-to-date: /opt/workspace/install/urdfdom/lib/urdfdom/cmake/urdfdom-config.cmake
+[2.161s] -- Up-to-date: /opt/workspace/install/urdfdom/lib/pkgconfig/urdfdom.pc
+[2.161s] -- Up-to-date: /opt/workspace/install/urdfdom/lib/liburdfdom_model.so.1.0
+[2.161s] -- Up-to-date: /opt/workspace/install/urdfdom/lib/liburdfdom_model.so
+[2.162s] -- Up-to-date: /opt/workspace/install/urdfdom/lib/liburdfdom_world.so.1.0
+[2.163s] -- Up-to-date: /opt/workspace/install/urdfdom/lib/liburdfdom_world.so
+[2.163s] -- Up-to-date: /opt/workspace/install/urdfdom/lib/liburdfdom_sensor.so.1.0
+[2.163s] -- Up-to-date: /opt/workspace/install/urdfdom/lib/liburdfdom_sensor.so
+[2.164s] -- Up-to-date: /opt/workspace/install/urdfdom/lib/liburdfdom_model_state.so.1.0
+[2.164s] -- Up-to-date: /opt/workspace/install/urdfdom/lib/liburdfdom_model_state.so
+[2.164s] -- Up-to-date: /opt/workspace/install/urdfdom/bin/check_urdf
+[2.165s] -- Up-to-date: /opt/workspace/install/urdfdom/bin/urdf_to_graphiz
+[2.165s] -- Up-to-date: /opt/workspace/install/urdfdom/bin/urdf_mem_test
+[2.165s] -- Up-to-date: /opt/workspace/install/urdfdom/include/urdf_parser
+[2.165s] -- Up-to-date: /opt/workspace/install/urdfdom/include/urdf_parser/exportdecl.h
+[2.166s] -- Up-to-date: /opt/workspace/install/urdfdom/include/urdf_parser/urdf_parser.h

@@ -1,0 +1,1 @@
+cmd='/usr/bin/cmake;-DCMAKE_INSTALL_PREFIX=/opt/workspace/build/spdlog_vendor/spdlog_vendor_install;-DCMAKE_BUILD_TYPE=;-DCMAKE_CXX_COMPILER=/usr/bin/c++;-DCMAKE_CXX_FLAGS=;-DSPDLOG_BUILD_BENCH=OFF;-DSPDLOG_BUILD_TESTS=OFF;-DSPDLOG_BUILD_EXAMPLES=OFF;-Wno-dev;-GUnix Makefiles;<SOURCE_DIR><SOURCE_SUBDIR>'

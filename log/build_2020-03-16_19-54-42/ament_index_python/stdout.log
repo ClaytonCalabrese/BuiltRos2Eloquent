@@ -1,0 +1,50 @@
+[2.175s] running egg_info
+[2.176s] creating /opt/workspace/build/ament_index_python/ament_index_python.egg-info
+[2.176s] writing /opt/workspace/build/ament_index_python/ament_index_python.egg-info/PKG-INFO
+[2.177s] writing dependency_links to /opt/workspace/build/ament_index_python/ament_index_python.egg-info/dependency_links.txt
+[2.177s] writing entry points to /opt/workspace/build/ament_index_python/ament_index_python.egg-info/entry_points.txt
+[2.177s] writing requirements to /opt/workspace/build/ament_index_python/ament_index_python.egg-info/requires.txt
+[2.177s] writing top-level names to /opt/workspace/build/ament_index_python/ament_index_python.egg-info/top_level.txt
+[2.177s] writing manifest file '/opt/workspace/build/ament_index_python/ament_index_python.egg-info/SOURCES.txt'
+[2.254s] reading manifest file '/opt/workspace/build/ament_index_python/ament_index_python.egg-info/SOURCES.txt'
+[2.254s] writing manifest file '/opt/workspace/build/ament_index_python/ament_index_python.egg-info/SOURCES.txt'
+[2.254s] running build
+[2.254s] running build_py
+[2.254s] creating /opt/workspace/build/ament_index_python/build
+[2.254s] creating /opt/workspace/build/ament_index_python/build/lib
+[2.254s] creating /opt/workspace/build/ament_index_python/build/lib/ament_index_python
+[2.255s] copying ament_index_python/__init__.py -> /opt/workspace/build/ament_index_python/build/lib/ament_index_python
+[2.255s] copying ament_index_python/resources.py -> /opt/workspace/build/ament_index_python/build/lib/ament_index_python
+[2.255s] copying ament_index_python/constants.py -> /opt/workspace/build/ament_index_python/build/lib/ament_index_python
+[2.255s] copying ament_index_python/cli.py -> /opt/workspace/build/ament_index_python/build/lib/ament_index_python
+[2.255s] copying ament_index_python/search_paths.py -> /opt/workspace/build/ament_index_python/build/lib/ament_index_python
+[2.256s] copying ament_index_python/packages.py -> /opt/workspace/build/ament_index_python/build/lib/ament_index_python
+[2.256s] running install
+[2.256s] running install_lib
+[2.257s] creating /opt/workspace/install/ament_index_python/lib/python3.6/site-packages/ament_index_python
+[2.257s] copying /opt/workspace/build/ament_index_python/build/lib/ament_index_python/__init__.py -> /opt/workspace/install/ament_index_python/lib/python3.6/site-packages/ament_index_python
+[2.257s] copying /opt/workspace/build/ament_index_python/build/lib/ament_index_python/resources.py -> /opt/workspace/install/ament_index_python/lib/python3.6/site-packages/ament_index_python
+[2.257s] copying /opt/workspace/build/ament_index_python/build/lib/ament_index_python/constants.py -> /opt/workspace/install/ament_index_python/lib/python3.6/site-packages/ament_index_python
+[2.258s] copying /opt/workspace/build/ament_index_python/build/lib/ament_index_python/cli.py -> /opt/workspace/install/ament_index_python/lib/python3.6/site-packages/ament_index_python
+[2.258s] copying /opt/workspace/build/ament_index_python/build/lib/ament_index_python/search_paths.py -> /opt/workspace/install/ament_index_python/lib/python3.6/site-packages/ament_index_python
+[2.258s] copying /opt/workspace/build/ament_index_python/build/lib/ament_index_python/packages.py -> /opt/workspace/install/ament_index_python/lib/python3.6/site-packages/ament_index_python
+[2.258s] byte-compiling /opt/workspace/install/ament_index_python/lib/python3.6/site-packages/ament_index_python/__init__.py to __init__.cpython-36.pyc
+[2.258s] byte-compiling /opt/workspace/install/ament_index_python/lib/python3.6/site-packages/ament_index_python/resources.py to resources.cpython-36.pyc
+[2.259s] byte-compiling /opt/workspace/install/ament_index_python/lib/python3.6/site-packages/ament_index_python/constants.py to constants.cpython-36.pyc
+[2.259s] byte-compiling /opt/workspace/install/ament_index_python/lib/python3.6/site-packages/ament_index_python/cli.py to cli.cpython-36.pyc
+[2.259s] byte-compiling /opt/workspace/install/ament_index_python/lib/python3.6/site-packages/ament_index_python/search_paths.py to search_paths.cpython-36.pyc
+[2.259s] byte-compiling /opt/workspace/install/ament_index_python/lib/python3.6/site-packages/ament_index_python/packages.py to packages.cpython-36.pyc
+[2.259s] running install_data
+[2.259s] copying package.xml -> /opt/workspace/install/ament_index_python/share/ament_index_python
+[2.260s] creating /opt/workspace/install/ament_index_python/share/ament_index_python/environment
+[2.260s] copying completion/ament_index-argcomplete.bash -> /opt/workspace/install/ament_index_python/share/ament_index_python/environment
+[2.260s] copying completion/ament_index-argcomplete.zsh -> /opt/workspace/install/ament_index_python/share/ament_index_python/environment
+[2.260s] creating /opt/workspace/install/ament_index_python/share/ament_index
+[2.260s] creating /opt/workspace/install/ament_index_python/share/ament_index/resource_index
+[2.260s] creating /opt/workspace/install/ament_index_python/share/ament_index/resource_index/packages
+[2.260s] copying resource/ament_index_python -> /opt/workspace/install/ament_index_python/share/ament_index/resource_index/packages
+[2.260s] running install_egg_info
+[2.261s] Copying /opt/workspace/build/ament_index_python/ament_index_python.egg-info to /opt/workspace/install/ament_index_python/lib/python3.6/site-packages/ament_index_python-0.7.2-py3.6.egg-info
+[2.261s] running install_scripts
+[2.283s] Installing ament_index script to /opt/workspace/install/ament_index_python/bin
+[2.284s] writing list of installed files to '/opt/workspace/build/ament_index_python/install.log'

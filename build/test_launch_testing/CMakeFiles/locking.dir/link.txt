@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/locking.dir/test/dummy_tests/locking.cpp.o  -o locking 

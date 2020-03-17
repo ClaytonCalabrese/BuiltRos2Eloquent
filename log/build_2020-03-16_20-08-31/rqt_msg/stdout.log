@@ -1,0 +1,55 @@
+[1.250s] -- The C compiler identification is GNU 7.4.0
+[1.372s] -- The CXX compiler identification is GNU 7.4.0
+[1.384s] -- Check for working C compiler: /usr/bin/cc
+[1.539s] -- Check for working C compiler: /usr/bin/cc -- works
+[1.541s] -- Detecting C compiler ABI info
+[1.706s] -- Detecting C compiler ABI info - done
+[1.716s] -- Detecting C compile features
+[2.218s] -- Detecting C compile features - done
+[2.222s] -- Check for working CXX compiler: /usr/bin/c++
+[2.400s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[2.401s] -- Detecting CXX compiler ABI info
+[2.571s] -- Detecting CXX compiler ABI info - done
+[2.583s] -- Detecting CXX compile features
+[3.323s] -- Detecting CXX compile features - done
+[3.337s] -- Found ament_cmake: 0.8.2 (/opt/workspace/install/ament_cmake/share/ament_cmake/cmake)
+[3.438s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[3.438s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[4.310s] -- Configuring done
+[4.314s] -- Generating done
+[4.317s] -- Build files have been written to: /opt/workspace/build/rqt_msg
+[4.612s] [36mInstall the project...[0m
+[4.635s] -- Install configuration: ""
+[4.636s] -- Installing: /opt/workspace/install/rqt_msg/share/rqt_msg/environment/pythonpath.sh
+[4.636s] -- Installing: /opt/workspace/install/rqt_msg/share/rqt_msg/environment/pythonpath.dsv
+[4.636s] -- Installing: /opt/workspace/install/rqt_msg/lib/python3.6/site-packages/rqt_msg
+[4.637s] -- Installing: /opt/workspace/install/rqt_msg/lib/python3.6/site-packages/rqt_msg/__init__.py
+[4.637s] -- Installing: /opt/workspace/install/rqt_msg/lib/python3.6/site-packages/rqt_msg/messages_widget.py
+[4.637s] -- Installing: /opt/workspace/install/rqt_msg/lib/python3.6/site-packages/rqt_msg/messages.py
+[4.637s] -- Installing: /opt/workspace/install/rqt_msg/lib/python3.6/site-packages/rqt_msg/messages_tree_model.py
+[4.638s] -- Installing: /opt/workspace/install/rqt_msg/lib/python3.6/site-packages/rqt_msg/messages_tree_view.py
+[4.771s] Listing '/opt/workspace/install/rqt_msg/lib/python3.6/site-packages/rqt_msg'...
+[4.772s] Compiling '/opt/workspace/install/rqt_msg/lib/python3.6/site-packages/rqt_msg/__init__.py'...
+[4.772s] Compiling '/opt/workspace/install/rqt_msg/lib/python3.6/site-packages/rqt_msg/messages.py'...
+[4.773s] Compiling '/opt/workspace/install/rqt_msg/lib/python3.6/site-packages/rqt_msg/messages_tree_model.py'...
+[4.773s] Compiling '/opt/workspace/install/rqt_msg/lib/python3.6/site-packages/rqt_msg/messages_tree_view.py'...
+[4.773s] Compiling '/opt/workspace/install/rqt_msg/lib/python3.6/site-packages/rqt_msg/messages_widget.py'...
+[4.795s] -- Installing: /opt/workspace/install/rqt_msg/share/rqt_msg/plugin.xml
+[4.797s] -- Installing: /opt/workspace/install/rqt_msg/share/rqt_msg/resource
+[4.797s] -- Installing: /opt/workspace/install/rqt_msg/share/rqt_msg/resource/messages.ui
+[4.797s] -- Installing: /opt/workspace/install/rqt_msg/lib/rqt_msg/rqt_msg
+[4.797s] -- Installing: /opt/workspace/install/rqt_msg/share/ament_index/resource_index/package_run_dependencies/rqt_msg
+[4.798s] -- Installing: /opt/workspace/install/rqt_msg/share/ament_index/resource_index/parent_prefix_path/rqt_msg
+[4.798s] -- Installing: /opt/workspace/install/rqt_msg/share/rqt_msg/environment/ament_prefix_path.sh
+[4.798s] -- Installing: /opt/workspace/install/rqt_msg/share/rqt_msg/environment/ament_prefix_path.dsv
+[4.799s] -- Installing: /opt/workspace/install/rqt_msg/share/rqt_msg/environment/path.sh
+[4.799s] -- Installing: /opt/workspace/install/rqt_msg/share/rqt_msg/environment/path.dsv
+[4.799s] -- Installing: /opt/workspace/install/rqt_msg/share/rqt_msg/local_setup.bash
+[4.800s] -- Installing: /opt/workspace/install/rqt_msg/share/rqt_msg/local_setup.sh
+[4.800s] -- Installing: /opt/workspace/install/rqt_msg/share/rqt_msg/local_setup.zsh
+[4.800s] -- Installing: /opt/workspace/install/rqt_msg/share/rqt_msg/local_setup.dsv
+[4.800s] -- Installing: /opt/workspace/install/rqt_msg/share/rqt_msg/package.dsv
+[4.801s] -- Installing: /opt/workspace/install/rqt_msg/share/ament_index/resource_index/packages/rqt_msg
+[4.801s] -- Installing: /opt/workspace/install/rqt_msg/share/rqt_msg/cmake/rqt_msgConfig.cmake
+[4.801s] -- Installing: /opt/workspace/install/rqt_msg/share/rqt_msg/cmake/rqt_msgConfig-version.cmake
+[4.801s] -- Installing: /opt/workspace/install/rqt_msg/share/rqt_msg/package.xml

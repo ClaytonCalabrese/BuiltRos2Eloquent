@@ -1,0 +1,17 @@
+/opt/workspace/install/rosidl_default_generators/share/ament_index/resource_index/package_run_dependencies/rosidl_default_generators
+/opt/workspace/install/rosidl_default_generators/share/ament_index/resource_index/parent_prefix_path/rosidl_default_generators
+/opt/workspace/install/rosidl_default_generators/share/rosidl_default_generators/environment/ament_prefix_path.sh
+/opt/workspace/install/rosidl_default_generators/share/rosidl_default_generators/environment/ament_prefix_path.dsv
+/opt/workspace/install/rosidl_default_generators/share/rosidl_default_generators/environment/path.sh
+/opt/workspace/install/rosidl_default_generators/share/rosidl_default_generators/environment/path.dsv
+/opt/workspace/install/rosidl_default_generators/share/rosidl_default_generators/local_setup.bash
+/opt/workspace/install/rosidl_default_generators/share/rosidl_default_generators/local_setup.sh
+/opt/workspace/install/rosidl_default_generators/share/rosidl_default_generators/local_setup.zsh
+/opt/workspace/install/rosidl_default_generators/share/rosidl_default_generators/local_setup.dsv
+/opt/workspace/install/rosidl_default_generators/share/rosidl_default_generators/package.dsv
+/opt/workspace/install/rosidl_default_generators/share/ament_index/resource_index/packages/rosidl_default_generators
+/opt/workspace/install/rosidl_default_generators/share/rosidl_default_generators/cmake/rosidl_default_generators-extras.cmake
+/opt/workspace/install/rosidl_default_generators/share/rosidl_default_generators/cmake/ament_cmake_export_dependencies-extras.cmake
+/opt/workspace/install/rosidl_default_generators/share/rosidl_default_generators/cmake/rosidl_default_generatorsConfig.cmake
+/opt/workspace/install/rosidl_default_generators/share/rosidl_default_generators/cmake/rosidl_default_generatorsConfig-version.cmake
+/opt/workspace/install/rosidl_default_generators/share/rosidl_default_generators/package.xml

@@ -1,0 +1,51 @@
+[0.323s] -- The C compiler identification is GNU 7.4.0
+[0.451s] -- The CXX compiler identification is GNU 7.4.0
+[0.460s] -- Check for working C compiler: /usr/bin/cc
+[0.620s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.620s] -- Detecting C compiler ABI info
+[0.752s] -- Detecting C compiler ABI info - done
+[0.770s] -- Detecting C compile features
+[1.230s] -- Detecting C compile features - done
+[1.236s] -- Check for working CXX compiler: /usr/bin/c++
+[1.417s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[1.418s] -- Detecting CXX compiler ABI info
+[1.579s] -- Detecting CXX compiler ABI info - done
+[1.593s] -- Detecting CXX compile features
+[2.392s] -- Detecting CXX compile features - done
+[2.397s] -- Found ament_cmake: 0.8.2 (/opt/workspace/install/ament_cmake/share/ament_cmake/cmake)
+[2.448s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[2.449s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[2.924s] -- Found ament_lint_auto: 0.8.1 (/opt/workspace/install/ament_lint_auto/share/ament_lint_auto/cmake)
+[3.107s] -- Added test 'copyright' to check for copyright in CMake / C / C++ / Python code
+[3.111s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[3.111s] -- Configured cppcheck include dirs: 
+[3.115s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[3.117s] -- Added test 'lint_cmake' to check CMake code style
+[3.120s] -- Added test 'uncrustify' to check C / C++ code style
+[3.122s] -- Added test 'xmllint' to check XML markup files
+[3.128s] -- Configuring done
+[3.136s] -- Generating done
+[3.137s] -- Build files have been written to: /opt/workspace/build/connext_cmake_module
+[3.474s] [36mInstall the project...[0m
+[3.493s] -- Install configuration: ""
+[3.494s] -- Installing: /opt/workspace/install/connext_cmake_module/share/ament_index/resource_index/package_run_dependencies/connext_cmake_module
+[3.494s] -- Installing: /opt/workspace/install/connext_cmake_module/share/ament_index/resource_index/parent_prefix_path/connext_cmake_module
+[3.494s] -- Installing: /opt/workspace/install/connext_cmake_module/share/connext_cmake_module/environment/ament_prefix_path.sh
+[3.495s] -- Installing: /opt/workspace/install/connext_cmake_module/share/connext_cmake_module/environment/ament_prefix_path.dsv
+[3.495s] -- Installing: /opt/workspace/install/connext_cmake_module/share/connext_cmake_module/environment/path.sh
+[3.496s] -- Installing: /opt/workspace/install/connext_cmake_module/share/connext_cmake_module/environment/path.dsv
+[3.496s] -- Installing: /opt/workspace/install/connext_cmake_module/share/connext_cmake_module/local_setup.bash
+[3.496s] -- Installing: /opt/workspace/install/connext_cmake_module/share/connext_cmake_module/local_setup.sh
+[3.496s] -- Installing: /opt/workspace/install/connext_cmake_module/share/connext_cmake_module/local_setup.zsh
+[3.497s] -- Installing: /opt/workspace/install/connext_cmake_module/share/connext_cmake_module/local_setup.dsv
+[3.497s] -- Installing: /opt/workspace/install/connext_cmake_module/share/connext_cmake_module/package.dsv
+[3.497s] -- Installing: /opt/workspace/install/connext_cmake_module/share/ament_index/resource_index/packages/connext_cmake_module
+[3.497s] -- Installing: /opt/workspace/install/connext_cmake_module/share/connext_cmake_module/cmake/connext_cmake_module-extras.cmake
+[3.498s] -- Installing: /opt/workspace/install/connext_cmake_module/share/connext_cmake_module/cmake/connext_cmake_moduleConfig.cmake
+[3.498s] -- Installing: /opt/workspace/install/connext_cmake_module/share/connext_cmake_module/cmake/connext_cmake_moduleConfig-version.cmake
+[3.498s] -- Installing: /opt/workspace/install/connext_cmake_module/share/connext_cmake_module/package.xml
+[3.498s] -- Up-to-date: /opt/workspace/install/connext_cmake_module/share/connext_cmake_module/cmake
+[3.498s] -- Installing: /opt/workspace/install/connext_cmake_module/share/connext_cmake_module/cmake/Modules
+[3.499s] -- Installing: /opt/workspace/install/connext_cmake_module/share/connext_cmake_module/cmake/Modules/FindConnext.cmake
+[3.499s] -- Installing: /opt/workspace/install/connext_cmake_module/share/connext_cmake_module/cmake/check_abi.cpp
+[3.499s] -- Installing: /opt/workspace/install/connext_cmake_module/share/connext_cmake_module/cmake/check_abi.cmake

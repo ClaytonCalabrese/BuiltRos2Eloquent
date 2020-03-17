@@ -1,0 +1,37 @@
+[0.616s] -- The C compiler identification is GNU 7.4.0
+[0.914s] -- The CXX compiler identification is GNU 7.4.0
+[0.930s] -- Check for working C compiler: /usr/bin/cc
+[1.384s] -- Check for working C compiler: /usr/bin/cc -- works
+[1.384s] -- Detecting C compiler ABI info
+[1.792s] -- Detecting C compiler ABI info - done
+[1.813s] -- Detecting C compile features
+[3.210s] -- Detecting C compile features - done
+[3.215s] -- Check for working CXX compiler: /usr/bin/c++
+[3.735s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[3.745s] -- Detecting CXX compiler ABI info
+[4.230s] -- Detecting CXX compiler ABI info - done
+[4.253s] -- Detecting CXX compile features
+[6.364s] -- Detecting CXX compile features - done
+[6.368s] -- Found ament_cmake: 0.8.2 (/opt/workspace/install/ament_cmake/share/ament_cmake/cmake)
+[6.481s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[6.482s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[7.355s] -- Configuring done
+[7.359s] -- Generating done
+[7.365s] -- Build files have been written to: /opt/workspace/build/uncrustify_vendor
+[8.367s] [36mInstall the project...[0m
+[8.403s] -- Install configuration: ""
+[8.403s] -- Installing: /opt/workspace/install/uncrustify_vendor/share/ament_index/resource_index/package_run_dependencies/uncrustify_vendor
+[8.403s] -- Installing: /opt/workspace/install/uncrustify_vendor/share/ament_index/resource_index/parent_prefix_path/uncrustify_vendor
+[8.408s] -- Installing: /opt/workspace/install/uncrustify_vendor/share/uncrustify_vendor/environment/ament_prefix_path.sh
+[8.409s] -- Installing: /opt/workspace/install/uncrustify_vendor/share/uncrustify_vendor/environment/ament_prefix_path.dsv
+[8.410s] -- Installing: /opt/workspace/install/uncrustify_vendor/share/uncrustify_vendor/environment/path.sh
+[8.410s] -- Installing: /opt/workspace/install/uncrustify_vendor/share/uncrustify_vendor/environment/path.dsv
+[8.411s] -- Installing: /opt/workspace/install/uncrustify_vendor/share/uncrustify_vendor/local_setup.bash
+[8.412s] -- Installing: /opt/workspace/install/uncrustify_vendor/share/uncrustify_vendor/local_setup.sh
+[8.412s] -- Installing: /opt/workspace/install/uncrustify_vendor/share/uncrustify_vendor/local_setup.zsh
+[8.413s] -- Installing: /opt/workspace/install/uncrustify_vendor/share/uncrustify_vendor/local_setup.dsv
+[8.413s] -- Installing: /opt/workspace/install/uncrustify_vendor/share/uncrustify_vendor/package.dsv
+[8.414s] -- Installing: /opt/workspace/install/uncrustify_vendor/share/ament_index/resource_index/packages/uncrustify_vendor
+[8.415s] -- Installing: /opt/workspace/install/uncrustify_vendor/share/uncrustify_vendor/cmake/uncrustify_vendorConfig.cmake
+[8.416s] -- Installing: /opt/workspace/install/uncrustify_vendor/share/uncrustify_vendor/cmake/uncrustify_vendorConfig-version.cmake
+[8.417s] -- Installing: /opt/workspace/install/uncrustify_vendor/share/uncrustify_vendor/package.xml

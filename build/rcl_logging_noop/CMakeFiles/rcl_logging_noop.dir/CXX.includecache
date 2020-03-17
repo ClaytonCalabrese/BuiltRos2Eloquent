@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/opt/workspace/install/rcutils/include/rcutils/allocator.h
+stdbool.h
+-
+stddef.h
+-
+rcutils/macros.h
+/opt/workspace/install/rcutils/include/rcutils/rcutils/macros.h
+rcutils/types/rcutils_ret.h
+/opt/workspace/install/rcutils/include/rcutils/rcutils/types/rcutils_ret.h
+rcutils/visibility_control.h
+/opt/workspace/install/rcutils/include/rcutils/rcutils/visibility_control.h
+
+/opt/workspace/install/rcutils/include/rcutils/macros.h
+TargetConditionals.h
+-
+Availability.h
+-
+
+/opt/workspace/install/rcutils/include/rcutils/types/rcutils_ret.h
+
+/opt/workspace/install/rcutils/include/rcutils/visibility_control.h
+
+/opt/workspace/src/ros2/rcl_logging/rcl_logging_noop/src/rcl_logging_noop/rcl_logging_noop.cpp
+rcutils/allocator.h
+-
+

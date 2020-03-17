@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/test_find_and_replace.dir/test/test_find_and_replace.cpp.o  -o test_find_and_replace gtest/libgtest_main.a gtest/libgtest.a -pthread 

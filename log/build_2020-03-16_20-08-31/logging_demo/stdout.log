@@ -1,0 +1,247 @@
+[1.434s] -- The C compiler identification is GNU 7.4.0
+[1.590s] -- The CXX compiler identification is GNU 7.4.0
+[1.603s] -- Check for working C compiler: /usr/bin/cc
+[1.804s] -- Check for working C compiler: /usr/bin/cc -- works
+[1.806s] -- Detecting C compiler ABI info
+[2.032s] -- Detecting C compiler ABI info - done
+[2.048s] -- Detecting C compile features
+[2.695s] -- Detecting C compile features - done
+[2.700s] -- Check for working CXX compiler: /usr/bin/c++
+[2.923s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[2.925s] -- Detecting CXX compiler ABI info
+[3.131s] -- Detecting CXX compiler ABI info - done
+[3.143s] -- Detecting CXX compile features
+[4.098s] -- Detecting CXX compile features - done
+[4.128s] -- Found ament_cmake: 0.8.2 (/opt/workspace/install/ament_cmake/share/ament_cmake/cmake)
+[4.265s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[4.265s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[4.934s] -- Found rclcpp: 0.8.4 (/opt/workspace/install/rclcpp/share/rclcpp/cmake)
+[5.065s] -- Found rosidl_adapter: 0.8.2 (/opt/workspace/install/rosidl_adapter/share/rosidl_adapter/cmake)
+[5.163s] -- Found rmw_implementation_cmake: 0.8.1 (/opt/workspace/install/rmw_implementation_cmake/share/rmw_implementation_cmake/cmake)
+[5.183s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[5.185s] -- Looking for pthread.h
+[5.455s] -- Looking for pthread.h - found
+[5.456s] -- Looking for pthread_create
+[5.741s] -- Looking for pthread_create - not found
+[5.742s] -- Looking for pthread_create in pthreads
+[5.929s] -- Looking for pthread_create in pthreads - not found
+[5.929s] -- Looking for pthread_create in pthread
+[6.145s] -- Looking for pthread_create in pthread - found
+[6.147s] -- Found Threads: TRUE  
+[6.289s] -- Found rclcpp_components: 0.8.4 (/opt/workspace/install/rclcpp_components/share/rclcpp_components/cmake)
+[6.318s] -- Found poco_vendor:  (/opt/workspace/install/poco_vendor/share/poco_vendor/cmake)
+[6.411s] -- Found std_msgs: 0.8.1 (/opt/workspace/install/std_msgs/share/std_msgs/cmake)
+[6.425s] -- Found rosidl_default_generators: 0.8.0 (/opt/workspace/install/rosidl_default_generators/share/rosidl_default_generators/cmake)
+[6.813s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "1.1.1") 
+[6.902s] -- Found FastRTPS: /opt/workspace/install/fastrtps/include  
+[7.171s] -- Found PythonInterp: /usr/bin/python3 (found version "3.6.9") 
+[7.666s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_introspection_cpp;rosidl_typesupport_fastrtps_cpp
+[7.737s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[8.240s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3.5") 
+[8.251s] -- Found python_cmake_module: 0.8.0 (/opt/workspace/install/python_cmake_module/share/python_cmake_module/cmake)
+[8.368s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.6m.so (found suitable version "3.6.9", minimum required is "3.5") 
+[8.368s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[8.369s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.6m
+[8.369s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.6m.so
+[8.462s] -- Found PythonExtra: .so  
+[9.723s] -- Found ament_lint_auto: 0.8.1 (/opt/workspace/install/ament_lint_auto/share/ament_lint_auto/cmake)
+[10.044s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[10.044s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.6m
+[10.044s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.6m.so
+[10.126s] -- Added test 'copyright' to check for copyright in CMake / C / C++ / Python code
+[10.131s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[10.139s] -- Configured cppcheck include dirs: /opt/workspace/src/ros2/demos/logging_demo/include
+[10.143s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[10.147s] -- Added test 'lint_cmake' to check CMake code style
+[10.153s] -- Added test 'uncrustify' to check C / C++ code style
+[10.157s] -- Added test 'xmllint' to check XML markup files
+[10.170s] -- Configuring done
+[10.329s] -- Generating done
+[10.338s] -- Build files have been written to: /opt/workspace/build/logging_demo
+[10.624s] [35m[1mScanning dependencies of target logger_usage_component[0m
+[10.757s] [  2%] [32mBuilding CXX object CMakeFiles/logger_usage_component.dir/src/logger_usage_component.cpp.o[0m
+[16.602s] [  5%] [32m[1mLinking CXX shared library liblogger_usage_component.so[0m
+[17.270s] [  5%] Built target logger_usage_component
+[17.305s] [  8%] [34m[1mGenerating C code for ROS interfaces[0m
+[18.308s] [35m[1mScanning dependencies of target logging_demo__rosidl_generator_c[0m
+[18.355s] [ 10%] [32mBuilding C object CMakeFiles/logging_demo__rosidl_generator_c.dir/rosidl_generator_c/logging_demo/srv/config_logger__functions.c.o[0m
+[18.479s] [ 13%] [32m[1mLinking C shared library liblogging_demo__rosidl_generator_c.so[0m
+[18.587s] [ 13%] Built target logging_demo__rosidl_generator_c
+[18.625s] [35m[1mScanning dependencies of target logging_demo__cpp[0m
+[18.665s] [ 16%] [34m[1mGenerating C++ code for ROS interfaces[0m
+[19.550s] [ 16%] Built target logging_demo__cpp
+[19.613s] [ 18%] [34m[1mGenerating C type support dispatch for ROS interfaces[0m
+[20.462s] [35m[1mScanning dependencies of target logging_demo__rosidl_typesupport_c[0m
+[20.533s] [ 21%] [32mBuilding CXX object CMakeFiles/logging_demo__rosidl_typesupport_c.dir/rosidl_typesupport_c/logging_demo/srv/config_logger__type_support.cpp.o[0m
+[20.625s] [ 24%] [32m[1mLinking CXX shared library liblogging_demo__rosidl_typesupport_c.so[0m
+[20.794s] [ 24%] Built target logging_demo__rosidl_typesupport_c
+[20.852s] [ 27%] [34m[1mGenerating C++ introspection for ROS interfaces[0m
+[21.878s] [35m[1mScanning dependencies of target logging_demo__rosidl_typesupport_introspection_cpp[0m
+[21.927s] [ 29%] [32mBuilding CXX object CMakeFiles/logging_demo__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/logging_demo/srv/config_logger__type_support.cpp.o[0m
+[22.494s] [ 32%] [32m[1mLinking CXX shared library liblogging_demo__rosidl_typesupport_introspection_cpp.so[0m
+[22.654s] [ 32%] Built target logging_demo__rosidl_typesupport_introspection_cpp
+[22.699s] [ 35%] [34m[1mGenerating C++ type support for eProsima Fast-RTPS[0m
+[23.692s] [35m[1mScanning dependencies of target logging_demo__rosidl_typesupport_fastrtps_cpp[0m
+[23.817s] [ 37%] [32mBuilding CXX object CMakeFiles/logging_demo__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/logging_demo/srv/dds_fastrtps/config_logger__type_support.cpp.o[0m
+[24.706s] [ 40%] [32m[1mLinking CXX shared library liblogging_demo__rosidl_typesupport_fastrtps_cpp.so[0m
+[25.034s] [ 40%] Built target logging_demo__rosidl_typesupport_fastrtps_cpp
+[25.125s] [ 43%] [34m[1mGenerating C++ type support dispatch for ROS interfaces[0m
+[25.973s] [35m[1mScanning dependencies of target logging_demo__rosidl_typesupport_cpp[0m
+[26.045s] [ 45%] [32mBuilding CXX object CMakeFiles/logging_demo__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/logging_demo/srv/config_logger__type_support.cpp.o[0m
+[26.655s] [ 48%] [32m[1mLinking CXX shared library liblogging_demo__rosidl_typesupport_cpp.so[0m
+[26.898s] [ 48%] Built target logging_demo__rosidl_typesupport_cpp
+[26.992s] [ 51%] [34m[1mGenerating C type support for eProsima Fast-RTPS[0m
+[27.969s] [35m[1mScanning dependencies of target logging_demo__rosidl_typesupport_fastrtps_c[0m
+[28.071s] [ 54%] [32mBuilding CXX object CMakeFiles/logging_demo__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/logging_demo/srv/config_logger__type_support_c.cpp.o[0m
+[28.867s] [ 56%] [32m[1mLinking CXX shared library liblogging_demo__rosidl_typesupport_fastrtps_c.so[0m
+[29.126s] [ 56%] Built target logging_demo__rosidl_typesupport_fastrtps_c
+[29.174s] [ 59%] [34m[1mGenerating C introspection for ROS interfaces[0m
+[30.251s] [35m[1mScanning dependencies of target logging_demo__rosidl_typesupport_introspection_c[0m
+[30.289s] [ 62%] [32mBuilding C object CMakeFiles/logging_demo__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/logging_demo/srv/config_logger__type_support.c.o[0m
+[30.379s] [ 64%] [32m[1mLinking C shared library liblogging_demo__rosidl_typesupport_introspection_c.so[0m
+[30.456s] [ 64%] Built target logging_demo__rosidl_typesupport_introspection_c
+[30.488s] [35m[1mScanning dependencies of target logging_demo[0m
+[30.521s] [ 64%] Built target logging_demo
+[30.551s] [35m[1mScanning dependencies of target logging_demo__py[0m
+[30.582s] [ 67%] [34m[1mGenerating Python code for ROS interfaces[0m
+[32.170s] [ 67%] Built target logging_demo__py
+[32.207s] [35m[1mScanning dependencies of target logger_config_component[0m
+[32.305s] [ 70%] [32mBuilding CXX object CMakeFiles/logger_config_component.dir/src/logger_config_component.cpp.o[0m
+[36.605s] [ 72%] [32m[1mLinking CXX shared library liblogger_config_component.so[0m
+[37.166s] [ 72%] Built target logger_config_component
+[37.205s] [35m[1mScanning dependencies of target logging_demo__python[0m
+[37.263s] [ 75%] [32mBuilding C object CMakeFiles/logging_demo__python.dir/rosidl_generator_py/logging_demo/srv/_config_logger_s.c.o[0m
+[37.465s] [ 78%] [32m[1mLinking C shared library rosidl_generator_py/logging_demo/liblogging_demo__python.so[0m
+[37.585s] [ 78%] Built target logging_demo__python
+[37.639s] [35m[1mScanning dependencies of target logging_demo_main[0m
+[37.748s] [ 81%] [32mBuilding CXX object CMakeFiles/logging_demo_main.dir/src/logging_demo_main.cpp.o[0m
+[40.865s] [ 83%] [32m[1mLinking CXX executable logging_demo_main[0m
+[41.604s] [ 83%] Built target logging_demo_main
+[41.662s] [35m[1mScanning dependencies of target logging_demo__rosidl_typesupport_c__pyext[0m
+[41.752s] [ 86%] [32mBuilding C object CMakeFiles/logging_demo__rosidl_typesupport_c__pyext.dir/rosidl_generator_py/logging_demo/_logging_demo_s.ep.rosidl_typesupport_c.c.o[0m
+[42.005s] [ 89%] [32m[1mLinking C shared library rosidl_generator_py/logging_demo/logging_demo_s__rosidl_typesupport_c.cpython-36m-x86_64-linux-gnu.so[0m
+[42.128s] [ 89%] Built target logging_demo__rosidl_typesupport_c__pyext
+[42.193s] [35m[1mScanning dependencies of target logging_demo__rosidl_typesupport_fastrtps_c__pyext[0m
+[42.283s] [ 91%] [32mBuilding C object CMakeFiles/logging_demo__rosidl_typesupport_fastrtps_c__pyext.dir/rosidl_generator_py/logging_demo/_logging_demo_s.ep.rosidl_typesupport_fastrtps_c.c.o[0m
+[42.525s] [ 94%] [32m[1mLinking CXX shared library rosidl_generator_py/logging_demo/logging_demo_s__rosidl_typesupport_fastrtps_c.cpython-36m-x86_64-linux-gnu.so[0m
+[42.734s] [ 94%] Built target logging_demo__rosidl_typesupport_fastrtps_c__pyext
+[42.851s] [35m[1mScanning dependencies of target logging_demo__rosidl_typesupport_introspection_c__pyext[0m
+[42.967s] [ 97%] [32mBuilding C object CMakeFiles/logging_demo__rosidl_typesupport_introspection_c__pyext.dir/rosidl_generator_py/logging_demo/_logging_demo_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[43.292s] [100%] [32m[1mLinking C shared library rosidl_generator_py/logging_demo/logging_demo_s__rosidl_typesupport_introspection_c.cpython-36m-x86_64-linux-gnu.so[0m
+[43.498s] [100%] Built target logging_demo__rosidl_typesupport_introspection_c__pyext
+[45.154s] [  5%] Built target logger_usage_component
+[45.300s] [ 13%] Built target logging_demo__rosidl_generator_c
+[45.411s] [ 16%] Built target logging_demo__cpp
+[45.578s] [ 24%] Built target logging_demo__rosidl_typesupport_c
+[45.711s] [ 32%] Built target logging_demo__rosidl_typesupport_introspection_cpp
+[45.874s] [ 40%] Built target logging_demo__rosidl_typesupport_fastrtps_cpp
+[46.030s] [ 48%] Built target logging_demo__rosidl_typesupport_cpp
+[46.196s] [ 56%] Built target logging_demo__rosidl_typesupport_fastrtps_c
+[46.355s] [ 64%] Built target logging_demo__rosidl_typesupport_introspection_c
+[46.538s] [ 64%] Built target logging_demo
+[46.722s] [ 67%] Built target logging_demo__py
+[46.913s] [ 72%] Built target logger_config_component
+[47.001s] [ 78%] Built target logging_demo__python
+[47.090s] [ 83%] Built target logging_demo_main
+[47.165s] [ 89%] Built target logging_demo__rosidl_typesupport_c__pyext
+[47.240s] [ 94%] Built target logging_demo__rosidl_typesupport_fastrtps_c__pyext
+[47.330s] [100%] Built target logging_demo__rosidl_typesupport_introspection_c__pyext
+[47.400s] [36mInstall the project...[0m
+[47.428s] -- Install configuration: ""
+[47.428s] -- Installing: /opt/workspace/install/logging_demo/share/ament_index/resource_index/rosidl_interfaces/logging_demo
+[47.429s] -- Installing: /opt/workspace/install/logging_demo/lib/liblogging_demo__rosidl_typesupport_cpp.so
+[47.430s] -- Set runtime path of "/opt/workspace/install/logging_demo/lib/liblogging_demo__rosidl_typesupport_cpp.so" to ""
+[47.430s] -- Installing: /opt/workspace/install/logging_demo/share/logging_demo/environment/library_path.sh
+[47.430s] -- Installing: /opt/workspace/install/logging_demo/share/logging_demo/environment/library_path.dsv
+[47.431s] -- Installing: /opt/workspace/install/logging_demo/lib/liblogging_demo__rosidl_typesupport_c.so
+[47.431s] -- Set runtime path of "/opt/workspace/install/logging_demo/lib/liblogging_demo__rosidl_typesupport_c.so" to ""
+[47.432s] -- Installing: /opt/workspace/install/logging_demo/include/logging_demo
+[47.433s] -- Installing: /opt/workspace/install/logging_demo/include/logging_demo/srv
+[47.433s] -- Installing: /opt/workspace/install/logging_demo/include/logging_demo/srv/config_logger__type_support.cpp
+[47.433s] -- Installing: /opt/workspace/install/logging_demo/include/logging_demo/srv/config_logger__rosidl_typesupport_introspection_cpp.hpp
+[47.434s] -- Installing: /opt/workspace/install/logging_demo/lib/liblogging_demo__rosidl_typesupport_introspection_cpp.so
+[47.434s] -- Set runtime path of "/opt/workspace/install/logging_demo/lib/liblogging_demo__rosidl_typesupport_introspection_cpp.so" to ""
+[47.435s] -- Up-to-date: /opt/workspace/install/logging_demo/include/logging_demo
+[47.435s] -- Installing: /opt/workspace/install/logging_demo/include/logging_demo/msg
+[47.435s] -- Installing: /opt/workspace/install/logging_demo/include/logging_demo/msg/rosidl_generator_c__visibility_control.h
+[47.436s] -- Up-to-date: /opt/workspace/install/logging_demo/include/logging_demo/srv
+[47.436s] -- Installing: /opt/workspace/install/logging_demo/include/logging_demo/srv/config_logger__functions.h
+[47.436s] -- Installing: /opt/workspace/install/logging_demo/include/logging_demo/srv/config_logger.h
+[47.437s] -- Installing: /opt/workspace/install/logging_demo/include/logging_demo/srv/config_logger__struct.h
+[47.437s] -- Installing: /opt/workspace/install/logging_demo/include/logging_demo/srv/config_logger__functions.c
+[47.437s] -- Installing: /opt/workspace/install/logging_demo/include/logging_demo/srv/config_logger__type_support.h
+[47.438s] -- Installing: /opt/workspace/install/logging_demo/lib/liblogging_demo__rosidl_generator_c.so
+[47.438s] -- Set runtime path of "/opt/workspace/install/logging_demo/lib/liblogging_demo__rosidl_generator_c.so" to ""
+[47.439s] -- Up-to-date: /opt/workspace/install/logging_demo/include/logging_demo
+[47.439s] -- Up-to-date: /opt/workspace/install/logging_demo/include/logging_demo/srv
+[47.439s] -- Installing: /opt/workspace/install/logging_demo/include/logging_demo/srv/config_logger.hpp
+[47.440s] -- Installing: /opt/workspace/install/logging_demo/include/logging_demo/srv/config_logger__struct.hpp
+[47.440s] -- Installing: /opt/workspace/install/logging_demo/include/logging_demo/srv/config_logger__traits.hpp
+[47.441s] -- Up-to-date: /opt/workspace/install/logging_demo/include/logging_demo
+[47.441s] -- Up-to-date: /opt/workspace/install/logging_demo/include/logging_demo/msg
+[47.441s] -- Installing: /opt/workspace/install/logging_demo/include/logging_demo/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[47.441s] -- Up-to-date: /opt/workspace/install/logging_demo/include/logging_demo/srv
+[47.441s] -- Installing: /opt/workspace/install/logging_demo/include/logging_demo/srv/config_logger__rosidl_typesupport_introspection_c.h
+[47.442s] -- Installing: /opt/workspace/install/logging_demo/include/logging_demo/srv/config_logger__type_support.c
+[47.442s] -- Installing: /opt/workspace/install/logging_demo/lib/liblogging_demo__rosidl_typesupport_introspection_c.so
+[47.442s] -- Set runtime path of "/opt/workspace/install/logging_demo/lib/liblogging_demo__rosidl_typesupport_introspection_c.so" to ""
+[47.443s] -- Up-to-date: /opt/workspace/install/logging_demo/include/logging_demo
+[47.443s] -- Up-to-date: /opt/workspace/install/logging_demo/include/logging_demo/msg
+[47.443s] -- Installing: /opt/workspace/install/logging_demo/include/logging_demo/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[47.443s] -- Up-to-date: /opt/workspace/install/logging_demo/include/logging_demo/srv
+[47.444s] -- Installing: /opt/workspace/install/logging_demo/include/logging_demo/srv/config_logger__rosidl_typesupport_fastrtps_c.h
+[47.444s] -- Installing: /opt/workspace/install/logging_demo/lib/liblogging_demo__rosidl_typesupport_fastrtps_c.so
+[47.445s] -- Set runtime path of "/opt/workspace/install/logging_demo/lib/liblogging_demo__rosidl_typesupport_fastrtps_c.so" to ""
+[47.445s] -- Up-to-date: /opt/workspace/install/logging_demo/include/logging_demo
+[47.445s] -- Up-to-date: /opt/workspace/install/logging_demo/include/logging_demo/msg
+[47.445s] -- Installing: /opt/workspace/install/logging_demo/include/logging_demo/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[47.446s] -- Up-to-date: /opt/workspace/install/logging_demo/include/logging_demo/srv
+[47.446s] -- Installing: /opt/workspace/install/logging_demo/include/logging_demo/srv/config_logger__rosidl_typesupport_fastrtps_cpp.hpp
+[47.446s] -- Installing: /opt/workspace/install/logging_demo/include/logging_demo/srv/dds_fastrtps
+[47.447s] -- Installing: /opt/workspace/install/logging_demo/lib/liblogging_demo__rosidl_typesupport_fastrtps_cpp.so
+[47.447s] -- Set runtime path of "/opt/workspace/install/logging_demo/lib/liblogging_demo__rosidl_typesupport_fastrtps_cpp.so" to ""
+[47.448s] -- Installing: /opt/workspace/install/logging_demo/share/logging_demo/environment/pythonpath.sh
+[47.448s] -- Installing: /opt/workspace/install/logging_demo/share/logging_demo/environment/pythonpath.dsv
+[47.448s] -- Installing: /opt/workspace/install/logging_demo/lib/python3.6/site-packages/logging_demo/__init__.py
+[47.601s] Compiling '/opt/workspace/install/logging_demo/lib/python3.6/site-packages/logging_demo/__init__.py'...
+[47.610s] -- Installing: /opt/workspace/install/logging_demo/lib/python3.6/site-packages/logging_demo/srv
+[47.611s] -- Installing: /opt/workspace/install/logging_demo/lib/python3.6/site-packages/logging_demo/srv/_config_logger.py
+[47.611s] -- Installing: /opt/workspace/install/logging_demo/lib/python3.6/site-packages/logging_demo/srv/__init__.py
+[47.612s] -- Installing: /opt/workspace/install/logging_demo/lib/python3.6/site-packages/logging_demo/srv/_config_logger_s.c
+[47.613s] -- Installing: /opt/workspace/install/logging_demo/lib/python3.6/site-packages/logging_demo/logging_demo_s__rosidl_typesupport_c.cpython-36m-x86_64-linux-gnu.so
+[47.614s] -- Set runtime path of "/opt/workspace/install/logging_demo/lib/python3.6/site-packages/logging_demo/logging_demo_s__rosidl_typesupport_c.cpython-36m-x86_64-linux-gnu.so" to ""
+[47.615s] -- Installing: /opt/workspace/install/logging_demo/lib/python3.6/site-packages/logging_demo/logging_demo_s__rosidl_typesupport_introspection_c.cpython-36m-x86_64-linux-gnu.so
+[47.617s] -- Set runtime path of "/opt/workspace/install/logging_demo/lib/python3.6/site-packages/logging_demo/logging_demo_s__rosidl_typesupport_introspection_c.cpython-36m-x86_64-linux-gnu.so" to ""
+[47.618s] -- Installing: /opt/workspace/install/logging_demo/lib/python3.6/site-packages/logging_demo/logging_demo_s__rosidl_typesupport_fastrtps_c.cpython-36m-x86_64-linux-gnu.so
+[47.619s] -- Set runtime path of "/opt/workspace/install/logging_demo/lib/python3.6/site-packages/logging_demo/logging_demo_s__rosidl_typesupport_fastrtps_c.cpython-36m-x86_64-linux-gnu.so" to ""
+[47.620s] -- Installing: /opt/workspace/install/logging_demo/lib/liblogging_demo__python.so
+[47.621s] -- Set runtime path of "/opt/workspace/install/logging_demo/lib/liblogging_demo__python.so" to ""
+[47.621s] -- Installing: /opt/workspace/install/logging_demo/share/logging_demo/srv/ConfigLogger.idl
+[47.622s] -- Installing: /opt/workspace/install/logging_demo/share/logging_demo/srv/ConfigLogger.srv
+[47.623s] -- Installing: /opt/workspace/install/logging_demo/share/logging_demo/srv/ConfigLogger_Request.msg
+[47.623s] -- Installing: /opt/workspace/install/logging_demo/share/logging_demo/srv/ConfigLogger_Response.msg
+[47.624s] -- Installing: /opt/workspace/install/logging_demo/lib/liblogger_config_component.so
+[47.626s] -- Set runtime path of "/opt/workspace/install/logging_demo/lib/liblogger_config_component.so" to ""
+[47.627s] -- Installing: /opt/workspace/install/logging_demo/lib/liblogger_usage_component.so
+[47.629s] -- Set runtime path of "/opt/workspace/install/logging_demo/lib/liblogger_usage_component.so" to ""
+[47.630s] -- Installing: /opt/workspace/install/logging_demo/lib/logging_demo/logging_demo_main
+[47.633s] -- Set runtime path of "/opt/workspace/install/logging_demo/lib/logging_demo/logging_demo_main" to ""
+[47.633s] -- Installing: /opt/workspace/install/logging_demo/share/ament_index/resource_index/package_run_dependencies/logging_demo
+[47.633s] -- Installing: /opt/workspace/install/logging_demo/share/ament_index/resource_index/parent_prefix_path/logging_demo
+[47.633s] -- Installing: /opt/workspace/install/logging_demo/share/logging_demo/environment/ament_prefix_path.sh
+[47.634s] -- Installing: /opt/workspace/install/logging_demo/share/logging_demo/environment/ament_prefix_path.dsv
+[47.634s] -- Installing: /opt/workspace/install/logging_demo/share/logging_demo/environment/path.sh
+[47.634s] -- Installing: /opt/workspace/install/logging_demo/share/logging_demo/environment/path.dsv
+[47.635s] -- Installing: /opt/workspace/install/logging_demo/share/logging_demo/local_setup.bash
+[47.635s] -- Installing: /opt/workspace/install/logging_demo/share/logging_demo/local_setup.sh
+[47.635s] -- Installing: /opt/workspace/install/logging_demo/share/logging_demo/local_setup.zsh
+[47.635s] -- Installing: /opt/workspace/install/logging_demo/share/logging_demo/local_setup.dsv
+[47.636s] -- Installing: /opt/workspace/install/logging_demo/share/logging_demo/package.dsv
+[47.637s] -- Installing: /opt/workspace/install/logging_demo/share/ament_index/resource_index/packages/logging_demo
+[47.637s] -- Installing: /opt/workspace/install/logging_demo/share/ament_index/resource_index/rclcpp_components/logging_demo
+[47.637s] -- Installing: /opt/workspace/install/logging_demo/share/logging_demo/cmake/rosidl_cmake-extras.cmake
+[47.638s] -- Installing: /opt/workspace/install/logging_demo/share/logging_demo/cmake/ament_cmake_export_libraries-extras.cmake
+[47.638s] -- Installing: /opt/workspace/install/logging_demo/share/logging_demo/cmake/ament_cmake_export_include_directories-extras.cmake
+[47.638s] -- Installing: /opt/workspace/install/logging_demo/share/logging_demo/cmake/logging_demoConfig.cmake
+[47.638s] -- Installing: /opt/workspace/install/logging_demo/share/logging_demo/cmake/logging_demoConfig-version.cmake
+[47.638s] -- Installing: /opt/workspace/install/logging_demo/share/logging_demo/package.xml

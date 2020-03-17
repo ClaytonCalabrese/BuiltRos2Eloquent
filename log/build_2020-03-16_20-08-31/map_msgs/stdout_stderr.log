@@ -1,0 +1,457 @@
+[0.749s] -- The C compiler identification is GNU 7.4.0
+[0.908s] -- The CXX compiler identification is GNU 7.4.0
+[0.920s] -- Check for working C compiler: /usr/bin/cc
+[1.114s] -- Check for working C compiler: /usr/bin/cc -- works
+[1.115s] -- Detecting C compiler ABI info
+[1.361s] -- Detecting C compiler ABI info - done
+[1.370s] -- Detecting C compile features
+[1.953s] -- Detecting C compile features - done
+[1.958s] -- Check for working CXX compiler: /usr/bin/c++
+[2.122s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[2.124s] -- Detecting CXX compiler ABI info
+[2.291s] -- Detecting CXX compiler ABI info - done
+[2.302s] -- Detecting CXX compile features
+[2.971s] -- Detecting CXX compile features - done
+[2.982s] -- Found ament_cmake: 0.8.2 (/opt/workspace/install/ament_cmake/share/ament_cmake/cmake)
+[3.085s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[3.086s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[3.535s] -- Found rosidl_default_generators: 0.8.0 (/opt/workspace/install/rosidl_default_generators/share/rosidl_default_generators/cmake)
+[3.730s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "1.1.1") 
+[3.773s] -- Found FastRTPS: /opt/workspace/install/fastrtps/include  
+[3.805s] -- Found rosidl_adapter: 0.8.2 (/opt/workspace/install/rosidl_adapter/share/rosidl_adapter/cmake)
+[3.984s] -- Found nav_msgs: 0.8.1 (/opt/workspace/install/nav_msgs/share/nav_msgs/cmake)
+[4.063s] -- Found sensor_msgs: 0.8.1 (/opt/workspace/install/sensor_msgs/share/sensor_msgs/cmake)
+[4.164s] -- Found PythonInterp: /usr/bin/python3 (found version "3.6.9") 
+[4.969s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[5.101s] -- Found ament_cmake_cppcheck: 0.8.1 (/opt/workspace/install/ament_cmake_cppcheck/share/ament_cmake_cppcheck/cmake)
+[5.111s] -- Found ament_cmake_cpplint: 0.8.1 (/opt/workspace/install/ament_cmake_cpplint/share/ament_cmake_cpplint/cmake)
+[5.119s] -- Found ament_cmake_uncrustify: 0.8.1 (/opt/workspace/install/ament_cmake_uncrustify/share/ament_cmake_uncrustify/cmake)
+[5.245s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_introspection_cpp;rosidl_typesupport_fastrtps_cpp
+[7.297s] -- Found rmw_implementation_cmake: 0.8.1 (/opt/workspace/install/rmw_implementation_cmake/share/rmw_implementation_cmake/cmake)
+[7.374s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3.5") 
+[7.381s] -- Found python_cmake_module: 0.8.0 (/opt/workspace/install/python_cmake_module/share/python_cmake_module/cmake)
+[7.460s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.6m.so (found suitable version "3.6.9", minimum required is "3.5") 
+[7.461s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[7.461s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.6m
+[7.461s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.6m.so
+[7.521s] -- Found PythonExtra: .so  
+[8.517s] -- Found ament_cmake_flake8: 0.8.1 (/opt/workspace/install/ament_cmake_flake8/share/ament_cmake_flake8/cmake)
+[8.524s] -- Found ament_cmake_pep257: 0.8.1 (/opt/workspace/install/ament_cmake_pep257/share/ament_cmake_pep257/cmake)
+[8.538s] -- Configuring done
+[9.119s] -- Generating done
+[9.127s] -- Build files have been written to: /opt/workspace/build/map_msgs
+[9.242s] [35m[1mScanning dependencies of target map_msgs__cpp[0m
+[9.271s] [  0%] [34m[1mGenerating C++ code for ROS interfaces[0m
+[11.933s] [  0%] Built target map_msgs__cpp
+[11.961s] [  1%] [34m[1mGenerating C code for ROS interfaces[0m
+[15.989s] [35m[1mScanning dependencies of target map_msgs__rosidl_generator_c[0m
+[16.042s] [  2%] [32mBuilding C object CMakeFiles/map_msgs__rosidl_generator_c.dir/rosidl_generator_c/map_msgs/msg/occupancy_grid_update__functions.c.o[0m
+[16.134s] [  3%] [32mBuilding C object CMakeFiles/map_msgs__rosidl_generator_c.dir/rosidl_generator_c/map_msgs/srv/get_map_roi__functions.c.o[0m
+[16.234s] [  4%] [32mBuilding C object CMakeFiles/map_msgs__rosidl_generator_c.dir/rosidl_generator_c/map_msgs/srv/get_point_map_roi__functions.c.o[0m
+[16.328s] [  5%] [32mBuilding C object CMakeFiles/map_msgs__rosidl_generator_c.dir/rosidl_generator_c/map_msgs/srv/get_point_map__functions.c.o[0m
+[16.427s] [  6%] [32mBuilding C object CMakeFiles/map_msgs__rosidl_generator_c.dir/rosidl_generator_c/map_msgs/srv/projected_maps_info__functions.c.o[0m
+[16.519s] [  7%] [32mBuilding C object CMakeFiles/map_msgs__rosidl_generator_c.dir/rosidl_generator_c/map_msgs/srv/save_map__functions.c.o[0m
+[16.613s] [  8%] [32mBuilding C object CMakeFiles/map_msgs__rosidl_generator_c.dir/rosidl_generator_c/map_msgs/srv/set_map_projections__functions.c.o[0m
+[16.707s] [  9%] [32mBuilding C object CMakeFiles/map_msgs__rosidl_generator_c.dir/rosidl_generator_c/map_msgs/msg/projected_map__functions.c.o[0m
+[16.794s] [ 10%] [32mBuilding C object CMakeFiles/map_msgs__rosidl_generator_c.dir/rosidl_generator_c/map_msgs/msg/projected_map_info__functions.c.o[0m
+[16.880s] [ 11%] [32mBuilding C object CMakeFiles/map_msgs__rosidl_generator_c.dir/rosidl_generator_c/map_msgs/msg/point_cloud2_update__functions.c.o[0m
+[16.968s] [ 12%] [32m[1mLinking C shared library libmap_msgs__rosidl_generator_c.so[0m
+[17.107s] [ 12%] Built target map_msgs__rosidl_generator_c
+[17.140s] [ 13%] [34m[1mGenerating C++ introspection for ROS interfaces[0m
+[19.755s] [35m[1mScanning dependencies of target map_msgs__rosidl_typesupport_introspection_cpp[0m
+[19.809s] [ 14%] [32mBuilding CXX object CMakeFiles/map_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/map_msgs/msg/occupancy_grid_update__type_support.cpp.o[0m
+[20.384s] [ 15%] [32mBuilding CXX object CMakeFiles/map_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/map_msgs/msg/projected_map__type_support.cpp.o[0m
+[20.836s] [ 16%] [32mBuilding CXX object CMakeFiles/map_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/map_msgs/srv/get_map_roi__type_support.cpp.o[0m
+[21.371s] [ 17%] [32mBuilding CXX object CMakeFiles/map_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/map_msgs/srv/get_point_map_roi__type_support.cpp.o[0m
+[21.932s] [ 18%] [32mBuilding CXX object CMakeFiles/map_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/map_msgs/srv/get_point_map__type_support.cpp.o[0m
+[22.360s] [ 19%] [32mBuilding CXX object CMakeFiles/map_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/map_msgs/srv/projected_maps_info__type_support.cpp.o[0m
+[22.914s] [ 20%] [32mBuilding CXX object CMakeFiles/map_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/map_msgs/srv/save_map__type_support.cpp.o[0m
+[23.424s] [ 21%] [32mBuilding CXX object CMakeFiles/map_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/map_msgs/srv/set_map_projections__type_support.cpp.o[0m
+[23.931s] [ 22%] [32mBuilding CXX object CMakeFiles/map_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/map_msgs/msg/projected_map_info__type_support.cpp.o[0m
+[24.353s] [ 23%] [32mBuilding CXX object CMakeFiles/map_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/map_msgs/msg/point_cloud2_update__type_support.cpp.o[0m
+[24.722s] [ 24%] [32m[1mLinking CXX shared library libmap_msgs__rosidl_typesupport_introspection_cpp.so[0m
+[24.929s] [ 24%] Built target map_msgs__rosidl_typesupport_introspection_cpp
+[24.960s] [ 25%] [34m[1mGenerating C introspection for ROS interfaces[0m
+[27.389s] [35m[1mScanning dependencies of target map_msgs__rosidl_typesupport_introspection_c[0m
+[27.435s] [ 26%] [32mBuilding C object CMakeFiles/map_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/map_msgs/msg/occupancy_grid_update__type_support.c.o[0m
+[27.483s] [ 27%] [32mBuilding C object CMakeFiles/map_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/map_msgs/srv/get_map_roi__type_support.c.o[0m
+[27.554s] [ 28%] [32mBuilding C object CMakeFiles/map_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/map_msgs/srv/get_point_map_roi__type_support.c.o[0m
+[27.612s] [ 29%] [32mBuilding C object CMakeFiles/map_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/map_msgs/srv/get_point_map__type_support.c.o[0m
+[27.682s] [ 30%] [32mBuilding C object CMakeFiles/map_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/map_msgs/srv/projected_maps_info__type_support.c.o[0m
+[27.741s] [ 31%] [32mBuilding C object CMakeFiles/map_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/map_msgs/srv/save_map__type_support.c.o[0m
+[27.796s] [ 32%] [32mBuilding C object CMakeFiles/map_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/map_msgs/srv/set_map_projections__type_support.c.o[0m
+[27.862s] [ 33%] [32mBuilding C object CMakeFiles/map_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/map_msgs/msg/projected_map__type_support.c.o[0m
+[27.932s] [ 34%] [32mBuilding C object CMakeFiles/map_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/map_msgs/msg/projected_map_info__type_support.c.o[0m
+[27.994s] [ 35%] [32mBuilding C object CMakeFiles/map_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/map_msgs/msg/point_cloud2_update__type_support.c.o[0m
+[28.064s] [ 36%] [32m[1mLinking C shared library libmap_msgs__rosidl_typesupport_introspection_c.so[0m
+[28.164s] [ 36%] Built target map_msgs__rosidl_typesupport_introspection_c
+[28.185s] [ 37%] [34m[1mGenerating C type support dispatch for ROS interfaces[0m
+[29.948s] [35m[1mScanning dependencies of target map_msgs__rosidl_typesupport_c[0m
+[29.994s] [ 38%] [32mBuilding CXX object CMakeFiles/map_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/map_msgs/msg/occupancy_grid_update__type_support.cpp.o[0m
+[30.060s] [ 39%] [32mBuilding CXX object CMakeFiles/map_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/map_msgs/srv/get_point_map_roi__type_support.cpp.o[0m
+[30.122s] [ 40%] [32mBuilding CXX object CMakeFiles/map_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/map_msgs/srv/get_point_map__type_support.cpp.o[0m
+[30.193s] [ 41%] [32mBuilding CXX object CMakeFiles/map_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/map_msgs/srv/projected_maps_info__type_support.cpp.o[0m
+[30.262s] [ 41%] [32mBuilding CXX object CMakeFiles/map_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/map_msgs/srv/save_map__type_support.cpp.o[0m
+[30.330s] [ 42%] [32mBuilding CXX object CMakeFiles/map_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/map_msgs/srv/set_map_projections__type_support.cpp.o[0m
+[30.396s] [ 43%] [32mBuilding CXX object CMakeFiles/map_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/map_msgs/srv/get_map_roi__type_support.cpp.o[0m
+[30.463s] [ 44%] [32mBuilding CXX object CMakeFiles/map_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/map_msgs/msg/projected_map__type_support.cpp.o[0m
+[30.532s] [ 45%] [32mBuilding CXX object CMakeFiles/map_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/map_msgs/msg/projected_map_info__type_support.cpp.o[0m
+[30.591s] [ 46%] [32mBuilding CXX object CMakeFiles/map_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/map_msgs/msg/point_cloud2_update__type_support.cpp.o[0m
+[30.656s] [ 47%] [32m[1mLinking CXX shared library libmap_msgs__rosidl_typesupport_c.so[0m
+[30.791s] [ 47%] Built target map_msgs__rosidl_typesupport_c
+[30.824s] [ 48%] [34m[1mGenerating C++ type support for eProsima Fast-RTPS[0m
+[33.310s] [35m[1mScanning dependencies of target map_msgs__rosidl_typesupport_fastrtps_cpp[0m
+[33.368s] [ 49%] [32mBuilding CXX object CMakeFiles/map_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/map_msgs/msg/dds_fastrtps/occupancy_grid_update__type_support.cpp.o[0m
+[33.919s] [ 50%] [32mBuilding CXX object CMakeFiles/map_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/map_msgs/srv/dds_fastrtps/get_point_map__type_support.cpp.o[0m
+[34.429s] [ 51%] [32mBuilding CXX object CMakeFiles/map_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/map_msgs/srv/dds_fastrtps/projected_maps_info__type_support.cpp.o[0m
+[35.003s] [ 52%] [32mBuilding CXX object CMakeFiles/map_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/map_msgs/srv/dds_fastrtps/save_map__type_support.cpp.o[0m
+[35.498s] [ 53%] [32mBuilding CXX object CMakeFiles/map_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/map_msgs/srv/dds_fastrtps/set_map_projections__type_support.cpp.o[0m
+[36.023s] [ 54%] [32mBuilding CXX object CMakeFiles/map_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/map_msgs/srv/dds_fastrtps/get_point_map_roi__type_support.cpp.o[0m
+[36.514s] [ 55%] [32mBuilding CXX object CMakeFiles/map_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/map_msgs/srv/dds_fastrtps/get_map_roi__type_support.cpp.o[0m
+[37.021s] [ 56%] [32mBuilding CXX object CMakeFiles/map_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/map_msgs/msg/dds_fastrtps/projected_map__type_support.cpp.o[0m
+[37.512s] [ 56%] [32mBuilding CXX object CMakeFiles/map_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/map_msgs/msg/dds_fastrtps/projected_map_info__type_support.cpp.o[0m
+[37.993s] [ 57%] [32mBuilding CXX object CMakeFiles/map_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/map_msgs/msg/dds_fastrtps/point_cloud2_update__type_support.cpp.o[0m
+[38.491s] [ 58%] [32m[1mLinking CXX shared library libmap_msgs__rosidl_typesupport_fastrtps_cpp.so[0m
+[38.666s] [ 58%] Built target map_msgs__rosidl_typesupport_fastrtps_cpp
+[38.687s] [ 59%] [34m[1mGenerating C++ type support dispatch for ROS interfaces[0m
+[40.140s] [35m[1mScanning dependencies of target map_msgs__rosidl_typesupport_cpp[0m
+[40.171s] [ 60%] [32mBuilding CXX object CMakeFiles/map_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/map_msgs/msg/occupancy_grid_update__type_support.cpp.o[0m
+[40.511s] [ 61%] [32mBuilding CXX object CMakeFiles/map_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/map_msgs/srv/get_point_map__type_support.cpp.o[0m
+[40.850s] [ 62%] [32mBuilding CXX object CMakeFiles/map_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/map_msgs/srv/projected_maps_info__type_support.cpp.o[0m
+[41.183s] [ 63%] [32mBuilding CXX object CMakeFiles/map_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/map_msgs/srv/save_map__type_support.cpp.o[0m
+[41.486s] [ 64%] [32mBuilding CXX object CMakeFiles/map_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/map_msgs/srv/set_map_projections__type_support.cpp.o[0m
+[41.790s] [ 65%] [32mBuilding CXX object CMakeFiles/map_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/map_msgs/srv/get_point_map_roi__type_support.cpp.o[0m
+[42.118s] [ 66%] [32mBuilding CXX object CMakeFiles/map_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/map_msgs/srv/get_map_roi__type_support.cpp.o[0m
+[42.434s] [ 67%] [32mBuilding CXX object CMakeFiles/map_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/map_msgs/msg/projected_map__type_support.cpp.o[0m
+[42.749s] [ 68%] [32mBuilding CXX object CMakeFiles/map_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/map_msgs/msg/projected_map_info__type_support.cpp.o[0m
+[43.068s] [ 69%] [32mBuilding CXX object CMakeFiles/map_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/map_msgs/msg/point_cloud2_update__type_support.cpp.o[0m
+[43.381s] [ 70%] [32m[1mLinking CXX shared library libmap_msgs__rosidl_typesupport_cpp.so[0m
+[43.466s] [ 70%] Built target map_msgs__rosidl_typesupport_cpp
+[43.487s] [ 71%] [34m[1mGenerating C type support for eProsima Fast-RTPS[0m
+[45.632s] [35m[1mScanning dependencies of target map_msgs__rosidl_typesupport_fastrtps_c[0m
+[45.705s] [ 72%] [32mBuilding CXX object CMakeFiles/map_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/map_msgs/msg/occupancy_grid_update__type_support_c.cpp.o[0m
+[46.131s] [ 73%] [32mBuilding CXX object CMakeFiles/map_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/map_msgs/srv/projected_maps_info__type_support_c.cpp.o[0m
+[46.549s] [ 74%] [32mBuilding CXX object CMakeFiles/map_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/map_msgs/srv/save_map__type_support_c.cpp.o[0m
+[47.006s] [ 75%] [32mBuilding CXX object CMakeFiles/map_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/map_msgs/srv/set_map_projections__type_support_c.cpp.o[0m
+[47.421s] [ 76%] [32mBuilding CXX object CMakeFiles/map_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/map_msgs/srv/get_point_map__type_support_c.cpp.o[0m
+[47.832s] [ 77%] [32mBuilding CXX object CMakeFiles/map_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/map_msgs/srv/get_point_map_roi__type_support_c.cpp.o[0m
+[48.267s] [ 78%] [32mBuilding CXX object CMakeFiles/map_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/map_msgs/srv/get_map_roi__type_support_c.cpp.o[0m
+[48.702s] [ 79%] [32mBuilding CXX object CMakeFiles/map_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/map_msgs/msg/projected_map__type_support_c.cpp.o[0m
+[49.119s] [ 80%] [32mBuilding CXX object CMakeFiles/map_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/map_msgs/msg/projected_map_info__type_support_c.cpp.o[0m
+[49.541s] [ 81%] [32mBuilding CXX object CMakeFiles/map_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/map_msgs/msg/point_cloud2_update__type_support_c.cpp.o[0m
+[49.990s] [ 82%] [32m[1mLinking CXX shared library libmap_msgs__rosidl_typesupport_fastrtps_c.so[0m
+[50.184s] [ 82%] Built target map_msgs__rosidl_typesupport_fastrtps_c
+[50.201s] [35m[1mScanning dependencies of target map_msgs[0m
+[50.218s] [ 82%] Built target map_msgs
+[50.236s] [35m[1mScanning dependencies of target map_msgs__py[0m
+[50.257s] [ 83%] [34m[1mGenerating Python code for ROS interfaces[0m
+[57.776s] [ 83%] Built target map_msgs__py
+[57.863s] [35m[1mScanning dependencies of target map_msgs__python[0m
+[58.133s] [ 84%] [32mBuilding C object CMakeFiles/map_msgs__python.dir/rosidl_generator_py/map_msgs/msg/_occupancy_grid_update_s.c.o[0m
+[58.532s] [ 85%] [32mBuilding C object CMakeFiles/map_msgs__python.dir/rosidl_generator_py/map_msgs/srv/_projected_maps_info_s.c.o[0m
+[58.812s] [ 86%] [32mBuilding C object CMakeFiles/map_msgs__python.dir/rosidl_generator_py/map_msgs/srv/_save_map_s.c.o[0m
+[59.011s] [ 87%] [32mBuilding C object CMakeFiles/map_msgs__python.dir/rosidl_generator_py/map_msgs/srv/_set_map_projections_s.c.o[0m
+[59.213s] [ 88%] [32mBuilding C object CMakeFiles/map_msgs__python.dir/rosidl_generator_py/map_msgs/srv/_get_point_map_s.c.o[0m
+[59.421s] [ 89%] [32mBuilding C object CMakeFiles/map_msgs__python.dir/rosidl_generator_py/map_msgs/srv/_get_point_map_roi_s.c.o[0m
+[59.651s] [ 90%] [32mBuilding C object CMakeFiles/map_msgs__python.dir/rosidl_generator_py/map_msgs/srv/_get_map_roi_s.c.o[0m
+[59.874s] [ 91%] [32mBuilding C object CMakeFiles/map_msgs__python.dir/rosidl_generator_py/map_msgs/msg/_projected_map_s.c.o[0m
+[60.079s] [ 92%] [32mBuilding C object CMakeFiles/map_msgs__python.dir/rosidl_generator_py/map_msgs/msg/_projected_map_info_s.c.o[0m
+[60.281s] [ 93%] [32mBuilding C object CMakeFiles/map_msgs__python.dir/rosidl_generator_py/map_msgs/msg/_point_cloud2_update_s.c.o[0m
+[60.453s] [ 94%] [32m[1mLinking C shared library rosidl_generator_py/map_msgs/libmap_msgs__python.so[0m
+[60.581s] [ 94%] Built target map_msgs__python
+[60.608s] [35m[1mScanning dependencies of target map_msgs__rosidl_typesupport_c__pyext[0m
+[60.674s] [ 95%] [32mBuilding C object CMakeFiles/map_msgs__rosidl_typesupport_c__pyext.dir/rosidl_generator_py/map_msgs/_map_msgs_s.ep.rosidl_typesupport_c.c.o[0m
+[61.033s] [ 96%] [32m[1mLinking C shared library rosidl_generator_py/map_msgs/map_msgs_s__rosidl_typesupport_c.cpython-36m-x86_64-linux-gnu.so[0m
+[61.239s] [ 96%] Built target map_msgs__rosidl_typesupport_c__pyext
+[61.273s] [35m[1mScanning dependencies of target map_msgs__rosidl_typesupport_fastrtps_c__pyext[0m
+[61.354s] [ 97%] [32mBuilding C object CMakeFiles/map_msgs__rosidl_typesupport_fastrtps_c__pyext.dir/rosidl_generator_py/map_msgs/_map_msgs_s.ep.rosidl_typesupport_fastrtps_c.c.o[0m
+[61.732s] [ 98%] [32m[1mLinking CXX shared library rosidl_generator_py/map_msgs/map_msgs_s__rosidl_typesupport_fastrtps_c.cpython-36m-x86_64-linux-gnu.so[0m
+[61.989s] [ 98%] Built target map_msgs__rosidl_typesupport_fastrtps_c__pyext
+[62.024s] [35m[1mScanning dependencies of target map_msgs__rosidl_typesupport_introspection_c__pyext[0m
+[62.106s] [ 99%] [32mBuilding C object CMakeFiles/map_msgs__rosidl_typesupport_introspection_c__pyext.dir/rosidl_generator_py/map_msgs/_map_msgs_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[62.467s] [100%] [32m[1mLinking C shared library rosidl_generator_py/map_msgs/map_msgs_s__rosidl_typesupport_introspection_c.cpython-36m-x86_64-linux-gnu.so[0m
+[62.686s] [100%] Built target map_msgs__rosidl_typesupport_introspection_c__pyext
+[63.271s] [  0%] Built target map_msgs__cpp
+[63.347s] [ 12%] Built target map_msgs__rosidl_generator_c
+[63.425s] [ 24%] Built target map_msgs__rosidl_typesupport_introspection_cpp
+[63.511s] [ 36%] Built target map_msgs__rosidl_typesupport_introspection_c
+[63.586s] [ 47%] Built target map_msgs__rosidl_typesupport_c
+[63.692s] [ 58%] Built target map_msgs__rosidl_typesupport_fastrtps_cpp
+[63.769s] [ 70%] Built target map_msgs__rosidl_typesupport_cpp
+[63.869s] [ 82%] Built target map_msgs__rosidl_typesupport_fastrtps_c
+[63.929s] [ 82%] Built target map_msgs
+[63.994s] [ 83%] Built target map_msgs__py
+[64.085s] [ 94%] Built target map_msgs__python
+[64.153s] [ 96%] Built target map_msgs__rosidl_typesupport_c__pyext
+[64.228s] [ 98%] Built target map_msgs__rosidl_typesupport_fastrtps_c__pyext
+[64.304s] [100%] Built target map_msgs__rosidl_typesupport_introspection_c__pyext
+[64.354s] [36mInstall the project...[0m
+[64.378s] -- Install configuration: ""
+[64.379s] -- Installing: /opt/workspace/install/map_msgs/share/ament_index/resource_index/rosidl_interfaces/map_msgs
+[64.379s] -- Installing: /opt/workspace/install/map_msgs/lib/libmap_msgs__rosidl_typesupport_c.so
+[64.383s] -- Set runtime path of "/opt/workspace/install/map_msgs/lib/libmap_msgs__rosidl_typesupport_c.so" to ""
+[64.384s] -- Installing: /opt/workspace/install/map_msgs/share/map_msgs/environment/library_path.sh
+[64.385s] -- Installing: /opt/workspace/install/map_msgs/share/map_msgs/environment/library_path.dsv
+[64.386s] -- Installing: /opt/workspace/install/map_msgs/lib/libmap_msgs__rosidl_typesupport_cpp.so
+[64.387s] -- Set runtime path of "/opt/workspace/install/map_msgs/lib/libmap_msgs__rosidl_typesupport_cpp.so" to ""
+[64.388s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs
+[64.389s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/msg
+[64.389s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/msg/point_cloud2_update__rosidl_typesupport_fastrtps_c.h
+[64.390s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/msg/projected_map__rosidl_typesupport_fastrtps_c.h
+[64.390s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/msg/projected_map_info__rosidl_typesupport_fastrtps_c.h
+[64.391s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[64.391s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/msg/occupancy_grid_update__rosidl_typesupport_fastrtps_c.h
+[64.392s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv
+[64.393s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/get_map_roi__rosidl_typesupport_fastrtps_c.h
+[64.394s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/projected_maps_info__rosidl_typesupport_fastrtps_c.h
+[64.394s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/get_point_map_roi__rosidl_typesupport_fastrtps_c.h
+[64.395s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/get_point_map__rosidl_typesupport_fastrtps_c.h
+[64.395s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/set_map_projections__rosidl_typesupport_fastrtps_c.h
+[64.396s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/save_map__rosidl_typesupport_fastrtps_c.h
+[64.397s] -- Installing: /opt/workspace/install/map_msgs/lib/libmap_msgs__rosidl_typesupport_fastrtps_c.so
+[64.398s] -- Set runtime path of "/opt/workspace/install/map_msgs/lib/libmap_msgs__rosidl_typesupport_fastrtps_c.so" to ""
+[64.399s] -- Up-to-date: /opt/workspace/install/map_msgs/include/map_msgs
+[64.399s] -- Up-to-date: /opt/workspace/install/map_msgs/include/map_msgs/msg
+[64.399s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/msg/occupancy_grid_update__functions.h
+[64.400s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/msg/projected_map_info.h
+[64.401s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/msg/point_cloud2_update__struct.h
+[64.401s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/msg/projected_map__type_support.h
+[64.402s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/msg/occupancy_grid_update.h
+[64.402s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/msg/projected_map_info__functions.h
+[64.403s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/msg/point_cloud2_update__functions.c
+[64.403s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/msg/occupancy_grid_update__type_support.h
+[64.404s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/msg/projected_map__functions.h
+[64.404s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/msg/point_cloud2_update__functions.h
+[64.405s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/msg/projected_map_info__type_support.h
+[64.405s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/msg/projected_map__struct.h
+[64.406s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/msg/occupancy_grid_update__struct.h
+[64.407s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/msg/projected_map.h
+[64.407s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/msg/projected_map_info__functions.c
+[64.408s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/msg/projected_map__functions.c
+[64.409s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/msg/occupancy_grid_update__functions.c
+[64.410s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/msg/point_cloud2_update.h
+[64.410s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/msg/projected_map_info__struct.h
+[64.411s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/msg/point_cloud2_update__type_support.h
+[64.411s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/msg/rosidl_generator_c__visibility_control.h
+[64.412s] -- Up-to-date: /opt/workspace/install/map_msgs/include/map_msgs/srv
+[64.412s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/get_map_roi__functions.c
+[64.413s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/set_map_projections.h
+[64.413s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/get_map_roi.h
+[64.414s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/get_point_map_roi.h
+[64.414s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/get_point_map__type_support.h
+[64.415s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/get_point_map__functions.h
+[64.415s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/save_map.h
+[64.416s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/projected_maps_info__functions.h
+[64.416s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/save_map__struct.h
+[64.417s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/get_map_roi__struct.h
+[64.417s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/projected_maps_info__type_support.h
+[64.418s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/set_map_projections__functions.c
+[64.419s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/save_map__functions.h
+[64.419s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/set_map_projections__functions.h
+[64.420s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/get_point_map__functions.c
+[64.420s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/projected_maps_info__struct.h
+[64.421s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/get_point_map_roi__functions.h
+[64.421s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/get_point_map_roi__type_support.h
+[64.422s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/get_point_map_roi__struct.h
+[64.422s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/get_point_map__struct.h
+[64.423s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/set_map_projections__type_support.h
+[64.423s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/get_point_map.h
+[64.424s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/set_map_projections__struct.h
+[64.424s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/get_point_map_roi__functions.c
+[64.425s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/save_map__type_support.h
+[64.425s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/save_map__functions.c
+[64.426s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/projected_maps_info__functions.c
+[64.426s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/get_map_roi__type_support.h
+[64.427s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/get_map_roi__functions.h
+[64.427s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/projected_maps_info.h
+[64.428s] -- Installing: /opt/workspace/install/map_msgs/lib/libmap_msgs__rosidl_generator_c.so
+[64.429s] -- Set runtime path of "/opt/workspace/install/map_msgs/lib/libmap_msgs__rosidl_generator_c.so" to ""
+[64.429s] -- Up-to-date: /opt/workspace/install/map_msgs/include/map_msgs
+[64.430s] -- Up-to-date: /opt/workspace/install/map_msgs/include/map_msgs/msg
+[64.430s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/msg/projected_map__rosidl_typesupport_fastrtps_cpp.hpp
+[64.431s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[64.431s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/msg/projected_map_info__rosidl_typesupport_fastrtps_cpp.hpp
+[64.432s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/msg/point_cloud2_update__rosidl_typesupport_fastrtps_cpp.hpp
+[64.432s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/msg/occupancy_grid_update__rosidl_typesupport_fastrtps_cpp.hpp
+[64.433s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/msg/dds_fastrtps
+[64.433s] -- Up-to-date: /opt/workspace/install/map_msgs/include/map_msgs/srv
+[64.434s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/save_map__rosidl_typesupport_fastrtps_cpp.hpp
+[64.434s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/get_point_map_roi__rosidl_typesupport_fastrtps_cpp.hpp
+[64.435s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/get_point_map__rosidl_typesupport_fastrtps_cpp.hpp
+[64.435s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/projected_maps_info__rosidl_typesupport_fastrtps_cpp.hpp
+[64.436s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/set_map_projections__rosidl_typesupport_fastrtps_cpp.hpp
+[64.436s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/get_map_roi__rosidl_typesupport_fastrtps_cpp.hpp
+[64.437s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/dds_fastrtps
+[64.438s] -- Installing: /opt/workspace/install/map_msgs/lib/libmap_msgs__rosidl_typesupport_fastrtps_cpp.so
+[64.439s] -- Set runtime path of "/opt/workspace/install/map_msgs/lib/libmap_msgs__rosidl_typesupport_fastrtps_cpp.so" to ""
+[64.440s] -- Up-to-date: /opt/workspace/install/map_msgs/include/map_msgs
+[64.440s] -- Up-to-date: /opt/workspace/install/map_msgs/include/map_msgs/msg
+[64.441s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/msg/occupancy_grid_update__traits.hpp
+[64.441s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/msg/occupancy_grid_update.hpp
+[64.442s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/msg/occupancy_grid_update__struct.hpp
+[64.442s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/msg/projected_map__struct.hpp
+[64.443s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/msg/projected_map_info.hpp
+[64.443s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/msg/point_cloud2_update__struct.hpp
+[64.444s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/msg/projected_map_info__struct.hpp
+[64.444s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/msg/projected_map.hpp
+[64.445s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/msg/point_cloud2_update.hpp
+[64.445s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/msg/projected_map__traits.hpp
+[64.446s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/msg/point_cloud2_update__traits.hpp
+[64.446s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/msg/projected_map_info__traits.hpp
+[64.446s] -- Up-to-date: /opt/workspace/install/map_msgs/include/map_msgs/srv
+[64.447s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/get_map_roi__traits.hpp
+[64.447s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/save_map__struct.hpp
+[64.448s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/set_map_projections__struct.hpp
+[64.448s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/save_map.hpp
+[64.449s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/projected_maps_info.hpp
+[64.449s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/set_map_projections.hpp
+[64.450s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/get_point_map_roi__traits.hpp
+[64.450s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/get_map_roi__struct.hpp
+[64.451s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/get_point_map_roi.hpp
+[64.451s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/get_point_map__traits.hpp
+[64.452s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/get_point_map__struct.hpp
+[64.452s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/get_map_roi.hpp
+[64.453s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/projected_maps_info__struct.hpp
+[64.453s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/projected_maps_info__traits.hpp
+[64.454s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/get_point_map.hpp
+[64.454s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/get_point_map_roi__struct.hpp
+[64.455s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/set_map_projections__traits.hpp
+[64.456s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/save_map__traits.hpp
+[64.456s] -- Up-to-date: /opt/workspace/install/map_msgs/include/map_msgs
+[64.457s] -- Up-to-date: /opt/workspace/install/map_msgs/include/map_msgs/msg
+[64.457s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[64.458s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/msg/point_cloud2_update__rosidl_typesupport_introspection_c.h
+[64.458s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/msg/occupancy_grid_update__type_support.c
+[64.459s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/msg/projected_map__rosidl_typesupport_introspection_c.h
+[64.459s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/msg/projected_map_info__type_support.c
+[64.460s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/msg/occupancy_grid_update__rosidl_typesupport_introspection_c.h
+[64.460s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/msg/point_cloud2_update__type_support.c
+[64.461s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/msg/projected_map_info__rosidl_typesupport_introspection_c.h
+[64.461s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/msg/projected_map__type_support.c
+[64.462s] -- Up-to-date: /opt/workspace/install/map_msgs/include/map_msgs/srv
+[64.462s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/get_map_roi__type_support.c
+[64.463s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/get_point_map_roi__type_support.c
+[64.463s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/set_map_projections__rosidl_typesupport_introspection_c.h
+[64.464s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/get_point_map__type_support.c
+[64.464s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/get_point_map_roi__rosidl_typesupport_introspection_c.h
+[64.465s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/projected_maps_info__type_support.c
+[64.465s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/set_map_projections__type_support.c
+[64.466s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/save_map__type_support.c
+[64.466s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/get_point_map__rosidl_typesupport_introspection_c.h
+[64.467s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/projected_maps_info__rosidl_typesupport_introspection_c.h
+[64.467s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/save_map__rosidl_typesupport_introspection_c.h
+[64.468s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/get_map_roi__rosidl_typesupport_introspection_c.h
+[64.469s] -- Installing: /opt/workspace/install/map_msgs/lib/libmap_msgs__rosidl_typesupport_introspection_c.so
+[64.470s] -- Set runtime path of "/opt/workspace/install/map_msgs/lib/libmap_msgs__rosidl_typesupport_introspection_c.so" to ""
+[64.470s] -- Up-to-date: /opt/workspace/install/map_msgs/include/map_msgs
+[64.471s] -- Up-to-date: /opt/workspace/install/map_msgs/include/map_msgs/msg
+[64.471s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/msg/point_cloud2_update__rosidl_typesupport_introspection_cpp.hpp
+[64.472s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/msg/occupancy_grid_update__type_support.cpp
+[64.472s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/msg/occupancy_grid_update__rosidl_typesupport_introspection_cpp.hpp
+[64.473s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/msg/point_cloud2_update__type_support.cpp
+[64.473s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/msg/projected_map_info__type_support.cpp
+[64.474s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/msg/projected_map_info__rosidl_typesupport_introspection_cpp.hpp
+[64.475s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/msg/projected_map__type_support.cpp
+[64.475s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/msg/projected_map__rosidl_typesupport_introspection_cpp.hpp
+[64.476s] -- Up-to-date: /opt/workspace/install/map_msgs/include/map_msgs/srv
+[64.476s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/save_map__type_support.cpp
+[64.477s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/get_point_map_roi__rosidl_typesupport_introspection_cpp.hpp
+[64.477s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/get_point_map__rosidl_typesupport_introspection_cpp.hpp
+[64.478s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/get_point_map__type_support.cpp
+[64.478s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/get_map_roi__rosidl_typesupport_introspection_cpp.hpp
+[64.479s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/projected_maps_info__rosidl_typesupport_introspection_cpp.hpp
+[64.479s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/projected_maps_info__type_support.cpp
+[64.480s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/set_map_projections__rosidl_typesupport_introspection_cpp.hpp
+[64.484s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/get_point_map_roi__type_support.cpp
+[64.484s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/get_map_roi__type_support.cpp
+[64.485s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/set_map_projections__type_support.cpp
+[64.485s] -- Installing: /opt/workspace/install/map_msgs/include/map_msgs/srv/save_map__rosidl_typesupport_introspection_cpp.hpp
+[64.486s] -- Installing: /opt/workspace/install/map_msgs/lib/libmap_msgs__rosidl_typesupport_introspection_cpp.so
+[64.488s] -- Set runtime path of "/opt/workspace/install/map_msgs/lib/libmap_msgs__rosidl_typesupport_introspection_cpp.so" to ""
+[64.489s] -- Installing: /opt/workspace/install/map_msgs/share/map_msgs/environment/pythonpath.sh
+[64.489s] -- Installing: /opt/workspace/install/map_msgs/share/map_msgs/environment/pythonpath.dsv
+[64.490s] -- Installing: /opt/workspace/install/map_msgs/lib/python3.6/site-packages/map_msgs/__init__.py
+[64.623s] Compiling '/opt/workspace/install/map_msgs/lib/python3.6/site-packages/map_msgs/__init__.py'...
+[64.632s] -- Installing: /opt/workspace/install/map_msgs/lib/python3.6/site-packages/map_msgs/msg
+[64.632s] -- Installing: /opt/workspace/install/map_msgs/lib/python3.6/site-packages/map_msgs/msg/_point_cloud2_update_s.c
+[64.633s] -- Installing: /opt/workspace/install/map_msgs/lib/python3.6/site-packages/map_msgs/msg/_projected_map_s.c
+[64.633s] -- Installing: /opt/workspace/install/map_msgs/lib/python3.6/site-packages/map_msgs/msg/__init__.py
+[64.634s] -- Installing: /opt/workspace/install/map_msgs/lib/python3.6/site-packages/map_msgs/msg/_projected_map_info.py
+[64.635s] -- Installing: /opt/workspace/install/map_msgs/lib/python3.6/site-packages/map_msgs/msg/_point_cloud2_update.py
+[64.635s] -- Installing: /opt/workspace/install/map_msgs/lib/python3.6/site-packages/map_msgs/msg/_projected_map.py
+[64.636s] -- Installing: /opt/workspace/install/map_msgs/lib/python3.6/site-packages/map_msgs/msg/_projected_map_info_s.c
+[64.637s] -- Installing: /opt/workspace/install/map_msgs/lib/python3.6/site-packages/map_msgs/msg/_occupancy_grid_update.py
+[64.637s] -- Installing: /opt/workspace/install/map_msgs/lib/python3.6/site-packages/map_msgs/msg/_occupancy_grid_update_s.c
+[64.638s] -- Installing: /opt/workspace/install/map_msgs/lib/python3.6/site-packages/map_msgs/srv
+[64.638s] -- Installing: /opt/workspace/install/map_msgs/lib/python3.6/site-packages/map_msgs/srv/_save_map_s.c
+[64.639s] -- Installing: /opt/workspace/install/map_msgs/lib/python3.6/site-packages/map_msgs/srv/_get_point_map.py
+[64.640s] -- Installing: /opt/workspace/install/map_msgs/lib/python3.6/site-packages/map_msgs/srv/__init__.py
+[64.640s] -- Installing: /opt/workspace/install/map_msgs/lib/python3.6/site-packages/map_msgs/srv/_projected_maps_info_s.c
+[64.640s] -- Installing: /opt/workspace/install/map_msgs/lib/python3.6/site-packages/map_msgs/srv/_get_point_map_s.c
+[64.640s] -- Installing: /opt/workspace/install/map_msgs/lib/python3.6/site-packages/map_msgs/srv/_save_map.py
+[64.642s] -- Installing: /opt/workspace/install/map_msgs/lib/python3.6/site-packages/map_msgs/srv/_get_point_map_roi.py
+[64.642s] -- Installing: /opt/workspace/install/map_msgs/lib/python3.6/site-packages/map_msgs/srv/_get_map_roi.py
+[64.643s] -- Installing: /opt/workspace/install/map_msgs/lib/python3.6/site-packages/map_msgs/srv/_set_map_projections_s.c
+[64.643s] -- Installing: /opt/workspace/install/map_msgs/lib/python3.6/site-packages/map_msgs/srv/_get_point_map_roi_s.c
+[64.643s] -- Installing: /opt/workspace/install/map_msgs/lib/python3.6/site-packages/map_msgs/srv/_get_map_roi_s.c
+[64.645s] -- Installing: /opt/workspace/install/map_msgs/lib/python3.6/site-packages/map_msgs/srv/_set_map_projections.py
+[64.646s] -- Installing: /opt/workspace/install/map_msgs/lib/python3.6/site-packages/map_msgs/srv/_projected_maps_info.py
+[64.646s] -- Installing: /opt/workspace/install/map_msgs/lib/python3.6/site-packages/map_msgs/map_msgs_s__rosidl_typesupport_c.cpython-36m-x86_64-linux-gnu.so
+[64.646s] -- Set runtime path of "/opt/workspace/install/map_msgs/lib/python3.6/site-packages/map_msgs/map_msgs_s__rosidl_typesupport_c.cpython-36m-x86_64-linux-gnu.so" to ""
+[64.647s] -- Installing: /opt/workspace/install/map_msgs/lib/python3.6/site-packages/map_msgs/map_msgs_s__rosidl_typesupport_introspection_c.cpython-36m-x86_64-linux-gnu.so
+[64.649s] -- Set runtime path of "/opt/workspace/install/map_msgs/lib/python3.6/site-packages/map_msgs/map_msgs_s__rosidl_typesupport_introspection_c.cpython-36m-x86_64-linux-gnu.so" to ""
+[64.649s] -- Installing: /opt/workspace/install/map_msgs/lib/python3.6/site-packages/map_msgs/map_msgs_s__rosidl_typesupport_fastrtps_c.cpython-36m-x86_64-linux-gnu.so
+[64.651s] -- Set runtime path of "/opt/workspace/install/map_msgs/lib/python3.6/site-packages/map_msgs/map_msgs_s__rosidl_typesupport_fastrtps_c.cpython-36m-x86_64-linux-gnu.so" to ""
+[64.652s] -- Installing: /opt/workspace/install/map_msgs/lib/libmap_msgs__python.so
+[64.653s] -- Set runtime path of "/opt/workspace/install/map_msgs/lib/libmap_msgs__python.so" to ""
+[64.654s] -- Installing: /opt/workspace/install/map_msgs/share/map_msgs/msg/OccupancyGridUpdate.idl
+[64.654s] -- Installing: /opt/workspace/install/map_msgs/share/map_msgs/msg/PointCloud2Update.idl
+[64.656s] -- Installing: /opt/workspace/install/map_msgs/share/map_msgs/msg/ProjectedMapInfo.idl
+[64.657s] -- Installing: /opt/workspace/install/map_msgs/share/map_msgs/msg/ProjectedMap.idl
+[64.658s] -- Installing: /opt/workspace/install/map_msgs/share/map_msgs/srv/GetMapROI.idl
+[64.659s] -- Installing: /opt/workspace/install/map_msgs/share/map_msgs/srv/GetPointMapROI.idl
+[64.660s] -- Installing: /opt/workspace/install/map_msgs/share/map_msgs/srv/GetPointMap.idl
+[64.661s] -- Installing: /opt/workspace/install/map_msgs/share/map_msgs/srv/ProjectedMapsInfo.idl
+[64.662s] -- Installing: /opt/workspace/install/map_msgs/share/map_msgs/srv/SaveMap.idl
+[64.662s] -- Installing: /opt/workspace/install/map_msgs/share/map_msgs/srv/SetMapProjections.idl
+[64.663s] -- Installing: /opt/workspace/install/map_msgs/share/map_msgs/msg/OccupancyGridUpdate.msg
+[64.664s] -- Installing: /opt/workspace/install/map_msgs/share/map_msgs/msg/PointCloud2Update.msg
+[64.664s] -- Installing: /opt/workspace/install/map_msgs/share/map_msgs/msg/ProjectedMapInfo.msg
+[64.665s] -- Installing: /opt/workspace/install/map_msgs/share/map_msgs/msg/ProjectedMap.msg
+[64.666s] -- Installing: /opt/workspace/install/map_msgs/share/map_msgs/srv/GetMapROI.srv
+[64.667s] -- Installing: /opt/workspace/install/map_msgs/share/map_msgs/srv/GetMapROI_Request.msg
+[64.667s] -- Installing: /opt/workspace/install/map_msgs/share/map_msgs/srv/GetMapROI_Response.msg
+[64.668s] -- Installing: /opt/workspace/install/map_msgs/share/map_msgs/srv/GetPointMapROI.srv
+[64.669s] -- Installing: /opt/workspace/install/map_msgs/share/map_msgs/srv/GetPointMapROI_Request.msg
+[64.670s] -- Installing: /opt/workspace/install/map_msgs/share/map_msgs/srv/GetPointMapROI_Response.msg
+[64.670s] -- Installing: /opt/workspace/install/map_msgs/share/map_msgs/srv/GetPointMap.srv
+[64.671s] -- Installing: /opt/workspace/install/map_msgs/share/map_msgs/srv/GetPointMap_Request.msg
+[64.672s] -- Installing: /opt/workspace/install/map_msgs/share/map_msgs/srv/GetPointMap_Response.msg
+[64.673s] -- Installing: /opt/workspace/install/map_msgs/share/map_msgs/srv/ProjectedMapsInfo.srv
+[64.673s] -- Installing: /opt/workspace/install/map_msgs/share/map_msgs/srv/ProjectedMapsInfo_Request.msg
+[64.674s] -- Installing: /opt/workspace/install/map_msgs/share/map_msgs/srv/ProjectedMapsInfo_Response.msg
+[64.675s] -- Installing: /opt/workspace/install/map_msgs/share/map_msgs/srv/SaveMap.srv
+[64.675s] -- Installing: /opt/workspace/install/map_msgs/share/map_msgs/srv/SaveMap_Request.msg
+[64.676s] -- Installing: /opt/workspace/install/map_msgs/share/map_msgs/srv/SaveMap_Response.msg
+[64.677s] -- Installing: /opt/workspace/install/map_msgs/share/map_msgs/srv/SetMapProjections.srv
+[64.678s] -- Installing: /opt/workspace/install/map_msgs/share/map_msgs/srv/SetMapProjections_Request.msg
+[64.678s] -- Installing: /opt/workspace/install/map_msgs/share/map_msgs/srv/SetMapProjections_Response.msg
+[64.679s] -- Installing: /opt/workspace/install/map_msgs/share/ament_index/resource_index/package_run_dependencies/map_msgs
+[64.680s] -- Installing: /opt/workspace/install/map_msgs/share/ament_index/resource_index/parent_prefix_path/map_msgs
+[64.681s] -- Installing: /opt/workspace/install/map_msgs/share/map_msgs/environment/ament_prefix_path.sh
+[64.684s] -- Installing: /opt/workspace/install/map_msgs/share/map_msgs/environment/ament_prefix_path.dsv
+[64.685s] -- Installing: /opt/workspace/install/map_msgs/share/map_msgs/environment/path.sh
+[64.686s] -- Installing: /opt/workspace/install/map_msgs/share/map_msgs/environment/path.dsv
+[64.687s] -- Installing: /opt/workspace/install/map_msgs/share/map_msgs/local_setup.bash
+[64.688s] -- Installing: /opt/workspace/install/map_msgs/share/map_msgs/local_setup.sh
+[64.689s] -- Installing: /opt/workspace/install/map_msgs/share/map_msgs/local_setup.zsh
+[64.689s] -- Installing: /opt/workspace/install/map_msgs/share/map_msgs/local_setup.dsv
+[64.690s] -- Installing: /opt/workspace/install/map_msgs/share/map_msgs/package.dsv
+[64.691s] -- Installing: /opt/workspace/install/map_msgs/share/ament_index/resource_index/packages/map_msgs
+[64.692s] -- Installing: /opt/workspace/install/map_msgs/share/map_msgs/cmake/rosidl_cmake-extras.cmake
+[64.692s] -- Installing: /opt/workspace/install/map_msgs/share/map_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[64.693s] -- Installing: /opt/workspace/install/map_msgs/share/map_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[64.694s] -- Installing: /opt/workspace/install/map_msgs/share/map_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[64.695s] -- Installing: /opt/workspace/install/map_msgs/share/map_msgs/cmake/map_msgsConfig.cmake
+[64.695s] -- Installing: /opt/workspace/install/map_msgs/share/map_msgs/cmake/map_msgsConfig-version.cmake
+[64.696s] -- Installing: /opt/workspace/install/map_msgs/share/map_msgs/package.xml

@@ -1,0 +1,17 @@
+/opt/workspace/install/test_communication/share/ament_index/resource_index/package_run_dependencies/test_communication
+/opt/workspace/install/test_communication/share/ament_index/resource_index/parent_prefix_path/test_communication
+/opt/workspace/install/test_communication/share/test_communication/environment/ament_prefix_path.sh
+/opt/workspace/install/test_communication/share/test_communication/environment/ament_prefix_path.dsv
+/opt/workspace/install/test_communication/share/test_communication/environment/path.sh
+/opt/workspace/install/test_communication/share/test_communication/environment/path.dsv
+/opt/workspace/install/test_communication/share/test_communication/local_setup.bash
+/opt/workspace/install/test_communication/share/test_communication/local_setup.sh
+/opt/workspace/install/test_communication/share/test_communication/local_setup.zsh
+/opt/workspace/install/test_communication/share/test_communication/local_setup.dsv
+/opt/workspace/install/test_communication/share/test_communication/package.dsv
+/opt/workspace/install/test_communication/share/ament_index/resource_index/packages/test_communication
+/opt/workspace/install/test_communication/share/test_communication/cmake/rosidl_cmake-extras.cmake
+/opt/workspace/install/test_communication/share/test_communication/cmake/ament_cmake_export_dependencies-extras.cmake
+/opt/workspace/install/test_communication/share/test_communication/cmake/test_communicationConfig.cmake
+/opt/workspace/install/test_communication/share/test_communication/cmake/test_communicationConfig-version.cmake
+/opt/workspace/install/test_communication/share/test_communication/package.xml

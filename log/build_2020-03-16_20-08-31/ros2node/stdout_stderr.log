@@ -1,0 +1,55 @@
+[6.601s] running egg_info
+[6.602s] creating /opt/workspace/build/ros2node/ros2node.egg-info
+[6.603s] writing /opt/workspace/build/ros2node/ros2node.egg-info/PKG-INFO
+[6.604s] writing dependency_links to /opt/workspace/build/ros2node/ros2node.egg-info/dependency_links.txt
+[6.604s] writing entry points to /opt/workspace/build/ros2node/ros2node.egg-info/entry_points.txt
+[6.605s] writing requirements to /opt/workspace/build/ros2node/ros2node.egg-info/requires.txt
+[6.606s] writing top-level names to /opt/workspace/build/ros2node/ros2node.egg-info/top_level.txt
+[6.618s] writing manifest file '/opt/workspace/build/ros2node/ros2node.egg-info/SOURCES.txt'
+[6.724s] reading manifest file '/opt/workspace/build/ros2node/ros2node.egg-info/SOURCES.txt'
+[6.731s] writing manifest file '/opt/workspace/build/ros2node/ros2node.egg-info/SOURCES.txt'
+[6.732s] running build
+[6.741s] running build_py
+[6.742s] creating /opt/workspace/build/ros2node/build
+[6.742s] creating /opt/workspace/build/ros2node/build/lib
+[6.742s] creating /opt/workspace/build/ros2node/build/lib/ros2node
+[6.742s] copying ros2node/__init__.py -> /opt/workspace/build/ros2node/build/lib/ros2node
+[6.742s] creating /opt/workspace/build/ros2node/build/lib/ros2node/api
+[6.743s] copying ros2node/api/__init__.py -> /opt/workspace/build/ros2node/build/lib/ros2node/api
+[6.743s] creating /opt/workspace/build/ros2node/build/lib/ros2node/verb
+[6.743s] copying ros2node/verb/__init__.py -> /opt/workspace/build/ros2node/build/lib/ros2node/verb
+[6.743s] copying ros2node/verb/list.py -> /opt/workspace/build/ros2node/build/lib/ros2node/verb
+[6.744s] copying ros2node/verb/info.py -> /opt/workspace/build/ros2node/build/lib/ros2node/verb
+[6.744s] creating /opt/workspace/build/ros2node/build/lib/ros2node/command
+[6.744s] copying ros2node/command/__init__.py -> /opt/workspace/build/ros2node/build/lib/ros2node/command
+[6.744s] copying ros2node/command/node.py -> /opt/workspace/build/ros2node/build/lib/ros2node/command
+[6.744s] running install
+[6.746s] running install_lib
+[6.750s] creating /opt/workspace/install/ros2node/lib/python3.6/site-packages/ros2node
+[6.751s] copying /opt/workspace/build/ros2node/build/lib/ros2node/__init__.py -> /opt/workspace/install/ros2node/lib/python3.6/site-packages/ros2node
+[6.752s] creating /opt/workspace/install/ros2node/lib/python3.6/site-packages/ros2node/api
+[6.752s] copying /opt/workspace/build/ros2node/build/lib/ros2node/api/__init__.py -> /opt/workspace/install/ros2node/lib/python3.6/site-packages/ros2node/api
+[6.753s] creating /opt/workspace/install/ros2node/lib/python3.6/site-packages/ros2node/verb
+[6.753s] copying /opt/workspace/build/ros2node/build/lib/ros2node/verb/__init__.py -> /opt/workspace/install/ros2node/lib/python3.6/site-packages/ros2node/verb
+[6.754s] copying /opt/workspace/build/ros2node/build/lib/ros2node/verb/list.py -> /opt/workspace/install/ros2node/lib/python3.6/site-packages/ros2node/verb
+[6.755s] copying /opt/workspace/build/ros2node/build/lib/ros2node/verb/info.py -> /opt/workspace/install/ros2node/lib/python3.6/site-packages/ros2node/verb
+[6.756s] creating /opt/workspace/install/ros2node/lib/python3.6/site-packages/ros2node/command
+[6.756s] copying /opt/workspace/build/ros2node/build/lib/ros2node/command/__init__.py -> /opt/workspace/install/ros2node/lib/python3.6/site-packages/ros2node/command
+[6.757s] copying /opt/workspace/build/ros2node/build/lib/ros2node/command/node.py -> /opt/workspace/install/ros2node/lib/python3.6/site-packages/ros2node/command
+[6.759s] byte-compiling /opt/workspace/install/ros2node/lib/python3.6/site-packages/ros2node/__init__.py to __init__.cpython-36.pyc
+[6.760s] byte-compiling /opt/workspace/install/ros2node/lib/python3.6/site-packages/ros2node/api/__init__.py to __init__.cpython-36.pyc
+[6.762s] byte-compiling /opt/workspace/install/ros2node/lib/python3.6/site-packages/ros2node/verb/__init__.py to __init__.cpython-36.pyc
+[6.764s] byte-compiling /opt/workspace/install/ros2node/lib/python3.6/site-packages/ros2node/verb/list.py to list.cpython-36.pyc
+[6.769s] byte-compiling /opt/workspace/install/ros2node/lib/python3.6/site-packages/ros2node/verb/info.py to info.cpython-36.pyc
+[6.771s] byte-compiling /opt/workspace/install/ros2node/lib/python3.6/site-packages/ros2node/command/__init__.py to __init__.cpython-36.pyc
+[6.772s] byte-compiling /opt/workspace/install/ros2node/lib/python3.6/site-packages/ros2node/command/node.py to node.cpython-36.pyc
+[6.773s] running install_data
+[6.774s] copying package.xml -> /opt/workspace/install/ros2node/share/ros2node
+[6.775s] creating /opt/workspace/install/ros2node/share/ament_index
+[6.776s] creating /opt/workspace/install/ros2node/share/ament_index/resource_index
+[6.777s] creating /opt/workspace/install/ros2node/share/ament_index/resource_index/packages
+[6.777s] copying resource/ros2node -> /opt/workspace/install/ros2node/share/ament_index/resource_index/packages
+[6.778s] running install_egg_info
+[6.786s] Copying /opt/workspace/build/ros2node/ros2node.egg-info to /opt/workspace/install/ros2node/lib/python3.6/site-packages/ros2node-0.8.7-py3.6.egg-info
+[6.793s] running install_scripts
+[6.846s] writing list of installed files to '/opt/workspace/build/ros2node/install.log'

@@ -1,0 +1,13 @@
+# Target labels
+ concurrentqueue
+# Source files and their labels
+/opt/workspace/build/shared_queues_vendor/CMakeFiles/concurrentqueue
+/opt/workspace/build/shared_queues_vendor/CMakeFiles/concurrentqueue.rule
+/opt/workspace/build/shared_queues_vendor/CMakeFiles/concurrentqueue-complete.rule
+/opt/workspace/build/shared_queues_vendor/concurrentqueue-prefix/src/concurrentqueue-stamp/concurrentqueue-install.rule
+/opt/workspace/build/shared_queues_vendor/concurrentqueue-prefix/src/concurrentqueue-stamp/concurrentqueue-mkdir.rule
+/opt/workspace/build/shared_queues_vendor/concurrentqueue-prefix/src/concurrentqueue-stamp/concurrentqueue-download.rule
+/opt/workspace/build/shared_queues_vendor/concurrentqueue-prefix/src/concurrentqueue-stamp/concurrentqueue-update.rule
+/opt/workspace/build/shared_queues_vendor/concurrentqueue-prefix/src/concurrentqueue-stamp/concurrentqueue-patch.rule
+/opt/workspace/build/shared_queues_vendor/concurrentqueue-prefix/src/concurrentqueue-stamp/concurrentqueue-configure.rule
+/opt/workspace/build/shared_queues_vendor/concurrentqueue-prefix/src/concurrentqueue-stamp/concurrentqueue-build.rule

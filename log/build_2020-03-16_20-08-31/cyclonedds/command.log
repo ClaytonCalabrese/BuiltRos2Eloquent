@@ -1,0 +1,4 @@
+[0.738s] Invoking command in '/opt/workspace/build/cyclonedds': CMAKE_PREFIX_PATH=/opt/ros/eloquent /usr/bin/cmake --build /opt/workspace/build/cyclonedds -- -j8 -l8
+[1.154s] Invoked command in '/opt/workspace/build/cyclonedds' returned '0': CMAKE_PREFIX_PATH=/opt/ros/eloquent /usr/bin/cmake --build /opt/workspace/build/cyclonedds -- -j8 -l8
+[2.281s] Invoking command in '/opt/workspace/build/cyclonedds': CMAKE_PREFIX_PATH=/opt/ros/eloquent /usr/bin/cmake --build /opt/workspace/build/cyclonedds --target install -- -j8 -l8
+[3.022s] Invoked command in '/opt/workspace/build/cyclonedds' returned '0': CMAKE_PREFIX_PATH=/opt/ros/eloquent /usr/bin/cmake --build /opt/workspace/build/cyclonedds --target install -- -j8 -l8

@@ -1,0 +1,15 @@
+[1.103s] Invoking command in '/opt/workspace/build/tinydir_vendor': CMAKE_PREFIX_PATH=/opt/ros/eloquent /usr/bin/cmake --build /opt/workspace/build/tinydir_vendor -- -j8 -l8
+[1.185s] [100%] Built target tinydir-1.2.4
+[2.229s] Invoked command in '/opt/workspace/build/tinydir_vendor' returned '0': CMAKE_PREFIX_PATH=/opt/ros/eloquent /usr/bin/cmake --build /opt/workspace/build/tinydir_vendor -- -j8 -l8
+[2.360s] Invoking command in '/opt/workspace/build/tinydir_vendor': CMAKE_PREFIX_PATH=/opt/ros/eloquent /usr/bin/cmake --build /opt/workspace/build/tinydir_vendor --target install -- -j8 -l8
+[2.442s] [100%] Built target tinydir-1.2.4
+[2.484s] [36mInstall the project...[0m
+[2.485s] -- Install configuration: ""
+[2.487s] -- Up-to-date: /opt/workspace/install/tinydir_vendor
+[2.492s] -- Up-to-date: /opt/workspace/install/tinydir_vendor/include
+[2.492s] -- Up-to-date: /opt/workspace/install/tinydir_vendor/include/tinydir
+[2.492s] -- Up-to-date: /opt/workspace/install/tinydir_vendor/include/tinydir/tinydir.h
+[2.497s] -- Up-to-date: /opt/workspace/install/tinydir_vendor/share/tinydir_vendor/package.xml
+[2.498s] -- Up-to-date: /opt/workspace/install/tinydir_vendor/share/tinydir_vendor/cmake/tinydir_vendorConfig.cmake
+[2.498s] -- Up-to-date: /opt/workspace/install/tinydir_vendor/share/tinydir_vendor/cmake/tinydir_vendorConfig-version.cmake
+[2.947s] Invoked command in '/opt/workspace/build/tinydir_vendor' returned '0': CMAKE_PREFIX_PATH=/opt/ros/eloquent /usr/bin/cmake --build /opt/workspace/build/tinydir_vendor --target install -- -j8 -l8

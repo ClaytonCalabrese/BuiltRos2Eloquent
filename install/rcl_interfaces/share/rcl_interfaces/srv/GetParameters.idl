@@ -1,0 +1,22 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from rcl_interfaces/srv/GetParameters.srv
+// generated code does not contain a copyright notice
+
+#include "rcl_interfaces/msg/ParameterValue.idl"
+
+module rcl_interfaces {
+  module srv {
+    @verbatim (language="comment", text=
+      " A list of parameter names to get." "\n"
+      " TODO(wjwwood): Decide on the rules for grouping, nodes, and parameter \"names\" in general, then link to that.")
+    struct GetParameters_Request {
+      sequence<string> names;
+    };
+    struct GetParameters_Response {
+      @verbatim (language="comment", text=
+        " List of values which is the same length and order as the provided names." "\n"
+        " If a parameter was not set yet, the value will have PARAMETER_NOT_SET as the type.")
+      sequence<rcl_interfaces::msg::ParameterValue> values;
+    };
+  };
+};

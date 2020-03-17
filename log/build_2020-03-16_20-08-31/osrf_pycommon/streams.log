@@ -1,0 +1,20 @@
+[1.776s] Invoking command in '/opt/workspace/src/osrf/osrf_pycommon': PYTHONPATH=/opt/workspace/install/osrf_pycommon/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base /opt/workspace/build/osrf_pycommon build --build-base /opt/workspace/build/osrf_pycommon/build install --prefix /opt/workspace/install/osrf_pycommon --record /opt/workspace/build/osrf_pycommon/install.log --single-version-externally-managed
+[2.177s] running egg_info
+[2.180s] writing /opt/workspace/build/osrf_pycommon/osrf_pycommon.egg-info/PKG-INFO
+[2.180s] writing dependency_links to /opt/workspace/build/osrf_pycommon/osrf_pycommon.egg-info/dependency_links.txt
+[2.180s] writing requirements to /opt/workspace/build/osrf_pycommon/osrf_pycommon.egg-info/requires.txt
+[2.180s] writing top-level names to /opt/workspace/build/osrf_pycommon/osrf_pycommon.egg-info/top_level.txt
+[2.270s] reading manifest file '/opt/workspace/build/osrf_pycommon/osrf_pycommon.egg-info/SOURCES.txt'
+[2.270s] reading manifest template 'MANIFEST.in'
+[2.271s] writing manifest file '/opt/workspace/build/osrf_pycommon/osrf_pycommon.egg-info/SOURCES.txt'
+[2.271s] running build
+[2.271s] running build_py
+[2.271s] running install
+[2.272s] running install_lib
+[2.272s] running install_data
+[2.273s] running install_egg_info
+[2.349s] removing '/opt/workspace/install/osrf_pycommon/lib/python3.6/site-packages/osrf_pycommon-0.1.9-py3.6.egg-info' (and everything under it)
+[2.349s] Copying /opt/workspace/build/osrf_pycommon/osrf_pycommon.egg-info to /opt/workspace/install/osrf_pycommon/lib/python3.6/site-packages/osrf_pycommon-0.1.9-py3.6.egg-info
+[2.349s] running install_scripts
+[2.352s] writing list of installed files to '/opt/workspace/build/osrf_pycommon/install.log'
+[2.439s] Invoked command in '/opt/workspace/src/osrf/osrf_pycommon' returned '0': PYTHONPATH=/opt/workspace/install/osrf_pycommon/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base /opt/workspace/build/osrf_pycommon build --build-base /opt/workspace/build/osrf_pycommon/build install --prefix /opt/workspace/install/osrf_pycommon --record /opt/workspace/build/osrf_pycommon/install.log --single-version-externally-managed

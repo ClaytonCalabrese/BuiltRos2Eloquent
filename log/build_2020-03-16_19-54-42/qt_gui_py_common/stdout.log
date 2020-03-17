@@ -1,0 +1,60 @@
+[0.315s] -- The C compiler identification is GNU 7.4.0
+[0.429s] -- The CXX compiler identification is GNU 7.4.0
+[0.436s] -- Check for working C compiler: /usr/bin/cc
+[0.584s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.586s] -- Detecting C compiler ABI info
+[0.742s] -- Detecting C compiler ABI info - done
+[0.758s] -- Detecting C compile features
+[1.287s] -- Detecting C compile features - done
+[1.292s] -- Check for working CXX compiler: /usr/bin/c++
+[1.474s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[1.476s] -- Detecting CXX compiler ABI info
+[1.659s] -- Detecting CXX compiler ABI info - done
+[1.672s] -- Detecting CXX compile features
+[2.448s] -- Detecting CXX compile features - done
+[2.452s] -- Found ament_cmake: 0.8.2 (/opt/workspace/install/ament_cmake/share/ament_cmake/cmake)
+[2.504s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[2.504s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[2.978s] -- Found ament_lint_auto: 0.8.1 (/opt/workspace/install/ament_lint_auto/share/ament_lint_auto/cmake)
+[3.190s] -- Added test 'flake8' to check Python code syntax and style conventions
+[3.192s] -- Added test 'lint_cmake' to check CMake code style
+[3.195s] -- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+[3.199s] -- Added test 'xmllint' to check XML markup files
+[3.204s] -- Configuring done
+[3.209s] -- Generating done
+[3.211s] -- Build files have been written to: /opt/workspace/build/qt_gui_py_common
+[3.476s] [36mInstall the project...[0m
+[3.493s] -- Install configuration: ""
+[3.494s] -- Installing: /opt/workspace/install/qt_gui_py_common/share/qt_gui_py_common/environment/pythonpath.sh
+[3.494s] -- Installing: /opt/workspace/install/qt_gui_py_common/share/qt_gui_py_common/environment/pythonpath.dsv
+[3.495s] -- Installing: /opt/workspace/install/qt_gui_py_common/lib/python3.6/site-packages/qt_gui_py_common
+[3.495s] -- Installing: /opt/workspace/install/qt_gui_py_common/lib/python3.6/site-packages/qt_gui_py_common/worker_thread.py
+[3.496s] -- Installing: /opt/workspace/install/qt_gui_py_common/lib/python3.6/site-packages/qt_gui_py_common/__init__.py
+[3.496s] -- Installing: /opt/workspace/install/qt_gui_py_common/lib/python3.6/site-packages/qt_gui_py_common/checkbox_group.py
+[3.496s] -- Installing: /opt/workspace/install/qt_gui_py_common/lib/python3.6/site-packages/qt_gui_py_common/simple_settings_dialog.py
+[3.496s] -- Installing: /opt/workspace/install/qt_gui_py_common/lib/python3.6/site-packages/qt_gui_py_common/exclusive_options_group.py
+[3.497s] -- Installing: /opt/workspace/install/qt_gui_py_common/lib/python3.6/site-packages/qt_gui_py_common/console_text_edit.py
+[3.584s] Listing '/opt/workspace/install/qt_gui_py_common/lib/python3.6/site-packages/qt_gui_py_common'...
+[3.584s] Compiling '/opt/workspace/install/qt_gui_py_common/lib/python3.6/site-packages/qt_gui_py_common/__init__.py'...
+[3.585s] Compiling '/opt/workspace/install/qt_gui_py_common/lib/python3.6/site-packages/qt_gui_py_common/checkbox_group.py'...
+[3.585s] Compiling '/opt/workspace/install/qt_gui_py_common/lib/python3.6/site-packages/qt_gui_py_common/console_text_edit.py'...
+[3.585s] Compiling '/opt/workspace/install/qt_gui_py_common/lib/python3.6/site-packages/qt_gui_py_common/exclusive_options_group.py'...
+[3.585s] Compiling '/opt/workspace/install/qt_gui_py_common/lib/python3.6/site-packages/qt_gui_py_common/simple_settings_dialog.py'...
+[3.585s] Compiling '/opt/workspace/install/qt_gui_py_common/lib/python3.6/site-packages/qt_gui_py_common/worker_thread.py'...
+[3.591s] -- Installing: /opt/workspace/install/qt_gui_py_common/share/qt_gui_py_common/resource
+[3.591s] -- Installing: /opt/workspace/install/qt_gui_py_common/share/qt_gui_py_common/resource/simple_settings_dialog.ui
+[3.592s] -- Installing: /opt/workspace/install/qt_gui_py_common/share/ament_index/resource_index/package_run_dependencies/qt_gui_py_common
+[3.592s] -- Installing: /opt/workspace/install/qt_gui_py_common/share/ament_index/resource_index/parent_prefix_path/qt_gui_py_common
+[3.593s] -- Installing: /opt/workspace/install/qt_gui_py_common/share/qt_gui_py_common/environment/ament_prefix_path.sh
+[3.594s] -- Installing: /opt/workspace/install/qt_gui_py_common/share/qt_gui_py_common/environment/ament_prefix_path.dsv
+[3.594s] -- Installing: /opt/workspace/install/qt_gui_py_common/share/qt_gui_py_common/environment/path.sh
+[3.594s] -- Installing: /opt/workspace/install/qt_gui_py_common/share/qt_gui_py_common/environment/path.dsv
+[3.594s] -- Installing: /opt/workspace/install/qt_gui_py_common/share/qt_gui_py_common/local_setup.bash
+[3.596s] -- Installing: /opt/workspace/install/qt_gui_py_common/share/qt_gui_py_common/local_setup.sh
+[3.596s] -- Installing: /opt/workspace/install/qt_gui_py_common/share/qt_gui_py_common/local_setup.zsh
+[3.596s] -- Installing: /opt/workspace/install/qt_gui_py_common/share/qt_gui_py_common/local_setup.dsv
+[3.599s] -- Installing: /opt/workspace/install/qt_gui_py_common/share/qt_gui_py_common/package.dsv
+[3.599s] -- Installing: /opt/workspace/install/qt_gui_py_common/share/ament_index/resource_index/packages/qt_gui_py_common
+[3.599s] -- Installing: /opt/workspace/install/qt_gui_py_common/share/qt_gui_py_common/cmake/qt_gui_py_commonConfig.cmake
+[3.600s] -- Installing: /opt/workspace/install/qt_gui_py_common/share/qt_gui_py_common/cmake/qt_gui_py_commonConfig-version.cmake
+[3.600s] -- Installing: /opt/workspace/install/qt_gui_py_common/share/qt_gui_py_common/package.xml

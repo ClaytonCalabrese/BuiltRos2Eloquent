@@ -1,0 +1,11 @@
+source;share/urdf/hook/cmake_prefix_path.ps1
+source;share/urdf/hook/cmake_prefix_path.dsv
+source;share/urdf/hook/cmake_prefix_path.sh
+source;share/urdf/hook/ld_library_path_lib.ps1
+source;share/urdf/hook/ld_library_path_lib.dsv
+source;share/urdf/hook/ld_library_path_lib.sh
+source;share/urdf/local_setup.bash
+source;share/urdf/local_setup.dsv
+source;share/urdf/local_setup.ps1
+source;share/urdf/local_setup.sh
+source;share/urdf/local_setup.zsh

@@ -1,0 +1,40 @@
+[3.567s] running egg_info
+[3.568s] creating /opt/workspace/build/ros2trace/ros2trace.egg-info
+[3.569s] writing /opt/workspace/build/ros2trace/ros2trace.egg-info/PKG-INFO
+[3.570s] writing dependency_links to /opt/workspace/build/ros2trace/ros2trace.egg-info/dependency_links.txt
+[3.570s] writing entry points to /opt/workspace/build/ros2trace/ros2trace.egg-info/entry_points.txt
+[3.570s] writing requirements to /opt/workspace/build/ros2trace/ros2trace.egg-info/requires.txt
+[3.570s] writing top-level names to /opt/workspace/build/ros2trace/ros2trace.egg-info/top_level.txt
+[3.571s] writing manifest file '/opt/workspace/build/ros2trace/ros2trace.egg-info/SOURCES.txt'
+[3.576s] reading manifest file '/opt/workspace/build/ros2trace/ros2trace.egg-info/SOURCES.txt'
+[3.576s] writing manifest file '/opt/workspace/build/ros2trace/ros2trace.egg-info/SOURCES.txt'
+[3.576s] running build
+[3.576s] running build_py
+[3.577s] creating /opt/workspace/build/ros2trace/build
+[3.577s] creating /opt/workspace/build/ros2trace/build/lib
+[3.577s] creating /opt/workspace/build/ros2trace/build/lib/ros2trace
+[3.577s] copying ros2trace/__init__.py -> /opt/workspace/build/ros2trace/build/lib/ros2trace
+[3.577s] creating /opt/workspace/build/ros2trace/build/lib/ros2trace/api
+[3.577s] copying ros2trace/api/__init__.py -> /opt/workspace/build/ros2trace/build/lib/ros2trace/api
+[3.577s] creating /opt/workspace/build/ros2trace/build/lib/ros2trace/command
+[3.578s] copying ros2trace/command/__init__.py -> /opt/workspace/build/ros2trace/build/lib/ros2trace/command
+[3.578s] copying ros2trace/command/trace.py -> /opt/workspace/build/ros2trace/build/lib/ros2trace/command
+[3.578s] running install
+[3.578s] running install_lib
+[3.578s] creating /opt/workspace/install/ros2trace/lib/python3.6/site-packages/ros2trace
+[3.578s] copying /opt/workspace/build/ros2trace/build/lib/ros2trace/__init__.py -> /opt/workspace/install/ros2trace/lib/python3.6/site-packages/ros2trace
+[3.578s] creating /opt/workspace/install/ros2trace/lib/python3.6/site-packages/ros2trace/api
+[3.578s] copying /opt/workspace/build/ros2trace/build/lib/ros2trace/api/__init__.py -> /opt/workspace/install/ros2trace/lib/python3.6/site-packages/ros2trace/api
+[3.579s] creating /opt/workspace/install/ros2trace/lib/python3.6/site-packages/ros2trace/command
+[3.579s] copying /opt/workspace/build/ros2trace/build/lib/ros2trace/command/__init__.py -> /opt/workspace/install/ros2trace/lib/python3.6/site-packages/ros2trace/command
+[3.579s] copying /opt/workspace/build/ros2trace/build/lib/ros2trace/command/trace.py -> /opt/workspace/install/ros2trace/lib/python3.6/site-packages/ros2trace/command
+[3.579s] byte-compiling /opt/workspace/install/ros2trace/lib/python3.6/site-packages/ros2trace/__init__.py to __init__.cpython-36.pyc
+[3.579s] byte-compiling /opt/workspace/install/ros2trace/lib/python3.6/site-packages/ros2trace/api/__init__.py to __init__.cpython-36.pyc
+[3.580s] byte-compiling /opt/workspace/install/ros2trace/lib/python3.6/site-packages/ros2trace/command/__init__.py to __init__.cpython-36.pyc
+[3.580s] byte-compiling /opt/workspace/install/ros2trace/lib/python3.6/site-packages/ros2trace/command/trace.py to trace.cpython-36.pyc
+[3.580s] running install_data
+[3.580s] copying package.xml -> /opt/workspace/install/ros2trace/share/ros2trace
+[3.580s] running install_egg_info
+[3.581s] Copying /opt/workspace/build/ros2trace/ros2trace.egg-info to /opt/workspace/install/ros2trace/lib/python3.6/site-packages/ros2trace-0.2.10-py3.6.egg-info
+[3.581s] running install_scripts
+[3.581s] writing list of installed files to '/opt/workspace/build/ros2trace/install.log'

@@ -1,0 +1,3 @@
+test_rclcpp_components::TestComponentFoo;/opt/workspace/build/rclcpp_components/libtest_component.so
+test_rclcpp_components::TestComponentBar;/opt/workspace/build/rclcpp_components/libtest_component.so
+test_rclcpp_components::TestComponentNoNode;/opt/workspace/build/rclcpp_components/libtest_component.so

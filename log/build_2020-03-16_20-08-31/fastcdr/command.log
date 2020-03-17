@@ -1,0 +1,4 @@
+[0.736s] Invoking command in '/opt/workspace/build/fastcdr': /usr/bin/cmake --build /opt/workspace/build/fastcdr -- -j8 -l8
+[1.155s] Invoked command in '/opt/workspace/build/fastcdr' returned '0': /usr/bin/cmake --build /opt/workspace/build/fastcdr -- -j8 -l8
+[2.285s] Invoking command in '/opt/workspace/build/fastcdr': /usr/bin/cmake --build /opt/workspace/build/fastcdr --target install -- -j8 -l8
+[2.535s] Invoked command in '/opt/workspace/build/fastcdr' returned '0': /usr/bin/cmake --build /opt/workspace/build/fastcdr --target install -- -j8 -l8

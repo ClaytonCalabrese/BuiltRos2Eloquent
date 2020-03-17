@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/opt/workspace/src/micro-ROS/ros_tracing/ros2_tracing/tracetools/include/tracetools/utils.hpp
+stddef.h
+-
+functional
+-
+tracetools/visibility_control.hpp
+/opt/workspace/src/micro-ROS/ros_tracing/ros2_tracing/tracetools/include/tracetools/tracetools/visibility_control.hpp
+
+/opt/workspace/src/micro-ROS/ros_tracing/ros2_tracing/tracetools/include/tracetools/visibility_control.hpp
+
+/opt/workspace/src/micro-ROS/ros_tracing/ros2_tracing/tracetools/src/utils.cpp
+dlfcn.h
+-
+cxxabi.h
+-
+tracetools/utils.hpp
+/opt/workspace/src/micro-ROS/ros_tracing/ros2_tracing/tracetools/src/tracetools/utils.hpp
+

@@ -1,0 +1,23 @@
+{
+  "package_name": "rcl_interfaces",
+  "non_idl_tuples": [
+    "/opt/workspace/src/ros2/rcl_interfaces/rcl_interfaces:msg/FloatingPointRange.msg",
+    "/opt/workspace/src/ros2/rcl_interfaces/rcl_interfaces:msg/IntegerRange.msg",
+    "/opt/workspace/src/ros2/rcl_interfaces/rcl_interfaces:msg/IntraProcessMessage.msg",
+    "/opt/workspace/src/ros2/rcl_interfaces/rcl_interfaces:msg/ListParametersResult.msg",
+    "/opt/workspace/src/ros2/rcl_interfaces/rcl_interfaces:msg/Log.msg",
+    "/opt/workspace/src/ros2/rcl_interfaces/rcl_interfaces:msg/ParameterDescriptor.msg",
+    "/opt/workspace/src/ros2/rcl_interfaces/rcl_interfaces:msg/ParameterEventDescriptors.msg",
+    "/opt/workspace/src/ros2/rcl_interfaces/rcl_interfaces:msg/ParameterEvent.msg",
+    "/opt/workspace/src/ros2/rcl_interfaces/rcl_interfaces:msg/Parameter.msg",
+    "/opt/workspace/src/ros2/rcl_interfaces/rcl_interfaces:msg/ParameterType.msg",
+    "/opt/workspace/src/ros2/rcl_interfaces/rcl_interfaces:msg/ParameterValue.msg",
+    "/opt/workspace/src/ros2/rcl_interfaces/rcl_interfaces:msg/SetParametersResult.msg",
+    "/opt/workspace/src/ros2/rcl_interfaces/rcl_interfaces:srv/DescribeParameters.srv",
+    "/opt/workspace/src/ros2/rcl_interfaces/rcl_interfaces:srv/GetParameters.srv",
+    "/opt/workspace/src/ros2/rcl_interfaces/rcl_interfaces:srv/GetParameterTypes.srv",
+    "/opt/workspace/src/ros2/rcl_interfaces/rcl_interfaces:srv/ListParameters.srv",
+    "/opt/workspace/src/ros2/rcl_interfaces/rcl_interfaces:srv/SetParametersAtomically.srv",
+    "/opt/workspace/src/ros2/rcl_interfaces/rcl_interfaces:srv/SetParameters.srv"
+  ]
+}

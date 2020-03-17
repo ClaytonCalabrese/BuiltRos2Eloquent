@@ -1,0 +1,100 @@
+[0.968s] -- The C compiler identification is GNU 7.4.0
+[1.230s] -- The CXX compiler identification is GNU 7.4.0
+[1.239s] -- Check for working C compiler: /usr/bin/cc
+[1.799s] -- Check for working C compiler: /usr/bin/cc -- works
+[1.801s] -- Detecting C compiler ABI info
+[2.310s] -- Detecting C compiler ABI info - done
+[2.340s] -- Detecting C compile features
+[3.914s] -- Detecting C compile features - done
+[3.920s] -- Check for working CXX compiler: /usr/bin/c++
+[4.428s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[4.429s] -- Detecting CXX compiler ABI info
+[5.034s] -- Detecting CXX compiler ABI info - done
+[5.047s] -- Detecting CXX compile features
+[7.420s] -- Detecting CXX compile features - done
+[7.423s] -- Found ament_cmake: 0.8.2 (/opt/workspace/install/ament_cmake/share/ament_cmake/cmake)
+[7.569s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[7.570s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[8.824s] -- Found ament_index_cpp: 0.7.2 (/opt/workspace/install/ament_index_cpp/share/ament_index_cpp/cmake)
+[8.844s] -- Found class_loader: 1.4.1 (/opt/workspace/install/class_loader/share/class_loader/cmake)
+[8.855s] -- Found poco_vendor:  (/opt/workspace/install/poco_vendor/share/poco_vendor/cmake)
+[8.911s] -- Found rcutils: 0.8.4 (/opt/workspace/install/rcutils/share/rcutils/cmake)
+[8.938s] -- Found tinyxml2_vendor:  (/opt/workspace/install/tinyxml2_vendor/share/tinyxml2_vendor/cmake)
+[9.066s] -- Found TinyXML2: /usr/lib/x86_64-linux-gnu/libtinyxml2.so  
+[9.069s] -- Found ament_cmake_gtest: 0.8.2 (/opt/workspace/install/ament_cmake_gtest/share/ament_cmake_gtest/cmake)
+[9.116s] -- Found gtest sources under '/opt/workspace/install/gtest_vendor/src/gtest_vendor': C++ tests using 'Google Test' will be built
+[9.125s] -- Looking for pthread.h
+[9.721s] -- Looking for pthread.h - found
+[9.721s] -- Looking for pthread_create
+[10.224s] -- Looking for pthread_create - not found
+[10.226s] -- Check if compiler accepts -pthread
+[10.778s] -- Check if compiler accepts -pthread - yes
+[10.779s] -- Found Threads: TRUE  
+[11.173s] -- Configuring done
+[11.234s] -- Generating done
+[11.247s] -- Build files have been written to: /opt/workspace/build/pluginlib
+[11.575s] [35m[1mScanning dependencies of target test_plugins[0m
+[11.688s] [ 10%] [32mBuilding CXX object CMakeFiles/test_plugins.dir/test/test_plugins.cpp.o[0m
+[13.215s] [ 20%] [32m[1mLinking CXX shared library prefix/lib/libtest_plugins.so[0m
+[13.504s] [ 20%] Built target test_plugins
+[13.528s] [35m[1mScanning dependencies of target gtest_main[0m
+[13.589s] [ 30%] [32mBuilding CXX object gtest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o[0m
+[15.072s] [ 40%] [32m[1mLinking CXX static library libgtest_main.a[0m
+[15.169s] [ 40%] Built target gtest_main
+[15.199s] [35m[1mScanning dependencies of target gtest[0m
+[15.265s] [ 50%] [32mBuilding CXX object gtest/CMakeFiles/gtest.dir/src/gtest-all.cc.o[0m
+[21.606s] [ 60%] [32m[1mLinking CXX static library libgtest.a[0m
+[21.712s] [ 60%] Built target gtest
+[21.735s] [35m[1mScanning dependencies of target pluginlib_utest[0m
+[21.790s] [ 70%] [32mBuilding CXX object CMakeFiles/pluginlib_utest.dir/test/utest.cpp.o[0m
+[29.025s] [ 80%] [32m[1mLinking CXX executable pluginlib_utest[0m
+[29.643s] [ 80%] Built target pluginlib_utest
+[29.669s] [35m[1mScanning dependencies of target pluginlib_unique_ptr_test[0m
+[29.728s] [ 90%] [32mBuilding CXX object CMakeFiles/pluginlib_unique_ptr_test.dir/test/unique_ptr_test.cpp.o[0m
+[36.488s] [100%] [32m[1mLinking CXX executable pluginlib_unique_ptr_test[0m
+[36.917s] [100%] Built target pluginlib_unique_ptr_test
+[37.096s] [ 20%] Built target test_plugins
+[37.131s] [ 40%] Built target gtest_main
+[37.165s] [ 60%] Built target gtest
+[37.202s] [ 80%] Built target pluginlib_utest
+[37.247s] [100%] Built target pluginlib_unique_ptr_test
+[37.283s] [36mInstall the project...[0m
+[37.302s] -- Install configuration: ""
+[37.302s] -- Installing: /opt/workspace/install/pluginlib/share/pluginlib/cmake
+[37.302s] -- Installing: /opt/workspace/install/pluginlib/share/pluginlib/cmake/pluginlib_export_plugin_description_file.cmake
+[37.303s] -- Installing: /opt/workspace/install/pluginlib/share/pluginlib/cmake/pluginlib_package_hook.cmake
+[37.303s] -- Installing: /opt/workspace/install/pluginlib/include
+[37.303s] -- Installing: /opt/workspace/install/pluginlib/include/pluginlib
+[37.303s] -- Installing: /opt/workspace/install/pluginlib/include/pluginlib/class_list_macros.hpp
+[37.304s] -- Installing: /opt/workspace/install/pluginlib/include/pluginlib/class_list_macros.h
+[37.304s] -- Installing: /opt/workspace/install/pluginlib/include/pluginlib/class_loader_imp.h
+[37.304s] -- Installing: /opt/workspace/install/pluginlib/include/pluginlib/class_desc.h
+[37.304s] -- Installing: /opt/workspace/install/pluginlib/include/pluginlib/class_loader.hpp
+[37.305s] -- Installing: /opt/workspace/install/pluginlib/include/pluginlib/impl
+[37.305s] -- Installing: /opt/workspace/install/pluginlib/include/pluginlib/impl/filesystem_helper.hpp
+[37.305s] -- Installing: /opt/workspace/install/pluginlib/include/pluginlib/impl/split.hpp
+[37.305s] -- Installing: /opt/workspace/install/pluginlib/include/pluginlib/class_loader_imp.hpp
+[37.306s] -- Installing: /opt/workspace/install/pluginlib/include/pluginlib/class_loader_base.hpp
+[37.306s] -- Installing: /opt/workspace/install/pluginlib/include/pluginlib/pluginlib_exceptions.h
+[37.307s] -- Installing: /opt/workspace/install/pluginlib/include/pluginlib/class_desc.hpp
+[37.307s] -- Installing: /opt/workspace/install/pluginlib/include/pluginlib/exceptions.hpp
+[37.307s] -- Installing: /opt/workspace/install/pluginlib/include/pluginlib/class_loader_base.h
+[37.307s] -- Installing: /opt/workspace/install/pluginlib/include/pluginlib/class_loader.h
+[37.307s] -- Installing: /opt/workspace/install/pluginlib/share/ament_index/resource_index/package_run_dependencies/pluginlib
+[37.308s] -- Installing: /opt/workspace/install/pluginlib/share/ament_index/resource_index/parent_prefix_path/pluginlib
+[37.308s] -- Installing: /opt/workspace/install/pluginlib/share/pluginlib/environment/ament_prefix_path.sh
+[37.308s] -- Installing: /opt/workspace/install/pluginlib/share/pluginlib/environment/ament_prefix_path.dsv
+[37.308s] -- Installing: /opt/workspace/install/pluginlib/share/pluginlib/environment/path.sh
+[37.309s] -- Installing: /opt/workspace/install/pluginlib/share/pluginlib/environment/path.dsv
+[37.309s] -- Installing: /opt/workspace/install/pluginlib/share/pluginlib/local_setup.bash
+[37.309s] -- Installing: /opt/workspace/install/pluginlib/share/pluginlib/local_setup.sh
+[37.309s] -- Installing: /opt/workspace/install/pluginlib/share/pluginlib/local_setup.zsh
+[37.309s] -- Installing: /opt/workspace/install/pluginlib/share/pluginlib/local_setup.dsv
+[37.310s] -- Installing: /opt/workspace/install/pluginlib/share/pluginlib/package.dsv
+[37.310s] -- Installing: /opt/workspace/install/pluginlib/share/ament_index/resource_index/packages/pluginlib
+[37.310s] -- Installing: /opt/workspace/install/pluginlib/share/pluginlib/cmake/pluginlib-extras.cmake
+[37.310s] -- Installing: /opt/workspace/install/pluginlib/share/pluginlib/cmake/ament_cmake_export_dependencies-extras.cmake
+[37.311s] -- Installing: /opt/workspace/install/pluginlib/share/pluginlib/cmake/ament_cmake_export_include_directories-extras.cmake
+[37.312s] -- Installing: /opt/workspace/install/pluginlib/share/pluginlib/cmake/pluginlibConfig.cmake
+[37.313s] -- Installing: /opt/workspace/install/pluginlib/share/pluginlib/cmake/pluginlibConfig-version.cmake
+[37.313s] -- Installing: /opt/workspace/install/pluginlib/share/pluginlib/package.xml

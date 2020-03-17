@@ -1,0 +1,73 @@
+[5.646s] running egg_info
+[5.648s] creating /opt/workspace/build/demo_nodes_py/demo_nodes_py.egg-info
+[5.648s] writing /opt/workspace/build/demo_nodes_py/demo_nodes_py.egg-info/PKG-INFO
+[5.649s] writing dependency_links to /opt/workspace/build/demo_nodes_py/demo_nodes_py.egg-info/dependency_links.txt
+[5.650s] writing entry points to /opt/workspace/build/demo_nodes_py/demo_nodes_py.egg-info/entry_points.txt
+[5.651s] writing requirements to /opt/workspace/build/demo_nodes_py/demo_nodes_py.egg-info/requires.txt
+[5.652s] writing top-level names to /opt/workspace/build/demo_nodes_py/demo_nodes_py.egg-info/top_level.txt
+[5.663s] writing manifest file '/opt/workspace/build/demo_nodes_py/demo_nodes_py.egg-info/SOURCES.txt'
+[5.758s] reading manifest file '/opt/workspace/build/demo_nodes_py/demo_nodes_py.egg-info/SOURCES.txt'
+[5.762s] writing manifest file '/opt/workspace/build/demo_nodes_py/demo_nodes_py.egg-info/SOURCES.txt'
+[5.762s] running build
+[5.763s] running build_py
+[5.763s] creating /opt/workspace/build/demo_nodes_py/build
+[5.764s] creating /opt/workspace/build/demo_nodes_py/build/lib
+[5.764s] creating /opt/workspace/build/demo_nodes_py/build/lib/demo_nodes_py
+[5.765s] copying demo_nodes_py/__init__.py -> /opt/workspace/build/demo_nodes_py/build/lib/demo_nodes_py
+[5.766s] creating /opt/workspace/build/demo_nodes_py/build/lib/demo_nodes_py/services
+[5.766s] copying demo_nodes_py/services/__init__.py -> /opt/workspace/build/demo_nodes_py/build/lib/demo_nodes_py/services
+[5.767s] copying demo_nodes_py/services/add_two_ints_server.py -> /opt/workspace/build/demo_nodes_py/build/lib/demo_nodes_py/services
+[5.768s] copying demo_nodes_py/services/add_two_ints_client_async.py -> /opt/workspace/build/demo_nodes_py/build/lib/demo_nodes_py/services
+[5.769s] copying demo_nodes_py/services/add_two_ints_client.py -> /opt/workspace/build/demo_nodes_py/build/lib/demo_nodes_py/services
+[5.778s] creating /opt/workspace/build/demo_nodes_py/build/lib/demo_nodes_py/topics
+[5.778s] copying demo_nodes_py/topics/__init__.py -> /opt/workspace/build/demo_nodes_py/build/lib/demo_nodes_py/topics
+[5.779s] copying demo_nodes_py/topics/listener_qos.py -> /opt/workspace/build/demo_nodes_py/build/lib/demo_nodes_py/topics
+[5.779s] copying demo_nodes_py/topics/listener.py -> /opt/workspace/build/demo_nodes_py/build/lib/demo_nodes_py/topics
+[5.779s] copying demo_nodes_py/topics/talker.py -> /opt/workspace/build/demo_nodes_py/build/lib/demo_nodes_py/topics
+[5.779s] copying demo_nodes_py/topics/listener_serialized.py -> /opt/workspace/build/demo_nodes_py/build/lib/demo_nodes_py/topics
+[5.780s] copying demo_nodes_py/topics/talker_qos.py -> /opt/workspace/build/demo_nodes_py/build/lib/demo_nodes_py/topics
+[5.787s] running install
+[5.788s] running install_lib
+[5.790s] creating /opt/workspace/install/demo_nodes_py/lib/python3.6/site-packages/demo_nodes_py
+[5.791s] creating /opt/workspace/install/demo_nodes_py/lib/python3.6/site-packages/demo_nodes_py/services
+[5.792s] copying /opt/workspace/build/demo_nodes_py/build/lib/demo_nodes_py/services/__init__.py -> /opt/workspace/install/demo_nodes_py/lib/python3.6/site-packages/demo_nodes_py/services
+[5.792s] copying /opt/workspace/build/demo_nodes_py/build/lib/demo_nodes_py/services/add_two_ints_server.py -> /opt/workspace/install/demo_nodes_py/lib/python3.6/site-packages/demo_nodes_py/services
+[5.792s] copying /opt/workspace/build/demo_nodes_py/build/lib/demo_nodes_py/services/add_two_ints_client_async.py -> /opt/workspace/install/demo_nodes_py/lib/python3.6/site-packages/demo_nodes_py/services
+[5.793s] copying /opt/workspace/build/demo_nodes_py/build/lib/demo_nodes_py/services/add_two_ints_client.py -> /opt/workspace/install/demo_nodes_py/lib/python3.6/site-packages/demo_nodes_py/services
+[5.793s] copying /opt/workspace/build/demo_nodes_py/build/lib/demo_nodes_py/__init__.py -> /opt/workspace/install/demo_nodes_py/lib/python3.6/site-packages/demo_nodes_py
+[5.793s] creating /opt/workspace/install/demo_nodes_py/lib/python3.6/site-packages/demo_nodes_py/topics
+[5.793s] copying /opt/workspace/build/demo_nodes_py/build/lib/demo_nodes_py/topics/__init__.py -> /opt/workspace/install/demo_nodes_py/lib/python3.6/site-packages/demo_nodes_py/topics
+[5.794s] copying /opt/workspace/build/demo_nodes_py/build/lib/demo_nodes_py/topics/listener_qos.py -> /opt/workspace/install/demo_nodes_py/lib/python3.6/site-packages/demo_nodes_py/topics
+[5.794s] copying /opt/workspace/build/demo_nodes_py/build/lib/demo_nodes_py/topics/listener.py -> /opt/workspace/install/demo_nodes_py/lib/python3.6/site-packages/demo_nodes_py/topics
+[5.794s] copying /opt/workspace/build/demo_nodes_py/build/lib/demo_nodes_py/topics/talker.py -> /opt/workspace/install/demo_nodes_py/lib/python3.6/site-packages/demo_nodes_py/topics
+[5.794s] copying /opt/workspace/build/demo_nodes_py/build/lib/demo_nodes_py/topics/listener_serialized.py -> /opt/workspace/install/demo_nodes_py/lib/python3.6/site-packages/demo_nodes_py/topics
+[5.795s] copying /opt/workspace/build/demo_nodes_py/build/lib/demo_nodes_py/topics/talker_qos.py -> /opt/workspace/install/demo_nodes_py/lib/python3.6/site-packages/demo_nodes_py/topics
+[5.796s] byte-compiling /opt/workspace/install/demo_nodes_py/lib/python3.6/site-packages/demo_nodes_py/services/__init__.py to __init__.cpython-36.pyc
+[5.796s] byte-compiling /opt/workspace/install/demo_nodes_py/lib/python3.6/site-packages/demo_nodes_py/services/add_two_ints_server.py to add_two_ints_server.cpython-36.pyc
+[5.797s] byte-compiling /opt/workspace/install/demo_nodes_py/lib/python3.6/site-packages/demo_nodes_py/services/add_two_ints_client_async.py to add_two_ints_client_async.cpython-36.pyc
+[5.798s] byte-compiling /opt/workspace/install/demo_nodes_py/lib/python3.6/site-packages/demo_nodes_py/services/add_two_ints_client.py to add_two_ints_client.cpython-36.pyc
+[5.798s] byte-compiling /opt/workspace/install/demo_nodes_py/lib/python3.6/site-packages/demo_nodes_py/__init__.py to __init__.cpython-36.pyc
+[5.799s] byte-compiling /opt/workspace/install/demo_nodes_py/lib/python3.6/site-packages/demo_nodes_py/topics/__init__.py to __init__.cpython-36.pyc
+[5.799s] byte-compiling /opt/workspace/install/demo_nodes_py/lib/python3.6/site-packages/demo_nodes_py/topics/listener_qos.py to listener_qos.cpython-36.pyc
+[5.800s] byte-compiling /opt/workspace/install/demo_nodes_py/lib/python3.6/site-packages/demo_nodes_py/topics/listener.py to listener.cpython-36.pyc
+[5.801s] byte-compiling /opt/workspace/install/demo_nodes_py/lib/python3.6/site-packages/demo_nodes_py/topics/talker.py to talker.cpython-36.pyc
+[5.802s] byte-compiling /opt/workspace/install/demo_nodes_py/lib/python3.6/site-packages/demo_nodes_py/topics/listener_serialized.py to listener_serialized.cpython-36.pyc
+[5.803s] byte-compiling /opt/workspace/install/demo_nodes_py/lib/python3.6/site-packages/demo_nodes_py/topics/talker_qos.py to talker_qos.cpython-36.pyc
+[5.804s] running install_data
+[5.810s] creating /opt/workspace/install/demo_nodes_py/share/ament_index
+[5.811s] creating /opt/workspace/install/demo_nodes_py/share/ament_index/resource_index
+[5.811s] creating /opt/workspace/install/demo_nodes_py/share/ament_index/resource_index/packages
+[5.812s] copying resource/demo_nodes_py -> /opt/workspace/install/demo_nodes_py/share/ament_index/resource_index/packages
+[5.812s] copying package.xml -> /opt/workspace/install/demo_nodes_py/share/demo_nodes_py
+[5.817s] running install_egg_info
+[5.827s] Copying /opt/workspace/build/demo_nodes_py/demo_nodes_py.egg-info to /opt/workspace/install/demo_nodes_py/lib/python3.6/site-packages/demo_nodes_py-0.8.4-py3.6.egg-info
+[5.829s] running install_scripts
+[5.895s] Installing add_two_ints_client script to /opt/workspace/install/demo_nodes_py/lib/demo_nodes_py
+[5.895s] Installing add_two_ints_client_async script to /opt/workspace/install/demo_nodes_py/lib/demo_nodes_py
+[5.896s] Installing add_two_ints_server script to /opt/workspace/install/demo_nodes_py/lib/demo_nodes_py
+[5.897s] Installing listener script to /opt/workspace/install/demo_nodes_py/lib/demo_nodes_py
+[5.897s] Installing listener_qos script to /opt/workspace/install/demo_nodes_py/lib/demo_nodes_py
+[5.898s] Installing listener_serialized script to /opt/workspace/install/demo_nodes_py/lib/demo_nodes_py
+[5.898s] Installing talker script to /opt/workspace/install/demo_nodes_py/lib/demo_nodes_py
+[5.899s] Installing talker_qos script to /opt/workspace/install/demo_nodes_py/lib/demo_nodes_py
+[5.901s] writing list of installed files to '/opt/workspace/build/demo_nodes_py/install.log'

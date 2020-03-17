@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/visualization_msgs__cpp"
+  "rosidl_generator_cpp/visualization_msgs/msg/image_marker.hpp"
+  "rosidl_generator_cpp/visualization_msgs/msg/image_marker__struct.hpp"
+  "rosidl_generator_cpp/visualization_msgs/msg/image_marker__traits.hpp"
+  "rosidl_generator_cpp/visualization_msgs/msg/interactive_marker.hpp"
+  "rosidl_generator_cpp/visualization_msgs/msg/interactive_marker__struct.hpp"
+  "rosidl_generator_cpp/visualization_msgs/msg/interactive_marker__traits.hpp"
+  "rosidl_generator_cpp/visualization_msgs/msg/interactive_marker_control.hpp"
+  "rosidl_generator_cpp/visualization_msgs/msg/interactive_marker_control__struct.hpp"
+  "rosidl_generator_cpp/visualization_msgs/msg/interactive_marker_control__traits.hpp"
+  "rosidl_generator_cpp/visualization_msgs/msg/interactive_marker_feedback.hpp"
+  "rosidl_generator_cpp/visualization_msgs/msg/interactive_marker_feedback__struct.hpp"
+  "rosidl_generator_cpp/visualization_msgs/msg/interactive_marker_feedback__traits.hpp"
+  "rosidl_generator_cpp/visualization_msgs/msg/interactive_marker_init.hpp"
+  "rosidl_generator_cpp/visualization_msgs/msg/interactive_marker_init__struct.hpp"
+  "rosidl_generator_cpp/visualization_msgs/msg/interactive_marker_init__traits.hpp"
+  "rosidl_generator_cpp/visualization_msgs/msg/interactive_marker_pose.hpp"
+  "rosidl_generator_cpp/visualization_msgs/msg/interactive_marker_pose__struct.hpp"
+  "rosidl_generator_cpp/visualization_msgs/msg/interactive_marker_pose__traits.hpp"
+  "rosidl_generator_cpp/visualization_msgs/msg/interactive_marker_update.hpp"
+  "rosidl_generator_cpp/visualization_msgs/msg/interactive_marker_update__struct.hpp"
+  "rosidl_generator_cpp/visualization_msgs/msg/interactive_marker_update__traits.hpp"
+  "rosidl_generator_cpp/visualization_msgs/msg/marker.hpp"
+  "rosidl_generator_cpp/visualization_msgs/msg/marker__struct.hpp"
+  "rosidl_generator_cpp/visualization_msgs/msg/marker__traits.hpp"
+  "rosidl_generator_cpp/visualization_msgs/msg/marker_array.hpp"
+  "rosidl_generator_cpp/visualization_msgs/msg/marker_array__struct.hpp"
+  "rosidl_generator_cpp/visualization_msgs/msg/marker_array__traits.hpp"
+  "rosidl_generator_cpp/visualization_msgs/msg/menu_entry.hpp"
+  "rosidl_generator_cpp/visualization_msgs/msg/menu_entry__struct.hpp"
+  "rosidl_generator_cpp/visualization_msgs/msg/menu_entry__traits.hpp"
+  "rosidl_generator_cpp/visualization_msgs/srv/get_interactive_markers.hpp"
+  "rosidl_generator_cpp/visualization_msgs/srv/get_interactive_markers__struct.hpp"
+  "rosidl_generator_cpp/visualization_msgs/srv/get_interactive_markers__traits.hpp"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang )
+  include(CMakeFiles/visualization_msgs__cpp.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

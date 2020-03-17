@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/dummy.dir/test/dummy_tests/dummy.cpp.o  -o dummy gtest/libgtest_main.a gtest/libgtest.a -pthread 

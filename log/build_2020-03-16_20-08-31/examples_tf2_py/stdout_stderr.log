@@ -1,0 +1,57 @@
+[2.989s] running egg_info
+[2.991s] creating /opt/workspace/build/examples_tf2_py/examples_tf2_py.egg-info
+[2.992s] writing /opt/workspace/build/examples_tf2_py/examples_tf2_py.egg-info/PKG-INFO
+[2.993s] writing dependency_links to /opt/workspace/build/examples_tf2_py/examples_tf2_py.egg-info/dependency_links.txt
+[2.993s] writing entry points to /opt/workspace/build/examples_tf2_py/examples_tf2_py.egg-info/entry_points.txt
+[2.994s] writing requirements to /opt/workspace/build/examples_tf2_py/examples_tf2_py.egg-info/requires.txt
+[2.995s] writing top-level names to /opt/workspace/build/examples_tf2_py/examples_tf2_py.egg-info/top_level.txt
+[3.007s] writing manifest file '/opt/workspace/build/examples_tf2_py/examples_tf2_py.egg-info/SOURCES.txt'
+[3.118s] reading manifest file '/opt/workspace/build/examples_tf2_py/examples_tf2_py.egg-info/SOURCES.txt'
+[3.118s] writing manifest file '/opt/workspace/build/examples_tf2_py/examples_tf2_py.egg-info/SOURCES.txt'
+[3.118s] running build
+[3.119s] running build_py
+[3.119s] creating /opt/workspace/build/examples_tf2_py/build
+[3.119s] creating /opt/workspace/build/examples_tf2_py/build/lib
+[3.119s] creating /opt/workspace/build/examples_tf2_py/build/lib/examples_tf2_py
+[3.119s] copying examples_tf2_py/__init__.py -> /opt/workspace/build/examples_tf2_py/build/lib/examples_tf2_py
+[3.120s] copying examples_tf2_py/async_waits_for_transform.py -> /opt/workspace/build/examples_tf2_py/build/lib/examples_tf2_py
+[3.120s] copying examples_tf2_py/frame_dumper.py -> /opt/workspace/build/examples_tf2_py/build/lib/examples_tf2_py
+[3.120s] copying examples_tf2_py/waits_for_transform.py -> /opt/workspace/build/examples_tf2_py/build/lib/examples_tf2_py
+[3.120s] copying examples_tf2_py/dynamic_broadcaster.py -> /opt/workspace/build/examples_tf2_py/build/lib/examples_tf2_py
+[3.121s] copying examples_tf2_py/blocking_waits_for_transform.py -> /opt/workspace/build/examples_tf2_py/build/lib/examples_tf2_py
+[3.121s] copying examples_tf2_py/static_broadcaster.py -> /opt/workspace/build/examples_tf2_py/build/lib/examples_tf2_py
+[3.121s] running install
+[3.121s] running install_lib
+[3.121s] creating /opt/workspace/install/examples_tf2_py/lib/python3.6/site-packages/examples_tf2_py
+[3.122s] copying /opt/workspace/build/examples_tf2_py/build/lib/examples_tf2_py/__init__.py -> /opt/workspace/install/examples_tf2_py/lib/python3.6/site-packages/examples_tf2_py
+[3.122s] copying /opt/workspace/build/examples_tf2_py/build/lib/examples_tf2_py/async_waits_for_transform.py -> /opt/workspace/install/examples_tf2_py/lib/python3.6/site-packages/examples_tf2_py
+[3.122s] copying /opt/workspace/build/examples_tf2_py/build/lib/examples_tf2_py/frame_dumper.py -> /opt/workspace/install/examples_tf2_py/lib/python3.6/site-packages/examples_tf2_py
+[3.122s] copying /opt/workspace/build/examples_tf2_py/build/lib/examples_tf2_py/waits_for_transform.py -> /opt/workspace/install/examples_tf2_py/lib/python3.6/site-packages/examples_tf2_py
+[3.122s] copying /opt/workspace/build/examples_tf2_py/build/lib/examples_tf2_py/dynamic_broadcaster.py -> /opt/workspace/install/examples_tf2_py/lib/python3.6/site-packages/examples_tf2_py
+[3.123s] copying /opt/workspace/build/examples_tf2_py/build/lib/examples_tf2_py/blocking_waits_for_transform.py -> /opt/workspace/install/examples_tf2_py/lib/python3.6/site-packages/examples_tf2_py
+[3.123s] copying /opt/workspace/build/examples_tf2_py/build/lib/examples_tf2_py/static_broadcaster.py -> /opt/workspace/install/examples_tf2_py/lib/python3.6/site-packages/examples_tf2_py
+[3.123s] byte-compiling /opt/workspace/install/examples_tf2_py/lib/python3.6/site-packages/examples_tf2_py/__init__.py to __init__.cpython-36.pyc
+[3.123s] byte-compiling /opt/workspace/install/examples_tf2_py/lib/python3.6/site-packages/examples_tf2_py/async_waits_for_transform.py to async_waits_for_transform.cpython-36.pyc
+[3.124s] byte-compiling /opt/workspace/install/examples_tf2_py/lib/python3.6/site-packages/examples_tf2_py/frame_dumper.py to frame_dumper.cpython-36.pyc
+[3.125s] byte-compiling /opt/workspace/install/examples_tf2_py/lib/python3.6/site-packages/examples_tf2_py/waits_for_transform.py to waits_for_transform.cpython-36.pyc
+[3.128s] byte-compiling /opt/workspace/install/examples_tf2_py/lib/python3.6/site-packages/examples_tf2_py/dynamic_broadcaster.py to dynamic_broadcaster.cpython-36.pyc
+[3.129s] byte-compiling /opt/workspace/install/examples_tf2_py/lib/python3.6/site-packages/examples_tf2_py/blocking_waits_for_transform.py to blocking_waits_for_transform.cpython-36.pyc
+[3.129s] byte-compiling /opt/workspace/install/examples_tf2_py/lib/python3.6/site-packages/examples_tf2_py/static_broadcaster.py to static_broadcaster.cpython-36.pyc
+[3.130s] running install_data
+[3.130s] creating /opt/workspace/install/examples_tf2_py/share/ament_index
+[3.130s] creating /opt/workspace/install/examples_tf2_py/share/ament_index/resource_index
+[3.131s] creating /opt/workspace/install/examples_tf2_py/share/ament_index/resource_index/packages
+[3.131s] copying resource/examples_tf2_py -> /opt/workspace/install/examples_tf2_py/share/ament_index/resource_index/packages
+[3.131s] copying package.xml -> /opt/workspace/install/examples_tf2_py/share/examples_tf2_py
+[3.131s] creating /opt/workspace/install/examples_tf2_py/share/examples_tf2_py/launch
+[3.132s] copying launch/broadcasters.launch.xml -> /opt/workspace/install/examples_tf2_py/share/examples_tf2_py/launch
+[3.132s] running install_egg_info
+[3.137s] Copying /opt/workspace/build/examples_tf2_py/examples_tf2_py.egg-info to /opt/workspace/install/examples_tf2_py/lib/python3.6/site-packages/examples_tf2_py-0.12.5-py3.6.egg-info
+[3.139s] running install_scripts
+[3.185s] Installing async_waits_for_transform script to /opt/workspace/install/examples_tf2_py/lib/examples_tf2_py
+[3.186s] Installing blocking_waits_for_transform script to /opt/workspace/install/examples_tf2_py/lib/examples_tf2_py
+[3.186s] Installing dynamic_broadcaster script to /opt/workspace/install/examples_tf2_py/lib/examples_tf2_py
+[3.187s] Installing frame_dumper script to /opt/workspace/install/examples_tf2_py/lib/examples_tf2_py
+[3.187s] Installing static_broadcaster script to /opt/workspace/install/examples_tf2_py/lib/examples_tf2_py
+[3.188s] Installing waits_for_transform script to /opt/workspace/install/examples_tf2_py/lib/examples_tf2_py
+[3.189s] writing list of installed files to '/opt/workspace/build/examples_tf2_py/install.log'

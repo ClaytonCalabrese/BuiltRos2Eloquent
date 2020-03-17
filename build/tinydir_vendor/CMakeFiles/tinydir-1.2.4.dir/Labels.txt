@@ -1,0 +1,13 @@
+# Target labels
+ tinydir-1.2.4
+# Source files and their labels
+/opt/workspace/build/tinydir_vendor/CMakeFiles/tinydir-1.2.4
+/opt/workspace/build/tinydir_vendor/CMakeFiles/tinydir-1.2.4.rule
+/opt/workspace/build/tinydir_vendor/CMakeFiles/tinydir-1.2.4-complete.rule
+/opt/workspace/build/tinydir_vendor/tinydir-1.2.4/src/tinydir-1.2.4-stamp/tinydir-1.2.4-install.rule
+/opt/workspace/build/tinydir_vendor/tinydir-1.2.4/src/tinydir-1.2.4-stamp/tinydir-1.2.4-mkdir.rule
+/opt/workspace/build/tinydir_vendor/tinydir-1.2.4/src/tinydir-1.2.4-stamp/tinydir-1.2.4-download.rule
+/opt/workspace/build/tinydir_vendor/tinydir-1.2.4/src/tinydir-1.2.4-stamp/tinydir-1.2.4-update.rule
+/opt/workspace/build/tinydir_vendor/tinydir-1.2.4/src/tinydir-1.2.4-stamp/tinydir-1.2.4-patch.rule
+/opt/workspace/build/tinydir_vendor/tinydir-1.2.4/src/tinydir-1.2.4-stamp/tinydir-1.2.4-configure.rule
+/opt/workspace/build/tinydir_vendor/tinydir-1.2.4/src/tinydir-1.2.4-stamp/tinydir-1.2.4-build.rule

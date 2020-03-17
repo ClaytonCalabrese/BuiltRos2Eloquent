@@ -1,0 +1,39 @@
+[0.062s] -- Found ament_cmake_core: 0.8.2 (/opt/workspace/install/ament_cmake_core/share/ament_cmake_core/cmake)
+[0.103s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[0.103s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.605s] -- Configuring done
+[0.611s] -- Generating done
+[0.613s] -- Build files have been written to: /opt/workspace/build/test_interface_files
+[0.855s] [36mInstall the project...[0m
+[0.878s] -- Install configuration: ""
+[0.879s] -- Installing: /opt/workspace/install/test_interface_files/share/test_interface_files/msg/Arrays.msg
+[0.879s] -- Installing: /opt/workspace/install/test_interface_files/share/test_interface_files/msg/BasicTypes.msg
+[0.879s] -- Installing: /opt/workspace/install/test_interface_files/share/test_interface_files/msg/BoundedSequences.msg
+[0.880s] -- Installing: /opt/workspace/install/test_interface_files/share/test_interface_files/msg/Constants.msg
+[0.880s] -- Installing: /opt/workspace/install/test_interface_files/share/test_interface_files/msg/Defaults.msg
+[0.880s] -- Installing: /opt/workspace/install/test_interface_files/share/test_interface_files/msg/Empty.msg
+[0.881s] -- Installing: /opt/workspace/install/test_interface_files/share/test_interface_files/msg/MultiNested.msg
+[0.881s] -- Installing: /opt/workspace/install/test_interface_files/share/test_interface_files/msg/Nested.msg
+[0.881s] -- Installing: /opt/workspace/install/test_interface_files/share/test_interface_files/msg/Strings.msg
+[0.881s] -- Installing: /opt/workspace/install/test_interface_files/share/test_interface_files/msg/UnboundedSequences.msg
+[0.882s] -- Installing: /opt/workspace/install/test_interface_files/share/test_interface_files/msg/WStrings.msg
+[0.883s] -- Installing: /opt/workspace/install/test_interface_files/share/test_interface_files/srv/Arrays.srv
+[0.884s] -- Installing: /opt/workspace/install/test_interface_files/share/test_interface_files/srv/BasicTypes.srv
+[0.884s] -- Installing: /opt/workspace/install/test_interface_files/share/test_interface_files/srv/Empty.srv
+[0.884s] -- Installing: /opt/workspace/install/test_interface_files/share/test_interface_files/action/Fibonacci.action
+[0.884s] -- Installing: /opt/workspace/install/test_interface_files/share/ament_index/resource_index/package_run_dependencies/test_interface_files
+[0.884s] -- Installing: /opt/workspace/install/test_interface_files/share/ament_index/resource_index/parent_prefix_path/test_interface_files
+[0.885s] -- Installing: /opt/workspace/install/test_interface_files/share/test_interface_files/environment/ament_prefix_path.sh
+[0.885s] -- Installing: /opt/workspace/install/test_interface_files/share/test_interface_files/environment/ament_prefix_path.dsv
+[0.885s] -- Installing: /opt/workspace/install/test_interface_files/share/test_interface_files/environment/path.sh
+[0.885s] -- Installing: /opt/workspace/install/test_interface_files/share/test_interface_files/environment/path.dsv
+[0.885s] -- Installing: /opt/workspace/install/test_interface_files/share/test_interface_files/local_setup.bash
+[0.885s] -- Installing: /opt/workspace/install/test_interface_files/share/test_interface_files/local_setup.sh
+[0.886s] -- Installing: /opt/workspace/install/test_interface_files/share/test_interface_files/local_setup.zsh
+[0.886s] -- Installing: /opt/workspace/install/test_interface_files/share/test_interface_files/local_setup.dsv
+[0.886s] -- Installing: /opt/workspace/install/test_interface_files/share/test_interface_files/package.dsv
+[0.886s] -- Installing: /opt/workspace/install/test_interface_files/share/ament_index/resource_index/packages/test_interface_files
+[0.887s] -- Installing: /opt/workspace/install/test_interface_files/share/test_interface_files/cmake/test_interface_files-extras.cmake
+[0.887s] -- Installing: /opt/workspace/install/test_interface_files/share/test_interface_files/cmake/test_interface_filesConfig.cmake
+[0.887s] -- Installing: /opt/workspace/install/test_interface_files/share/test_interface_files/cmake/test_interface_filesConfig-version.cmake
+[0.887s] -- Installing: /opt/workspace/install/test_interface_files/share/test_interface_files/package.xml

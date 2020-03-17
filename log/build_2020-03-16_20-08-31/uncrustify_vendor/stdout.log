@@ -1,0 +1,17 @@
+[3.546s] [36mInstall the project...[0m
+[3.546s] -- Install configuration: ""
+[3.547s] -- Up-to-date: /opt/workspace/install/uncrustify_vendor/share/ament_index/resource_index/package_run_dependencies/uncrustify_vendor
+[3.547s] -- Up-to-date: /opt/workspace/install/uncrustify_vendor/share/ament_index/resource_index/parent_prefix_path/uncrustify_vendor
+[3.547s] -- Up-to-date: /opt/workspace/install/uncrustify_vendor/share/uncrustify_vendor/environment/ament_prefix_path.sh
+[3.547s] -- Up-to-date: /opt/workspace/install/uncrustify_vendor/share/uncrustify_vendor/environment/ament_prefix_path.dsv
+[3.548s] -- Up-to-date: /opt/workspace/install/uncrustify_vendor/share/uncrustify_vendor/environment/path.sh
+[3.548s] -- Up-to-date: /opt/workspace/install/uncrustify_vendor/share/uncrustify_vendor/environment/path.dsv
+[3.548s] -- Up-to-date: /opt/workspace/install/uncrustify_vendor/share/uncrustify_vendor/local_setup.bash
+[3.548s] -- Up-to-date: /opt/workspace/install/uncrustify_vendor/share/uncrustify_vendor/local_setup.sh
+[3.550s] -- Up-to-date: /opt/workspace/install/uncrustify_vendor/share/uncrustify_vendor/local_setup.zsh
+[3.551s] -- Up-to-date: /opt/workspace/install/uncrustify_vendor/share/uncrustify_vendor/local_setup.dsv
+[3.552s] -- Installing: /opt/workspace/install/uncrustify_vendor/share/uncrustify_vendor/package.dsv
+[3.553s] -- Up-to-date: /opt/workspace/install/uncrustify_vendor/share/ament_index/resource_index/packages/uncrustify_vendor
+[3.554s] -- Up-to-date: /opt/workspace/install/uncrustify_vendor/share/uncrustify_vendor/cmake/uncrustify_vendorConfig.cmake
+[3.558s] -- Up-to-date: /opt/workspace/install/uncrustify_vendor/share/uncrustify_vendor/cmake/uncrustify_vendorConfig-version.cmake
+[3.558s] -- Up-to-date: /opt/workspace/install/uncrustify_vendor/share/uncrustify_vendor/package.xml

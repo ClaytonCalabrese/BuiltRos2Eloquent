@@ -1,0 +1,185 @@
+[0.661s] -- The C compiler identification is GNU 7.4.0
+[0.904s] -- The CXX compiler identification is GNU 7.4.0
+[0.922s] -- Check for working C compiler: /usr/bin/cc
+[1.177s] -- Check for working C compiler: /usr/bin/cc -- works
+[1.179s] -- Detecting C compiler ABI info
+[1.425s] -- Detecting C compiler ABI info - done
+[1.444s] -- Detecting C compile features
+[2.322s] -- Detecting C compile features - done
+[2.327s] -- Check for working CXX compiler: /usr/bin/c++
+[2.794s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[2.796s] -- Detecting CXX compiler ABI info
+[3.125s] -- Detecting CXX compiler ABI info - done
+[3.141s] -- Detecting CXX compile features
+[4.952s] -- Detecting CXX compile features - done
+[4.978s] -- Found ament_cmake_ros: 0.8.0 (/opt/workspace/install/ament_cmake_ros/share/ament_cmake_ros/cmake)
+[5.229s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[5.232s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[6.320s] -- Found rosidl_generator_c: 0.8.2 (/opt/workspace/install/rosidl_generator_c/share/rosidl_generator_c/cmake)
+[6.347s] -- Found rosidl_adapter: 0.8.2 (/opt/workspace/install/rosidl_adapter/share/rosidl_adapter/cmake)
+[6.369s] -- Found action_msgs: 0.8.0 (/opt/workspace/install/action_msgs/share/action_msgs/cmake)
+[6.549s] -- Found rcl: 0.8.4 (/opt/workspace/install/rcl/share/rcl/cmake)
+[6.602s] -- Found rmw_implementation_cmake: 0.8.1 (/opt/workspace/install/rmw_implementation_cmake/share/rmw_implementation_cmake/cmake)
+[6.626s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[6.629s] -- Looking for pthread.h
+[7.054s] -- Looking for pthread.h - found
+[7.057s] -- Looking for pthread_create
+[7.450s] -- Looking for pthread_create - not found
+[7.451s] -- Looking for pthread_create in pthreads
+[7.783s] -- Looking for pthread_create in pthreads - not found
+[7.784s] -- Looking for pthread_create in pthread
+[8.109s] -- Looking for pthread_create in pthread - found
+[8.111s] -- Found Threads: TRUE  
+[8.297s] -- Found ament_lint_auto: 0.8.1 (/opt/workspace/install/ament_lint_auto/share/ament_lint_auto/cmake)
+[8.319s] -- Found test_msgs: 0.8.0 (/opt/workspace/install/test_msgs/share/test_msgs/cmake)
+[8.690s] -- Found gtest sources under '/opt/workspace/install/gtest_vendor/src/gtest_vendor': C++ tests using 'Google Test' will be built
+[8.698s] -- Check if compiler accepts -pthread
+[9.003s] -- Check if compiler accepts -pthread - yes
+[9.090s] -- Found rmw_cyclonedds_cpp: 0.5.1 (/opt/workspace/install/rmw_cyclonedds_cpp/share/rmw_cyclonedds_cpp/cmake)
+[9.101s] -- Found rmw_fastrtps_cpp: 0.8.1 (/opt/workspace/install/rmw_fastrtps_cpp/share/rmw_fastrtps_cpp/cmake)
+[9.541s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "1.1.1") 
+[9.650s] -- Found FastRTPS: /opt/workspace/install/fastrtps/include  
+[10.146s] -- Found rmw_fastrtps_dynamic_cpp: 0.8.1 (/opt/workspace/install/rmw_fastrtps_dynamic_cpp/share/rmw_fastrtps_dynamic_cpp/cmake)
+[11.295s] -- Added test 'copyright' to check for copyright in CMake / C / C++ / Python code
+[11.301s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[11.329s] -- Configured cppcheck include dirs: /opt/workspace/src/ros2/rcl/rcl_action/include
+[11.335s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[11.340s] -- Added test 'lint_cmake' to check CMake code style
+[11.347s] -- Added test 'uncrustify' to check C / C++ code style
+[11.350s] -- Added test 'xmllint' to check XML markup files
+[11.366s] -- Configuring done
+[11.798s] -- Generating done
+[11.807s] -- Build files have been written to: /opt/workspace/build/rcl_action
+[11.947s] [35m[1mScanning dependencies of target gtest[0m
+[12.013s] [  2%] [32mBuilding CXX object gtest/CMakeFiles/gtest.dir/src/gtest-all.cc.o[0m
+[17.412s] [  4%] [32m[1mLinking CXX static library libgtest.a[0m
+[17.545s] [  4%] Built target gtest
+[17.576s] [35m[1mScanning dependencies of target gtest_main[0m
+[17.631s] [  7%] [32mBuilding CXX object gtest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o[0m
+[19.021s] [  9%] [32m[1mLinking CXX static library libgtest_main.a[0m
+[19.108s] [  9%] Built target gtest_main
+[19.144s] [35m[1mScanning dependencies of target rcl_action[0m
+[19.223s] [ 11%] [32mBuilding C object CMakeFiles/rcl_action.dir/src/rcl_action/action_client.c.o[0m
+[19.436s] [ 14%] [32mBuilding C object CMakeFiles/rcl_action.dir/src/rcl_action/types.c.o[0m
+[19.530s] [ 16%] [32mBuilding C object CMakeFiles/rcl_action.dir/src/rcl_action/names.c.o[0m
+[19.637s] [ 19%] [32mBuilding C object CMakeFiles/rcl_action.dir/src/rcl_action/graph.c.o[0m
+[19.763s] [ 21%] [32mBuilding C object CMakeFiles/rcl_action.dir/src/rcl_action/goal_state_machine.c.o[0m
+[19.863s] [ 23%] [32mBuilding C object CMakeFiles/rcl_action.dir/src/rcl_action/goal_handle.c.o[0m
+[19.992s] [ 26%] [32mBuilding C object CMakeFiles/rcl_action.dir/src/rcl_action/action_server.c.o[0m
+[20.183s] [ 28%] [32m[1mLinking C shared library librcl_action.so[0m
+[20.279s] [ 28%] Built target rcl_action
+[20.314s] [35m[1mScanning dependencies of target test_names[0m
+[20.373s] [ 30%] [32mBuilding CXX object CMakeFiles/test_names.dir/test/rcl_action/test_names.cpp.o[0m
+[22.525s] [ 33%] [32m[1mLinking CXX executable test_names[0m
+[22.941s] [ 33%] Built target test_names
+[22.970s] [35m[1mScanning dependencies of target test_action_communication__rmw_fastrtps_cpp[0m
+[23.050s] [ 35%] [32mBuilding CXX object CMakeFiles/test_action_communication__rmw_fastrtps_cpp.dir/test/rcl_action/test_action_communication.cpp.o[0m
+[25.489s] [ 38%] [32m[1mLinking CXX executable test_action_communication__rmw_fastrtps_cpp[0m
+[25.892s] [ 38%] Built target test_action_communication__rmw_fastrtps_cpp
+[25.930s] [35m[1mScanning dependencies of target test_action_interaction__rmw_fastrtps_cpp[0m
+[25.993s] [ 40%] [32mBuilding CXX object CMakeFiles/test_action_interaction__rmw_fastrtps_cpp.dir/test/rcl_action/test_action_interaction.cpp.o[0m
+[28.061s] [ 42%] [32m[1mLinking CXX executable test_action_interaction__rmw_fastrtps_cpp[0m
+[28.451s] [ 42%] Built target test_action_interaction__rmw_fastrtps_cpp
+[28.487s] [35m[1mScanning dependencies of target test_action_communication__rmw_fastrtps_dynamic_cpp[0m
+[28.561s] [ 45%] [32mBuilding CXX object CMakeFiles/test_action_communication__rmw_fastrtps_dynamic_cpp.dir/test/rcl_action/test_action_communication.cpp.o[0m
+[30.750s] [ 47%] [32m[1mLinking CXX executable test_action_communication__rmw_fastrtps_dynamic_cpp[0m
+[31.053s] [ 47%] Built target test_action_communication__rmw_fastrtps_dynamic_cpp
+[31.075s] [35m[1mScanning dependencies of target test_action_server[0m
+[31.131s] [ 50%] [32mBuilding CXX object CMakeFiles/test_action_server.dir/test/rcl_action/test_action_server.cpp.o[0m
+[33.219s] [ 52%] [32m[1mLinking CXX executable test_action_server[0m
+[33.746s] [ 52%] Built target test_action_server
+[33.767s] [35m[1mScanning dependencies of target test_action_interaction__rmw_fastrtps_dynamic_cpp[0m
+[33.820s] [ 54%] [32mBuilding CXX object CMakeFiles/test_action_interaction__rmw_fastrtps_dynamic_cpp.dir/test/rcl_action/test_action_interaction.cpp.o[0m
+[35.780s] [ 57%] [32m[1mLinking CXX executable test_action_interaction__rmw_fastrtps_dynamic_cpp[0m
+[36.143s] [ 57%] Built target test_action_interaction__rmw_fastrtps_dynamic_cpp
+[36.174s] [35m[1mScanning dependencies of target test_goal_state_machine[0m
+[36.231s] [ 59%] [32mBuilding CXX object CMakeFiles/test_goal_state_machine.dir/test/rcl_action/test_goal_state_machine.cpp.o[0m
+[37.848s] [ 61%] [32m[1mLinking CXX executable test_goal_state_machine[0m
+[38.218s] [ 61%] Built target test_goal_state_machine
+[38.248s] [35m[1mScanning dependencies of target test_graph__rmw_fastrtps_dynamic_cpp[0m
+[38.317s] [ 64%] [32mBuilding CXX object CMakeFiles/test_graph__rmw_fastrtps_dynamic_cpp.dir/test/rcl_action/test_graph.cpp.o[0m
+[40.853s] [ 66%] [32m[1mLinking CXX executable test_graph__rmw_fastrtps_dynamic_cpp[0m
+[41.269s] [ 66%] Built target test_graph__rmw_fastrtps_dynamic_cpp
+[41.296s] [35m[1mScanning dependencies of target test_goal_handle[0m
+[41.351s] [ 69%] [32mBuilding CXX object CMakeFiles/test_goal_handle.dir/test/rcl_action/test_goal_handle.cpp.o[0m
+[44.376s] [ 71%] [32m[1mLinking CXX executable test_goal_handle[0m
+[44.820s] [ 71%] Built target test_goal_handle
+[44.849s] [35m[1mScanning dependencies of target test_graph__rmw_cyclonedds_cpp[0m
+[44.923s] [ 73%] [32mBuilding CXX object CMakeFiles/test_graph__rmw_cyclonedds_cpp.dir/test/rcl_action/test_graph.cpp.o[0m
+[47.025s] [ 76%] [32m[1mLinking CXX executable test_graph__rmw_cyclonedds_cpp[0m
+[47.424s] [ 76%] Built target test_graph__rmw_cyclonedds_cpp
+[47.456s] [35m[1mScanning dependencies of target test_graph__rmw_fastrtps_cpp[0m
+[47.527s] [ 78%] [32mBuilding CXX object CMakeFiles/test_graph__rmw_fastrtps_cpp.dir/test/rcl_action/test_graph.cpp.o[0m
+[49.819s] [ 80%] [32m[1mLinking CXX executable test_graph__rmw_fastrtps_cpp[0m
+[50.124s] [ 80%] Built target test_graph__rmw_fastrtps_cpp
+[50.150s] [35m[1mScanning dependencies of target test_action_client[0m
+[50.206s] [ 83%] [32mBuilding CXX object CMakeFiles/test_action_client.dir/test/rcl_action/test_action_client.cpp.o[0m
+[51.628s] [ 85%] [32m[1mLinking CXX executable test_action_client[0m
+[51.929s] [ 85%] Built target test_action_client
+[51.953s] [35m[1mScanning dependencies of target test_action_interaction__rmw_cyclonedds_cpp[0m
+[52.006s] [ 88%] [32mBuilding CXX object CMakeFiles/test_action_interaction__rmw_cyclonedds_cpp.dir/test/rcl_action/test_action_interaction.cpp.o[0m
+[53.512s] [ 90%] [32m[1mLinking CXX executable test_action_interaction__rmw_cyclonedds_cpp[0m
+[53.803s] [ 90%] Built target test_action_interaction__rmw_cyclonedds_cpp
+[53.830s] [35m[1mScanning dependencies of target test_action_communication__rmw_cyclonedds_cpp[0m
+[53.890s] [ 92%] [32mBuilding CXX object CMakeFiles/test_action_communication__rmw_cyclonedds_cpp.dir/test/rcl_action/test_action_communication.cpp.o[0m
+[55.494s] [ 95%] [32m[1mLinking CXX executable test_action_communication__rmw_cyclonedds_cpp[0m
+[55.815s] [ 95%] Built target test_action_communication__rmw_cyclonedds_cpp
+[55.836s] [35m[1mScanning dependencies of target test_types[0m
+[55.886s] [ 97%] [32mBuilding CXX object CMakeFiles/test_types.dir/test/rcl_action/test_types.cpp.o[0m
+[57.259s] [100%] [32m[1mLinking CXX executable test_types[0m
+[57.571s] [100%] Built target test_types
+[57.826s] [  4%] Built target gtest
+[57.872s] [  9%] Built target gtest_main
+[57.926s] [ 28%] Built target rcl_action
+[57.982s] [ 33%] Built target test_names
+[58.028s] [ 38%] Built target test_action_communication__rmw_fastrtps_cpp
+[58.074s] [ 42%] Built target test_action_interaction__rmw_fastrtps_cpp
+[58.134s] [ 47%] Built target test_action_communication__rmw_fastrtps_dynamic_cpp
+[58.198s] [ 52%] Built target test_action_server
+[58.251s] [ 57%] Built target test_action_interaction__rmw_fastrtps_dynamic_cpp
+[58.311s] [ 61%] Built target test_goal_state_machine
+[58.365s] [ 66%] Built target test_graph__rmw_fastrtps_dynamic_cpp
+[58.421s] [ 71%] Built target test_goal_handle
+[58.482s] [ 76%] Built target test_graph__rmw_cyclonedds_cpp
+[58.528s] [ 80%] Built target test_graph__rmw_fastrtps_cpp
+[58.577s] [ 85%] Built target test_action_client
+[58.625s] [ 90%] Built target test_action_interaction__rmw_cyclonedds_cpp
+[58.675s] [ 95%] Built target test_action_communication__rmw_cyclonedds_cpp
+[58.740s] [100%] Built target test_types
+[58.781s] [36mInstall the project...[0m
+[58.802s] -- Install configuration: ""
+[58.802s] -- Installing: /opt/workspace/install/rcl_action/include
+[58.803s] -- Installing: /opt/workspace/install/rcl_action/include/rcl_action
+[58.803s] -- Installing: /opt/workspace/install/rcl_action/include/rcl_action/action_server.h
+[58.803s] -- Installing: /opt/workspace/install/rcl_action/include/rcl_action/graph.h
+[58.804s] -- Installing: /opt/workspace/install/rcl_action/include/rcl_action/action_client.h
+[58.804s] -- Installing: /opt/workspace/install/rcl_action/include/rcl_action/visibility_control.h
+[58.804s] -- Installing: /opt/workspace/install/rcl_action/include/rcl_action/goal_state_machine.h
+[58.804s] -- Installing: /opt/workspace/install/rcl_action/include/rcl_action/names.h
+[58.804s] -- Installing: /opt/workspace/install/rcl_action/include/rcl_action/default_qos.h
+[58.804s] -- Installing: /opt/workspace/install/rcl_action/include/rcl_action/goal_handle.h
+[58.805s] -- Installing: /opt/workspace/install/rcl_action/include/rcl_action/wait.h
+[58.805s] -- Installing: /opt/workspace/install/rcl_action/include/rcl_action/rcl_action.h
+[58.805s] -- Installing: /opt/workspace/install/rcl_action/include/rcl_action/types.h
+[58.805s] -- Installing: /opt/workspace/install/rcl_action/lib/librcl_action.so
+[58.805s] -- Set runtime path of "/opt/workspace/install/rcl_action/lib/librcl_action.so" to ""
+[58.806s] -- Installing: /opt/workspace/install/rcl_action/share/rcl_action/environment/library_path.sh
+[58.806s] -- Installing: /opt/workspace/install/rcl_action/share/rcl_action/environment/library_path.dsv
+[58.806s] -- Installing: /opt/workspace/install/rcl_action/share/ament_index/resource_index/package_run_dependencies/rcl_action
+[58.806s] -- Installing: /opt/workspace/install/rcl_action/share/ament_index/resource_index/parent_prefix_path/rcl_action
+[58.807s] -- Installing: /opt/workspace/install/rcl_action/share/rcl_action/environment/ament_prefix_path.sh
+[58.807s] -- Installing: /opt/workspace/install/rcl_action/share/rcl_action/environment/ament_prefix_path.dsv
+[58.807s] -- Installing: /opt/workspace/install/rcl_action/share/rcl_action/environment/path.sh
+[58.807s] -- Installing: /opt/workspace/install/rcl_action/share/rcl_action/environment/path.dsv
+[58.807s] -- Installing: /opt/workspace/install/rcl_action/share/rcl_action/local_setup.bash
+[58.808s] -- Installing: /opt/workspace/install/rcl_action/share/rcl_action/local_setup.sh
+[58.808s] -- Installing: /opt/workspace/install/rcl_action/share/rcl_action/local_setup.zsh
+[58.808s] -- Installing: /opt/workspace/install/rcl_action/share/rcl_action/local_setup.dsv
+[58.808s] -- Installing: /opt/workspace/install/rcl_action/share/rcl_action/package.dsv
+[58.808s] -- Installing: /opt/workspace/install/rcl_action/share/ament_index/resource_index/packages/rcl_action
+[58.809s] -- Installing: /opt/workspace/install/rcl_action/share/rcl_action/cmake/ament_cmake_export_include_directories-extras.cmake
+[58.809s] -- Installing: /opt/workspace/install/rcl_action/share/rcl_action/cmake/ament_cmake_export_libraries-extras.cmake
+[58.809s] -- Installing: /opt/workspace/install/rcl_action/share/rcl_action/cmake/ament_cmake_export_dependencies-extras.cmake
+[58.809s] -- Installing: /opt/workspace/install/rcl_action/share/rcl_action/cmake/rcl_actionConfig.cmake
+[58.810s] -- Installing: /opt/workspace/install/rcl_action/share/rcl_action/cmake/rcl_actionConfig-version.cmake
+[58.810s] -- Installing: /opt/workspace/install/rcl_action/share/rcl_action/package.xml

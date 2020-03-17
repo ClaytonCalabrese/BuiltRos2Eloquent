@@ -1,0 +1,20 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from rcl_interfaces/srv/SetParametersAtomically.srv
+// generated code does not contain a copyright notice
+
+#include "rcl_interfaces/msg/Parameter.idl"
+#include "rcl_interfaces/msg/SetParametersResult.idl"
+
+module rcl_interfaces {
+  module srv {
+    @verbatim (language="comment", text=
+      " A list of parameters to set atomically." "\n"
+      " This call will either set all values, or none of the values.")
+    struct SetParametersAtomically_Request {
+      sequence<rcl_interfaces::msg::Parameter> parameters;
+    };
+    struct SetParametersAtomically_Response {
+      rcl_interfaces::msg::SetParametersResult result;
+    };
+  };
+};

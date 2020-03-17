@@ -1,0 +1,54 @@
+[0.263s] -- The C compiler identification is GNU 7.4.0
+[0.390s] -- The CXX compiler identification is GNU 7.4.0
+[0.398s] -- Check for working C compiler: /usr/bin/cc
+[0.570s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.571s] -- Detecting C compiler ABI info
+[0.739s] -- Detecting C compiler ABI info - done
+[0.750s] -- Detecting C compile features
+[1.172s] -- Detecting C compile features - done
+[1.178s] -- Check for working CXX compiler: /usr/bin/c++
+[1.367s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[1.369s] -- Detecting CXX compiler ABI info
+[1.552s] -- Detecting CXX compiler ABI info - done
+[1.565s] -- Detecting CXX compile features
+[2.325s] -- Detecting CXX compile features - done
+[2.331s] -- Found ament_cmake: 0.8.2 (/opt/workspace/install/ament_cmake/share/ament_cmake/cmake)
+[2.384s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[2.385s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[2.886s] -- Found ament_cmake_pytest: 0.8.2 (/opt/workspace/install/ament_cmake_pytest/share/ament_cmake_pytest/cmake)
+[2.889s] -- Found ament_lint_auto: 0.8.1 (/opt/workspace/install/ament_lint_auto/share/ament_lint_auto/cmake)
+[3.733s] -- Added test 'flake8' to check Python code syntax and style conventions
+[3.741s] -- Added test 'lint_cmake' to check CMake code style
+[3.744s] -- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+[3.754s] -- Added test 'xmllint' to check XML markup files
+[3.760s] -- Configuring done
+[3.765s] -- Generating done
+[3.769s] -- Build files have been written to: /opt/workspace/build/python_qt_binding
+[4.091s] [36mInstall the project...[0m
+[4.109s] -- Install configuration: ""
+[4.109s] -- Installing: /opt/workspace/install/python_qt_binding/share/python_qt_binding/environment/pythonpath.sh
+[4.110s] -- Installing: /opt/workspace/install/python_qt_binding/share/python_qt_binding/environment/pythonpath.dsv
+[4.110s] -- Installing: /opt/workspace/install/python_qt_binding/lib/python3.6/site-packages/python_qt_binding
+[4.110s] -- Installing: /opt/workspace/install/python_qt_binding/lib/python3.6/site-packages/python_qt_binding/__init__.py
+[4.111s] -- Installing: /opt/workspace/install/python_qt_binding/lib/python3.6/site-packages/python_qt_binding/binding_helper.py
+[4.206s] Listing '/opt/workspace/install/python_qt_binding/lib/python3.6/site-packages/python_qt_binding'...
+[4.207s] Compiling '/opt/workspace/install/python_qt_binding/lib/python3.6/site-packages/python_qt_binding/__init__.py'...
+[4.207s] Compiling '/opt/workspace/install/python_qt_binding/lib/python3.6/site-packages/python_qt_binding/binding_helper.py'...
+[4.215s] -- Installing: /opt/workspace/install/python_qt_binding/share/python_qt_binding/cmake/shiboken_helper.cmake
+[4.215s] -- Installing: /opt/workspace/install/python_qt_binding/share/python_qt_binding/cmake/sip_configure.py
+[4.216s] -- Installing: /opt/workspace/install/python_qt_binding/share/python_qt_binding/cmake/sip_helper.cmake
+[4.216s] -- Installing: /opt/workspace/install/python_qt_binding/share/ament_index/resource_index/package_run_dependencies/python_qt_binding
+[4.217s] -- Installing: /opt/workspace/install/python_qt_binding/share/ament_index/resource_index/parent_prefix_path/python_qt_binding
+[4.218s] -- Installing: /opt/workspace/install/python_qt_binding/share/python_qt_binding/environment/ament_prefix_path.sh
+[4.218s] -- Installing: /opt/workspace/install/python_qt_binding/share/python_qt_binding/environment/ament_prefix_path.dsv
+[4.219s] -- Installing: /opt/workspace/install/python_qt_binding/share/python_qt_binding/environment/path.sh
+[4.219s] -- Installing: /opt/workspace/install/python_qt_binding/share/python_qt_binding/environment/path.dsv
+[4.221s] -- Installing: /opt/workspace/install/python_qt_binding/share/python_qt_binding/local_setup.bash
+[4.221s] -- Installing: /opt/workspace/install/python_qt_binding/share/python_qt_binding/local_setup.sh
+[4.222s] -- Installing: /opt/workspace/install/python_qt_binding/share/python_qt_binding/local_setup.zsh
+[4.223s] -- Installing: /opt/workspace/install/python_qt_binding/share/python_qt_binding/local_setup.dsv
+[4.223s] -- Installing: /opt/workspace/install/python_qt_binding/share/python_qt_binding/package.dsv
+[4.224s] -- Installing: /opt/workspace/install/python_qt_binding/share/ament_index/resource_index/packages/python_qt_binding
+[4.224s] -- Installing: /opt/workspace/install/python_qt_binding/share/python_qt_binding/cmake/python_qt_bindingConfig.cmake
+[4.225s] -- Installing: /opt/workspace/install/python_qt_binding/share/python_qt_binding/cmake/python_qt_bindingConfig-version.cmake
+[4.225s] -- Installing: /opt/workspace/install/python_qt_binding/share/python_qt_binding/package.xml

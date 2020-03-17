@@ -1,0 +1,32 @@
+[3.801s] Invoking command in '/opt/workspace/src/ros2/ament_cmake_ros/domain_coordinator': AMENT_PREFIX_PATH=/opt/workspace/install/ament_copyright:/opt/workspace/install/ament_pep257:/opt/workspace/install/ament_flake8:/opt/workspace/install/ament_lint:${AMENT_PREFIX_PATH} PATH=/opt/workspace/install/ament_copyright/bin:/opt/workspace/install/ament_pep257/bin:/opt/workspace/install/ament_flake8/bin:${PATH} PYTHONPATH=/opt/workspace/install/domain_coordinator/lib/python3.6/site-packages:/opt/workspace/install/ament_copyright/lib/python3.6/site-packages:/opt/workspace/install/ament_pep257/lib/python3.6/site-packages:/opt/workspace/install/ament_flake8/lib/python3.6/site-packages:/opt/workspace/install/ament_lint/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base /opt/workspace/build/domain_coordinator build --build-base /opt/workspace/build/domain_coordinator/build install --prefix /opt/workspace/install/domain_coordinator --record /opt/workspace/build/domain_coordinator/install.log --single-version-externally-managed
+[4.411s] running egg_info
+[4.413s] creating /opt/workspace/build/domain_coordinator/domain_coordinator.egg-info
+[4.413s] writing /opt/workspace/build/domain_coordinator/domain_coordinator.egg-info/PKG-INFO
+[4.413s] writing dependency_links to /opt/workspace/build/domain_coordinator/domain_coordinator.egg-info/dependency_links.txt
+[4.416s] writing requirements to /opt/workspace/build/domain_coordinator/domain_coordinator.egg-info/requires.txt
+[4.417s] writing top-level names to /opt/workspace/build/domain_coordinator/domain_coordinator.egg-info/top_level.txt
+[4.417s] writing manifest file '/opt/workspace/build/domain_coordinator/domain_coordinator.egg-info/SOURCES.txt'
+[4.575s] reading manifest file '/opt/workspace/build/domain_coordinator/domain_coordinator.egg-info/SOURCES.txt'
+[4.577s] writing manifest file '/opt/workspace/build/domain_coordinator/domain_coordinator.egg-info/SOURCES.txt'
+[4.578s] running build
+[4.583s] running build_py
+[4.584s] creating /opt/workspace/build/domain_coordinator/build
+[4.584s] creating /opt/workspace/build/domain_coordinator/build/lib
+[4.584s] creating /opt/workspace/build/domain_coordinator/build/lib/domain_coordinator
+[4.585s] copying domain_coordinator/__init__.py -> /opt/workspace/build/domain_coordinator/build/lib/domain_coordinator
+[4.585s] running install
+[4.585s] running install_lib
+[4.591s] creating /opt/workspace/install/domain_coordinator/lib/python3.6/site-packages/domain_coordinator
+[4.592s] copying /opt/workspace/build/domain_coordinator/build/lib/domain_coordinator/__init__.py -> /opt/workspace/install/domain_coordinator/lib/python3.6/site-packages/domain_coordinator
+[4.593s] byte-compiling /opt/workspace/install/domain_coordinator/lib/python3.6/site-packages/domain_coordinator/__init__.py to __init__.cpython-36.pyc
+[4.593s] running install_data
+[4.594s] copying package.xml -> /opt/workspace/install/domain_coordinator/share/domain_coordinator
+[4.594s] creating /opt/workspace/install/domain_coordinator/share/ament_index
+[4.594s] creating /opt/workspace/install/domain_coordinator/share/ament_index/resource_index
+[4.595s] creating /opt/workspace/install/domain_coordinator/share/ament_index/resource_index/packages
+[4.595s] copying resource/domain_coordinator -> /opt/workspace/install/domain_coordinator/share/ament_index/resource_index/packages
+[4.595s] running install_egg_info
+[4.603s] Copying /opt/workspace/build/domain_coordinator/domain_coordinator.egg-info to /opt/workspace/install/domain_coordinator/lib/python3.6/site-packages/domain_coordinator-0.8.0-py3.6.egg-info
+[4.605s] running install_scripts
+[4.657s] writing list of installed files to '/opt/workspace/build/domain_coordinator/install.log'
+[5.220s] Invoked command in '/opt/workspace/src/ros2/ament_cmake_ros/domain_coordinator' returned '0': AMENT_PREFIX_PATH=/opt/workspace/install/ament_copyright:/opt/workspace/install/ament_pep257:/opt/workspace/install/ament_flake8:/opt/workspace/install/ament_lint:${AMENT_PREFIX_PATH} PATH=/opt/workspace/install/ament_copyright/bin:/opt/workspace/install/ament_pep257/bin:/opt/workspace/install/ament_flake8/bin:${PATH} PYTHONPATH=/opt/workspace/install/domain_coordinator/lib/python3.6/site-packages:/opt/workspace/install/ament_copyright/lib/python3.6/site-packages:/opt/workspace/install/ament_pep257/lib/python3.6/site-packages:/opt/workspace/install/ament_flake8/lib/python3.6/site-packages:/opt/workspace/install/ament_lint/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base /opt/workspace/build/domain_coordinator build --build-base /opt/workspace/build/domain_coordinator/build install --prefix /opt/workspace/install/domain_coordinator --record /opt/workspace/build/domain_coordinator/install.log --single-version-externally-managed

@@ -1,0 +1,16 @@
+/opt/workspace/install/ament_cmake/share/ament_index/resource_index/package_run_dependencies/ament_cmake
+/opt/workspace/install/ament_cmake/share/ament_index/resource_index/parent_prefix_path/ament_cmake
+/opt/workspace/install/ament_cmake/share/ament_cmake/environment/ament_prefix_path.sh
+/opt/workspace/install/ament_cmake/share/ament_cmake/environment/ament_prefix_path.dsv
+/opt/workspace/install/ament_cmake/share/ament_cmake/environment/path.sh
+/opt/workspace/install/ament_cmake/share/ament_cmake/environment/path.dsv
+/opt/workspace/install/ament_cmake/share/ament_cmake/local_setup.bash
+/opt/workspace/install/ament_cmake/share/ament_cmake/local_setup.sh
+/opt/workspace/install/ament_cmake/share/ament_cmake/local_setup.zsh
+/opt/workspace/install/ament_cmake/share/ament_cmake/local_setup.dsv
+/opt/workspace/install/ament_cmake/share/ament_cmake/package.dsv
+/opt/workspace/install/ament_cmake/share/ament_index/resource_index/packages/ament_cmake
+/opt/workspace/install/ament_cmake/share/ament_cmake/cmake/ament_cmake_export_dependencies-extras.cmake
+/opt/workspace/install/ament_cmake/share/ament_cmake/cmake/ament_cmakeConfig.cmake
+/opt/workspace/install/ament_cmake/share/ament_cmake/cmake/ament_cmakeConfig-version.cmake
+/opt/workspace/install/ament_cmake/share/ament_cmake/package.xml

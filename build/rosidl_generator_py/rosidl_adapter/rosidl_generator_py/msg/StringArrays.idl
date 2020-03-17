@@ -1,0 +1,39 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from rosidl_generator_py/msg/StringArrays.msg
+// generated code does not contain a copyright notice
+
+
+module rosidl_generator_py {
+  module msg {
+    typedef string<5> string__5__3[3];
+    typedef string string__3[3];
+    struct StringArrays {
+      string__5__3 ub_string_static_array_value;
+
+      sequence<string<5>, 10> ub_string_ub_array_value;
+
+      sequence<string<5>> ub_string_dynamic_array_value;
+
+      sequence<string> string_dynamic_array_value;
+
+      string__3 string_static_array_value;
+
+      sequence<string, 10> string_bounded_array_value;
+
+      @default (value="('What', 'a', 'wonderful', 'world', '!')")
+      sequence<string> def_string_dynamic_array_value;
+
+      @default (value="('Hello', 'World', '!')")
+      string__3 def_string_static_array_value;
+
+      @default (value="('Hello', 'World', '!')")
+      sequence<string, 10> def_string_bounded_array_value;
+
+      @default (value="('H\"el\'lo', 'Wo\'r\"ld')")
+      sequence<string> def_various_quotes;
+
+      @default (value="('Hel,lo', ',World', 'abcd', '!,')")
+      sequence<string> def_various_commas;
+    };
+  };
+};

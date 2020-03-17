@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/opt/workspace/src/ros2/rcpputils/include/rcpputils/visibility_control.hpp
+
+/opt/workspace/src/ros2/rcpputils/test/test_library.cpp
+rcpputils/visibility_control.hpp
+/opt/workspace/src/ros2/rcpputils/test/rcpputils/visibility_control.hpp
+

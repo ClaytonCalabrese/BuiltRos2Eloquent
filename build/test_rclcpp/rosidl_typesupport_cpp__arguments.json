@@ -1,0 +1,19 @@
+{
+  "package_name": "test_rclcpp",
+  "output_dir": "/opt/workspace/build/test_rclcpp/rosidl_typesupport_cpp/test_rclcpp",
+  "template_dir": "/opt/workspace/install/rosidl_typesupport_cpp/share/rosidl_typesupport_cpp/resource",
+  "idl_tuples": [
+    "/opt/workspace/build/test_rclcpp/rosidl_adapter/test_rclcpp:msg/UInt32.idl",
+    "/opt/workspace/build/test_rclcpp/rosidl_adapter/test_rclcpp:srv/AddTwoInts.idl"
+  ],
+  "target_dependencies": [
+    "/opt/workspace/install/rosidl_typesupport_cpp/lib/rosidl_typesupport_cpp/rosidl_typesupport_cpp",
+    "/opt/workspace/install/rosidl_typesupport_cpp/lib/python3.6/site-packages/rosidl_typesupport_cpp/__init__.py",
+    "/opt/workspace/install/rosidl_typesupport_cpp/share/rosidl_typesupport_cpp/resource/action__type_support.cpp.em",
+    "/opt/workspace/install/rosidl_typesupport_cpp/share/rosidl_typesupport_cpp/resource/idl__type_support.cpp.em",
+    "/opt/workspace/install/rosidl_typesupport_cpp/share/rosidl_typesupport_cpp/resource/msg__type_support.cpp.em",
+    "/opt/workspace/install/rosidl_typesupport_cpp/share/rosidl_typesupport_cpp/resource/srv__type_support.cpp.em",
+    "/opt/workspace/build/test_rclcpp/rosidl_adapter/test_rclcpp/msg/UInt32.idl",
+    "/opt/workspace/build/test_rclcpp/rosidl_adapter/test_rclcpp/srv/AddTwoInts.idl"
+  ]
+}

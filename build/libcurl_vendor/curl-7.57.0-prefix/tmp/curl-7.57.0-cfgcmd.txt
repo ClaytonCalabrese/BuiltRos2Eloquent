@@ -1,0 +1,1 @@
+cmd='<SOURCE_DIR>/configure;CFLAGS=-w;CXXFLAGS=-std=c++14 -w;PKG_CONFIG_PATH=$PKG_CONFIG_PATH:;--prefix=/opt/workspace/build/libcurl_vendor/libcurl_install;--with-ssl'

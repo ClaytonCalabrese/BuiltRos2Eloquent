@@ -1,0 +1,86 @@
+[0.284s] -- The C compiler identification is GNU 7.4.0
+[0.384s] -- The CXX compiler identification is GNU 7.4.0
+[0.397s] -- Check for working C compiler: /usr/bin/cc
+[0.535s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.536s] -- Detecting C compiler ABI info
+[0.668s] -- Detecting C compiler ABI info - done
+[0.677s] -- Detecting C compile features
+[1.080s] -- Detecting C compile features - done
+[1.085s] -- Check for working CXX compiler: /usr/bin/c++
+[1.251s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[1.252s] -- Detecting CXX compiler ABI info
+[1.393s] -- Detecting CXX compiler ABI info - done
+[1.402s] -- Detecting CXX compile features
+[2.025s] -- Detecting CXX compile features - done
+[2.029s] -- Found ament_cmake_python: 0.8.2 (/opt/workspace/install/ament_cmake_python/share/ament_cmake_python/cmake)
+[2.032s] -- Found ament_cmake_ros: 0.8.0 (/opt/workspace/install/ament_cmake_ros/share/ament_cmake_ros/cmake)
+[2.108s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[2.108s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[2.561s] -- Found ament_lint_auto: 0.8.1 (/opt/workspace/install/ament_lint_auto/share/ament_lint_auto/cmake)
+[2.727s] -- Added test 'copyright' to check for copyright in CMake / C / C++ / Python code
+[2.731s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[2.731s] -- Configured cppcheck include dirs: /opt/workspace/src/ros2/rosidl/rosidl_typesupport_introspection_c/include
+[2.734s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[2.736s] -- Added test 'flake8' to check Python code syntax and style conventions
+[2.737s] -- Added test 'lint_cmake' to check CMake code style
+[2.739s] -- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+[2.743s] -- Added test 'uncrustify' to check C / C++ code style
+[2.744s] -- Added test 'xmllint' to check XML markup files
+[2.750s] -- Configuring done
+[2.755s] -- Generating done
+[2.757s] -- Build files have been written to: /opt/workspace/build/rosidl_typesupport_introspection_c
+[2.863s] [35m[1mScanning dependencies of target rosidl_typesupport_introspection_c[0m
+[2.884s] [ 50%] [32mBuilding C object CMakeFiles/rosidl_typesupport_introspection_c.dir/src/identifier.c.o[0m
+[2.932s] [100%] [32m[1mLinking C shared library librosidl_typesupport_introspection_c.so[0m
+[2.989s] [100%] Built target rosidl_typesupport_introspection_c
+[3.263s] [100%] Built target rosidl_typesupport_introspection_c
+[3.298s] [36mInstall the project...[0m
+[3.311s] -- Install configuration: ""
+[3.312s] -- Installing: /opt/workspace/install/rosidl_typesupport_introspection_c/share/rosidl_typesupport_introspection_c/environment/pythonpath.sh
+[3.312s] -- Installing: /opt/workspace/install/rosidl_typesupport_introspection_c/share/rosidl_typesupport_introspection_c/environment/pythonpath.dsv
+[3.312s] -- Installing: /opt/workspace/install/rosidl_typesupport_introspection_c/lib/python3.6/site-packages/rosidl_typesupport_introspection_c
+[3.313s] -- Installing: /opt/workspace/install/rosidl_typesupport_introspection_c/lib/python3.6/site-packages/rosidl_typesupport_introspection_c/__init__.py
+[3.394s] Listing '/opt/workspace/install/rosidl_typesupport_introspection_c/lib/python3.6/site-packages/rosidl_typesupport_introspection_c'...
+[3.395s] Compiling '/opt/workspace/install/rosidl_typesupport_introspection_c/lib/python3.6/site-packages/rosidl_typesupport_introspection_c/__init__.py'...
+[3.401s] -- Installing: /opt/workspace/install/rosidl_typesupport_introspection_c/share/rosidl_typesupport_introspection_c/environment/library_path.sh
+[3.402s] -- Installing: /opt/workspace/install/rosidl_typesupport_introspection_c/share/rosidl_typesupport_introspection_c/environment/library_path.dsv
+[3.403s] -- Installing: /opt/workspace/install/rosidl_typesupport_introspection_c/share/ament_index/resource_index/rosidl_typesupport_c/rosidl_typesupport_introspection_c
+[3.403s] -- Installing: /opt/workspace/install/rosidl_typesupport_introspection_c/share/ament_index/resource_index/rosidl_runtime_packages/rosidl_typesupport_introspection_c
+[3.404s] -- Installing: /opt/workspace/install/rosidl_typesupport_introspection_c/share/ament_index/resource_index/package_run_dependencies/rosidl_typesupport_introspection_c
+[3.404s] -- Installing: /opt/workspace/install/rosidl_typesupport_introspection_c/share/ament_index/resource_index/parent_prefix_path/rosidl_typesupport_introspection_c
+[3.405s] -- Installing: /opt/workspace/install/rosidl_typesupport_introspection_c/share/rosidl_typesupport_introspection_c/environment/ament_prefix_path.sh
+[3.405s] -- Installing: /opt/workspace/install/rosidl_typesupport_introspection_c/share/rosidl_typesupport_introspection_c/environment/ament_prefix_path.dsv
+[3.405s] -- Installing: /opt/workspace/install/rosidl_typesupport_introspection_c/share/rosidl_typesupport_introspection_c/environment/path.sh
+[3.405s] -- Installing: /opt/workspace/install/rosidl_typesupport_introspection_c/share/rosidl_typesupport_introspection_c/environment/path.dsv
+[3.405s] -- Installing: /opt/workspace/install/rosidl_typesupport_introspection_c/share/rosidl_typesupport_introspection_c/local_setup.bash
+[3.406s] -- Installing: /opt/workspace/install/rosidl_typesupport_introspection_c/share/rosidl_typesupport_introspection_c/local_setup.sh
+[3.406s] -- Installing: /opt/workspace/install/rosidl_typesupport_introspection_c/share/rosidl_typesupport_introspection_c/local_setup.zsh
+[3.406s] -- Installing: /opt/workspace/install/rosidl_typesupport_introspection_c/share/rosidl_typesupport_introspection_c/local_setup.dsv
+[3.413s] -- Installing: /opt/workspace/install/rosidl_typesupport_introspection_c/share/rosidl_typesupport_introspection_c/package.dsv
+[3.414s] -- Installing: /opt/workspace/install/rosidl_typesupport_introspection_c/share/ament_index/resource_index/packages/rosidl_typesupport_introspection_c
+[3.414s] -- Installing: /opt/workspace/install/rosidl_typesupport_introspection_c/share/rosidl_typesupport_introspection_c/cmake/rosidl_typesupport_introspection_c-extras.cmake
+[3.414s] -- Installing: /opt/workspace/install/rosidl_typesupport_introspection_c/share/rosidl_typesupport_introspection_c/cmake/ament_cmake_export_dependencies-extras.cmake
+[3.414s] -- Installing: /opt/workspace/install/rosidl_typesupport_introspection_c/share/rosidl_typesupport_introspection_c/cmake/ament_cmake_export_include_directories-extras.cmake
+[3.414s] -- Installing: /opt/workspace/install/rosidl_typesupport_introspection_c/share/rosidl_typesupport_introspection_c/cmake/ament_cmake_export_libraries-extras.cmake
+[3.414s] -- Installing: /opt/workspace/install/rosidl_typesupport_introspection_c/share/rosidl_typesupport_introspection_c/cmake/rosidl_typesupport_introspection_cConfig.cmake
+[3.415s] -- Installing: /opt/workspace/install/rosidl_typesupport_introspection_c/share/rosidl_typesupport_introspection_c/cmake/rosidl_typesupport_introspection_cConfig-version.cmake
+[3.415s] -- Installing: /opt/workspace/install/rosidl_typesupport_introspection_c/share/rosidl_typesupport_introspection_c/package.xml
+[3.415s] -- Installing: /opt/workspace/install/rosidl_typesupport_introspection_c/lib/rosidl_typesupport_introspection_c/rosidl_typesupport_introspection_c
+[3.415s] -- Up-to-date: /opt/workspace/install/rosidl_typesupport_introspection_c/share/rosidl_typesupport_introspection_c/cmake
+[3.416s] -- Installing: /opt/workspace/install/rosidl_typesupport_introspection_c/share/rosidl_typesupport_introspection_c/cmake/rosidl_typesupport_introspection_c_generate_interfaces.cmake
+[3.416s] -- Installing: /opt/workspace/install/rosidl_typesupport_introspection_c/share/rosidl_typesupport_introspection_c/resource
+[3.416s] -- Installing: /opt/workspace/install/rosidl_typesupport_introspection_c/share/rosidl_typesupport_introspection_c/resource/msg__rosidl_typesupport_introspection_c.h.em
+[3.417s] -- Installing: /opt/workspace/install/rosidl_typesupport_introspection_c/share/rosidl_typesupport_introspection_c/resource/rosidl_typesupport_introspection_c__visibility_control.h.in
+[3.417s] -- Installing: /opt/workspace/install/rosidl_typesupport_introspection_c/share/rosidl_typesupport_introspection_c/resource/srv__type_support.c.em
+[3.418s] -- Installing: /opt/workspace/install/rosidl_typesupport_introspection_c/share/rosidl_typesupport_introspection_c/resource/idl__type_support.c.em
+[3.418s] -- Installing: /opt/workspace/install/rosidl_typesupport_introspection_c/share/rosidl_typesupport_introspection_c/resource/srv__rosidl_typesupport_introspection_c.h.em
+[3.418s] -- Installing: /opt/workspace/install/rosidl_typesupport_introspection_c/share/rosidl_typesupport_introspection_c/resource/idl__rosidl_typesupport_introspection_c.h.em
+[3.418s] -- Installing: /opt/workspace/install/rosidl_typesupport_introspection_c/share/rosidl_typesupport_introspection_c/resource/msg__type_support.c.em
+[3.418s] -- Installing: /opt/workspace/install/rosidl_typesupport_introspection_c/include
+[3.419s] -- Installing: /opt/workspace/install/rosidl_typesupport_introspection_c/include/rosidl_typesupport_introspection_c
+[3.423s] -- Installing: /opt/workspace/install/rosidl_typesupport_introspection_c/include/rosidl_typesupport_introspection_c/message_introspection.h
+[3.423s] -- Installing: /opt/workspace/install/rosidl_typesupport_introspection_c/include/rosidl_typesupport_introspection_c/field_types.h
+[3.423s] -- Installing: /opt/workspace/install/rosidl_typesupport_introspection_c/include/rosidl_typesupport_introspection_c/identifier.h
+[3.423s] -- Installing: /opt/workspace/install/rosidl_typesupport_introspection_c/include/rosidl_typesupport_introspection_c/visibility_control.h
+[3.424s] -- Installing: /opt/workspace/install/rosidl_typesupport_introspection_c/include/rosidl_typesupport_introspection_c/service_introspection.h
+[3.424s] -- Installing: /opt/workspace/install/rosidl_typesupport_introspection_c/lib/librosidl_typesupport_introspection_c.so

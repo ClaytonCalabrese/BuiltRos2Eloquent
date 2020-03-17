@@ -1,0 +1,46 @@
+[4.400s] running egg_info
+[4.401s] creating /opt/workspace/build/quality_of_service_demo_py/quality_of_service_demo_py.egg-info
+[4.402s] writing /opt/workspace/build/quality_of_service_demo_py/quality_of_service_demo_py.egg-info/PKG-INFO
+[4.402s] writing dependency_links to /opt/workspace/build/quality_of_service_demo_py/quality_of_service_demo_py.egg-info/dependency_links.txt
+[4.402s] writing entry points to /opt/workspace/build/quality_of_service_demo_py/quality_of_service_demo_py.egg-info/entry_points.txt
+[4.403s] writing requirements to /opt/workspace/build/quality_of_service_demo_py/quality_of_service_demo_py.egg-info/requires.txt
+[4.403s] writing top-level names to /opt/workspace/build/quality_of_service_demo_py/quality_of_service_demo_py.egg-info/top_level.txt
+[4.411s] writing manifest file '/opt/workspace/build/quality_of_service_demo_py/quality_of_service_demo_py.egg-info/SOURCES.txt'
+[4.489s] reading manifest file '/opt/workspace/build/quality_of_service_demo_py/quality_of_service_demo_py.egg-info/SOURCES.txt'
+[4.492s] writing manifest file '/opt/workspace/build/quality_of_service_demo_py/quality_of_service_demo_py.egg-info/SOURCES.txt'
+[4.492s] running build
+[4.493s] running build_py
+[4.493s] creating /opt/workspace/build/quality_of_service_demo_py/build
+[4.493s] creating /opt/workspace/build/quality_of_service_demo_py/build/lib
+[4.493s] creating /opt/workspace/build/quality_of_service_demo_py/build/lib/quality_of_service_demo_py
+[4.494s] copying quality_of_service_demo_py/__init__.py -> /opt/workspace/build/quality_of_service_demo_py/build/lib/quality_of_service_demo_py
+[4.494s] copying quality_of_service_demo_py/common_nodes.py -> /opt/workspace/build/quality_of_service_demo_py/build/lib/quality_of_service_demo_py
+[4.494s] copying quality_of_service_demo_py/lifespan.py -> /opt/workspace/build/quality_of_service_demo_py/build/lib/quality_of_service_demo_py
+[4.494s] copying quality_of_service_demo_py/liveliness.py -> /opt/workspace/build/quality_of_service_demo_py/build/lib/quality_of_service_demo_py
+[4.494s] copying quality_of_service_demo_py/deadline.py -> /opt/workspace/build/quality_of_service_demo_py/build/lib/quality_of_service_demo_py
+[4.495s] running install
+[4.495s] running install_lib
+[4.496s] creating /opt/workspace/install/quality_of_service_demo_py/lib/python3.6/site-packages/quality_of_service_demo_py
+[4.496s] copying /opt/workspace/build/quality_of_service_demo_py/build/lib/quality_of_service_demo_py/__init__.py -> /opt/workspace/install/quality_of_service_demo_py/lib/python3.6/site-packages/quality_of_service_demo_py
+[4.497s] copying /opt/workspace/build/quality_of_service_demo_py/build/lib/quality_of_service_demo_py/common_nodes.py -> /opt/workspace/install/quality_of_service_demo_py/lib/python3.6/site-packages/quality_of_service_demo_py
+[4.497s] copying /opt/workspace/build/quality_of_service_demo_py/build/lib/quality_of_service_demo_py/lifespan.py -> /opt/workspace/install/quality_of_service_demo_py/lib/python3.6/site-packages/quality_of_service_demo_py
+[4.497s] copying /opt/workspace/build/quality_of_service_demo_py/build/lib/quality_of_service_demo_py/liveliness.py -> /opt/workspace/install/quality_of_service_demo_py/lib/python3.6/site-packages/quality_of_service_demo_py
+[4.498s] copying /opt/workspace/build/quality_of_service_demo_py/build/lib/quality_of_service_demo_py/deadline.py -> /opt/workspace/install/quality_of_service_demo_py/lib/python3.6/site-packages/quality_of_service_demo_py
+[4.498s] byte-compiling /opt/workspace/install/quality_of_service_demo_py/lib/python3.6/site-packages/quality_of_service_demo_py/__init__.py to __init__.cpython-36.pyc
+[4.499s] byte-compiling /opt/workspace/install/quality_of_service_demo_py/lib/python3.6/site-packages/quality_of_service_demo_py/common_nodes.py to common_nodes.cpython-36.pyc
+[4.500s] byte-compiling /opt/workspace/install/quality_of_service_demo_py/lib/python3.6/site-packages/quality_of_service_demo_py/lifespan.py to lifespan.cpython-36.pyc
+[4.501s] byte-compiling /opt/workspace/install/quality_of_service_demo_py/lib/python3.6/site-packages/quality_of_service_demo_py/liveliness.py to liveliness.cpython-36.pyc
+[4.502s] byte-compiling /opt/workspace/install/quality_of_service_demo_py/lib/python3.6/site-packages/quality_of_service_demo_py/deadline.py to deadline.cpython-36.pyc
+[4.502s] running install_data
+[4.503s] creating /opt/workspace/install/quality_of_service_demo_py/share/ament_index
+[4.503s] creating /opt/workspace/install/quality_of_service_demo_py/share/ament_index/resource_index
+[4.504s] creating /opt/workspace/install/quality_of_service_demo_py/share/ament_index/resource_index/packages
+[4.504s] copying resource/quality_of_service_demo_py -> /opt/workspace/install/quality_of_service_demo_py/share/ament_index/resource_index/packages
+[4.504s] copying package.xml -> /opt/workspace/install/quality_of_service_demo_py/share/quality_of_service_demo_py
+[4.504s] running install_egg_info
+[4.508s] Copying /opt/workspace/build/quality_of_service_demo_py/quality_of_service_demo_py.egg-info to /opt/workspace/install/quality_of_service_demo_py/lib/python3.6/site-packages/quality_of_service_demo_py-0.8.4-py3.6.egg-info
+[4.510s] running install_scripts
+[4.548s] Installing deadline script to /opt/workspace/install/quality_of_service_demo_py/lib/quality_of_service_demo_py
+[4.548s] Installing lifespan script to /opt/workspace/install/quality_of_service_demo_py/lib/quality_of_service_demo_py
+[4.549s] Installing liveliness script to /opt/workspace/install/quality_of_service_demo_py/lib/quality_of_service_demo_py
+[4.549s] writing list of installed files to '/opt/workspace/build/quality_of_service_demo_py/install.log'

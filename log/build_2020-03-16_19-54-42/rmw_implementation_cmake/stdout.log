@@ -1,0 +1,33 @@
+[0.236s] -- Found ament_cmake: 0.8.2 (/opt/workspace/install/ament_cmake/share/ament_cmake/cmake)
+[0.303s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[0.304s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.746s] -- Found ament_lint_auto: 0.8.1 (/opt/workspace/install/ament_lint_auto/share/ament_lint_auto/cmake)
+[0.919s] -- Added test 'copyright' to check for copyright in CMake / C / C++ / Python code
+[0.924s] -- Added test 'lint_cmake' to check CMake code style
+[0.927s] -- Added test 'xmllint' to check XML markup files
+[0.935s] -- Configuring done
+[0.940s] -- Generating done
+[0.942s] -- Build files have been written to: /opt/workspace/build/rmw_implementation_cmake
+[1.233s] [36mInstall the project...[0m
+[1.250s] -- Install configuration: ""
+[1.250s] -- Installing: /opt/workspace/install/rmw_implementation_cmake/share/ament_index/resource_index/package_run_dependencies/rmw_implementation_cmake
+[1.251s] -- Installing: /opt/workspace/install/rmw_implementation_cmake/share/ament_index/resource_index/parent_prefix_path/rmw_implementation_cmake
+[1.251s] -- Installing: /opt/workspace/install/rmw_implementation_cmake/share/rmw_implementation_cmake/environment/ament_prefix_path.sh
+[1.251s] -- Installing: /opt/workspace/install/rmw_implementation_cmake/share/rmw_implementation_cmake/environment/ament_prefix_path.dsv
+[1.252s] -- Installing: /opt/workspace/install/rmw_implementation_cmake/share/rmw_implementation_cmake/environment/path.sh
+[1.252s] -- Installing: /opt/workspace/install/rmw_implementation_cmake/share/rmw_implementation_cmake/environment/path.dsv
+[1.252s] -- Installing: /opt/workspace/install/rmw_implementation_cmake/share/rmw_implementation_cmake/local_setup.bash
+[1.252s] -- Installing: /opt/workspace/install/rmw_implementation_cmake/share/rmw_implementation_cmake/local_setup.sh
+[1.253s] -- Installing: /opt/workspace/install/rmw_implementation_cmake/share/rmw_implementation_cmake/local_setup.zsh
+[1.253s] -- Installing: /opt/workspace/install/rmw_implementation_cmake/share/rmw_implementation_cmake/local_setup.dsv
+[1.253s] -- Installing: /opt/workspace/install/rmw_implementation_cmake/share/rmw_implementation_cmake/package.dsv
+[1.253s] -- Installing: /opt/workspace/install/rmw_implementation_cmake/share/ament_index/resource_index/packages/rmw_implementation_cmake
+[1.254s] -- Installing: /opt/workspace/install/rmw_implementation_cmake/share/rmw_implementation_cmake/cmake/rmw_implementation_cmake-extras.cmake
+[1.254s] -- Installing: /opt/workspace/install/rmw_implementation_cmake/share/rmw_implementation_cmake/cmake/ament_cmake_export_dependencies-extras.cmake
+[1.254s] -- Installing: /opt/workspace/install/rmw_implementation_cmake/share/rmw_implementation_cmake/cmake/rmw_implementation_cmakeConfig.cmake
+[1.254s] -- Installing: /opt/workspace/install/rmw_implementation_cmake/share/rmw_implementation_cmake/cmake/rmw_implementation_cmakeConfig-version.cmake
+[1.255s] -- Installing: /opt/workspace/install/rmw_implementation_cmake/share/rmw_implementation_cmake/package.xml
+[1.255s] -- Up-to-date: /opt/workspace/install/rmw_implementation_cmake/share/rmw_implementation_cmake/cmake
+[1.255s] -- Installing: /opt/workspace/install/rmw_implementation_cmake/share/rmw_implementation_cmake/cmake/get_available_rmw_implementations.cmake
+[1.256s] -- Installing: /opt/workspace/install/rmw_implementation_cmake/share/rmw_implementation_cmake/cmake/call_for_each_rmw_implementation.cmake
+[1.256s] -- Installing: /opt/workspace/install/rmw_implementation_cmake/share/rmw_implementation_cmake/cmake/get_default_rmw_implementation.cmake

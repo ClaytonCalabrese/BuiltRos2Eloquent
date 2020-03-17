@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+37c9b2f92d24f646ee4ad1630c1e0ad7 CMakeFiles/rosidl_adapter_uninstall

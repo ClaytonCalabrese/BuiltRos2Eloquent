@@ -1,0 +1,39 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from rosidl_generator_cpp/msg/MultiNested.msg
+// generated code does not contain a copyright notice
+
+#include "rosidl_generator_cpp/msg/Arrays.idl"
+#include "rosidl_generator_cpp/msg/BoundedSequences.idl"
+#include "rosidl_generator_cpp/msg/UnboundedSequences.idl"
+
+module rosidl_generator_cpp {
+  module msg {
+    typedef rosidl_generator_cpp::msg::Arrays rosidl_generator_cpp__msg__Arrays;
+    typedef rosidl_generator_cpp__msg__Arrays rosidl_generator_cpp__msg__Arrays__3[3];
+    typedef rosidl_generator_cpp::msg::BoundedSequences rosidl_generator_cpp__msg__BoundedSequences;
+    typedef rosidl_generator_cpp__msg__BoundedSequences rosidl_generator_cpp__msg__BoundedSequences__3[3];
+    typedef rosidl_generator_cpp::msg::UnboundedSequences rosidl_generator_cpp__msg__UnboundedSequences;
+    typedef rosidl_generator_cpp__msg__UnboundedSequences rosidl_generator_cpp__msg__UnboundedSequences__3[3];
+    @verbatim (language="comment", text=
+      " Mulitple levels of nested messages")
+    struct MultiNested {
+      rosidl_generator_cpp__msg__Arrays__3 array_of_arrays;
+
+      rosidl_generator_cpp__msg__BoundedSequences__3 array_of_bounded_sequences;
+
+      rosidl_generator_cpp__msg__UnboundedSequences__3 array_of_unbounded_sequences;
+
+      sequence<rosidl_generator_cpp::msg::Arrays, 3> bounded_sequence_of_arrays;
+
+      sequence<rosidl_generator_cpp::msg::BoundedSequences, 3> bounded_sequence_of_bounded_sequences;
+
+      sequence<rosidl_generator_cpp::msg::UnboundedSequences, 3> bounded_sequence_of_unbounded_sequences;
+
+      sequence<rosidl_generator_cpp::msg::Arrays> unbounded_sequence_of_arrays;
+
+      sequence<rosidl_generator_cpp::msg::BoundedSequences> unbounded_sequence_of_bounded_sequences;
+
+      sequence<rosidl_generator_cpp::msg::UnboundedSequences> unbounded_sequence_of_unbounded_sequences;
+    };
+  };
+};

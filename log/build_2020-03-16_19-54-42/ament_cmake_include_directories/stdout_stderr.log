@@ -1,0 +1,26 @@
+[0.204s] -- Found ament_cmake_core: 0.8.2 (/opt/workspace/install/ament_cmake_core/share/ament_cmake_core/cmake)
+[0.276s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[0.276s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.072s] -- Configuring done
+[1.075s] -- Generating done
+[1.076s] -- Build files have been written to: /opt/workspace/build/ament_cmake_include_directories
+[1.671s] [36mInstall the project...[0m
+[1.714s] -- Install configuration: ""
+[1.714s] -- Installing: /opt/workspace/install/ament_cmake_include_directories/share/ament_index/resource_index/package_run_dependencies/ament_cmake_include_directories
+[1.714s] -- Installing: /opt/workspace/install/ament_cmake_include_directories/share/ament_index/resource_index/parent_prefix_path/ament_cmake_include_directories
+[1.714s] -- Installing: /opt/workspace/install/ament_cmake_include_directories/share/ament_cmake_include_directories/environment/ament_prefix_path.sh
+[1.714s] -- Installing: /opt/workspace/install/ament_cmake_include_directories/share/ament_cmake_include_directories/environment/ament_prefix_path.dsv
+[1.715s] -- Installing: /opt/workspace/install/ament_cmake_include_directories/share/ament_cmake_include_directories/environment/path.sh
+[1.716s] -- Installing: /opt/workspace/install/ament_cmake_include_directories/share/ament_cmake_include_directories/environment/path.dsv
+[1.716s] -- Installing: /opt/workspace/install/ament_cmake_include_directories/share/ament_cmake_include_directories/local_setup.bash
+[1.716s] -- Installing: /opt/workspace/install/ament_cmake_include_directories/share/ament_cmake_include_directories/local_setup.sh
+[1.716s] -- Installing: /opt/workspace/install/ament_cmake_include_directories/share/ament_cmake_include_directories/local_setup.zsh
+[1.716s] -- Installing: /opt/workspace/install/ament_cmake_include_directories/share/ament_cmake_include_directories/local_setup.dsv
+[1.716s] -- Installing: /opt/workspace/install/ament_cmake_include_directories/share/ament_cmake_include_directories/package.dsv
+[1.717s] -- Installing: /opt/workspace/install/ament_cmake_include_directories/share/ament_index/resource_index/packages/ament_cmake_include_directories
+[1.717s] -- Installing: /opt/workspace/install/ament_cmake_include_directories/share/ament_cmake_include_directories/cmake/ament_cmake_include_directories-extras.cmake
+[1.717s] -- Installing: /opt/workspace/install/ament_cmake_include_directories/share/ament_cmake_include_directories/cmake/ament_cmake_include_directoriesConfig.cmake
+[1.718s] -- Installing: /opt/workspace/install/ament_cmake_include_directories/share/ament_cmake_include_directories/cmake/ament_cmake_include_directoriesConfig-version.cmake
+[1.718s] -- Installing: /opt/workspace/install/ament_cmake_include_directories/share/ament_cmake_include_directories/package.xml
+[1.718s] -- Up-to-date: /opt/workspace/install/ament_cmake_include_directories/share/ament_cmake_include_directories/cmake
+[1.718s] -- Installing: /opt/workspace/install/ament_cmake_include_directories/share/ament_cmake_include_directories/cmake/ament_include_directories_order.cmake

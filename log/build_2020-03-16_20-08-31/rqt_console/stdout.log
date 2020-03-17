@@ -1,0 +1,101 @@
+[0.785s] -- The C compiler identification is GNU 7.4.0
+[0.915s] -- The CXX compiler identification is GNU 7.4.0
+[0.926s] -- Check for working C compiler: /usr/bin/cc
+[1.093s] -- Check for working C compiler: /usr/bin/cc -- works
+[1.094s] -- Detecting C compiler ABI info
+[1.322s] -- Detecting C compiler ABI info - done
+[1.336s] -- Detecting C compile features
+[1.759s] -- Detecting C compile features - done
+[1.763s] -- Check for working CXX compiler: /usr/bin/c++
+[1.925s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[1.926s] -- Detecting CXX compiler ABI info
+[2.094s] -- Detecting CXX compiler ABI info - done
+[2.104s] -- Detecting CXX compile features
+[2.828s] -- Detecting CXX compile features - done
+[2.838s] -- Found ament_cmake: 0.8.2 (/opt/workspace/install/ament_cmake/share/ament_cmake/cmake)
+[2.924s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[2.924s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[3.742s] -- Configuring done
+[3.746s] -- Generating done
+[3.747s] -- Build files have been written to: /opt/workspace/build/rqt_console
+[4.584s] [36mInstall the project...[0m
+[4.606s] -- Install configuration: ""
+[4.607s] -- Installing: /opt/workspace/install/rqt_console/share/rqt_console/environment/pythonpath.sh
+[4.607s] -- Installing: /opt/workspace/install/rqt_console/share/rqt_console/environment/pythonpath.dsv
+[4.607s] -- Installing: /opt/workspace/install/rqt_console/lib/python3.6/site-packages/rqt_console
+[4.607s] -- Installing: /opt/workspace/install/rqt_console/lib/python3.6/site-packages/rqt_console/message_proxy_model.py
+[4.608s] -- Installing: /opt/workspace/install/rqt_console/lib/python3.6/site-packages/rqt_console/__init__.py
+[4.609s] -- Installing: /opt/workspace/install/rqt_console/lib/python3.6/site-packages/rqt_console/console.py
+[4.609s] -- Installing: /opt/workspace/install/rqt_console/lib/python3.6/site-packages/rqt_console/console_widget.py
+[4.609s] -- Installing: /opt/workspace/install/rqt_console/lib/python3.6/site-packages/rqt_console/filters
+[4.609s] -- Installing: /opt/workspace/install/rqt_console/lib/python3.6/site-packages/rqt_console/filters/__init__.py
+[4.609s] -- Installing: /opt/workspace/install/rqt_console/lib/python3.6/site-packages/rqt_console/filters/message_filter.py
+[4.609s] -- Installing: /opt/workspace/install/rqt_console/lib/python3.6/site-packages/rqt_console/filters/time_filter.py
+[4.610s] -- Installing: /opt/workspace/install/rqt_console/lib/python3.6/site-packages/rqt_console/filters/filter_collection.py
+[4.610s] -- Installing: /opt/workspace/install/rqt_console/lib/python3.6/site-packages/rqt_console/filters/filter_wrapper_widget.py
+[4.610s] -- Installing: /opt/workspace/install/rqt_console/lib/python3.6/site-packages/rqt_console/filters/list_filter_widget.py
+[4.611s] -- Installing: /opt/workspace/install/rqt_console/lib/python3.6/site-packages/rqt_console/filters/time_filter_widget.py
+[4.611s] -- Installing: /opt/workspace/install/rqt_console/lib/python3.6/site-packages/rqt_console/filters/location_filter.py
+[4.611s] -- Installing: /opt/workspace/install/rqt_console/lib/python3.6/site-packages/rqt_console/filters/severity_filter.py
+[4.612s] -- Installing: /opt/workspace/install/rqt_console/lib/python3.6/site-packages/rqt_console/filters/base_filter.py
+[4.612s] -- Installing: /opt/workspace/install/rqt_console/lib/python3.6/site-packages/rqt_console/filters/custom_filter.py
+[4.612s] -- Installing: /opt/workspace/install/rqt_console/lib/python3.6/site-packages/rqt_console/filters/text_filter_widget.py
+[4.613s] -- Installing: /opt/workspace/install/rqt_console/lib/python3.6/site-packages/rqt_console/filters/node_filter.py
+[4.613s] -- Installing: /opt/workspace/install/rqt_console/lib/python3.6/site-packages/rqt_console/filters/custom_filter_widget.py
+[4.614s] -- Installing: /opt/workspace/install/rqt_console/lib/python3.6/site-packages/rqt_console/console_settings_dialog.py
+[4.614s] -- Installing: /opt/workspace/install/rqt_console/lib/python3.6/site-packages/rqt_console/message.py
+[4.614s] -- Installing: /opt/workspace/install/rqt_console/lib/python3.6/site-packages/rqt_console/message_list.py
+[4.615s] -- Installing: /opt/workspace/install/rqt_console/lib/python3.6/site-packages/rqt_console/message_data_model.py
+[4.615s] -- Installing: /opt/workspace/install/rqt_console/lib/python3.6/site-packages/rqt_console/text_browse_dialog.py
+[4.745s] Listing '/opt/workspace/install/rqt_console/lib/python3.6/site-packages/rqt_console'...
+[4.746s] Compiling '/opt/workspace/install/rqt_console/lib/python3.6/site-packages/rqt_console/__init__.py'...
+[4.746s] Compiling '/opt/workspace/install/rqt_console/lib/python3.6/site-packages/rqt_console/console.py'...
+[4.746s] Compiling '/opt/workspace/install/rqt_console/lib/python3.6/site-packages/rqt_console/console_settings_dialog.py'...
+[4.746s] Compiling '/opt/workspace/install/rqt_console/lib/python3.6/site-packages/rqt_console/console_widget.py'...
+[4.746s] Listing '/opt/workspace/install/rqt_console/lib/python3.6/site-packages/rqt_console/filters'...
+[4.746s] Compiling '/opt/workspace/install/rqt_console/lib/python3.6/site-packages/rqt_console/filters/__init__.py'...
+[4.746s] Compiling '/opt/workspace/install/rqt_console/lib/python3.6/site-packages/rqt_console/filters/base_filter.py'...
+[4.747s] Compiling '/opt/workspace/install/rqt_console/lib/python3.6/site-packages/rqt_console/filters/custom_filter.py'...
+[4.747s] Compiling '/opt/workspace/install/rqt_console/lib/python3.6/site-packages/rqt_console/filters/custom_filter_widget.py'...
+[4.747s] Compiling '/opt/workspace/install/rqt_console/lib/python3.6/site-packages/rqt_console/filters/filter_collection.py'...
+[4.747s] Compiling '/opt/workspace/install/rqt_console/lib/python3.6/site-packages/rqt_console/filters/filter_wrapper_widget.py'...
+[4.747s] Compiling '/opt/workspace/install/rqt_console/lib/python3.6/site-packages/rqt_console/filters/list_filter_widget.py'...
+[4.747s] Compiling '/opt/workspace/install/rqt_console/lib/python3.6/site-packages/rqt_console/filters/location_filter.py'...
+[4.747s] Compiling '/opt/workspace/install/rqt_console/lib/python3.6/site-packages/rqt_console/filters/message_filter.py'...
+[4.747s] Compiling '/opt/workspace/install/rqt_console/lib/python3.6/site-packages/rqt_console/filters/node_filter.py'...
+[4.748s] Compiling '/opt/workspace/install/rqt_console/lib/python3.6/site-packages/rqt_console/filters/severity_filter.py'...
+[4.748s] Compiling '/opt/workspace/install/rqt_console/lib/python3.6/site-packages/rqt_console/filters/text_filter_widget.py'...
+[4.748s] Compiling '/opt/workspace/install/rqt_console/lib/python3.6/site-packages/rqt_console/filters/time_filter.py'...
+[4.748s] Compiling '/opt/workspace/install/rqt_console/lib/python3.6/site-packages/rqt_console/filters/time_filter_widget.py'...
+[4.748s] Compiling '/opt/workspace/install/rqt_console/lib/python3.6/site-packages/rqt_console/message.py'...
+[4.748s] Compiling '/opt/workspace/install/rqt_console/lib/python3.6/site-packages/rqt_console/message_data_model.py'...
+[4.748s] Compiling '/opt/workspace/install/rqt_console/lib/python3.6/site-packages/rqt_console/message_list.py'...
+[4.749s] Compiling '/opt/workspace/install/rqt_console/lib/python3.6/site-packages/rqt_console/message_proxy_model.py'...
+[4.749s] Compiling '/opt/workspace/install/rqt_console/lib/python3.6/site-packages/rqt_console/text_browse_dialog.py'...
+[4.753s] -- Installing: /opt/workspace/install/rqt_console/share/rqt_console/plugin.xml
+[4.753s] -- Installing: /opt/workspace/install/rqt_console/share/rqt_console/resource
+[4.754s] -- Installing: /opt/workspace/install/rqt_console/share/rqt_console/resource/text_browse_dialog.ui
+[4.754s] -- Installing: /opt/workspace/install/rqt_console/share/rqt_console/resource/console_widget.ui
+[4.754s] -- Installing: /opt/workspace/install/rqt_console/share/rqt_console/resource/filters
+[4.755s] -- Installing: /opt/workspace/install/rqt_console/share/rqt_console/resource/filters/text_filter_widget.ui
+[4.755s] -- Installing: /opt/workspace/install/rqt_console/share/rqt_console/resource/filters/list_filter_widget.ui
+[4.755s] -- Installing: /opt/workspace/install/rqt_console/share/rqt_console/resource/filters/time_filter_widget.ui
+[4.755s] -- Installing: /opt/workspace/install/rqt_console/share/rqt_console/resource/filters/custom_filter_widget.ui
+[4.756s] -- Installing: /opt/workspace/install/rqt_console/share/rqt_console/resource/filters/filter_wrapper_widget.ui
+[4.756s] -- Installing: /opt/workspace/install/rqt_console/share/rqt_console/resource/console_settings_dialog.ui
+[4.756s] -- Installing: /opt/workspace/install/rqt_console/lib/rqt_console/rqt_console
+[4.757s] -- Installing: /opt/workspace/install/rqt_console/share/ament_index/resource_index/package_run_dependencies/rqt_console
+[4.757s] -- Installing: /opt/workspace/install/rqt_console/share/ament_index/resource_index/parent_prefix_path/rqt_console
+[4.757s] -- Installing: /opt/workspace/install/rqt_console/share/rqt_console/environment/ament_prefix_path.sh
+[4.758s] -- Installing: /opt/workspace/install/rqt_console/share/rqt_console/environment/ament_prefix_path.dsv
+[4.758s] -- Installing: /opt/workspace/install/rqt_console/share/rqt_console/environment/path.sh
+[4.758s] -- Installing: /opt/workspace/install/rqt_console/share/rqt_console/environment/path.dsv
+[4.758s] -- Installing: /opt/workspace/install/rqt_console/share/rqt_console/local_setup.bash
+[4.758s] -- Installing: /opt/workspace/install/rqt_console/share/rqt_console/local_setup.sh
+[4.759s] -- Installing: /opt/workspace/install/rqt_console/share/rqt_console/local_setup.zsh
+[4.759s] -- Installing: /opt/workspace/install/rqt_console/share/rqt_console/local_setup.dsv
+[4.759s] -- Installing: /opt/workspace/install/rqt_console/share/rqt_console/package.dsv
+[4.759s] -- Installing: /opt/workspace/install/rqt_console/share/ament_index/resource_index/packages/rqt_console
+[4.759s] -- Installing: /opt/workspace/install/rqt_console/share/rqt_console/cmake/rqt_consoleConfig.cmake
+[4.760s] -- Installing: /opt/workspace/install/rqt_console/share/rqt_console/cmake/rqt_consoleConfig-version.cmake
+[4.760s] -- Installing: /opt/workspace/install/rqt_console/share/rqt_console/package.xml

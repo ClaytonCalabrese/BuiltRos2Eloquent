@@ -1,0 +1,159 @@
+[0.756s] -- The C compiler identification is GNU 7.4.0
+[0.938s] -- The CXX compiler identification is GNU 7.4.0
+[0.950s] -- Check for working C compiler: /usr/bin/cc
+[1.283s] -- Check for working C compiler: /usr/bin/cc -- works
+[1.285s] -- Detecting C compiler ABI info
+[1.595s] -- Detecting C compiler ABI info - done
+[1.607s] -- Detecting C compile features
+[2.525s] -- Detecting C compile features - done
+[2.528s] -- Check for working CXX compiler: /usr/bin/c++
+[2.864s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[2.866s] -- Detecting CXX compiler ABI info
+[3.202s] -- Detecting CXX compiler ABI info - done
+[3.215s] -- Detecting CXX compile features
+[4.618s] -- Detecting CXX compile features - done
+[4.633s] -- Found ament_cmake_python: 0.8.2 (/opt/workspace/install/ament_cmake_python/share/ament_cmake_python/cmake)
+[4.643s] -- Found ament_cmake_ros: 0.8.0 (/opt/workspace/install/ament_cmake_ros/share/ament_cmake_ros/cmake)
+[4.902s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[4.903s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[5.745s] -- Found rclcpp: 0.8.4 (/opt/workspace/install/rclcpp/share/rclcpp/cmake)
+[5.854s] -- Found rosidl_adapter: 0.8.2 (/opt/workspace/install/rosidl_adapter/share/rosidl_adapter/cmake)
+[5.948s] -- Found rmw_implementation_cmake: 0.8.1 (/opt/workspace/install/rmw_implementation_cmake/share/rmw_implementation_cmake/cmake)
+[5.961s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[5.963s] -- Looking for pthread.h
+[6.275s] -- Looking for pthread.h - found
+[6.275s] -- Looking for pthread_create
+[6.587s] -- Looking for pthread_create - not found
+[6.588s] -- Looking for pthread_create in pthreads
+[6.897s] -- Looking for pthread_create in pthreads - not found
+[6.897s] -- Looking for pthread_create in pthread
+[7.333s] -- Looking for pthread_create in pthread - found
+[7.335s] -- Found Threads: TRUE  
+[7.559s] -- Found python_cmake_module: 0.8.0 (/opt/workspace/install/python_cmake_module/share/python_cmake_module/cmake)
+[7.670s] -- Found sensor_msgs: 0.8.1 (/opt/workspace/install/sensor_msgs/share/sensor_msgs/cmake)
+[7.734s] -- Found ament_lint_auto: 0.8.1 (/opt/workspace/install/ament_lint_auto/share/ament_lint_auto/cmake)
+[7.935s] -- Found gtest sources under '/opt/workspace/install/gtest_vendor/src/gtest_vendor': C++ tests using 'Google Test' will be built
+[7.945s] -- Check if compiler accepts -pthread
+[8.168s] -- Check if compiler accepts -pthread - yes
+[8.557s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3.5") 
+[8.582s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.6m.so (found suitable version "3.6.9", minimum required is "3.5") 
+[8.583s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[8.583s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.6m
+[8.583s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.6m.so
+[8.662s] -- Found PythonExtra: .so  
+[11.306s] -- Configuring done
+[11.590s] -- Generating done
+[11.598s] -- Build files have been written to: /opt/workspace/build/message_filters
+[11.803s] [35m[1mScanning dependencies of target gtest[0m
+[11.874s] [  3%] [32mBuilding CXX object gtest/CMakeFiles/gtest.dir/src/gtest-all.cc.o[0m
+[18.020s] [  7%] [32m[1mLinking CXX static library libgtest.a[0m
+[18.226s] [  7%] Built target gtest
+[18.269s] [35m[1mScanning dependencies of target gtest_main[0m
+[18.373s] [ 11%] [32mBuilding CXX object gtest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o[0m
+[19.878s] [ 15%] [32m[1mLinking CXX static library libgtest_main.a[0m
+[20.033s] [ 15%] Built target gtest_main
+[20.089s] [35m[1mScanning dependencies of target message_filters[0m
+[20.130s] [ 19%] [32mBuilding CXX object CMakeFiles/message_filters.dir/src/connection.cpp.o[0m
+[20.697s] [ 23%] [32m[1mLinking CXX shared library libmessage_filters.so[0m
+[20.978s] [ 23%] Built target message_filters
+[21.050s] [35m[1mScanning dependencies of target message_filters-msg_cache_unittest[0m
+[21.234s] [ 26%] [32mBuilding CXX object CMakeFiles/message_filters-msg_cache_unittest.dir/test/msg_cache_unittest.cpp.o[0m
+[26.918s] [ 30%] [32m[1mLinking CXX executable message_filters-msg_cache_unittest[0m
+[27.712s] [ 30%] Built target message_filters-msg_cache_unittest
+[27.757s] [35m[1mScanning dependencies of target message_filters-time_synchronizer_unittest[0m
+[27.862s] [ 34%] [32mBuilding CXX object CMakeFiles/message_filters-time_synchronizer_unittest.dir/test/time_synchronizer_unittest.cpp.o[0m
+[46.824s] [ 38%] [32m[1mLinking CXX executable message_filters-time_synchronizer_unittest[0m
+[48.198s] [ 38%] Built target message_filters-time_synchronizer_unittest
+[48.250s] [35m[1mScanning dependencies of target message_filters-test_exact_time_policy[0m
+[48.410s] [ 42%] [32mBuilding CXX object CMakeFiles/message_filters-test_exact_time_policy.dir/test/test_exact_time_policy.cpp.o[0m
+[55.099s] [ 46%] [32m[1mLinking CXX executable message_filters-test_exact_time_policy[0m
+[55.878s] [ 46%] Built target message_filters-test_exact_time_policy
+[55.913s] [35m[1mScanning dependencies of target message_filters-test_fuzz[0m
+[56.050s] [ 50%] [32mBuilding CXX object CMakeFiles/message_filters-test_fuzz.dir/test/test_fuzz.cpp.o[0m
+[66.879s] [ 53%] [32m[1mLinking CXX executable message_filters-test_fuzz[0m
+[68.037s] [ 53%] Built target message_filters-test_fuzz
+[68.078s] [35m[1mScanning dependencies of target message_filters-test_synchronizer[0m
+[68.198s] [ 57%] [32mBuilding CXX object CMakeFiles/message_filters-test_synchronizer.dir/test/test_synchronizer.cpp.o[0m
+[81.549s] [ 61%] [32m[1mLinking CXX executable message_filters-test_synchronizer[0m
+[82.708s] [ 61%] Built target message_filters-test_synchronizer
+[82.768s] [35m[1mScanning dependencies of target message_filters-test_approximate_time_policy[0m
+[82.986s] [ 65%] [32mBuilding CXX object CMakeFiles/message_filters-test_approximate_time_policy.dir/test/test_approximate_time_policy.cpp.o[0m
+[91.667s] [ 69%] [32m[1mLinking CXX executable message_filters-test_approximate_time_policy[0m
+[92.549s] [ 69%] Built target message_filters-test_approximate_time_policy
+[92.605s] [35m[1mScanning dependencies of target message_filters-test_simple[0m
+[92.714s] [ 73%] [32mBuilding CXX object CMakeFiles/message_filters-test_simple.dir/test/test_simple.cpp.o[0m
+[98.181s] [ 76%] [32m[1mLinking CXX executable message_filters-test_simple[0m
+[99.133s] [ 76%] Built target message_filters-test_simple
+[99.185s] [35m[1mScanning dependencies of target message_filters-test_subscriber[0m
+[99.328s] [ 80%] [32mBuilding CXX object CMakeFiles/message_filters-test_subscriber.dir/test/test_subscriber.cpp.o[0m
+[109.144s] [ 84%] [32m[1mLinking CXX executable message_filters-test_subscriber[0m
+[110.144s] [ 84%] Built target message_filters-test_subscriber
+[110.173s] [35m[1mScanning dependencies of target message_filters-test_time_sequencer[0m
+[110.270s] [ 88%] [32mBuilding CXX object CMakeFiles/message_filters-test_time_sequencer.dir/test/time_sequencer_unittest.cpp.o[0m
+[115.590s] [ 92%] [32m[1mLinking CXX executable message_filters-test_time_sequencer[0m
+[116.331s] [ 92%] Built target message_filters-test_time_sequencer
+[116.359s] [35m[1mScanning dependencies of target message_filters-test_chain[0m
+[116.458s] [ 96%] [32mBuilding CXX object CMakeFiles/message_filters-test_chain.dir/test/test_chain.cpp.o[0m
+[121.456s] [100%] [32m[1mLinking CXX executable message_filters-test_chain[0m
+[122.204s] [100%] Built target message_filters-test_chain
+[122.514s] [  7%] Built target gtest
+[122.578s] [ 15%] Built target gtest_main
+[122.647s] [ 23%] Built target message_filters
+[122.730s] [ 30%] Built target message_filters-msg_cache_unittest
+[122.813s] [ 38%] Built target message_filters-time_synchronizer_unittest
+[122.893s] [ 46%] Built target message_filters-test_exact_time_policy
+[122.980s] [ 53%] Built target message_filters-test_fuzz
+[123.058s] [ 61%] Built target message_filters-test_synchronizer
+[123.137s] [ 69%] Built target message_filters-test_approximate_time_policy
+[123.215s] [ 76%] Built target message_filters-test_simple
+[123.298s] [ 84%] Built target message_filters-test_subscriber
+[123.377s] [ 92%] Built target message_filters-test_time_sequencer
+[123.457s] [100%] Built target message_filters-test_chain
+[123.515s] [36mInstall the project...[0m
+[123.540s] -- Install configuration: ""
+[123.541s] -- Installing: /opt/workspace/install/message_filters/lib/libmessage_filters.so
+[123.542s] -- Set runtime path of "/opt/workspace/install/message_filters/lib/libmessage_filters.so" to ""
+[123.543s] -- Installing: /opt/workspace/install/message_filters/include
+[123.543s] -- Installing: /opt/workspace/install/message_filters/include/message_filters
+[123.544s] -- Installing: /opt/workspace/install/message_filters/include/message_filters/cache.h
+[123.544s] -- Installing: /opt/workspace/install/message_filters/include/message_filters/time_sequencer.h
+[123.545s] -- Installing: /opt/workspace/install/message_filters/include/message_filters/signal9.h
+[123.546s] -- Installing: /opt/workspace/install/message_filters/include/message_filters/null_types.h
+[123.546s] -- Installing: /opt/workspace/install/message_filters/include/message_filters/visibility_control.h
+[123.547s] -- Installing: /opt/workspace/install/message_filters/include/message_filters/synchronizer.h
+[123.547s] -- Installing: /opt/workspace/install/message_filters/include/message_filters/chain.h
+[123.548s] -- Installing: /opt/workspace/install/message_filters/include/message_filters/parameter_adapter.h
+[123.548s] -- Installing: /opt/workspace/install/message_filters/include/message_filters/time_synchronizer.h
+[123.549s] -- Installing: /opt/workspace/install/message_filters/include/message_filters/subscriber.h
+[123.549s] -- Installing: /opt/workspace/install/message_filters/include/message_filters/pass_through.h
+[123.550s] -- Installing: /opt/workspace/install/message_filters/include/message_filters/message_traits.h
+[123.550s] -- Installing: /opt/workspace/install/message_filters/include/message_filters/signal1.h
+[123.551s] -- Installing: /opt/workspace/install/message_filters/include/message_filters/simple_filter.h
+[123.551s] -- Installing: /opt/workspace/install/message_filters/include/message_filters/sync_policies
+[123.552s] -- Installing: /opt/workspace/install/message_filters/include/message_filters/sync_policies/exact_time.h
+[123.552s] -- Installing: /opt/workspace/install/message_filters/include/message_filters/sync_policies/approximate_time.h
+[123.553s] -- Installing: /opt/workspace/install/message_filters/include/message_filters/message_event.h
+[123.553s] -- Installing: /opt/workspace/install/message_filters/include/message_filters/connection.h
+[123.554s] -- Installing: /opt/workspace/install/message_filters/share/message_filters/environment/pythonpath.sh
+[123.555s] -- Installing: /opt/workspace/install/message_filters/share/message_filters/environment/pythonpath.dsv
+[123.555s] -- Installing: /opt/workspace/install/message_filters/lib/python3.6/site-packages/message_filters
+[123.556s] -- Installing: /opt/workspace/install/message_filters/lib/python3.6/site-packages/message_filters/__init__.py
+[123.557s] -- Installing: /opt/workspace/install/message_filters/share/message_filters/environment/library_path.sh
+[123.558s] -- Installing: /opt/workspace/install/message_filters/share/message_filters/environment/library_path.dsv
+[123.559s] -- Installing: /opt/workspace/install/message_filters/share/ament_index/resource_index/package_run_dependencies/message_filters
+[123.559s] -- Installing: /opt/workspace/install/message_filters/share/ament_index/resource_index/parent_prefix_path/message_filters
+[123.560s] -- Installing: /opt/workspace/install/message_filters/share/message_filters/environment/ament_prefix_path.sh
+[123.561s] -- Installing: /opt/workspace/install/message_filters/share/message_filters/environment/ament_prefix_path.dsv
+[123.561s] -- Installing: /opt/workspace/install/message_filters/share/message_filters/environment/path.sh
+[123.562s] -- Installing: /opt/workspace/install/message_filters/share/message_filters/environment/path.dsv
+[123.562s] -- Installing: /opt/workspace/install/message_filters/share/message_filters/local_setup.bash
+[123.563s] -- Installing: /opt/workspace/install/message_filters/share/message_filters/local_setup.sh
+[123.564s] -- Installing: /opt/workspace/install/message_filters/share/message_filters/local_setup.zsh
+[123.564s] -- Installing: /opt/workspace/install/message_filters/share/message_filters/local_setup.dsv
+[123.565s] -- Installing: /opt/workspace/install/message_filters/share/message_filters/package.dsv
+[123.566s] -- Installing: /opt/workspace/install/message_filters/share/ament_index/resource_index/packages/message_filters
+[123.566s] -- Installing: /opt/workspace/install/message_filters/share/message_filters/cmake/ament_cmake_export_include_directories-extras.cmake
+[123.567s] -- Installing: /opt/workspace/install/message_filters/share/message_filters/cmake/ament_cmake_export_libraries-extras.cmake
+[123.567s] -- Installing: /opt/workspace/install/message_filters/share/message_filters/cmake/message_filtersConfig.cmake
+[123.568s] -- Installing: /opt/workspace/install/message_filters/share/message_filters/cmake/message_filtersConfig-version.cmake
+[123.569s] -- Installing: /opt/workspace/install/message_filters/share/message_filters/package.xml

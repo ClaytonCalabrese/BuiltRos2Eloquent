@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -Wall -Wextra -Wpedantic  -shared -Wl,-soname,libresource_retriever.so -o libresource_retriever.so CMakeFiles/resource_retriever.dir/src/retriever.cpp.o -Wl,-rpath,/opt/workspace/install/ament_index_cpp/lib: /opt/workspace/install/ament_index_cpp/lib/libament_index_cpp.so /usr/lib/x86_64-linux-gnu/libcurl.so 

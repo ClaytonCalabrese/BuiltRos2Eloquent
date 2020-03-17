@@ -1,0 +1,11 @@
+/opt/workspace/build/visualization_msgs/rosidl_adapter/visualization_msgs:msg/ImageMarker.idl
+/opt/workspace/build/visualization_msgs/rosidl_adapter/visualization_msgs:msg/InteractiveMarker.idl
+/opt/workspace/build/visualization_msgs/rosidl_adapter/visualization_msgs:msg/InteractiveMarkerControl.idl
+/opt/workspace/build/visualization_msgs/rosidl_adapter/visualization_msgs:msg/InteractiveMarkerFeedback.idl
+/opt/workspace/build/visualization_msgs/rosidl_adapter/visualization_msgs:msg/InteractiveMarkerInit.idl
+/opt/workspace/build/visualization_msgs/rosidl_adapter/visualization_msgs:msg/InteractiveMarkerPose.idl
+/opt/workspace/build/visualization_msgs/rosidl_adapter/visualization_msgs:msg/InteractiveMarkerUpdate.idl
+/opt/workspace/build/visualization_msgs/rosidl_adapter/visualization_msgs:msg/Marker.idl
+/opt/workspace/build/visualization_msgs/rosidl_adapter/visualization_msgs:msg/MarkerArray.idl
+/opt/workspace/build/visualization_msgs/rosidl_adapter/visualization_msgs:msg/MenuEntry.idl
+/opt/workspace/build/visualization_msgs/rosidl_adapter/visualization_msgs:srv/GetInteractiveMarkers.idl

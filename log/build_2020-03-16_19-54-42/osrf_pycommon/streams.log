@@ -1,0 +1,92 @@
+[1.906s] Invoking command in '/opt/workspace/src/osrf/osrf_pycommon': PYTHONPATH=/opt/workspace/install/osrf_pycommon/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base /opt/workspace/build/osrf_pycommon build --build-base /opt/workspace/build/osrf_pycommon/build install --prefix /opt/workspace/install/osrf_pycommon --record /opt/workspace/build/osrf_pycommon/install.log --single-version-externally-managed
+[2.483s] running egg_info
+[2.485s] creating /opt/workspace/build/osrf_pycommon/osrf_pycommon.egg-info
+[2.487s] writing /opt/workspace/build/osrf_pycommon/osrf_pycommon.egg-info/PKG-INFO
+[2.488s] writing dependency_links to /opt/workspace/build/osrf_pycommon/osrf_pycommon.egg-info/dependency_links.txt
+[2.489s] writing requirements to /opt/workspace/build/osrf_pycommon/osrf_pycommon.egg-info/requires.txt
+[2.490s] writing top-level names to /opt/workspace/build/osrf_pycommon/osrf_pycommon.egg-info/top_level.txt
+[2.491s] writing manifest file '/opt/workspace/build/osrf_pycommon/osrf_pycommon.egg-info/SOURCES.txt'
+[2.578s] reading manifest file '/opt/workspace/build/osrf_pycommon/osrf_pycommon.egg-info/SOURCES.txt'
+[2.579s] reading manifest template 'MANIFEST.in'
+[2.583s] writing manifest file '/opt/workspace/build/osrf_pycommon/osrf_pycommon.egg-info/SOURCES.txt'
+[2.584s] running build
+[2.584s] running build_py
+[2.585s] creating /opt/workspace/build/osrf_pycommon/build
+[2.585s] creating /opt/workspace/build/osrf_pycommon/build/lib
+[2.585s] creating /opt/workspace/build/osrf_pycommon/build/lib/osrf_pycommon
+[2.585s] copying osrf_pycommon/__init__.py -> /opt/workspace/build/osrf_pycommon/build/lib/osrf_pycommon
+[2.586s] copying osrf_pycommon/terminal_utils.py -> /opt/workspace/build/osrf_pycommon/build/lib/osrf_pycommon
+[2.587s] creating /opt/workspace/build/osrf_pycommon/build/lib/osrf_pycommon/process_utils
+[2.587s] copying osrf_pycommon/process_utils/execute_process_nopty.py -> /opt/workspace/build/osrf_pycommon/build/lib/osrf_pycommon/process_utils
+[2.588s] copying osrf_pycommon/process_utils/__init__.py -> /opt/workspace/build/osrf_pycommon/build/lib/osrf_pycommon/process_utils
+[2.588s] copying osrf_pycommon/process_utils/async_execute_process.py -> /opt/workspace/build/osrf_pycommon/build/lib/osrf_pycommon/process_utils
+[2.588s] copying osrf_pycommon/process_utils/async_execute_process_trollius.py -> /opt/workspace/build/osrf_pycommon/build/lib/osrf_pycommon/process_utils
+[2.589s] copying osrf_pycommon/process_utils/get_loop_impl.py -> /opt/workspace/build/osrf_pycommon/build/lib/osrf_pycommon/process_utils
+[2.589s] copying osrf_pycommon/process_utils/execute_process_pty.py -> /opt/workspace/build/osrf_pycommon/build/lib/osrf_pycommon/process_utils
+[2.589s] copying osrf_pycommon/process_utils/impl.py -> /opt/workspace/build/osrf_pycommon/build/lib/osrf_pycommon/process_utils
+[2.590s] creating /opt/workspace/build/osrf_pycommon/build/lib/osrf_pycommon/cli_utils
+[2.590s] copying osrf_pycommon/cli_utils/__init__.py -> /opt/workspace/build/osrf_pycommon/build/lib/osrf_pycommon/cli_utils
+[2.591s] copying osrf_pycommon/cli_utils/common.py -> /opt/workspace/build/osrf_pycommon/build/lib/osrf_pycommon/cli_utils
+[2.591s] copying osrf_pycommon/cli_utils/verb_pattern.py -> /opt/workspace/build/osrf_pycommon/build/lib/osrf_pycommon/cli_utils
+[2.592s] creating /opt/workspace/build/osrf_pycommon/build/lib/osrf_pycommon/terminal_color
+[2.592s] copying osrf_pycommon/terminal_color/__init__.py -> /opt/workspace/build/osrf_pycommon/build/lib/osrf_pycommon/terminal_color
+[2.593s] copying osrf_pycommon/terminal_color/ansi_re.py -> /opt/workspace/build/osrf_pycommon/build/lib/osrf_pycommon/terminal_color
+[2.594s] copying osrf_pycommon/terminal_color/windows.py -> /opt/workspace/build/osrf_pycommon/build/lib/osrf_pycommon/terminal_color
+[2.595s] copying osrf_pycommon/terminal_color/impl.py -> /opt/workspace/build/osrf_pycommon/build/lib/osrf_pycommon/terminal_color
+[2.596s] creating /opt/workspace/build/osrf_pycommon/build/lib/osrf_pycommon/process_utils/async_execute_process_asyncio
+[2.596s] copying osrf_pycommon/process_utils/async_execute_process_asyncio/__init__.py -> /opt/workspace/build/osrf_pycommon/build/lib/osrf_pycommon/process_utils/async_execute_process_asyncio
+[2.597s] copying osrf_pycommon/process_utils/async_execute_process_asyncio/impl.py -> /opt/workspace/build/osrf_pycommon/build/lib/osrf_pycommon/process_utils/async_execute_process_asyncio
+[2.599s] running install
+[2.600s] running install_lib
+[2.602s] creating /opt/workspace/install/osrf_pycommon/lib/python3.6/site-packages/osrf_pycommon
+[2.603s] copying /opt/workspace/build/osrf_pycommon/build/lib/osrf_pycommon/__init__.py -> /opt/workspace/install/osrf_pycommon/lib/python3.6/site-packages/osrf_pycommon
+[2.603s] creating /opt/workspace/install/osrf_pycommon/lib/python3.6/site-packages/osrf_pycommon/process_utils
+[2.604s] copying /opt/workspace/build/osrf_pycommon/build/lib/osrf_pycommon/process_utils/execute_process_nopty.py -> /opt/workspace/install/osrf_pycommon/lib/python3.6/site-packages/osrf_pycommon/process_utils
+[2.604s] copying /opt/workspace/build/osrf_pycommon/build/lib/osrf_pycommon/process_utils/__init__.py -> /opt/workspace/install/osrf_pycommon/lib/python3.6/site-packages/osrf_pycommon/process_utils
+[2.605s] copying /opt/workspace/build/osrf_pycommon/build/lib/osrf_pycommon/process_utils/async_execute_process.py -> /opt/workspace/install/osrf_pycommon/lib/python3.6/site-packages/osrf_pycommon/process_utils
+[2.606s] copying /opt/workspace/build/osrf_pycommon/build/lib/osrf_pycommon/process_utils/async_execute_process_trollius.py -> /opt/workspace/install/osrf_pycommon/lib/python3.6/site-packages/osrf_pycommon/process_utils
+[2.606s] copying /opt/workspace/build/osrf_pycommon/build/lib/osrf_pycommon/process_utils/get_loop_impl.py -> /opt/workspace/install/osrf_pycommon/lib/python3.6/site-packages/osrf_pycommon/process_utils
+[2.607s] copying /opt/workspace/build/osrf_pycommon/build/lib/osrf_pycommon/process_utils/execute_process_pty.py -> /opt/workspace/install/osrf_pycommon/lib/python3.6/site-packages/osrf_pycommon/process_utils
+[2.608s] copying /opt/workspace/build/osrf_pycommon/build/lib/osrf_pycommon/process_utils/impl.py -> /opt/workspace/install/osrf_pycommon/lib/python3.6/site-packages/osrf_pycommon/process_utils
+[2.609s] creating /opt/workspace/install/osrf_pycommon/lib/python3.6/site-packages/osrf_pycommon/process_utils/async_execute_process_asyncio
+[2.609s] copying /opt/workspace/build/osrf_pycommon/build/lib/osrf_pycommon/process_utils/async_execute_process_asyncio/__init__.py -> /opt/workspace/install/osrf_pycommon/lib/python3.6/site-packages/osrf_pycommon/process_utils/async_execute_process_asyncio
+[2.610s] copying /opt/workspace/build/osrf_pycommon/build/lib/osrf_pycommon/process_utils/async_execute_process_asyncio/impl.py -> /opt/workspace/install/osrf_pycommon/lib/python3.6/site-packages/osrf_pycommon/process_utils/async_execute_process_asyncio
+[2.611s] creating /opt/workspace/install/osrf_pycommon/lib/python3.6/site-packages/osrf_pycommon/cli_utils
+[2.611s] copying /opt/workspace/build/osrf_pycommon/build/lib/osrf_pycommon/cli_utils/__init__.py -> /opt/workspace/install/osrf_pycommon/lib/python3.6/site-packages/osrf_pycommon/cli_utils
+[2.612s] copying /opt/workspace/build/osrf_pycommon/build/lib/osrf_pycommon/cli_utils/common.py -> /opt/workspace/install/osrf_pycommon/lib/python3.6/site-packages/osrf_pycommon/cli_utils
+[2.615s] copying /opt/workspace/build/osrf_pycommon/build/lib/osrf_pycommon/cli_utils/verb_pattern.py -> /opt/workspace/install/osrf_pycommon/lib/python3.6/site-packages/osrf_pycommon/cli_utils
+[2.616s] copying /opt/workspace/build/osrf_pycommon/build/lib/osrf_pycommon/terminal_utils.py -> /opt/workspace/install/osrf_pycommon/lib/python3.6/site-packages/osrf_pycommon
+[2.617s] creating /opt/workspace/install/osrf_pycommon/lib/python3.6/site-packages/osrf_pycommon/terminal_color
+[2.617s] copying /opt/workspace/build/osrf_pycommon/build/lib/osrf_pycommon/terminal_color/__init__.py -> /opt/workspace/install/osrf_pycommon/lib/python3.6/site-packages/osrf_pycommon/terminal_color
+[2.618s] copying /opt/workspace/build/osrf_pycommon/build/lib/osrf_pycommon/terminal_color/ansi_re.py -> /opt/workspace/install/osrf_pycommon/lib/python3.6/site-packages/osrf_pycommon/terminal_color
+[2.619s] copying /opt/workspace/build/osrf_pycommon/build/lib/osrf_pycommon/terminal_color/windows.py -> /opt/workspace/install/osrf_pycommon/lib/python3.6/site-packages/osrf_pycommon/terminal_color
+[2.620s] copying /opt/workspace/build/osrf_pycommon/build/lib/osrf_pycommon/terminal_color/impl.py -> /opt/workspace/install/osrf_pycommon/lib/python3.6/site-packages/osrf_pycommon/terminal_color
+[2.621s] byte-compiling /opt/workspace/install/osrf_pycommon/lib/python3.6/site-packages/osrf_pycommon/__init__.py to __init__.cpython-36.pyc
+[2.622s] byte-compiling /opt/workspace/install/osrf_pycommon/lib/python3.6/site-packages/osrf_pycommon/process_utils/execute_process_nopty.py to execute_process_nopty.cpython-36.pyc
+[2.624s] byte-compiling /opt/workspace/install/osrf_pycommon/lib/python3.6/site-packages/osrf_pycommon/process_utils/__init__.py to __init__.cpython-36.pyc
+[2.625s] byte-compiling /opt/workspace/install/osrf_pycommon/lib/python3.6/site-packages/osrf_pycommon/process_utils/async_execute_process.py to async_execute_process.cpython-36.pyc
+[2.627s] byte-compiling /opt/workspace/install/osrf_pycommon/lib/python3.6/site-packages/osrf_pycommon/process_utils/async_execute_process_trollius.py to async_execute_process_trollius.cpython-36.pyc
+[2.629s] byte-compiling /opt/workspace/install/osrf_pycommon/lib/python3.6/site-packages/osrf_pycommon/process_utils/get_loop_impl.py to get_loop_impl.cpython-36.pyc
+[2.630s] byte-compiling /opt/workspace/install/osrf_pycommon/lib/python3.6/site-packages/osrf_pycommon/process_utils/execute_process_pty.py to execute_process_pty.cpython-36.pyc
+[2.631s] byte-compiling /opt/workspace/install/osrf_pycommon/lib/python3.6/site-packages/osrf_pycommon/process_utils/impl.py to impl.cpython-36.pyc
+[2.633s] byte-compiling /opt/workspace/install/osrf_pycommon/lib/python3.6/site-packages/osrf_pycommon/process_utils/async_execute_process_asyncio/__init__.py to __init__.cpython-36.pyc
+[2.634s] byte-compiling /opt/workspace/install/osrf_pycommon/lib/python3.6/site-packages/osrf_pycommon/process_utils/async_execute_process_asyncio/impl.py to impl.cpython-36.pyc
+[2.636s] byte-compiling /opt/workspace/install/osrf_pycommon/lib/python3.6/site-packages/osrf_pycommon/cli_utils/__init__.py to __init__.cpython-36.pyc
+[2.637s] byte-compiling /opt/workspace/install/osrf_pycommon/lib/python3.6/site-packages/osrf_pycommon/cli_utils/common.py to common.cpython-36.pyc
+[2.638s] byte-compiling /opt/workspace/install/osrf_pycommon/lib/python3.6/site-packages/osrf_pycommon/cli_utils/verb_pattern.py to verb_pattern.cpython-36.pyc
+[2.640s] byte-compiling /opt/workspace/install/osrf_pycommon/lib/python3.6/site-packages/osrf_pycommon/terminal_utils.py to terminal_utils.cpython-36.pyc
+[2.641s] byte-compiling /opt/workspace/install/osrf_pycommon/lib/python3.6/site-packages/osrf_pycommon/terminal_color/__init__.py to __init__.cpython-36.pyc
+[2.643s] byte-compiling /opt/workspace/install/osrf_pycommon/lib/python3.6/site-packages/osrf_pycommon/terminal_color/ansi_re.py to ansi_re.cpython-36.pyc
+[2.644s] byte-compiling /opt/workspace/install/osrf_pycommon/lib/python3.6/site-packages/osrf_pycommon/terminal_color/windows.py to windows.cpython-36.pyc
+[2.647s] byte-compiling /opt/workspace/install/osrf_pycommon/lib/python3.6/site-packages/osrf_pycommon/terminal_color/impl.py to impl.cpython-36.pyc
+[2.649s] running install_data
+[2.650s] copying package.xml -> /opt/workspace/install/osrf_pycommon/share/osrf_pycommon
+[2.651s] creating /opt/workspace/install/osrf_pycommon/share/ament_index
+[2.651s] creating /opt/workspace/install/osrf_pycommon/share/ament_index/resource_index
+[2.652s] creating /opt/workspace/install/osrf_pycommon/share/ament_index/resource_index/packages
+[2.652s] copying resource/osrf_pycommon -> /opt/workspace/install/osrf_pycommon/share/ament_index/resource_index/packages
+[2.653s] running install_egg_info
+[2.656s] Copying /opt/workspace/build/osrf_pycommon/osrf_pycommon.egg-info to /opt/workspace/install/osrf_pycommon/lib/python3.6/site-packages/osrf_pycommon-0.1.9-py3.6.egg-info
+[2.658s] running install_scripts
+[2.698s] writing list of installed files to '/opt/workspace/build/osrf_pycommon/install.log'
+[3.145s] Invoked command in '/opt/workspace/src/osrf/osrf_pycommon' returned '0': PYTHONPATH=/opt/workspace/install/osrf_pycommon/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base /opt/workspace/build/osrf_pycommon build --build-base /opt/workspace/build/osrf_pycommon/build install --prefix /opt/workspace/install/osrf_pycommon --record /opt/workspace/build/osrf_pycommon/install.log --single-version-externally-managed

@@ -1,0 +1,16 @@
+package.xml
+plugin.xml
+setup.py
+/opt/workspace/build/rqt_topic/rqt_topic.egg-info/PKG-INFO
+/opt/workspace/build/rqt_topic/rqt_topic.egg-info/SOURCES.txt
+/opt/workspace/build/rqt_topic/rqt_topic.egg-info/dependency_links.txt
+/opt/workspace/build/rqt_topic/rqt_topic.egg-info/requires.txt
+/opt/workspace/build/rqt_topic/rqt_topic.egg-info/top_level.txt
+/opt/workspace/build/rqt_topic/rqt_topic.egg-info/zip-safe
+resource/TopicWidget.ui
+resource/rqt_topic
+scripts/rqt_topic
+src/rqt_topic/__init__.py
+src/rqt_topic/topic.py
+src/rqt_topic/topic_info.py
+src/rqt_topic/topic_widget.py

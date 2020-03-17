@@ -1,0 +1,18 @@
+[2.263s] running egg_info
+[2.264s] writing /opt/workspace/build/ament_lint/ament_lint.egg-info/PKG-INFO
+[2.264s] writing dependency_links to /opt/workspace/build/ament_lint/ament_lint.egg-info/dependency_links.txt
+[2.265s] writing entry points to /opt/workspace/build/ament_lint/ament_lint.egg-info/entry_points.txt
+[2.265s] writing requirements to /opt/workspace/build/ament_lint/ament_lint.egg-info/requires.txt
+[2.267s] writing top-level names to /opt/workspace/build/ament_lint/ament_lint.egg-info/top_level.txt
+[2.268s] reading manifest file '/opt/workspace/build/ament_lint/ament_lint.egg-info/SOURCES.txt'
+[2.268s] writing manifest file '/opt/workspace/build/ament_lint/ament_lint.egg-info/SOURCES.txt'
+[2.268s] running build
+[2.268s] running build_py
+[2.268s] running install
+[2.269s] running install_lib
+[2.272s] running install_data
+[2.272s] running install_egg_info
+[2.273s] removing '/opt/workspace/install/ament_lint/lib/python3.6/site-packages/ament_lint-0.8.1-py3.6.egg-info' (and everything under it)
+[2.274s] Copying /opt/workspace/build/ament_lint/ament_lint.egg-info to /opt/workspace/install/ament_lint/lib/python3.6/site-packages/ament_lint-0.8.1-py3.6.egg-info
+[2.274s] running install_scripts
+[2.300s] writing list of installed files to '/opt/workspace/build/ament_lint/install.log'

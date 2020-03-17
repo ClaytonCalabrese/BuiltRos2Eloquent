@@ -1,0 +1,38 @@
+[0.338s] -- The C compiler identification is GNU 7.4.0
+[0.460s] -- The CXX compiler identification is GNU 7.4.0
+[0.470s] -- Check for working C compiler: /usr/bin/cc
+[0.585s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.586s] -- Detecting C compiler ABI info
+[0.714s] -- Detecting C compiler ABI info - done
+[0.723s] -- Detecting C compile features
+[1.064s] -- Detecting C compile features - done
+[1.067s] -- Check for working CXX compiler: /usr/bin/c++
+[1.183s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[1.184s] -- Detecting CXX compiler ABI info
+[1.304s] -- Detecting CXX compiler ABI info - done
+[1.318s] -- Detecting CXX compile features
+[1.895s] -- Detecting CXX compile features - done
+[1.900s] -- Found ament_cmake: 0.8.2 (/opt/workspace/install/ament_cmake/share/ament_cmake/cmake)
+[1.977s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[1.977s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[2.371s] -- Found connext_cmake_module: 0.8.4 (/opt/workspace/install/connext_cmake_module/share/connext_cmake_module/cmake)
+[2.549s] -- Configuring done
+[2.554s] -- Generating done
+[2.556s] -- Build files have been written to: /opt/workspace/build/rmw_connext_cpp
+[2.792s] [36mInstall the project...[0m
+[2.813s] -- Install configuration: ""
+[2.814s] -- Installing: /opt/workspace/install/rmw_connext_cpp/share/ament_index/resource_index/package_run_dependencies/rmw_connext_cpp
+[2.814s] -- Installing: /opt/workspace/install/rmw_connext_cpp/share/ament_index/resource_index/parent_prefix_path/rmw_connext_cpp
+[2.814s] -- Installing: /opt/workspace/install/rmw_connext_cpp/share/rmw_connext_cpp/environment/ament_prefix_path.sh
+[2.815s] -- Installing: /opt/workspace/install/rmw_connext_cpp/share/rmw_connext_cpp/environment/ament_prefix_path.dsv
+[2.815s] -- Installing: /opt/workspace/install/rmw_connext_cpp/share/rmw_connext_cpp/environment/path.sh
+[2.815s] -- Installing: /opt/workspace/install/rmw_connext_cpp/share/rmw_connext_cpp/environment/path.dsv
+[2.816s] -- Installing: /opt/workspace/install/rmw_connext_cpp/share/rmw_connext_cpp/local_setup.bash
+[2.816s] -- Installing: /opt/workspace/install/rmw_connext_cpp/share/rmw_connext_cpp/local_setup.sh
+[2.816s] -- Installing: /opt/workspace/install/rmw_connext_cpp/share/rmw_connext_cpp/local_setup.zsh
+[2.816s] -- Installing: /opt/workspace/install/rmw_connext_cpp/share/rmw_connext_cpp/local_setup.dsv
+[2.817s] -- Installing: /opt/workspace/install/rmw_connext_cpp/share/rmw_connext_cpp/package.dsv
+[2.817s] -- Installing: /opt/workspace/install/rmw_connext_cpp/share/ament_index/resource_index/packages/rmw_connext_cpp
+[2.817s] -- Installing: /opt/workspace/install/rmw_connext_cpp/share/rmw_connext_cpp/cmake/rmw_connext_cppConfig.cmake
+[2.817s] -- Installing: /opt/workspace/install/rmw_connext_cpp/share/rmw_connext_cpp/cmake/rmw_connext_cppConfig-version.cmake
+[2.818s] -- Installing: /opt/workspace/install/rmw_connext_cpp/share/rmw_connext_cpp/package.xml

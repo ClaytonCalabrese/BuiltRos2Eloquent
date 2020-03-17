@@ -1,0 +1,3 @@
+/opt/workspace/build/rqt_py_common/rosidl_adapter/rqt_py_common:msg/Val.idl
+/opt/workspace/build/rqt_py_common/rosidl_adapter/rqt_py_common:msg/ArrayVal.idl
+/opt/workspace/build/rqt_py_common/rosidl_adapter/rqt_py_common:srv/AddTwoInts.idl

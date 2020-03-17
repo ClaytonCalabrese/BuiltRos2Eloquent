@@ -1,0 +1,55 @@
+[0.472s] -- The C compiler identification is GNU 7.4.0
+[0.603s] -- The CXX compiler identification is GNU 7.4.0
+[0.614s] -- Check for working C compiler: /usr/bin/cc
+[0.765s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.767s] -- Detecting C compiler ABI info
+[0.920s] -- Detecting C compiler ABI info - done
+[0.932s] -- Detecting C compile features
+[1.398s] -- Detecting C compile features - done
+[1.403s] -- Check for working CXX compiler: /usr/bin/c++
+[1.567s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[1.568s] -- Detecting CXX compiler ABI info
+[1.734s] -- Detecting CXX compiler ABI info - done
+[1.745s] -- Detecting CXX compile features
+[2.491s] -- Detecting CXX compile features - done
+[2.503s] -- Found ament_cmake: 0.8.2 (/opt/workspace/install/ament_cmake/share/ament_cmake/cmake)
+[2.604s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[2.608s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[3.485s] -- Configuring done
+[3.489s] -- Generating done
+[3.491s] -- Build files have been written to: /opt/workspace/build/rqt_py_console
+[3.766s] [36mInstall the project...[0m
+[3.787s] -- Install configuration: ""
+[3.787s] -- Installing: /opt/workspace/install/rqt_py_console/share/rqt_py_console/environment/pythonpath.sh
+[3.787s] -- Installing: /opt/workspace/install/rqt_py_console/share/rqt_py_console/environment/pythonpath.dsv
+[3.788s] -- Installing: /opt/workspace/install/rqt_py_console/lib/python3.6/site-packages/rqt_py_console
+[3.788s] -- Installing: /opt/workspace/install/rqt_py_console/lib/python3.6/site-packages/rqt_py_console/__init__.py
+[3.788s] -- Installing: /opt/workspace/install/rqt_py_console/lib/python3.6/site-packages/rqt_py_console/py_console_text_edit.py
+[3.788s] -- Installing: /opt/workspace/install/rqt_py_console/lib/python3.6/site-packages/rqt_py_console/py_console.py
+[3.789s] -- Installing: /opt/workspace/install/rqt_py_console/lib/python3.6/site-packages/rqt_py_console/py_console_widget.py
+[3.789s] -- Installing: /opt/workspace/install/rqt_py_console/lib/python3.6/site-packages/rqt_py_console/spyder_console_widget.py
+[3.903s] Listing '/opt/workspace/install/rqt_py_console/lib/python3.6/site-packages/rqt_py_console'...
+[3.903s] Compiling '/opt/workspace/install/rqt_py_console/lib/python3.6/site-packages/rqt_py_console/__init__.py'...
+[3.903s] Compiling '/opt/workspace/install/rqt_py_console/lib/python3.6/site-packages/rqt_py_console/py_console.py'...
+[3.904s] Compiling '/opt/workspace/install/rqt_py_console/lib/python3.6/site-packages/rqt_py_console/py_console_text_edit.py'...
+[3.904s] Compiling '/opt/workspace/install/rqt_py_console/lib/python3.6/site-packages/rqt_py_console/py_console_widget.py'...
+[3.904s] Compiling '/opt/workspace/install/rqt_py_console/lib/python3.6/site-packages/rqt_py_console/spyder_console_widget.py'...
+[3.912s] -- Installing: /opt/workspace/install/rqt_py_console/share/rqt_py_console/plugin.xml
+[3.912s] -- Installing: /opt/workspace/install/rqt_py_console/share/rqt_py_console/resource
+[3.913s] -- Installing: /opt/workspace/install/rqt_py_console/share/rqt_py_console/resource/py_console_widget.ui
+[3.914s] -- Installing: /opt/workspace/install/rqt_py_console/lib/rqt_py_console/rqt_py_console
+[3.914s] -- Installing: /opt/workspace/install/rqt_py_console/share/ament_index/resource_index/package_run_dependencies/rqt_py_console
+[3.915s] -- Installing: /opt/workspace/install/rqt_py_console/share/ament_index/resource_index/parent_prefix_path/rqt_py_console
+[3.916s] -- Installing: /opt/workspace/install/rqt_py_console/share/rqt_py_console/environment/ament_prefix_path.sh
+[3.916s] -- Installing: /opt/workspace/install/rqt_py_console/share/rqt_py_console/environment/ament_prefix_path.dsv
+[3.917s] -- Installing: /opt/workspace/install/rqt_py_console/share/rqt_py_console/environment/path.sh
+[3.918s] -- Installing: /opt/workspace/install/rqt_py_console/share/rqt_py_console/environment/path.dsv
+[3.918s] -- Installing: /opt/workspace/install/rqt_py_console/share/rqt_py_console/local_setup.bash
+[3.919s] -- Installing: /opt/workspace/install/rqt_py_console/share/rqt_py_console/local_setup.sh
+[3.919s] -- Installing: /opt/workspace/install/rqt_py_console/share/rqt_py_console/local_setup.zsh
+[3.920s] -- Installing: /opt/workspace/install/rqt_py_console/share/rqt_py_console/local_setup.dsv
+[3.921s] -- Installing: /opt/workspace/install/rqt_py_console/share/rqt_py_console/package.dsv
+[3.921s] -- Installing: /opt/workspace/install/rqt_py_console/share/ament_index/resource_index/packages/rqt_py_console
+[3.922s] -- Installing: /opt/workspace/install/rqt_py_console/share/rqt_py_console/cmake/rqt_py_consoleConfig.cmake
+[3.922s] -- Installing: /opt/workspace/install/rqt_py_console/share/rqt_py_console/cmake/rqt_py_consoleConfig-version.cmake
+[3.923s] -- Installing: /opt/workspace/install/rqt_py_console/share/rqt_py_console/package.xml

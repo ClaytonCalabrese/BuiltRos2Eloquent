@@ -1,0 +1,34 @@
+[2.704s] running egg_info
+[2.705s] creating /opt/workspace/build/rqt_action/rqt_action.egg-info
+[2.705s] writing /opt/workspace/build/rqt_action/rqt_action.egg-info/PKG-INFO
+[2.705s] writing dependency_links to /opt/workspace/build/rqt_action/rqt_action.egg-info/dependency_links.txt
+[2.706s] writing requirements to /opt/workspace/build/rqt_action/rqt_action.egg-info/requires.txt
+[2.706s] writing top-level names to /opt/workspace/build/rqt_action/rqt_action.egg-info/top_level.txt
+[2.713s] writing manifest file '/opt/workspace/build/rqt_action/rqt_action.egg-info/SOURCES.txt'
+[2.790s] reading manifest file '/opt/workspace/build/rqt_action/rqt_action.egg-info/SOURCES.txt'
+[2.792s] writing manifest file '/opt/workspace/build/rqt_action/rqt_action.egg-info/SOURCES.txt'
+[2.792s] running build
+[2.793s] running build_py
+[2.793s] creating /opt/workspace/build/rqt_action/build
+[2.793s] creating /opt/workspace/build/rqt_action/build/lib
+[2.793s] creating /opt/workspace/build/rqt_action/build/lib/rqt_action
+[2.794s] copying src/rqt_action/action_plugin.py -> /opt/workspace/build/rqt_action/build/lib/rqt_action
+[2.794s] copying src/rqt_action/__init__.py -> /opt/workspace/build/rqt_action/build/lib/rqt_action
+[2.794s] running install
+[2.794s] running install_lib
+[2.795s] creating /opt/workspace/install/rqt_action/lib/python3.6/site-packages/rqt_action
+[2.796s] copying /opt/workspace/build/rqt_action/build/lib/rqt_action/action_plugin.py -> /opt/workspace/install/rqt_action/lib/python3.6/site-packages/rqt_action
+[2.796s] copying /opt/workspace/build/rqt_action/build/lib/rqt_action/__init__.py -> /opt/workspace/install/rqt_action/lib/python3.6/site-packages/rqt_action
+[2.797s] byte-compiling /opt/workspace/install/rqt_action/lib/python3.6/site-packages/rqt_action/action_plugin.py to action_plugin.cpython-36.pyc
+[2.798s] byte-compiling /opt/workspace/install/rqt_action/lib/python3.6/site-packages/rqt_action/__init__.py to __init__.cpython-36.pyc
+[2.799s] running install_data
+[2.800s] creating /opt/workspace/install/rqt_action/share/ament_index
+[2.800s] creating /opt/workspace/install/rqt_action/share/ament_index/resource_index
+[2.800s] creating /opt/workspace/install/rqt_action/share/ament_index/resource_index/packages
+[2.801s] copying resource/rqt_action -> /opt/workspace/install/rqt_action/share/ament_index/resource_index/packages
+[2.801s] copying package.xml -> /opt/workspace/install/rqt_action/share/rqt_action
+[2.801s] copying plugin.xml -> /opt/workspace/install/rqt_action/share/rqt_action
+[2.801s] running install_egg_info
+[2.806s] Copying /opt/workspace/build/rqt_action/rqt_action.egg-info to /opt/workspace/install/rqt_action/lib/python3.6/site-packages/rqt_action-0.4.9-py3.6.egg-info
+[2.807s] running install_scripts
+[2.846s] writing list of installed files to '/opt/workspace/build/rqt_action/install.log'

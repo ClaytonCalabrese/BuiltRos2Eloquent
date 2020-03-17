@@ -1,0 +1,44 @@
+[3.347s] running egg_info
+[3.348s] creating /opt/workspace/build/rosidl_runtime_py/rosidl_runtime_py.egg-info
+[3.348s] writing /opt/workspace/build/rosidl_runtime_py/rosidl_runtime_py.egg-info/PKG-INFO
+[3.349s] writing dependency_links to /opt/workspace/build/rosidl_runtime_py/rosidl_runtime_py.egg-info/dependency_links.txt
+[3.349s] writing top-level names to /opt/workspace/build/rosidl_runtime_py/rosidl_runtime_py.egg-info/top_level.txt
+[3.357s] writing manifest file '/opt/workspace/build/rosidl_runtime_py/rosidl_runtime_py.egg-info/SOURCES.txt'
+[3.434s] reading manifest file '/opt/workspace/build/rosidl_runtime_py/rosidl_runtime_py.egg-info/SOURCES.txt'
+[3.436s] writing manifest file '/opt/workspace/build/rosidl_runtime_py/rosidl_runtime_py.egg-info/SOURCES.txt'
+[3.437s] running build
+[3.437s] running build_py
+[3.438s] creating /opt/workspace/build/rosidl_runtime_py/build
+[3.438s] creating /opt/workspace/build/rosidl_runtime_py/build/lib
+[3.438s] creating /opt/workspace/build/rosidl_runtime_py/build/lib/rosidl_runtime_py
+[3.438s] copying rosidl_runtime_py/set_message.py -> /opt/workspace/build/rosidl_runtime_py/build/lib/rosidl_runtime_py
+[3.439s] copying rosidl_runtime_py/get_interfaces.py -> /opt/workspace/build/rosidl_runtime_py/build/lib/rosidl_runtime_py
+[3.439s] copying rosidl_runtime_py/utilities.py -> /opt/workspace/build/rosidl_runtime_py/build/lib/rosidl_runtime_py
+[3.439s] copying rosidl_runtime_py/__init__.py -> /opt/workspace/build/rosidl_runtime_py/build/lib/rosidl_runtime_py
+[3.439s] copying rosidl_runtime_py/import_message.py -> /opt/workspace/build/rosidl_runtime_py/build/lib/rosidl_runtime_py
+[3.440s] copying rosidl_runtime_py/convert.py -> /opt/workspace/build/rosidl_runtime_py/build/lib/rosidl_runtime_py
+[3.440s] running install
+[3.441s] running install_lib
+[3.443s] creating /opt/workspace/install/rosidl_runtime_py/lib/python3.6/site-packages/rosidl_runtime_py
+[3.443s] copying /opt/workspace/build/rosidl_runtime_py/build/lib/rosidl_runtime_py/set_message.py -> /opt/workspace/install/rosidl_runtime_py/lib/python3.6/site-packages/rosidl_runtime_py
+[3.443s] copying /opt/workspace/build/rosidl_runtime_py/build/lib/rosidl_runtime_py/get_interfaces.py -> /opt/workspace/install/rosidl_runtime_py/lib/python3.6/site-packages/rosidl_runtime_py
+[3.444s] copying /opt/workspace/build/rosidl_runtime_py/build/lib/rosidl_runtime_py/utilities.py -> /opt/workspace/install/rosidl_runtime_py/lib/python3.6/site-packages/rosidl_runtime_py
+[3.444s] copying /opt/workspace/build/rosidl_runtime_py/build/lib/rosidl_runtime_py/__init__.py -> /opt/workspace/install/rosidl_runtime_py/lib/python3.6/site-packages/rosidl_runtime_py
+[3.444s] copying /opt/workspace/build/rosidl_runtime_py/build/lib/rosidl_runtime_py/import_message.py -> /opt/workspace/install/rosidl_runtime_py/lib/python3.6/site-packages/rosidl_runtime_py
+[3.445s] copying /opt/workspace/build/rosidl_runtime_py/build/lib/rosidl_runtime_py/convert.py -> /opt/workspace/install/rosidl_runtime_py/lib/python3.6/site-packages/rosidl_runtime_py
+[3.445s] byte-compiling /opt/workspace/install/rosidl_runtime_py/lib/python3.6/site-packages/rosidl_runtime_py/set_message.py to set_message.cpython-36.pyc
+[3.446s] byte-compiling /opt/workspace/install/rosidl_runtime_py/lib/python3.6/site-packages/rosidl_runtime_py/get_interfaces.py to get_interfaces.cpython-36.pyc
+[3.448s] byte-compiling /opt/workspace/install/rosidl_runtime_py/lib/python3.6/site-packages/rosidl_runtime_py/utilities.py to utilities.cpython-36.pyc
+[3.449s] byte-compiling /opt/workspace/install/rosidl_runtime_py/lib/python3.6/site-packages/rosidl_runtime_py/__init__.py to __init__.cpython-36.pyc
+[3.450s] byte-compiling /opt/workspace/install/rosidl_runtime_py/lib/python3.6/site-packages/rosidl_runtime_py/import_message.py to import_message.cpython-36.pyc
+[3.450s] byte-compiling /opt/workspace/install/rosidl_runtime_py/lib/python3.6/site-packages/rosidl_runtime_py/convert.py to convert.cpython-36.pyc
+[3.454s] running install_data
+[3.455s] copying package.xml -> /opt/workspace/install/rosidl_runtime_py/share/rosidl_runtime_py
+[3.456s] creating /opt/workspace/install/rosidl_runtime_py/share/ament_index
+[3.456s] creating /opt/workspace/install/rosidl_runtime_py/share/ament_index/resource_index
+[3.456s] creating /opt/workspace/install/rosidl_runtime_py/share/ament_index/resource_index/packages
+[3.457s] copying resource/rosidl_runtime_py -> /opt/workspace/install/rosidl_runtime_py/share/ament_index/resource_index/packages
+[3.457s] running install_egg_info
+[3.460s] Copying /opt/workspace/build/rosidl_runtime_py/rosidl_runtime_py.egg-info to /opt/workspace/install/rosidl_runtime_py/lib/python3.6/site-packages/rosidl_runtime_py-0.8.2-py3.6.egg-info
+[3.461s] running install_scripts
+[3.503s] writing list of installed files to '/opt/workspace/build/rosidl_runtime_py/install.log'

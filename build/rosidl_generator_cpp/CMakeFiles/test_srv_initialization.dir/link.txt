@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/test_srv_initialization.dir/test/test_srv_initialization.cpp.o  -o test_srv_initialization gtest/libgtest_main.a gtest/libgtest.a -pthread 

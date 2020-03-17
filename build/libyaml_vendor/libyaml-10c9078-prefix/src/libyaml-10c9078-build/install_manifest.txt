@@ -1,0 +1,7 @@
+/opt/workspace/build/libyaml_vendor/libyaml_install/include/yaml.h
+/opt/workspace/build/libyaml_vendor/libyaml_install/include/config.h
+/opt/workspace/build/libyaml_vendor/libyaml_install/lib/libyaml.so
+/opt/workspace/build/libyaml_vendor/libyaml_install/cmake/yamlConfig.cmake
+/opt/workspace/build/libyaml_vendor/libyaml_install/cmake/yamlTargets.cmake
+/opt/workspace/build/libyaml_vendor/libyaml_install/cmake/yamlTargets-noconfig.cmake
+/opt/workspace/build/libyaml_vendor/libyaml_install/cmake/yamlConfigVersion.cmake

@@ -1,0 +1,6 @@
+[0.719s] Invoking command in '/opt/workspace/build/fastcdr': /usr/bin/cmake /opt/workspace/src/eProsima/Fast-CDR -DCMAKE_INSTALL_PREFIX=/opt/workspace/install/fastcdr
+[3.634s] Invoked command in '/opt/workspace/build/fastcdr' returned '0': /usr/bin/cmake /opt/workspace/src/eProsima/Fast-CDR -DCMAKE_INSTALL_PREFIX=/opt/workspace/install/fastcdr
+[3.636s] Invoking command in '/opt/workspace/build/fastcdr': /usr/bin/cmake --build /opt/workspace/build/fastcdr -- -j8 -l8
+[7.256s] Invoked command in '/opt/workspace/build/fastcdr' returned '0': /usr/bin/cmake --build /opt/workspace/build/fastcdr -- -j8 -l8
+[7.553s] Invoking command in '/opt/workspace/build/fastcdr': /usr/bin/cmake --build /opt/workspace/build/fastcdr --target install -- -j8 -l8
+[8.034s] Invoked command in '/opt/workspace/build/fastcdr' returned '0': /usr/bin/cmake --build /opt/workspace/build/fastcdr --target install -- -j8 -l8

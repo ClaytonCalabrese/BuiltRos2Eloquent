@@ -1,0 +1,16 @@
+/opt/workspace/install/urdfdom/share/urdfdom/package.xml
+/opt/workspace/install/urdfdom/lib/urdfdom/cmake/urdfdom-config.cmake
+/opt/workspace/install/urdfdom/lib/pkgconfig/urdfdom.pc
+/opt/workspace/install/urdfdom/lib/liburdfdom_model.so.1.0
+/opt/workspace/install/urdfdom/lib/liburdfdom_model.so
+/opt/workspace/install/urdfdom/lib/liburdfdom_world.so.1.0
+/opt/workspace/install/urdfdom/lib/liburdfdom_world.so
+/opt/workspace/install/urdfdom/lib/liburdfdom_sensor.so.1.0
+/opt/workspace/install/urdfdom/lib/liburdfdom_sensor.so
+/opt/workspace/install/urdfdom/lib/liburdfdom_model_state.so.1.0
+/opt/workspace/install/urdfdom/lib/liburdfdom_model_state.so
+/opt/workspace/install/urdfdom/bin/check_urdf
+/opt/workspace/install/urdfdom/bin/urdf_to_graphiz
+/opt/workspace/install/urdfdom/bin/urdf_mem_test
+/opt/workspace/install/urdfdom/include/urdf_parser/exportdecl.h
+/opt/workspace/install/urdfdom/include/urdf_parser/urdf_parser.h

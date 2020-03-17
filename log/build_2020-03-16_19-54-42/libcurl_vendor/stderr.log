@@ -1,0 +1,6 @@
+[16.760s] configure: WARNING: OpenSSL headers and library versions do not match.
+[17.306s] configure: WARNING: libpsl was not found
+[17.920s] configure: WARNING: Cannot find libraries for IDN support: IDN disabled
+[50.934s] configure: WARNING: disabling built-in manual
+[112.837s] /usr/bin/ar: `u' modifier ignored since `D' is the default (see `U')
+[118.099s] make[3]: warning: jobserver unavailable: using -j1.  Add '+' to parent make rule.

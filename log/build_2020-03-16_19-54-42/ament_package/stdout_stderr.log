@@ -1,0 +1,98 @@
+[2.534s] running egg_info
+[2.534s] creating /opt/workspace/build/ament_package/ament_package.egg-info
+[2.534s] writing /opt/workspace/build/ament_package/ament_package.egg-info/PKG-INFO
+[2.535s] writing dependency_links to /opt/workspace/build/ament_package/ament_package.egg-info/dependency_links.txt
+[2.535s] writing top-level names to /opt/workspace/build/ament_package/ament_package.egg-info/top_level.txt
+[2.536s] writing manifest file '/opt/workspace/build/ament_package/ament_package.egg-info/SOURCES.txt'
+[2.536s] reading manifest file '/opt/workspace/build/ament_package/ament_package.egg-info/SOURCES.txt'
+[2.536s] writing manifest file '/opt/workspace/build/ament_package/ament_package.egg-info/SOURCES.txt'
+[2.537s] running build
+[2.537s] running build_py
+[2.537s] creating /opt/workspace/build/ament_package/build
+[2.537s] creating /opt/workspace/build/ament_package/build/lib
+[2.537s] creating /opt/workspace/build/ament_package/build/lib/ament_package
+[2.538s] copying ament_package/__init__.py -> /opt/workspace/build/ament_package/build/lib/ament_package
+[2.538s] copying ament_package/templates.py -> /opt/workspace/build/ament_package/build/lib/ament_package
+[2.538s] creating /opt/workspace/build/ament_package/build/lib/ament_package/template
+[2.538s] creating /opt/workspace/build/ament_package/build/lib/ament_package/template/environment_hook
+[2.538s] copying ament_package/template/environment_hook/path.sh -> /opt/workspace/build/ament_package/build/lib/ament_package/template/environment_hook
+[2.539s] copying ament_package/template/environment_hook/library_path.sh -> /opt/workspace/build/ament_package/build/lib/ament_package/template/environment_hook
+[2.539s] copying ament_package/template/environment_hook/path.bat -> /opt/workspace/build/ament_package/build/lib/ament_package/template/environment_hook
+[2.539s] copying ament_package/template/environment_hook/pkg_config_path.sh -> /opt/workspace/build/ament_package/build/lib/ament_package/template/environment_hook
+[2.539s] copying ament_package/template/environment_hook/pkg_config_path.bat -> /opt/workspace/build/ament_package/build/lib/ament_package/template/environment_hook
+[2.539s] copying ament_package/template/environment_hook/pythonpath.bat.in -> /opt/workspace/build/ament_package/build/lib/ament_package/template/environment_hook
+[2.539s] copying ament_package/template/environment_hook/pythonpath.sh.in -> /opt/workspace/build/ament_package/build/lib/ament_package/template/environment_hook
+[2.540s] copying ament_package/template/environment_hook/ament_prefix_path.sh -> /opt/workspace/build/ament_package/build/lib/ament_package/template/environment_hook
+[2.540s] copying ament_package/template/environment_hook/ament_prefix_path.bat -> /opt/workspace/build/ament_package/build/lib/ament_package/template/environment_hook
+[2.540s] creating /opt/workspace/build/ament_package/build/lib/ament_package/template/isolated_prefix_level
+[2.540s] copying ament_package/template/isolated_prefix_level/local_setup.zsh -> /opt/workspace/build/ament_package/build/lib/ament_package/template/isolated_prefix_level
+[2.541s] copying ament_package/template/isolated_prefix_level/local_setup.bat.in -> /opt/workspace/build/ament_package/build/lib/ament_package/template/isolated_prefix_level
+[2.541s] copying ament_package/template/isolated_prefix_level/_order_isolated_packages.py -> /opt/workspace/build/ament_package/build/lib/ament_package/template/isolated_prefix_level
+[2.541s] copying ament_package/template/isolated_prefix_level/local_setup.sh.in -> /opt/workspace/build/ament_package/build/lib/ament_package/template/isolated_prefix_level
+[2.541s] copying ament_package/template/isolated_prefix_level/local_setup.bash -> /opt/workspace/build/ament_package/build/lib/ament_package/template/isolated_prefix_level
+[2.541s] creating /opt/workspace/build/ament_package/build/lib/ament_package/template/package_level
+[2.541s] copying ament_package/template/package_level/local_setup.zsh.in -> /opt/workspace/build/ament_package/build/lib/ament_package/template/package_level
+[2.542s] copying ament_package/template/package_level/local_setup.bash.in -> /opt/workspace/build/ament_package/build/lib/ament_package/template/package_level
+[2.542s] copying ament_package/template/package_level/local_setup.bat.in -> /opt/workspace/build/ament_package/build/lib/ament_package/template/package_level
+[2.542s] copying ament_package/template/package_level/local_setup.sh.in -> /opt/workspace/build/ament_package/build/lib/ament_package/template/package_level
+[2.542s] creating /opt/workspace/build/ament_package/build/lib/ament_package/template/prefix_level
+[2.542s] copying ament_package/template/prefix_level/setup.zsh -> /opt/workspace/build/ament_package/build/lib/ament_package/template/prefix_level
+[2.543s] copying ament_package/template/prefix_level/local_setup.zsh -> /opt/workspace/build/ament_package/build/lib/ament_package/template/prefix_level
+[2.543s] copying ament_package/template/prefix_level/local_setup.bat.in -> /opt/workspace/build/ament_package/build/lib/ament_package/template/prefix_level
+[2.543s] copying ament_package/template/prefix_level/_local_setup_util.py -> /opt/workspace/build/ament_package/build/lib/ament_package/template/prefix_level
+[2.543s] copying ament_package/template/prefix_level/setup.bash -> /opt/workspace/build/ament_package/build/lib/ament_package/template/prefix_level
+[2.543s] copying ament_package/template/prefix_level/setup.sh.in -> /opt/workspace/build/ament_package/build/lib/ament_package/template/prefix_level
+[2.544s] copying ament_package/template/prefix_level/setup.bat.in -> /opt/workspace/build/ament_package/build/lib/ament_package/template/prefix_level
+[2.544s] copying ament_package/template/prefix_level/local_setup.sh.in -> /opt/workspace/build/ament_package/build/lib/ament_package/template/prefix_level
+[2.544s] copying ament_package/template/prefix_level/local_setup.bash -> /opt/workspace/build/ament_package/build/lib/ament_package/template/prefix_level
+[2.545s] running install
+[2.545s] running install_lib
+[2.546s] creating /opt/workspace/install/ament_package/lib/python3.6/site-packages/ament_package
+[2.546s] copying /opt/workspace/build/ament_package/build/lib/ament_package/__init__.py -> /opt/workspace/install/ament_package/lib/python3.6/site-packages/ament_package
+[2.546s] copying /opt/workspace/build/ament_package/build/lib/ament_package/templates.py -> /opt/workspace/install/ament_package/lib/python3.6/site-packages/ament_package
+[2.547s] creating /opt/workspace/install/ament_package/lib/python3.6/site-packages/ament_package/template
+[2.547s] creating /opt/workspace/install/ament_package/lib/python3.6/site-packages/ament_package/template/prefix_level
+[2.547s] copying /opt/workspace/build/ament_package/build/lib/ament_package/template/prefix_level/setup.zsh -> /opt/workspace/install/ament_package/lib/python3.6/site-packages/ament_package/template/prefix_level
+[2.548s] copying /opt/workspace/build/ament_package/build/lib/ament_package/template/prefix_level/local_setup.zsh -> /opt/workspace/install/ament_package/lib/python3.6/site-packages/ament_package/template/prefix_level
+[2.549s] copying /opt/workspace/build/ament_package/build/lib/ament_package/template/prefix_level/local_setup.bat.in -> /opt/workspace/install/ament_package/lib/python3.6/site-packages/ament_package/template/prefix_level
+[2.550s] copying /opt/workspace/build/ament_package/build/lib/ament_package/template/prefix_level/_local_setup_util.py -> /opt/workspace/install/ament_package/lib/python3.6/site-packages/ament_package/template/prefix_level
+[2.555s] copying /opt/workspace/build/ament_package/build/lib/ament_package/template/prefix_level/setup.bash -> /opt/workspace/install/ament_package/lib/python3.6/site-packages/ament_package/template/prefix_level
+[2.556s] copying /opt/workspace/build/ament_package/build/lib/ament_package/template/prefix_level/setup.sh.in -> /opt/workspace/install/ament_package/lib/python3.6/site-packages/ament_package/template/prefix_level
+[2.556s] copying /opt/workspace/build/ament_package/build/lib/ament_package/template/prefix_level/setup.bat.in -> /opt/workspace/install/ament_package/lib/python3.6/site-packages/ament_package/template/prefix_level
+[2.557s] copying /opt/workspace/build/ament_package/build/lib/ament_package/template/prefix_level/local_setup.sh.in -> /opt/workspace/install/ament_package/lib/python3.6/site-packages/ament_package/template/prefix_level
+[2.557s] copying /opt/workspace/build/ament_package/build/lib/ament_package/template/prefix_level/local_setup.bash -> /opt/workspace/install/ament_package/lib/python3.6/site-packages/ament_package/template/prefix_level
+[2.560s] creating /opt/workspace/install/ament_package/lib/python3.6/site-packages/ament_package/template/isolated_prefix_level
+[2.561s] copying /opt/workspace/build/ament_package/build/lib/ament_package/template/isolated_prefix_level/local_setup.zsh -> /opt/workspace/install/ament_package/lib/python3.6/site-packages/ament_package/template/isolated_prefix_level
+[2.561s] copying /opt/workspace/build/ament_package/build/lib/ament_package/template/isolated_prefix_level/local_setup.bat.in -> /opt/workspace/install/ament_package/lib/python3.6/site-packages/ament_package/template/isolated_prefix_level
+[2.561s] copying /opt/workspace/build/ament_package/build/lib/ament_package/template/isolated_prefix_level/_order_isolated_packages.py -> /opt/workspace/install/ament_package/lib/python3.6/site-packages/ament_package/template/isolated_prefix_level
+[2.561s] copying /opt/workspace/build/ament_package/build/lib/ament_package/template/isolated_prefix_level/local_setup.sh.in -> /opt/workspace/install/ament_package/lib/python3.6/site-packages/ament_package/template/isolated_prefix_level
+[2.561s] copying /opt/workspace/build/ament_package/build/lib/ament_package/template/isolated_prefix_level/local_setup.bash -> /opt/workspace/install/ament_package/lib/python3.6/site-packages/ament_package/template/isolated_prefix_level
+[2.561s] creating /opt/workspace/install/ament_package/lib/python3.6/site-packages/ament_package/template/environment_hook
+[2.562s] copying /opt/workspace/build/ament_package/build/lib/ament_package/template/environment_hook/path.sh -> /opt/workspace/install/ament_package/lib/python3.6/site-packages/ament_package/template/environment_hook
+[2.562s] copying /opt/workspace/build/ament_package/build/lib/ament_package/template/environment_hook/library_path.sh -> /opt/workspace/install/ament_package/lib/python3.6/site-packages/ament_package/template/environment_hook
+[2.562s] copying /opt/workspace/build/ament_package/build/lib/ament_package/template/environment_hook/path.bat -> /opt/workspace/install/ament_package/lib/python3.6/site-packages/ament_package/template/environment_hook
+[2.562s] copying /opt/workspace/build/ament_package/build/lib/ament_package/template/environment_hook/pkg_config_path.sh -> /opt/workspace/install/ament_package/lib/python3.6/site-packages/ament_package/template/environment_hook
+[2.562s] copying /opt/workspace/build/ament_package/build/lib/ament_package/template/environment_hook/pkg_config_path.bat -> /opt/workspace/install/ament_package/lib/python3.6/site-packages/ament_package/template/environment_hook
+[2.562s] copying /opt/workspace/build/ament_package/build/lib/ament_package/template/environment_hook/pythonpath.bat.in -> /opt/workspace/install/ament_package/lib/python3.6/site-packages/ament_package/template/environment_hook
+[2.563s] copying /opt/workspace/build/ament_package/build/lib/ament_package/template/environment_hook/pythonpath.sh.in -> /opt/workspace/install/ament_package/lib/python3.6/site-packages/ament_package/template/environment_hook
+[2.563s] copying /opt/workspace/build/ament_package/build/lib/ament_package/template/environment_hook/ament_prefix_path.sh -> /opt/workspace/install/ament_package/lib/python3.6/site-packages/ament_package/template/environment_hook
+[2.563s] copying /opt/workspace/build/ament_package/build/lib/ament_package/template/environment_hook/ament_prefix_path.bat -> /opt/workspace/install/ament_package/lib/python3.6/site-packages/ament_package/template/environment_hook
+[2.563s] creating /opt/workspace/install/ament_package/lib/python3.6/site-packages/ament_package/template/package_level
+[2.563s] copying /opt/workspace/build/ament_package/build/lib/ament_package/template/package_level/local_setup.zsh.in -> /opt/workspace/install/ament_package/lib/python3.6/site-packages/ament_package/template/package_level
+[2.564s] copying /opt/workspace/build/ament_package/build/lib/ament_package/template/package_level/local_setup.bash.in -> /opt/workspace/install/ament_package/lib/python3.6/site-packages/ament_package/template/package_level
+[2.564s] copying /opt/workspace/build/ament_package/build/lib/ament_package/template/package_level/local_setup.bat.in -> /opt/workspace/install/ament_package/lib/python3.6/site-packages/ament_package/template/package_level
+[2.564s] copying /opt/workspace/build/ament_package/build/lib/ament_package/template/package_level/local_setup.sh.in -> /opt/workspace/install/ament_package/lib/python3.6/site-packages/ament_package/template/package_level
+[2.565s] byte-compiling /opt/workspace/install/ament_package/lib/python3.6/site-packages/ament_package/__init__.py to __init__.cpython-36.pyc
+[2.565s] byte-compiling /opt/workspace/install/ament_package/lib/python3.6/site-packages/ament_package/templates.py to templates.cpython-36.pyc
+[2.566s] byte-compiling /opt/workspace/install/ament_package/lib/python3.6/site-packages/ament_package/template/prefix_level/_local_setup_util.py to _local_setup_util.cpython-36.pyc
+[2.566s] byte-compiling /opt/workspace/install/ament_package/lib/python3.6/site-packages/ament_package/template/isolated_prefix_level/_order_isolated_packages.py to _order_isolated_packages.cpython-36.pyc
+[2.567s] running install_data
+[2.567s] copying package.xml -> /opt/workspace/install/ament_package/share/ament_package
+[2.567s] creating /opt/workspace/install/ament_package/share/ament_index
+[2.567s] creating /opt/workspace/install/ament_package/share/ament_index/resource_index
+[2.567s] creating /opt/workspace/install/ament_package/share/ament_index/resource_index/packages
+[2.568s] copying resource/ament_package -> /opt/workspace/install/ament_package/share/ament_index/resource_index/packages
+[2.568s] running install_egg_info
+[2.568s] Copying /opt/workspace/build/ament_package/ament_package.egg-info to /opt/workspace/install/ament_package/lib/python3.6/site-packages/ament_package-0.8.8-py3.6.egg-info
+[2.568s] running install_scripts
+[2.568s] writing list of installed files to '/opt/workspace/build/ament_package/install.log'

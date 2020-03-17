@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/test_atomics_executable.dir/test/test_atomics.c.o  -o test_atomics_executable -Wl,-rpath,/opt/workspace/build/rcutils librcutils.so -latomic 

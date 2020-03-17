@@ -1,0 +1,187 @@
+[0.334s] -- The C compiler identification is GNU 7.4.0
+[0.451s] -- The CXX compiler identification is GNU 7.4.0
+[0.463s] -- Check for working C compiler: /usr/bin/cc
+[0.590s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.593s] -- Detecting C compiler ABI info
+[0.738s] -- Detecting C compiler ABI info - done
+[0.754s] -- Detecting C compile features
+[1.229s] -- Detecting C compile features - done
+[1.234s] -- Check for working CXX compiler: /usr/bin/c++
+[1.385s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[1.387s] -- Detecting CXX compiler ABI info
+[1.550s] -- Detecting CXX compiler ABI info - done
+[1.568s] -- Detecting CXX compile features
+[2.326s] -- Detecting CXX compile features - done
+[2.333s] -- Found ament_cmake_python: 0.8.2 (/opt/workspace/install/ament_cmake_python/share/ament_cmake_python/cmake)
+[2.335s] -- Found ament_cmake_ros: 0.8.0 (/opt/workspace/install/ament_cmake_ros/share/ament_cmake_ros/cmake)
+[2.401s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[2.402s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[2.993s] -- Found ament_lint_auto: 0.8.1 (/opt/workspace/install/ament_lint_auto/share/ament_lint_auto/cmake)
+[3.227s] -- Found python_cmake_module: 0.8.0 (/opt/workspace/install/python_cmake_module/share/python_cmake_module/cmake)
+[3.270s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3.5") 
+[3.285s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.6m.so (found suitable version "3.6.9", minimum required is "3.5") 
+[3.286s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[3.287s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.6m
+[3.287s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.6m.so
+[3.333s] -- Found PythonExtra: .so  
+[3.347s] -- Looking for __atomic_load_8 in atomic
+[3.487s] -- Looking for __atomic_load_8 in atomic - found
+[3.505s] -- Found gtest sources under '/opt/workspace/install/gtest_vendor/src/gtest_vendor': C++ tests using 'Google Test' will be built
+[3.510s] -- Looking for pthread.h
+[3.664s] -- Looking for pthread.h - found
+[3.665s] -- Looking for pthread_create
+[3.823s] -- Looking for pthread_create - not found
+[3.824s] -- Check if compiler accepts -pthread
+[4.022s] -- Check if compiler accepts -pthread - yes
+[4.022s] -- Found Threads: TRUE  
+[4.023s] -- Found gmock sources under '/opt/workspace/install/gmock_vendor/src/gmock_vendor': C++ tests using 'Google Mock' will be built
+[4.114s] -- Added test 'copyright' to check for copyright in CMake / C / C++ / Python code
+[4.122s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[4.126s] -- Configured cppcheck include dirs: /opt/workspace/src/ros2/rcutils/include
+[4.139s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[4.141s] -- Added test 'flake8' to check Python code syntax and style conventions
+[4.146s] -- Added test 'lint_cmake' to check CMake code style
+[4.150s] -- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+[4.165s] -- Added test 'uncrustify' to check C / C++ code style
+[4.167s] -- Added test 'xmllint' to check XML markup files
+[4.180s] -- Configuring done
+[4.278s] -- Generating done
+[4.288s] -- Build files have been written to: /opt/workspace/build/rcutils
+[4.400s] [35m[1mScanning dependencies of target gtest[0m
+[4.445s] [  1%] [32mBuilding CXX object gtest/CMakeFiles/gtest.dir/src/gtest-all.cc.o[0m
+[10.494s] [  2%] [32m[1mLinking CXX static library libgtest.a[0m
+[10.586s] [  2%] Built target gtest
+[10.602s] [35m[1mScanning dependencies of target gmock_main[0m
+[10.638s] [  3%] [32mBuilding CXX object gmock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o[0m
+[12.306s] [  5%] [32m[1mLinking CXX static library libgmock_main.a[0m
+[12.356s] [  5%] Built target gmock_main
+[12.370s] [35m[1mScanning dependencies of target gmock[0m
+[12.413s] [  6%] [32mBuilding CXX object gmock/CMakeFiles/gmock.dir/opt/workspace/install/gtest_vendor/src/gtest_vendor/src/gtest-all.cc.o[0m
+[18.384s] [  7%] [32mBuilding CXX object gmock/CMakeFiles/gmock.dir/src/gmock-all.cc.o[0m
+[21.560s] [  8%] [32m[1mLinking CXX static library libgmock.a[0m
+[21.662s] [  8%] Built target gmock
+[21.681s] [35m[1mScanning dependencies of target gtest_main[0m
+[21.711s] [ 10%] [32mBuilding CXX object gtest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o[0m
+[23.172s] [ 11%] [32m[1mLinking CXX static library libgtest_main.a[0m
+[23.244s] [ 11%] Built target gtest_main
+[23.265s] [35m[1mScanning dependencies of target test_error_handling_helpers[0m
+[23.311s] [ 12%] [32mBuilding CXX object CMakeFiles/test_error_handling_helpers.dir/test/test_error_handling_helpers.cpp.o[0m
+[26.019s] [ 13%] [32m[1mLinking CXX executable test_error_handling_helpers[0m
+[26.381s] [ 13%] Built target test_error_handling_helpers
+[26.399s] [ 15%] [34m[1mExpanding logging_macros.h.em[0m
+[26.747s] [35m[1mScanning dependencies of target rcutils[0m
+[26.784s] [ 16%] [32mBuilding C object CMakeFiles/rcutils.dir/src/allocator.c.o[0m
+[26.856s] [ 17%] [32mBuilding C object CMakeFiles/rcutils.dir/src/format_string.c.o[0m
+[26.908s] [ 18%] [32mBuilding C object CMakeFiles/rcutils.dir/src/get_env.c.o[0m
+[26.976s] [ 20%] [32mBuilding C object CMakeFiles/rcutils.dir/src/hash_map.c.o[0m
+[27.107s] [ 21%] [32mBuilding C object CMakeFiles/rcutils.dir/src/logging.c.o[0m
+[27.278s] [ 22%] [32mBuilding C object CMakeFiles/rcutils.dir/src/process.c.o[0m
+[27.356s] [ 23%] [32mBuilding C object CMakeFiles/rcutils.dir/src/repl_str.c.o[0m
+[27.421s] [ 25%] [32mBuilding C object CMakeFiles/rcutils.dir/src/snprintf.c.o[0m
+[27.477s] [ 26%] [32mBuilding C object CMakeFiles/rcutils.dir/src/split.c.o[0m
+[27.561s] [ 27%] [32mBuilding C object CMakeFiles/rcutils.dir/src/strdup.c.o[0m
+[27.617s] [ 28%] [32mBuilding C object CMakeFiles/rcutils.dir/src/string_array.c.o[0m
+[27.691s] [ 30%] [32mBuilding C object CMakeFiles/rcutils.dir/src/string_map.c.o[0m
+[27.783s] [ 31%] [32mBuilding C object CMakeFiles/rcutils.dir/src/time.c.o[0m
+[27.842s] [ 32%] [32mBuilding C object CMakeFiles/rcutils.dir/src/time_unix.c.o[0m
+[27.914s] [ 33%] [32mBuilding C object CMakeFiles/rcutils.dir/src/uint8_array.c.o[0m
+[27.980s] [ 35%] [32mBuilding C object CMakeFiles/rcutils.dir/src/find.c.o[0m
+[28.051s] [ 36%] [32mBuilding C object CMakeFiles/rcutils.dir/src/filesystem.c.o[0m
+[28.139s] [ 37%] [32mBuilding C object CMakeFiles/rcutils.dir/src/error_handling.c.o[0m
+[28.239s] [ 38%] [32mBuilding C object CMakeFiles/rcutils.dir/src/cmdline_parser.c.o[0m
+[28.289s] [ 40%] [32mBuilding C object CMakeFiles/rcutils.dir/src/char_array.c.o[0m
+[28.382s] [ 41%] [32mBuilding C object CMakeFiles/rcutils.dir/src/array_list.c.o[0m
+[28.465s] [ 42%] [32m[1mLinking C shared library librcutils.so[0m
+[28.536s] [ 42%] Built target rcutils
+[28.555s] [35m[1mScanning dependencies of target test_array_list[0m
+[28.592s] [ 43%] [32mBuilding CXX object CMakeFiles/test_array_list.dir/test/test_array_list.cpp.o[0m
+[30.435s] [ 45%] [32m[1mLinking CXX executable test_array_list[0m
+[30.731s] [ 45%] Built target test_array_list
+[30.755s] [35m[1mScanning dependencies of target test_string_map[0m
+[30.790s] [ 46%] [32mBuilding CXX object CMakeFiles/test_string_map.dir/test/test_string_map.cpp.o[0m
+[33.959s] [ 47%] [32m[1mLinking CXX executable test_string_map[0m
+[34.285s] [ 47%] Built target test_string_map
+[34.307s] [35m[1mScanning dependencies of target test_split[0m
+[34.353s] [ 48%] [32mBuilding CXX object CMakeFiles/test_split.dir/test/test_split.cpp.o[0m
+[35.834s] [ 50%] [32m[1mLinking CXX executable test_split[0m
+[36.076s] [ 50%] Built target test_split
+[36.091s] [35m[1mScanning dependencies of target test_time[0m
+[36.121s] [ 51%] [32mBuilding CXX object CMakeFiles/test_time.dir/test/test_time.cpp.o[0m
+[38.175s] [ 52%] [32m[1mLinking CXX executable test_time[0m
+[38.482s] [ 52%] Built target test_time
+[38.496s] [35m[1mScanning dependencies of target test_logging[0m
+[38.521s] [ 53%] [32mBuilding CXX object CMakeFiles/test_logging.dir/test/test_logging.cpp.o[0m
+[40.010s] [ 55%] [32m[1mLinking CXX executable test_logging[0m
+[40.251s] [ 55%] Built target test_logging
+[40.265s] [35m[1mScanning dependencies of target test_hash_map[0m
+[40.291s] [ 56%] [32mBuilding CXX object CMakeFiles/test_hash_map.dir/test/test_hash_map.cpp.o[0m
+[42.361s] [ 57%] [32m[1mLinking CXX executable test_hash_map[0m
+[42.667s] [ 57%] Built target test_hash_map
+[42.684s] [35m[1mScanning dependencies of target test_allocator[0m
+[42.716s] [ 58%] [32mBuilding CXX object CMakeFiles/test_allocator.dir/test/test_allocator.cpp.o[0m
+[44.295s] [ 60%] [32m[1mLinking CXX executable test_allocator[0m
+[44.514s] [ 60%] Built target test_allocator
+[44.532s] [35m[1mScanning dependencies of target test_logging_long_messages[0m
+[44.551s] [ 61%] [32mBuilding CXX object CMakeFiles/test_logging_long_messages.dir/test/test_logging_long_messages.cpp.o[0m
+[44.928s] [ 62%] [32m[1mLinking CXX executable test_logging_long_messages[0m
+[45.041s] [ 62%] Built target test_logging_long_messages
+[45.056s] [35m[1mScanning dependencies of target test_logging_macros_c[0m
+[45.078s] [ 63%] [32mBuilding C object CMakeFiles/test_logging_macros_c.dir/test/test_logging_macros.c.o[0m
+[45.154s] [ 65%] [32m[1mLinking C executable test_logging_macros_c[0m
+[45.216s] [ 65%] Built target test_logging_macros_c
+[45.238s] [35m[1mScanning dependencies of target test_atomics_executable[0m
+[45.264s] [ 66%] [32mBuilding C object CMakeFiles/test_atomics_executable.dir/test/test_atomics.c.o[0m
+[45.377s] [ 67%] [32m[1mLinking C executable test_atomics_executable[0m
+[45.433s] [ 67%] Built target test_atomics_executable
+[45.450s] [35m[1mScanning dependencies of target test_char_array[0m
+[45.475s] [ 68%] [32mBuilding CXX object CMakeFiles/test_char_array.dir/test/test_char_array.cpp.o[0m
+[46.493s] [ 70%] [32m[1mLinking CXX executable test_char_array[0m
+[46.720s] [ 70%] Built target test_char_array
+[46.739s] [35m[1mScanning dependencies of target test_error_handling[0m
+[46.774s] [ 71%] [32mBuilding CXX object CMakeFiles/test_error_handling.dir/test/test_error_handling.cpp.o[0m
+[49.328s] [ 72%] [32m[1mLinking CXX executable test_error_handling[0m
+[49.609s] [ 72%] Built target test_error_handling
+[49.626s] [35m[1mScanning dependencies of target test_find[0m
+[49.650s] [ 73%] [32mBuilding CXX object CMakeFiles/test_find.dir/test/test_find.cpp.o[0m
+[50.696s] [ 75%] [32m[1mLinking CXX executable test_find[0m
+[50.934s] [ 75%] Built target test_find
+[50.952s] [35m[1mScanning dependencies of target test_filesystem[0m
+[50.979s] [ 76%] [32mBuilding CXX object CMakeFiles/test_filesystem.dir/test/test_filesystem.cpp.o[0m
+[52.337s] [ 77%] [32m[1mLinking CXX executable test_filesystem[0m
+[52.551s] [ 77%] Built target test_filesystem
+[52.564s] [35m[1mScanning dependencies of target test_get_env[0m
+[52.586s] [ 78%] [32mBuilding CXX object CMakeFiles/test_get_env.dir/test/test_get_env.cpp.o[0m
+[53.665s] [ 80%] [32m[1mLinking CXX executable test_get_env[0m
+[53.861s] [ 80%] Built target test_get_env
+[53.880s] [35m[1mScanning dependencies of target test_snprintf[0m
+[53.909s] [ 81%] [32mBuilding CXX object CMakeFiles/test_snprintf.dir/test/test_snprintf.cpp.o[0m
+[55.117s] [ 82%] [32m[1mLinking CXX executable test_snprintf[0m
+[55.372s] [ 82%] Built target test_snprintf
+[55.389s] [35m[1mScanning dependencies of target test_string_array[0m
+[55.419s] [ 83%] [32mBuilding CXX object CMakeFiles/test_string_array.dir/test/test_string_array.cpp.o[0m
+[56.568s] [ 85%] [32m[1mLinking CXX executable test_string_array[0m
+[56.818s] [ 85%] Built target test_string_array
+[56.837s] [35m[1mScanning dependencies of target test_uint8_array[0m
+[56.867s] [ 86%] [32mBuilding CXX object CMakeFiles/test_uint8_array.dir/test/test_uint8_array.cpp.o[0m
+[58.023s] [ 87%] [32m[1mLinking CXX executable test_uint8_array[0m
+[58.266s] [ 87%] Built target test_uint8_array
+[58.285s] [35m[1mScanning dependencies of target test_logging_macros[0m
+[58.331s] [ 88%] [32mBuilding CXX object CMakeFiles/test_logging_macros.dir/test/test_logging_macros.cpp.o[0m
+[60.189s] [ 90%] [32m[1mLinking CXX executable test_logging_macros[0m
+[60.464s] [ 90%] Built target test_logging_macros
+[60.482s] [35m[1mScanning dependencies of target test_strdup[0m
+[60.512s] [ 91%] [32mBuilding CXX object CMakeFiles/test_strdup.dir/test/test_strdup.cpp.o[0m
+[61.933s] [ 92%] [32m[1mLinking CXX executable test_strdup[0m
+[62.154s] [ 92%] Built target test_strdup
+[62.169s] [35m[1mScanning dependencies of target test_format_string[0m
+[62.198s] [ 93%] [32mBuilding CXX object CMakeFiles/test_format_string.dir/test/test_format_string.cpp.o[0m
+[63.349s] [ 95%] [32m[1mLinking CXX executable test_format_string[0m
+[63.633s] [ 95%] Built target test_format_string
+[63.652s] [35m[1mScanning dependencies of target test_isalnum_no_locale[0m
+[63.681s] [ 96%] [32mBuilding CXX object CMakeFiles/test_isalnum_no_locale.dir/test/test_isalnum_no_locale.cpp.o[0m
+[64.770s] [ 97%] [32m[1mLinking CXX executable test_isalnum_no_locale[0m
+[64.978s] [ 97%] Built target test_isalnum_no_locale
+[64.998s] [35m[1mScanning dependencies of target test_repl_str[0m
+[65.030s] [ 98%] [32mBuilding CXX object CMakeFiles/test_repl_str.dir/test/test_repl_str.cpp.o[0m
+[66.145s] [100%] [32m[1mLinking CXX executable test_repl_str[0m
+[66.391s] [100%] Built target test_repl_str

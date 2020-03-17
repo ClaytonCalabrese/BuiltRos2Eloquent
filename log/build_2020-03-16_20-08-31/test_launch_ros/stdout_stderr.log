@@ -1,0 +1,17 @@
+[3.313s] running egg_info
+[3.314s] creating /opt/workspace/build/test_launch_ros/test_launch_ros.egg-info
+[3.314s] writing /opt/workspace/build/test_launch_ros/test_launch_ros.egg-info/PKG-INFO
+[3.314s] writing dependency_links to /opt/workspace/build/test_launch_ros/test_launch_ros.egg-info/dependency_links.txt
+[3.315s] writing requirements to /opt/workspace/build/test_launch_ros/test_launch_ros.egg-info/requires.txt
+[3.315s] writing top-level names to /opt/workspace/build/test_launch_ros/test_launch_ros.egg-info/top_level.txt
+[3.321s] writing manifest file '/opt/workspace/build/test_launch_ros/test_launch_ros.egg-info/SOURCES.txt'
+[3.322s] reading manifest file '/opt/workspace/build/test_launch_ros/test_launch_ros.egg-info/SOURCES.txt'
+[3.324s] writing manifest file '/opt/workspace/build/test_launch_ros/test_launch_ros.egg-info/SOURCES.txt'
+[3.324s] running build
+[3.325s] running install
+[3.325s] running install_data
+[3.326s] copying package.xml -> /opt/workspace/install/test_launch_ros/share/test_launch_ros
+[3.326s] running install_egg_info
+[3.329s] Copying /opt/workspace/build/test_launch_ros/test_launch_ros.egg-info to /opt/workspace/install/test_launch_ros/lib/python3.6/site-packages/test_launch_ros-0.9.5-py3.6.egg-info
+[3.330s] running install_scripts
+[3.364s] writing list of installed files to '/opt/workspace/build/test_launch_ros/install.log'

@@ -1,0 +1,51 @@
+[5.088s] running egg_info
+[5.090s] creating /opt/workspace/build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info
+[5.091s] writing /opt/workspace/build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/PKG-INFO
+[5.091s] writing dependency_links to /opt/workspace/build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/dependency_links.txt
+[5.092s] writing entry points to /opt/workspace/build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/entry_points.txt
+[5.092s] writing requirements to /opt/workspace/build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/requires.txt
+[5.092s] writing top-level names to /opt/workspace/build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/top_level.txt
+[5.106s] writing manifest file '/opt/workspace/build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/SOURCES.txt'
+[5.205s] reading manifest file '/opt/workspace/build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/SOURCES.txt'
+[5.208s] writing manifest file '/opt/workspace/build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/SOURCES.txt'
+[5.208s] running build
+[5.209s] running build_py
+[5.210s] creating /opt/workspace/build/examples_rclpy_minimal_action_server/build
+[5.210s] creating /opt/workspace/build/examples_rclpy_minimal_action_server/build/lib
+[5.212s] creating /opt/workspace/build/examples_rclpy_minimal_action_server/build/lib/examples_rclpy_minimal_action_server
+[5.213s] copying examples_rclpy_minimal_action_server/server.py -> /opt/workspace/build/examples_rclpy_minimal_action_server/build/lib/examples_rclpy_minimal_action_server
+[5.214s] copying examples_rclpy_minimal_action_server/__init__.py -> /opt/workspace/build/examples_rclpy_minimal_action_server/build/lib/examples_rclpy_minimal_action_server
+[5.214s] copying examples_rclpy_minimal_action_server/server_queue_goals.py -> /opt/workspace/build/examples_rclpy_minimal_action_server/build/lib/examples_rclpy_minimal_action_server
+[5.215s] copying examples_rclpy_minimal_action_server/server_defer.py -> /opt/workspace/build/examples_rclpy_minimal_action_server/build/lib/examples_rclpy_minimal_action_server
+[5.216s] copying examples_rclpy_minimal_action_server/server_single_goal.py -> /opt/workspace/build/examples_rclpy_minimal_action_server/build/lib/examples_rclpy_minimal_action_server
+[5.217s] copying examples_rclpy_minimal_action_server/server_not_composable.py -> /opt/workspace/build/examples_rclpy_minimal_action_server/build/lib/examples_rclpy_minimal_action_server
+[5.217s] running install
+[5.218s] running install_lib
+[5.219s] creating /opt/workspace/install/examples_rclpy_minimal_action_server/lib/python3.6/site-packages/examples_rclpy_minimal_action_server
+[5.220s] copying /opt/workspace/build/examples_rclpy_minimal_action_server/build/lib/examples_rclpy_minimal_action_server/server.py -> /opt/workspace/install/examples_rclpy_minimal_action_server/lib/python3.6/site-packages/examples_rclpy_minimal_action_server
+[5.220s] copying /opt/workspace/build/examples_rclpy_minimal_action_server/build/lib/examples_rclpy_minimal_action_server/__init__.py -> /opt/workspace/install/examples_rclpy_minimal_action_server/lib/python3.6/site-packages/examples_rclpy_minimal_action_server
+[5.221s] copying /opt/workspace/build/examples_rclpy_minimal_action_server/build/lib/examples_rclpy_minimal_action_server/server_queue_goals.py -> /opt/workspace/install/examples_rclpy_minimal_action_server/lib/python3.6/site-packages/examples_rclpy_minimal_action_server
+[5.221s] copying /opt/workspace/build/examples_rclpy_minimal_action_server/build/lib/examples_rclpy_minimal_action_server/server_defer.py -> /opt/workspace/install/examples_rclpy_minimal_action_server/lib/python3.6/site-packages/examples_rclpy_minimal_action_server
+[5.221s] copying /opt/workspace/build/examples_rclpy_minimal_action_server/build/lib/examples_rclpy_minimal_action_server/server_single_goal.py -> /opt/workspace/install/examples_rclpy_minimal_action_server/lib/python3.6/site-packages/examples_rclpy_minimal_action_server
+[5.222s] copying /opt/workspace/build/examples_rclpy_minimal_action_server/build/lib/examples_rclpy_minimal_action_server/server_not_composable.py -> /opt/workspace/install/examples_rclpy_minimal_action_server/lib/python3.6/site-packages/examples_rclpy_minimal_action_server
+[5.223s] byte-compiling /opt/workspace/install/examples_rclpy_minimal_action_server/lib/python3.6/site-packages/examples_rclpy_minimal_action_server/server.py to server.cpython-36.pyc
+[5.224s] byte-compiling /opt/workspace/install/examples_rclpy_minimal_action_server/lib/python3.6/site-packages/examples_rclpy_minimal_action_server/__init__.py to __init__.cpython-36.pyc
+[5.224s] byte-compiling /opt/workspace/install/examples_rclpy_minimal_action_server/lib/python3.6/site-packages/examples_rclpy_minimal_action_server/server_queue_goals.py to server_queue_goals.cpython-36.pyc
+[5.225s] byte-compiling /opt/workspace/install/examples_rclpy_minimal_action_server/lib/python3.6/site-packages/examples_rclpy_minimal_action_server/server_defer.py to server_defer.cpython-36.pyc
+[5.226s] byte-compiling /opt/workspace/install/examples_rclpy_minimal_action_server/lib/python3.6/site-packages/examples_rclpy_minimal_action_server/server_single_goal.py to server_single_goal.cpython-36.pyc
+[5.229s] byte-compiling /opt/workspace/install/examples_rclpy_minimal_action_server/lib/python3.6/site-packages/examples_rclpy_minimal_action_server/server_not_composable.py to server_not_composable.cpython-36.pyc
+[5.229s] running install_data
+[5.230s] creating /opt/workspace/install/examples_rclpy_minimal_action_server/share/ament_index
+[5.231s] creating /opt/workspace/install/examples_rclpy_minimal_action_server/share/ament_index/resource_index
+[5.231s] creating /opt/workspace/install/examples_rclpy_minimal_action_server/share/ament_index/resource_index/packages
+[5.231s] copying resource/examples_rclpy_minimal_action_server -> /opt/workspace/install/examples_rclpy_minimal_action_server/share/ament_index/resource_index/packages
+[5.231s] copying package.xml -> /opt/workspace/install/examples_rclpy_minimal_action_server/share/examples_rclpy_minimal_action_server
+[5.232s] running install_egg_info
+[5.238s] Copying /opt/workspace/build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info to /opt/workspace/install/examples_rclpy_minimal_action_server/lib/python3.6/site-packages/examples_rclpy_minimal_action_server-0.8.2-py3.6.egg-info
+[5.239s] running install_scripts
+[5.291s] Installing server script to /opt/workspace/install/examples_rclpy_minimal_action_server/lib/examples_rclpy_minimal_action_server
+[5.291s] Installing server_defer script to /opt/workspace/install/examples_rclpy_minimal_action_server/lib/examples_rclpy_minimal_action_server
+[5.291s] Installing server_not_composable script to /opt/workspace/install/examples_rclpy_minimal_action_server/lib/examples_rclpy_minimal_action_server
+[5.292s] Installing server_queue_goals script to /opt/workspace/install/examples_rclpy_minimal_action_server/lib/examples_rclpy_minimal_action_server
+[5.292s] Installing server_single_goal script to /opt/workspace/install/examples_rclpy_minimal_action_server/lib/examples_rclpy_minimal_action_server
+[5.292s] writing list of installed files to '/opt/workspace/build/examples_rclpy_minimal_action_server/install.log'

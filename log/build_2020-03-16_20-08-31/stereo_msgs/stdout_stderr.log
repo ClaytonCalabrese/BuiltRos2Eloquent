@@ -1,0 +1,201 @@
+[0.695s] -- The C compiler identification is GNU 7.4.0
+[0.846s] -- The CXX compiler identification is GNU 7.4.0
+[0.856s] -- Check for working C compiler: /usr/bin/cc
+[1.017s] -- Check for working C compiler: /usr/bin/cc -- works
+[1.025s] -- Detecting C compiler ABI info
+[1.198s] -- Detecting C compiler ABI info - done
+[1.210s] -- Detecting C compile features
+[1.628s] -- Detecting C compile features - done
+[1.633s] -- Check for working CXX compiler: /usr/bin/c++
+[1.808s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[1.808s] -- Detecting CXX compiler ABI info
+[1.974s] -- Detecting CXX compiler ABI info - done
+[1.986s] -- Detecting CXX compile features
+[2.649s] -- Detecting CXX compile features - done
+[2.658s] -- Found ament_cmake: 0.8.2 (/opt/workspace/install/ament_cmake/share/ament_cmake/cmake)
+[2.752s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[2.753s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[3.225s] -- Found rosidl_default_generators: 0.8.0 (/opt/workspace/install/rosidl_default_generators/share/rosidl_default_generators/cmake)
+[3.445s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "1.1.1") 
+[3.506s] -- Found FastRTPS: /opt/workspace/install/fastrtps/include  
+[3.555s] -- Found rosidl_adapter: 0.8.2 (/opt/workspace/install/rosidl_adapter/share/rosidl_adapter/cmake)
+[3.738s] -- Found sensor_msgs: 0.8.1 (/opt/workspace/install/sensor_msgs/share/sensor_msgs/cmake)
+[3.890s] -- Found PythonInterp: /usr/bin/python3 (found version "3.6.9") 
+[4.472s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[4.544s] -- Found ament_cmake_cppcheck: 0.8.1 (/opt/workspace/install/ament_cmake_cppcheck/share/ament_cmake_cppcheck/cmake)
+[4.551s] -- Found ament_cmake_cpplint: 0.8.1 (/opt/workspace/install/ament_cmake_cpplint/share/ament_cmake_cpplint/cmake)
+[4.559s] -- Found ament_cmake_uncrustify: 0.8.1 (/opt/workspace/install/ament_cmake_uncrustify/share/ament_cmake_uncrustify/cmake)
+[4.705s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_introspection_cpp;rosidl_typesupport_fastrtps_cpp
+[6.426s] -- Found rmw_implementation_cmake: 0.8.1 (/opt/workspace/install/rmw_implementation_cmake/share/rmw_implementation_cmake/cmake)
+[6.500s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3.5") 
+[6.507s] -- Found python_cmake_module: 0.8.0 (/opt/workspace/install/python_cmake_module/share/python_cmake_module/cmake)
+[6.594s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.6m.so (found suitable version "3.6.9", minimum required is "3.5") 
+[6.594s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[6.595s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.6m
+[6.595s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.6m.so
+[6.665s] -- Found PythonExtra: .so  
+[7.614s] -- Found ament_cmake_flake8: 0.8.1 (/opt/workspace/install/ament_cmake_flake8/share/ament_cmake_flake8/cmake)
+[7.624s] -- Found ament_cmake_pep257: 0.8.1 (/opt/workspace/install/ament_cmake_pep257/share/ament_cmake_pep257/cmake)
+[7.647s] -- Configuring done
+[8.037s] -- Generating done
+[8.042s] -- Build files have been written to: /opt/workspace/build/stereo_msgs
+[8.457s] [35m[1mScanning dependencies of target stereo_msgs__cpp[0m
+[8.481s] [  3%] [34m[1mGenerating C++ code for ROS interfaces[0m
+[9.343s] [  3%] Built target stereo_msgs__cpp
+[9.369s] [  6%] [34m[1mGenerating C code for ROS interfaces[0m
+[10.330s] [35m[1mScanning dependencies of target stereo_msgs__rosidl_generator_c[0m
+[10.358s] [  9%] [32mBuilding C object CMakeFiles/stereo_msgs__rosidl_generator_c.dir/rosidl_generator_c/stereo_msgs/msg/disparity_image__functions.c.o[0m
+[10.437s] [ 12%] [32m[1mLinking C shared library libstereo_msgs__rosidl_generator_c.so[0m
+[10.536s] [ 12%] Built target stereo_msgs__rosidl_generator_c
+[10.563s] [ 16%] [34m[1mGenerating C++ introspection for ROS interfaces[0m
+[11.445s] [35m[1mScanning dependencies of target stereo_msgs__rosidl_typesupport_introspection_cpp[0m
+[11.471s] [ 19%] [32mBuilding CXX object CMakeFiles/stereo_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/stereo_msgs/msg/disparity_image__type_support.cpp.o[0m
+[11.905s] [ 22%] [32m[1mLinking CXX shared library libstereo_msgs__rosidl_typesupport_introspection_cpp.so[0m
+[12.066s] [ 22%] Built target stereo_msgs__rosidl_typesupport_introspection_cpp
+[12.093s] [ 25%] [34m[1mGenerating C type support dispatch for ROS interfaces[0m
+[13.109s] [35m[1mScanning dependencies of target stereo_msgs__rosidl_typesupport_c[0m
+[13.144s] [ 29%] [32mBuilding CXX object CMakeFiles/stereo_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/stereo_msgs/msg/disparity_image__type_support.cpp.o[0m
+[13.209s] [ 32%] [32m[1mLinking CXX shared library libstereo_msgs__rosidl_typesupport_c.so[0m
+[13.320s] [ 32%] Built target stereo_msgs__rosidl_typesupport_c
+[13.347s] [ 35%] [34m[1mGenerating C introspection for ROS interfaces[0m
+[14.370s] [35m[1mScanning dependencies of target stereo_msgs__rosidl_typesupport_introspection_c[0m
+[14.409s] [ 38%] [32mBuilding C object CMakeFiles/stereo_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/stereo_msgs/msg/disparity_image__type_support.c.o[0m
+[14.487s] [ 41%] [32m[1mLinking C shared library libstereo_msgs__rosidl_typesupport_introspection_c.so[0m
+[14.578s] [ 41%] Built target stereo_msgs__rosidl_typesupport_introspection_c
+[14.606s] [ 45%] [34m[1mGenerating C++ type support for eProsima Fast-RTPS[0m
+[15.727s] [35m[1mScanning dependencies of target stereo_msgs__rosidl_typesupport_fastrtps_cpp[0m
+[15.773s] [ 48%] [32mBuilding CXX object CMakeFiles/stereo_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/stereo_msgs/msg/dds_fastrtps/disparity_image__type_support.cpp.o[0m
+[16.527s] [ 51%] [32m[1mLinking CXX shared library libstereo_msgs__rosidl_typesupport_fastrtps_cpp.so[0m
+[16.739s] [ 51%] Built target stereo_msgs__rosidl_typesupport_fastrtps_cpp
+[16.766s] [ 54%] [34m[1mGenerating C++ type support dispatch for ROS interfaces[0m
+[17.758s] [35m[1mScanning dependencies of target stereo_msgs__rosidl_typesupport_cpp[0m
+[17.796s] [ 58%] [32mBuilding CXX object CMakeFiles/stereo_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/stereo_msgs/msg/disparity_image__type_support.cpp.o[0m
+[18.315s] [ 61%] [32m[1mLinking CXX shared library libstereo_msgs__rosidl_typesupport_cpp.so[0m
+[18.439s] [ 61%] Built target stereo_msgs__rosidl_typesupport_cpp
+[18.469s] [ 64%] [34m[1mGenerating C type support for eProsima Fast-RTPS[0m
+[19.610s] [35m[1mScanning dependencies of target stereo_msgs__rosidl_typesupport_fastrtps_c[0m
+[19.661s] [ 67%] [32mBuilding CXX object CMakeFiles/stereo_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/stereo_msgs/msg/disparity_image__type_support_c.cpp.o[0m
+[20.218s] [ 70%] [32m[1mLinking CXX shared library libstereo_msgs__rosidl_typesupport_fastrtps_c.so[0m
+[20.435s] [ 70%] Built target stereo_msgs__rosidl_typesupport_fastrtps_c
+[20.462s] [35m[1mScanning dependencies of target stereo_msgs[0m
+[20.489s] [ 70%] Built target stereo_msgs
+[20.518s] [35m[1mScanning dependencies of target stereo_msgs__py[0m
+[20.545s] [ 74%] [34m[1mGenerating Python code for ROS interfaces[0m
+[22.336s] [ 74%] Built target stereo_msgs__py
+[22.361s] [35m[1mScanning dependencies of target stereo_msgs__python[0m
+[22.417s] [ 77%] [32mBuilding C object CMakeFiles/stereo_msgs__python.dir/rosidl_generator_py/stereo_msgs/msg/_disparity_image_s.c.o[0m
+[22.612s] [ 80%] [32m[1mLinking C shared library rosidl_generator_py/stereo_msgs/libstereo_msgs__python.so[0m
+[22.726s] [ 80%] Built target stereo_msgs__python
+[22.753s] [35m[1mScanning dependencies of target stereo_msgs__rosidl_typesupport_c__pyext[0m
+[22.801s] [ 83%] [32mBuilding C object CMakeFiles/stereo_msgs__rosidl_typesupport_c__pyext.dir/rosidl_generator_py/stereo_msgs/_stereo_msgs_s.ep.rosidl_typesupport_c.c.o[0m
+[22.950s] [ 87%] [32m[1mLinking C shared library rosidl_generator_py/stereo_msgs/stereo_msgs_s__rosidl_typesupport_c.cpython-36m-x86_64-linux-gnu.so[0m
+[23.120s] [ 87%] Built target stereo_msgs__rosidl_typesupport_c__pyext
+[23.169s] [35m[1mScanning dependencies of target stereo_msgs__rosidl_typesupport_fastrtps_c__pyext[0m
+[23.200s] [ 90%] [32mBuilding C object CMakeFiles/stereo_msgs__rosidl_typesupport_fastrtps_c__pyext.dir/rosidl_generator_py/stereo_msgs/_stereo_msgs_s.ep.rosidl_typesupport_fastrtps_c.c.o[0m
+[23.370s] [ 93%] [32m[1mLinking CXX shared library rosidl_generator_py/stereo_msgs/stereo_msgs_s__rosidl_typesupport_fastrtps_c.cpython-36m-x86_64-linux-gnu.so[0m
+[23.564s] [ 93%] Built target stereo_msgs__rosidl_typesupport_fastrtps_c__pyext
+[23.589s] [35m[1mScanning dependencies of target stereo_msgs__rosidl_typesupport_introspection_c__pyext[0m
+[23.633s] [ 96%] [32mBuilding C object CMakeFiles/stereo_msgs__rosidl_typesupport_introspection_c__pyext.dir/rosidl_generator_py/stereo_msgs/_stereo_msgs_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[23.779s] [100%] [32m[1mLinking C shared library rosidl_generator_py/stereo_msgs/stereo_msgs_s__rosidl_typesupport_introspection_c.cpython-36m-x86_64-linux-gnu.so[0m
+[23.923s] [100%] Built target stereo_msgs__rosidl_typesupport_introspection_c__pyext
+[28.027s] [  3%] Built target stereo_msgs__cpp
+[28.027s] [ 12%] Built target stereo_msgs__rosidl_generator_c
+[28.028s] [ 22%] Built target stereo_msgs__rosidl_typesupport_introspection_cpp
+[28.028s] [ 32%] Built target stereo_msgs__rosidl_typesupport_c
+[28.028s] [ 41%] Built target stereo_msgs__rosidl_typesupport_introspection_c
+[28.029s] [ 51%] Built target stereo_msgs__rosidl_typesupport_fastrtps_cpp
+[28.029s] [ 61%] Built target stereo_msgs__rosidl_typesupport_cpp
+[28.029s] [ 70%] Built target stereo_msgs__rosidl_typesupport_fastrtps_c
+[28.029s] [ 70%] Built target stereo_msgs
+[28.030s] [ 74%] Built target stereo_msgs__py
+[28.030s] [ 80%] Built target stereo_msgs__python
+[28.040s] [ 87%] Built target stereo_msgs__rosidl_typesupport_c__pyext
+[28.110s] [ 93%] Built target stereo_msgs__rosidl_typesupport_fastrtps_c__pyext
+[28.171s] [100%] Built target stereo_msgs__rosidl_typesupport_introspection_c__pyext
+[28.215s] [36mInstall the project...[0m
+[28.234s] -- Install configuration: ""
+[28.235s] -- Installing: /opt/workspace/install/stereo_msgs/share/ament_index/resource_index/rosidl_interfaces/stereo_msgs
+[28.235s] -- Installing: /opt/workspace/install/stereo_msgs/lib/libstereo_msgs__rosidl_typesupport_c.so
+[28.236s] -- Set runtime path of "/opt/workspace/install/stereo_msgs/lib/libstereo_msgs__rosidl_typesupport_c.so" to ""
+[28.237s] -- Installing: /opt/workspace/install/stereo_msgs/share/stereo_msgs/environment/library_path.sh
+[28.237s] -- Installing: /opt/workspace/install/stereo_msgs/share/stereo_msgs/environment/library_path.dsv
+[28.237s] -- Installing: /opt/workspace/install/stereo_msgs/lib/libstereo_msgs__rosidl_typesupport_cpp.so
+[28.237s] -- Set runtime path of "/opt/workspace/install/stereo_msgs/lib/libstereo_msgs__rosidl_typesupport_cpp.so" to ""
+[28.237s] -- Installing: /opt/workspace/install/stereo_msgs/include/stereo_msgs
+[28.238s] -- Installing: /opt/workspace/install/stereo_msgs/include/stereo_msgs/msg
+[28.238s] -- Installing: /opt/workspace/install/stereo_msgs/include/stereo_msgs/msg/disparity_image__rosidl_typesupport_fastrtps_c.h
+[28.238s] -- Installing: /opt/workspace/install/stereo_msgs/include/stereo_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[28.238s] -- Installing: /opt/workspace/install/stereo_msgs/lib/libstereo_msgs__rosidl_typesupport_fastrtps_c.so
+[28.239s] -- Set runtime path of "/opt/workspace/install/stereo_msgs/lib/libstereo_msgs__rosidl_typesupport_fastrtps_c.so" to ""
+[28.239s] -- Up-to-date: /opt/workspace/install/stereo_msgs/include/stereo_msgs
+[28.239s] -- Up-to-date: /opt/workspace/install/stereo_msgs/include/stereo_msgs/msg
+[28.239s] -- Installing: /opt/workspace/install/stereo_msgs/include/stereo_msgs/msg/disparity_image__functions.c
+[28.239s] -- Installing: /opt/workspace/install/stereo_msgs/include/stereo_msgs/msg/disparity_image.h
+[28.240s] -- Installing: /opt/workspace/install/stereo_msgs/include/stereo_msgs/msg/disparity_image__type_support.h
+[28.240s] -- Installing: /opt/workspace/install/stereo_msgs/include/stereo_msgs/msg/disparity_image__struct.h
+[28.240s] -- Installing: /opt/workspace/install/stereo_msgs/include/stereo_msgs/msg/disparity_image__functions.h
+[28.240s] -- Installing: /opt/workspace/install/stereo_msgs/include/stereo_msgs/msg/rosidl_generator_c__visibility_control.h
+[28.241s] -- Installing: /opt/workspace/install/stereo_msgs/lib/libstereo_msgs__rosidl_generator_c.so
+[28.241s] -- Set runtime path of "/opt/workspace/install/stereo_msgs/lib/libstereo_msgs__rosidl_generator_c.so" to ""
+[28.241s] -- Up-to-date: /opt/workspace/install/stereo_msgs/include/stereo_msgs
+[28.241s] -- Up-to-date: /opt/workspace/install/stereo_msgs/include/stereo_msgs/msg
+[28.241s] -- Installing: /opt/workspace/install/stereo_msgs/include/stereo_msgs/msg/disparity_image__rosidl_typesupport_fastrtps_cpp.hpp
+[28.242s] -- Installing: /opt/workspace/install/stereo_msgs/include/stereo_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[28.242s] -- Installing: /opt/workspace/install/stereo_msgs/include/stereo_msgs/msg/dds_fastrtps
+[28.242s] -- Installing: /opt/workspace/install/stereo_msgs/lib/libstereo_msgs__rosidl_typesupport_fastrtps_cpp.so
+[28.242s] -- Set runtime path of "/opt/workspace/install/stereo_msgs/lib/libstereo_msgs__rosidl_typesupport_fastrtps_cpp.so" to ""
+[28.242s] -- Up-to-date: /opt/workspace/install/stereo_msgs/include/stereo_msgs
+[28.243s] -- Up-to-date: /opt/workspace/install/stereo_msgs/include/stereo_msgs/msg
+[28.243s] -- Installing: /opt/workspace/install/stereo_msgs/include/stereo_msgs/msg/disparity_image__traits.hpp
+[28.243s] -- Installing: /opt/workspace/install/stereo_msgs/include/stereo_msgs/msg/disparity_image__struct.hpp
+[28.243s] -- Installing: /opt/workspace/install/stereo_msgs/include/stereo_msgs/msg/disparity_image.hpp
+[28.243s] -- Up-to-date: /opt/workspace/install/stereo_msgs/include/stereo_msgs
+[28.244s] -- Up-to-date: /opt/workspace/install/stereo_msgs/include/stereo_msgs/msg
+[28.244s] -- Installing: /opt/workspace/install/stereo_msgs/include/stereo_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[28.244s] -- Installing: /opt/workspace/install/stereo_msgs/include/stereo_msgs/msg/disparity_image__rosidl_typesupport_introspection_c.h
+[28.245s] -- Installing: /opt/workspace/install/stereo_msgs/include/stereo_msgs/msg/disparity_image__type_support.c
+[28.245s] -- Installing: /opt/workspace/install/stereo_msgs/lib/libstereo_msgs__rosidl_typesupport_introspection_c.so
+[28.245s] -- Set runtime path of "/opt/workspace/install/stereo_msgs/lib/libstereo_msgs__rosidl_typesupport_introspection_c.so" to ""
+[28.245s] -- Up-to-date: /opt/workspace/install/stereo_msgs/include/stereo_msgs
+[28.245s] -- Up-to-date: /opt/workspace/install/stereo_msgs/include/stereo_msgs/msg
+[28.246s] -- Installing: /opt/workspace/install/stereo_msgs/include/stereo_msgs/msg/disparity_image__type_support.cpp
+[28.246s] -- Installing: /opt/workspace/install/stereo_msgs/include/stereo_msgs/msg/disparity_image__rosidl_typesupport_introspection_cpp.hpp
+[28.246s] -- Installing: /opt/workspace/install/stereo_msgs/lib/libstereo_msgs__rosidl_typesupport_introspection_cpp.so
+[28.246s] -- Set runtime path of "/opt/workspace/install/stereo_msgs/lib/libstereo_msgs__rosidl_typesupport_introspection_cpp.so" to ""
+[28.246s] -- Installing: /opt/workspace/install/stereo_msgs/share/stereo_msgs/environment/pythonpath.sh
+[28.247s] -- Installing: /opt/workspace/install/stereo_msgs/share/stereo_msgs/environment/pythonpath.dsv
+[28.247s] -- Installing: /opt/workspace/install/stereo_msgs/lib/python3.6/site-packages/stereo_msgs/__init__.py
+[28.355s] Compiling '/opt/workspace/install/stereo_msgs/lib/python3.6/site-packages/stereo_msgs/__init__.py'...
+[28.362s] -- Installing: /opt/workspace/install/stereo_msgs/lib/python3.6/site-packages/stereo_msgs/msg
+[28.364s] -- Installing: /opt/workspace/install/stereo_msgs/lib/python3.6/site-packages/stereo_msgs/msg/__init__.py
+[28.364s] -- Installing: /opt/workspace/install/stereo_msgs/lib/python3.6/site-packages/stereo_msgs/msg/_disparity_image.py
+[28.364s] -- Installing: /opt/workspace/install/stereo_msgs/lib/python3.6/site-packages/stereo_msgs/msg/_disparity_image_s.c
+[28.364s] -- Installing: /opt/workspace/install/stereo_msgs/lib/python3.6/site-packages/stereo_msgs/stereo_msgs_s__rosidl_typesupport_c.cpython-36m-x86_64-linux-gnu.so
+[28.364s] -- Set runtime path of "/opt/workspace/install/stereo_msgs/lib/python3.6/site-packages/stereo_msgs/stereo_msgs_s__rosidl_typesupport_c.cpython-36m-x86_64-linux-gnu.so" to ""
+[28.365s] -- Installing: /opt/workspace/install/stereo_msgs/lib/python3.6/site-packages/stereo_msgs/stereo_msgs_s__rosidl_typesupport_introspection_c.cpython-36m-x86_64-linux-gnu.so
+[28.365s] -- Set runtime path of "/opt/workspace/install/stereo_msgs/lib/python3.6/site-packages/stereo_msgs/stereo_msgs_s__rosidl_typesupport_introspection_c.cpython-36m-x86_64-linux-gnu.so" to ""
+[28.365s] -- Installing: /opt/workspace/install/stereo_msgs/lib/python3.6/site-packages/stereo_msgs/stereo_msgs_s__rosidl_typesupport_fastrtps_c.cpython-36m-x86_64-linux-gnu.so
+[28.367s] -- Set runtime path of "/opt/workspace/install/stereo_msgs/lib/python3.6/site-packages/stereo_msgs/stereo_msgs_s__rosidl_typesupport_fastrtps_c.cpython-36m-x86_64-linux-gnu.so" to ""
+[28.367s] -- Installing: /opt/workspace/install/stereo_msgs/lib/libstereo_msgs__python.so
+[28.368s] -- Set runtime path of "/opt/workspace/install/stereo_msgs/lib/libstereo_msgs__python.so" to ""
+[28.368s] -- Installing: /opt/workspace/install/stereo_msgs/share/stereo_msgs/msg/DisparityImage.idl
+[28.368s] -- Installing: /opt/workspace/install/stereo_msgs/share/stereo_msgs/msg/DisparityImage.msg
+[28.369s] -- Installing: /opt/workspace/install/stereo_msgs/share/ament_index/resource_index/package_run_dependencies/stereo_msgs
+[28.369s] -- Installing: /opt/workspace/install/stereo_msgs/share/ament_index/resource_index/parent_prefix_path/stereo_msgs
+[28.369s] -- Installing: /opt/workspace/install/stereo_msgs/share/stereo_msgs/environment/ament_prefix_path.sh
+[28.370s] -- Installing: /opt/workspace/install/stereo_msgs/share/stereo_msgs/environment/ament_prefix_path.dsv
+[28.370s] -- Installing: /opt/workspace/install/stereo_msgs/share/stereo_msgs/environment/path.sh
+[28.371s] -- Installing: /opt/workspace/install/stereo_msgs/share/stereo_msgs/environment/path.dsv
+[28.371s] -- Installing: /opt/workspace/install/stereo_msgs/share/stereo_msgs/local_setup.bash
+[28.371s] -- Installing: /opt/workspace/install/stereo_msgs/share/stereo_msgs/local_setup.sh
+[28.371s] -- Installing: /opt/workspace/install/stereo_msgs/share/stereo_msgs/local_setup.zsh
+[28.371s] -- Installing: /opt/workspace/install/stereo_msgs/share/stereo_msgs/local_setup.dsv
+[28.372s] -- Installing: /opt/workspace/install/stereo_msgs/share/stereo_msgs/package.dsv
+[28.372s] -- Installing: /opt/workspace/install/stereo_msgs/share/ament_index/resource_index/packages/stereo_msgs
+[28.372s] -- Installing: /opt/workspace/install/stereo_msgs/share/stereo_msgs/cmake/rosidl_cmake-extras.cmake
+[28.373s] -- Installing: /opt/workspace/install/stereo_msgs/share/stereo_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[28.373s] -- Installing: /opt/workspace/install/stereo_msgs/share/stereo_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[28.373s] -- Installing: /opt/workspace/install/stereo_msgs/share/stereo_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[28.374s] -- Installing: /opt/workspace/install/stereo_msgs/share/stereo_msgs/cmake/stereo_msgsConfig.cmake
+[28.374s] -- Installing: /opt/workspace/install/stereo_msgs/share/stereo_msgs/cmake/stereo_msgsConfig-version.cmake
+[28.374s] -- Installing: /opt/workspace/install/stereo_msgs/share/stereo_msgs/package.xml

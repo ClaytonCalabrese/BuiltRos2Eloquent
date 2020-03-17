@@ -1,0 +1,8 @@
+{
+  "package_name": "rqt_py_common",
+  "non_idl_tuples": [
+    "/opt/workspace/src/ros-visualization/rqt/rqt_py_common:test/msg/Val.msg",
+    "/opt/workspace/src/ros-visualization/rqt/rqt_py_common:test/msg/ArrayVal.msg",
+    "/opt/workspace/src/ros-visualization/rqt/rqt_py_common:test/srv/AddTwoInts.srv"
+  ]
+}

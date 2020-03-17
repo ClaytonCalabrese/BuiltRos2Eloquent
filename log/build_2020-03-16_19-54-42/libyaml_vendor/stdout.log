@@ -1,0 +1,108 @@
+[0.661s] -- The C compiler identification is GNU 7.4.0
+[0.976s] -- The CXX compiler identification is GNU 7.4.0
+[0.999s] -- Check for working C compiler: /usr/bin/cc
+[1.487s] -- Check for working C compiler: /usr/bin/cc -- works
+[1.488s] -- Detecting C compiler ABI info
+[1.888s] -- Detecting C compiler ABI info - done
+[1.905s] -- Detecting C compile features
+[3.209s] -- Detecting C compile features - done
+[3.214s] -- Check for working CXX compiler: /usr/bin/c++
+[3.699s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[3.700s] -- Detecting CXX compiler ABI info
+[4.231s] -- Detecting CXX compiler ABI info - done
+[4.250s] -- Detecting CXX compile features
+[6.237s] -- Detecting CXX compile features - done
+[6.239s] -- Found ament_cmake: 0.8.2 (/opt/workspace/install/ament_cmake/share/ament_cmake/cmake)
+[6.309s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[6.309s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[7.327s] -- Configuring done
+[7.353s] -- Generating done
+[7.353s] -- Build files have been written to: /opt/workspace/build/libyaml_vendor
+[7.715s] [35m[1mScanning dependencies of target libyaml-10c9078[0m
+[7.809s] [ 12%] [34m[1mCreating directories for 'libyaml-10c9078'[0m
+[8.163s] [ 25%] [34m[1mPerforming download step (download, verify and extract) for 'libyaml-10c9078'[0m
+[8.236s] -- Downloading...
+[8.237s]    dst='/opt/workspace/build/libyaml_vendor/libyaml-10c9078-prefix/src/10c907871f1ccd779c7fccf6b81a62762b5c4e7b.zip'
+[8.237s]    timeout='60 seconds'
+[8.237s] -- Using src='https://github.com/yaml/libyaml/archive/10c907871f1ccd779c7fccf6b81a62762b5c4e7b.zip'
+[8.479s] -- [download 100% complete]
+[8.841s] -- verifying file...
+[8.842s]        file='/opt/workspace/build/libyaml_vendor/libyaml-10c9078-prefix/src/10c907871f1ccd779c7fccf6b81a62762b5c4e7b.zip'
+[8.842s] -- Downloading... done
+[8.902s] -- extracting...
+[8.902s]      src='/opt/workspace/build/libyaml_vendor/libyaml-10c9078-prefix/src/10c907871f1ccd779c7fccf6b81a62762b5c4e7b.zip'
+[8.902s]      dst='/opt/workspace/build/libyaml_vendor/libyaml-10c9078-prefix/src/libyaml-10c9078'
+[8.902s] -- extracting... [tar xfz]
+[8.940s] -- extracting... [analysis]
+[8.940s] -- extracting... [rename]
+[8.940s] -- extracting... [clean up]
+[8.941s] -- extracting... done
+[8.997s] [ 37%] [34m[1mNo patch step for 'libyaml-10c9078'[0m
+[9.052s] [ 50%] [34m[1mNo update step for 'libyaml-10c9078'[0m
+[9.108s] [ 62%] [34m[1mPerforming configure step for 'libyaml-10c9078'[0m
+[9.280s] -- The C compiler identification is GNU 7.4.0
+[9.293s] -- Check for working C compiler: /usr/bin/cc
+[9.412s] -- Check for working C compiler: /usr/bin/cc -- works
+[9.414s] -- Detecting C compiler ABI info
+[9.547s] -- Detecting C compiler ABI info - done
+[9.578s] -- Detecting C compile features
+[10.374s] -- Detecting C compile features - done
+[10.381s] -- Configuring done
+[10.393s] -- Generating done
+[10.394s] -- Build files have been written to: /opt/workspace/build/libyaml_vendor/libyaml-10c9078-prefix/src/libyaml-10c9078-build
+[10.458s] [ 75%] [34m[1mPerforming build step for 'libyaml-10c9078'[0m
+[10.589s] [35m[1mScanning dependencies of target yaml[0m
+[10.626s] [ 11%] [32mBuilding C object CMakeFiles/yaml.dir/src/api.c.o[0m
+[10.832s] [ 22%] [32mBuilding C object CMakeFiles/yaml.dir/src/writer.c.o[0m
+[10.906s] [ 33%] [32mBuilding C object CMakeFiles/yaml.dir/src/scanner.c.o[0m
+[11.382s] [ 44%] [32mBuilding C object CMakeFiles/yaml.dir/src/reader.c.o[0m
+[11.479s] [ 55%] [32mBuilding C object CMakeFiles/yaml.dir/src/parser.c.o[0m
+[11.649s] [ 66%] [32mBuilding C object CMakeFiles/yaml.dir/src/loader.c.o[0m
+[11.769s] [ 77%] [32mBuilding C object CMakeFiles/yaml.dir/src/emitter.c.o[0m
+[12.142s] [ 88%] [32mBuilding C object CMakeFiles/yaml.dir/src/dumper.c.o[0m
+[12.256s] [100%] [32m[1mLinking C shared library libyaml.so[0m
+[12.327s] [100%] Built target yaml
+[12.388s] [ 87%] [34m[1mPerforming install step for 'libyaml-10c9078'[0m
+[12.479s] [100%] Built target yaml
+[12.511s] [36mInstall the project...[0m
+[12.526s] -- Install configuration: ""
+[12.527s] -- Installing: /opt/workspace/build/libyaml_vendor/libyaml_install/include/yaml.h
+[12.527s] -- Installing: /opt/workspace/build/libyaml_vendor/libyaml_install/include/config.h
+[12.527s] -- Installing: /opt/workspace/build/libyaml_vendor/libyaml_install/lib/libyaml.so
+[12.528s] -- Installing: /opt/workspace/build/libyaml_vendor/libyaml_install/cmake/yamlConfig.cmake
+[12.529s] -- Installing: /opt/workspace/build/libyaml_vendor/libyaml_install/cmake/yamlTargets.cmake
+[12.529s] -- Installing: /opt/workspace/build/libyaml_vendor/libyaml_install/cmake/yamlTargets-noconfig.cmake
+[12.530s] -- Installing: /opt/workspace/build/libyaml_vendor/libyaml_install/cmake/yamlConfigVersion.cmake
+[12.568s] [100%] [34m[1mCompleted 'libyaml-10c9078'[0m
+[12.638s] [100%] Built target libyaml-10c9078
+[12.849s] [100%] Built target libyaml-10c9078
+[12.878s] [36mInstall the project...[0m
+[12.904s] -- Install configuration: ""
+[12.905s] -- Installing: /opt/workspace/install/libyaml_vendor
+[12.905s] -- Installing: /opt/workspace/install/libyaml_vendor/lib
+[12.905s] -- Installing: /opt/workspace/install/libyaml_vendor/lib/libyaml.so
+[12.905s] -- Installing: /opt/workspace/install/libyaml_vendor/include
+[12.905s] -- Installing: /opt/workspace/install/libyaml_vendor/include/yaml.h
+[12.905s] -- Installing: /opt/workspace/install/libyaml_vendor/cmake
+[12.906s] -- Installing: /opt/workspace/install/libyaml_vendor/cmake/yamlConfig.cmake
+[12.906s] -- Installing: /opt/workspace/install/libyaml_vendor/cmake/yamlTargets-noconfig.cmake
+[12.906s] -- Installing: /opt/workspace/install/libyaml_vendor/cmake/yamlTargets.cmake
+[12.906s] -- Installing: /opt/workspace/install/libyaml_vendor/cmake/yamlConfigVersion.cmake
+[12.906s] -- Installing: /opt/workspace/install/libyaml_vendor/share/libyaml_vendor/environment/library_path.sh
+[12.907s] -- Installing: /opt/workspace/install/libyaml_vendor/share/libyaml_vendor/environment/library_path.dsv
+[12.907s] -- Installing: /opt/workspace/install/libyaml_vendor/share/ament_index/resource_index/package_run_dependencies/libyaml_vendor
+[12.922s] -- Installing: /opt/workspace/install/libyaml_vendor/share/ament_index/resource_index/parent_prefix_path/libyaml_vendor
+[12.923s] -- Installing: /opt/workspace/install/libyaml_vendor/share/libyaml_vendor/environment/ament_prefix_path.sh
+[12.923s] -- Installing: /opt/workspace/install/libyaml_vendor/share/libyaml_vendor/environment/ament_prefix_path.dsv
+[12.923s] -- Installing: /opt/workspace/install/libyaml_vendor/share/libyaml_vendor/environment/path.sh
+[12.923s] -- Installing: /opt/workspace/install/libyaml_vendor/share/libyaml_vendor/environment/path.dsv
+[12.923s] -- Installing: /opt/workspace/install/libyaml_vendor/share/libyaml_vendor/local_setup.bash
+[12.923s] -- Installing: /opt/workspace/install/libyaml_vendor/share/libyaml_vendor/local_setup.sh
+[12.924s] -- Installing: /opt/workspace/install/libyaml_vendor/share/libyaml_vendor/local_setup.zsh
+[12.925s] -- Installing: /opt/workspace/install/libyaml_vendor/share/libyaml_vendor/local_setup.dsv
+[12.925s] -- Installing: /opt/workspace/install/libyaml_vendor/share/libyaml_vendor/package.dsv
+[12.926s] -- Installing: /opt/workspace/install/libyaml_vendor/share/ament_index/resource_index/packages/libyaml_vendor
+[12.926s] -- Installing: /opt/workspace/install/libyaml_vendor/share/libyaml_vendor/cmake/ament_cmake_export_libraries-extras.cmake
+[12.926s] -- Installing: /opt/workspace/install/libyaml_vendor/share/libyaml_vendor/cmake/libyaml_vendorConfig.cmake
+[12.926s] -- Installing: /opt/workspace/install/libyaml_vendor/share/libyaml_vendor/cmake/libyaml_vendorConfig-version.cmake
+[12.926s] -- Installing: /opt/workspace/install/libyaml_vendor/share/libyaml_vendor/package.xml

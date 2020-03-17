@@ -1,0 +1,18 @@
+[1.533s] Invoking command in '/opt/workspace/src/ament/ament_package': PYTHONPATH=/opt/workspace/install/ament_package/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base /opt/workspace/build/ament_package build --build-base /opt/workspace/build/ament_package/build install --prefix /opt/workspace/install/ament_package --record /opt/workspace/build/ament_package/install.log --single-version-externally-managed
+[2.255s] running egg_info
+[2.256s] writing /opt/workspace/build/ament_package/ament_package.egg-info/PKG-INFO
+[2.257s] writing dependency_links to /opt/workspace/build/ament_package/ament_package.egg-info/dependency_links.txt
+[2.257s] writing top-level names to /opt/workspace/build/ament_package/ament_package.egg-info/top_level.txt
+[2.258s] reading manifest file '/opt/workspace/build/ament_package/ament_package.egg-info/SOURCES.txt'
+[2.258s] writing manifest file '/opt/workspace/build/ament_package/ament_package.egg-info/SOURCES.txt'
+[2.259s] running build
+[2.259s] running build_py
+[2.260s] running install
+[2.261s] running install_lib
+[2.261s] running install_data
+[2.262s] running install_egg_info
+[2.264s] removing '/opt/workspace/install/ament_package/lib/python3.6/site-packages/ament_package-0.8.8-py3.6.egg-info' (and everything under it)
+[2.265s] Copying /opt/workspace/build/ament_package/ament_package.egg-info to /opt/workspace/install/ament_package/lib/python3.6/site-packages/ament_package-0.8.8-py3.6.egg-info
+[2.265s] running install_scripts
+[2.265s] writing list of installed files to '/opt/workspace/build/ament_package/install.log'
+[2.310s] Invoked command in '/opt/workspace/src/ament/ament_package' returned '0': PYTHONPATH=/opt/workspace/install/ament_package/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base /opt/workspace/build/ament_package build --build-base /opt/workspace/build/ament_package/build install --prefix /opt/workspace/install/ament_package --record /opt/workspace/build/ament_package/install.log --single-version-externally-managed

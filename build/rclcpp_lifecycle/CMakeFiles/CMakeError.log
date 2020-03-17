@@ -1,0 +1,55 @@
+Determining if the pthread_create exist failed with the following output:
+Change Dir: /opt/workspace/build/rclcpp_lifecycle/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_3dd4d/fast"
+/usr/bin/make -f CMakeFiles/cmTC_3dd4d.dir/build.make CMakeFiles/cmTC_3dd4d.dir/build
+make[1]: Entering directory '/opt/workspace/build/rclcpp_lifecycle/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_3dd4d.dir/CheckSymbolExists.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_3dd4d.dir/CheckSymbolExists.c.o   -c /opt/workspace/build/rclcpp_lifecycle/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_3dd4d
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_3dd4d.dir/link.txt --verbose=1
+/usr/bin/cc      CMakeFiles/cmTC_3dd4d.dir/CheckSymbolExists.c.o  -o cmTC_3dd4d 
+CMakeFiles/cmTC_3dd4d.dir/CheckSymbolExists.c.o: In function `main':
+CheckSymbolExists.c:(.text+0x1b): undefined reference to `pthread_create'
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_3dd4d.dir/build.make:97: recipe for target 'cmTC_3dd4d' failed
+make[1]: *** [cmTC_3dd4d] Error 1
+make[1]: Leaving directory '/opt/workspace/build/rclcpp_lifecycle/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_3dd4d/fast' failed
+make: *** [cmTC_3dd4d/fast] Error 2
+
+File /opt/workspace/build/rclcpp_lifecycle/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the function pthread_create exists in the pthreads failed with the following output:
+Change Dir: /opt/workspace/build/rclcpp_lifecycle/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_c2048/fast"
+/usr/bin/make -f CMakeFiles/cmTC_c2048.dir/build.make CMakeFiles/cmTC_c2048.dir/build
+make[1]: Entering directory '/opt/workspace/build/rclcpp_lifecycle/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_c2048.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_c2048.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.10/Modules/CheckFunctionExists.c
+Linking C executable cmTC_c2048
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_c2048.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=pthread_create    CMakeFiles/cmTC_c2048.dir/CheckFunctionExists.c.o  -o cmTC_c2048 -lpthreads 
+/usr/bin/ld: cannot find -lpthreads
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_c2048.dir/build.make:97: recipe for target 'cmTC_c2048' failed
+make[1]: *** [cmTC_c2048] Error 1
+make[1]: Leaving directory '/opt/workspace/build/rclcpp_lifecycle/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_c2048/fast' failed
+make: *** [cmTC_c2048/fast] Error 2
+
+

@@ -1,0 +1,11 @@
+[1.185s] [100%] Built target tinydir-1.2.4
+[2.442s] [100%] Built target tinydir-1.2.4
+[2.484s] [36mInstall the project...[0m
+[2.485s] -- Install configuration: ""
+[2.487s] -- Up-to-date: /opt/workspace/install/tinydir_vendor
+[2.492s] -- Up-to-date: /opt/workspace/install/tinydir_vendor/include
+[2.492s] -- Up-to-date: /opt/workspace/install/tinydir_vendor/include/tinydir
+[2.492s] -- Up-to-date: /opt/workspace/install/tinydir_vendor/include/tinydir/tinydir.h
+[2.497s] -- Up-to-date: /opt/workspace/install/tinydir_vendor/share/tinydir_vendor/package.xml
+[2.498s] -- Up-to-date: /opt/workspace/install/tinydir_vendor/share/tinydir_vendor/cmake/tinydir_vendorConfig.cmake
+[2.498s] -- Up-to-date: /opt/workspace/install/tinydir_vendor/share/tinydir_vendor/cmake/tinydir_vendorConfig-version.cmake

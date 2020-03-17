@@ -1,0 +1,13 @@
+# Target labels
+ console_bridge-0.4.1
+# Source files and their labels
+/opt/workspace/build/console_bridge_vendor/CMakeFiles/console_bridge-0.4.1
+/opt/workspace/build/console_bridge_vendor/CMakeFiles/console_bridge-0.4.1.rule
+/opt/workspace/build/console_bridge_vendor/CMakeFiles/console_bridge-0.4.1-complete.rule
+/opt/workspace/build/console_bridge_vendor/console_bridge-0.4.1-prefix/src/console_bridge-0.4.1-stamp/console_bridge-0.4.1-install.rule
+/opt/workspace/build/console_bridge_vendor/console_bridge-0.4.1-prefix/src/console_bridge-0.4.1-stamp/console_bridge-0.4.1-mkdir.rule
+/opt/workspace/build/console_bridge_vendor/console_bridge-0.4.1-prefix/src/console_bridge-0.4.1-stamp/console_bridge-0.4.1-download.rule
+/opt/workspace/build/console_bridge_vendor/console_bridge-0.4.1-prefix/src/console_bridge-0.4.1-stamp/console_bridge-0.4.1-update.rule
+/opt/workspace/build/console_bridge_vendor/console_bridge-0.4.1-prefix/src/console_bridge-0.4.1-stamp/console_bridge-0.4.1-patch.rule
+/opt/workspace/build/console_bridge_vendor/console_bridge-0.4.1-prefix/src/console_bridge-0.4.1-stamp/console_bridge-0.4.1-configure.rule
+/opt/workspace/build/console_bridge_vendor/console_bridge-0.4.1-prefix/src/console_bridge-0.4.1-stamp/console_bridge-0.4.1-build.rule

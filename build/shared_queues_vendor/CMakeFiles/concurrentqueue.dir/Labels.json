@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/opt/workspace/build/shared_queues_vendor/CMakeFiles/concurrentqueue"
+		},
+		{
+			"file" : "/opt/workspace/build/shared_queues_vendor/CMakeFiles/concurrentqueue.rule"
+		},
+		{
+			"file" : "/opt/workspace/build/shared_queues_vendor/CMakeFiles/concurrentqueue-complete.rule"
+		},
+		{
+			"file" : "/opt/workspace/build/shared_queues_vendor/concurrentqueue-prefix/src/concurrentqueue-stamp/concurrentqueue-install.rule"
+		},
+		{
+			"file" : "/opt/workspace/build/shared_queues_vendor/concurrentqueue-prefix/src/concurrentqueue-stamp/concurrentqueue-mkdir.rule"
+		},
+		{
+			"file" : "/opt/workspace/build/shared_queues_vendor/concurrentqueue-prefix/src/concurrentqueue-stamp/concurrentqueue-download.rule"
+		},
+		{
+			"file" : "/opt/workspace/build/shared_queues_vendor/concurrentqueue-prefix/src/concurrentqueue-stamp/concurrentqueue-update.rule"
+		},
+		{
+			"file" : "/opt/workspace/build/shared_queues_vendor/concurrentqueue-prefix/src/concurrentqueue-stamp/concurrentqueue-patch.rule"
+		},
+		{
+			"file" : "/opt/workspace/build/shared_queues_vendor/concurrentqueue-prefix/src/concurrentqueue-stamp/concurrentqueue-configure.rule"
+		},
+		{
+			"file" : "/opt/workspace/build/shared_queues_vendor/concurrentqueue-prefix/src/concurrentqueue-stamp/concurrentqueue-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"concurrentqueue"
+		],
+		"name" : "concurrentqueue"
+	}
+}

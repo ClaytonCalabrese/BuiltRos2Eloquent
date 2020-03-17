@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/opt/workspace/build/shared_queues_vendor/CMakeFiles/singleproducerconsumer"
+		},
+		{
+			"file" : "/opt/workspace/build/shared_queues_vendor/CMakeFiles/singleproducerconsumer.rule"
+		},
+		{
+			"file" : "/opt/workspace/build/shared_queues_vendor/CMakeFiles/singleproducerconsumer-complete.rule"
+		},
+		{
+			"file" : "/opt/workspace/build/shared_queues_vendor/singleproducerconsumer-prefix/src/singleproducerconsumer-stamp/singleproducerconsumer-install.rule"
+		},
+		{
+			"file" : "/opt/workspace/build/shared_queues_vendor/singleproducerconsumer-prefix/src/singleproducerconsumer-stamp/singleproducerconsumer-mkdir.rule"
+		},
+		{
+			"file" : "/opt/workspace/build/shared_queues_vendor/singleproducerconsumer-prefix/src/singleproducerconsumer-stamp/singleproducerconsumer-download.rule"
+		},
+		{
+			"file" : "/opt/workspace/build/shared_queues_vendor/singleproducerconsumer-prefix/src/singleproducerconsumer-stamp/singleproducerconsumer-update.rule"
+		},
+		{
+			"file" : "/opt/workspace/build/shared_queues_vendor/singleproducerconsumer-prefix/src/singleproducerconsumer-stamp/singleproducerconsumer-patch.rule"
+		},
+		{
+			"file" : "/opt/workspace/build/shared_queues_vendor/singleproducerconsumer-prefix/src/singleproducerconsumer-stamp/singleproducerconsumer-configure.rule"
+		},
+		{
+			"file" : "/opt/workspace/build/shared_queues_vendor/singleproducerconsumer-prefix/src/singleproducerconsumer-stamp/singleproducerconsumer-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"singleproducerconsumer"
+		],
+		"name" : "singleproducerconsumer"
+	}
+}

@@ -1,0 +1,10 @@
+/opt/workspace/build/libcurl_vendor/CMakeFiles/install/strip.dir
+/opt/workspace/build/libcurl_vendor/CMakeFiles/install.dir
+/opt/workspace/build/libcurl_vendor/CMakeFiles/list_install_components.dir
+/opt/workspace/build/libcurl_vendor/CMakeFiles/libcurl_vendor_uninstall.dir
+/opt/workspace/build/libcurl_vendor/CMakeFiles/install/local.dir
+/opt/workspace/build/libcurl_vendor/CMakeFiles/test.dir
+/opt/workspace/build/libcurl_vendor/CMakeFiles/uninstall.dir
+/opt/workspace/build/libcurl_vendor/CMakeFiles/curl-7.57.0.dir
+/opt/workspace/build/libcurl_vendor/CMakeFiles/edit_cache.dir
+/opt/workspace/build/libcurl_vendor/CMakeFiles/rebuild_cache.dir

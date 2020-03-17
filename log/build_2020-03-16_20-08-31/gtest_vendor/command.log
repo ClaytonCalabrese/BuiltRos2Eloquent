@@ -1,0 +1,4 @@
+[1.104s] Invoking command in '/opt/workspace/build/gtest_vendor': CMAKE_PREFIX_PATH=/opt/ros/eloquent /usr/bin/cmake --build /opt/workspace/build/gtest_vendor -- -j8 -l8
+[2.225s] Invoked command in '/opt/workspace/build/gtest_vendor' returned '0': CMAKE_PREFIX_PATH=/opt/ros/eloquent /usr/bin/cmake --build /opt/workspace/build/gtest_vendor -- -j8 -l8
+[2.361s] Invoking command in '/opt/workspace/build/gtest_vendor': CMAKE_PREFIX_PATH=/opt/ros/eloquent /usr/bin/cmake --build /opt/workspace/build/gtest_vendor --target install -- -j8 -l8
+[2.906s] Invoked command in '/opt/workspace/build/gtest_vendor' returned '0': CMAKE_PREFIX_PATH=/opt/ros/eloquent /usr/bin/cmake --build /opt/workspace/build/gtest_vendor --target install -- -j8 -l8

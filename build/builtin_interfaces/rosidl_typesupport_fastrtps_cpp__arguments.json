@@ -1,0 +1,21 @@
+{
+  "package_name": "builtin_interfaces",
+  "output_dir": "/opt/workspace/build/builtin_interfaces/rosidl_typesupport_fastrtps_cpp/builtin_interfaces",
+  "template_dir": "/opt/workspace/install/rosidl_typesupport_fastrtps_cpp/share/rosidl_typesupport_fastrtps_cpp/resource",
+  "idl_tuples": [
+    "/opt/workspace/build/builtin_interfaces/rosidl_adapter/builtin_interfaces:msg/Duration.idl",
+    "/opt/workspace/build/builtin_interfaces/rosidl_adapter/builtin_interfaces:msg/Time.idl"
+  ],
+  "target_dependencies": [
+    "/opt/workspace/install/rosidl_typesupport_fastrtps_cpp/lib/rosidl_typesupport_fastrtps_cpp/rosidl_typesupport_fastrtps_cpp",
+    "/opt/workspace/install/rosidl_typesupport_fastrtps_cpp/lib/python3.6/site-packages/rosidl_typesupport_fastrtps_cpp/__init__.py",
+    "/opt/workspace/install/rosidl_typesupport_fastrtps_cpp/share/rosidl_typesupport_fastrtps_cpp/resource/idl__rosidl_typesupport_fastrtps_cpp.hpp.em",
+    "/opt/workspace/install/rosidl_typesupport_fastrtps_cpp/share/rosidl_typesupport_fastrtps_cpp/resource/idl__type_support.cpp.em",
+    "/opt/workspace/install/rosidl_typesupport_fastrtps_cpp/share/rosidl_typesupport_fastrtps_cpp/resource/msg__rosidl_typesupport_fastrtps_cpp.hpp.em",
+    "/opt/workspace/install/rosidl_typesupport_fastrtps_cpp/share/rosidl_typesupport_fastrtps_cpp/resource/msg__type_support.cpp.em",
+    "/opt/workspace/install/rosidl_typesupport_fastrtps_cpp/share/rosidl_typesupport_fastrtps_cpp/resource/srv__rosidl_typesupport_fastrtps_cpp.hpp.em",
+    "/opt/workspace/install/rosidl_typesupport_fastrtps_cpp/share/rosidl_typesupport_fastrtps_cpp/resource/srv__type_support.cpp.em",
+    "/opt/workspace/build/builtin_interfaces/rosidl_adapter/builtin_interfaces/msg/Duration.idl",
+    "/opt/workspace/build/builtin_interfaces/rosidl_adapter/builtin_interfaces/msg/Time.idl"
+  ]
+}

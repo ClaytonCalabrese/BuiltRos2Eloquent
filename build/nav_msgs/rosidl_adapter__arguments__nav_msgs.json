@@ -1,0 +1,13 @@
+{
+  "package_name": "nav_msgs",
+  "non_idl_tuples": [
+    "/opt/workspace/src/ros2/common_interfaces/nav_msgs:msg/GridCells.msg",
+    "/opt/workspace/src/ros2/common_interfaces/nav_msgs:msg/MapMetaData.msg",
+    "/opt/workspace/src/ros2/common_interfaces/nav_msgs:msg/OccupancyGrid.msg",
+    "/opt/workspace/src/ros2/common_interfaces/nav_msgs:msg/Odometry.msg",
+    "/opt/workspace/src/ros2/common_interfaces/nav_msgs:msg/Path.msg",
+    "/opt/workspace/src/ros2/common_interfaces/nav_msgs:srv/GetMap.srv",
+    "/opt/workspace/src/ros2/common_interfaces/nav_msgs:srv/GetPlan.srv",
+    "/opt/workspace/src/ros2/common_interfaces/nav_msgs:srv/SetMap.srv"
+  ]
+}

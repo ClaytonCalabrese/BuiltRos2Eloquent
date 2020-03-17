@@ -1,0 +1,21 @@
+[1.628s] Invoking command in '/opt/workspace/src/micro-ROS/ros_tracing/ros2_tracing/tracetools_trace': AMENT_PREFIX_PATH=/opt/workspace/install/ament_xmllint:/opt/workspace/install/ament_copyright:/opt/workspace/install/ament_pep257:/opt/workspace/install/ament_flake8:/opt/workspace/install/ament_lint:${AMENT_PREFIX_PATH} PATH=/opt/workspace/install/ament_xmllint/bin:/opt/workspace/install/ament_copyright/bin:/opt/workspace/install/ament_pep257/bin:/opt/workspace/install/ament_flake8/bin:${PATH} PYTHONPATH=/opt/workspace/install/tracetools_trace/lib/python3.6/site-packages:/opt/workspace/install/ament_xmllint/lib/python3.6/site-packages:/opt/workspace/install/ament_copyright/lib/python3.6/site-packages:/opt/workspace/install/ament_pep257/lib/python3.6/site-packages:/opt/workspace/install/ament_flake8/lib/python3.6/site-packages:/opt/workspace/install/ament_lint/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base /opt/workspace/build/tracetools_trace build --build-base /opt/workspace/build/tracetools_trace/build install --prefix /opt/workspace/install/tracetools_trace --record /opt/workspace/build/tracetools_trace/install.log --single-version-externally-managed
+[2.049s] running egg_info
+[2.050s] writing /opt/workspace/build/tracetools_trace/tracetools_trace.egg-info/PKG-INFO
+[2.051s] writing dependency_links to /opt/workspace/build/tracetools_trace/tracetools_trace.egg-info/dependency_links.txt
+[2.051s] writing entry points to /opt/workspace/build/tracetools_trace/tracetools_trace.egg-info/entry_points.txt
+[2.051s] writing requirements to /opt/workspace/build/tracetools_trace/tracetools_trace.egg-info/requires.txt
+[2.052s] writing top-level names to /opt/workspace/build/tracetools_trace/tracetools_trace.egg-info/top_level.txt
+[2.162s] reading manifest file '/opt/workspace/build/tracetools_trace/tracetools_trace.egg-info/SOURCES.txt'
+[2.163s] writing manifest file '/opt/workspace/build/tracetools_trace/tracetools_trace.egg-info/SOURCES.txt'
+[2.164s] running build
+[2.164s] running build_py
+[2.166s] running install
+[2.167s] running install_lib
+[2.171s] running install_data
+[2.171s] running install_egg_info
+[2.178s] removing '/opt/workspace/install/tracetools_trace/lib/python3.6/site-packages/tracetools_trace-0.2.10-py3.6.egg-info' (and everything under it)
+[2.182s] Copying /opt/workspace/build/tracetools_trace/tracetools_trace.egg-info to /opt/workspace/install/tracetools_trace/lib/python3.6/site-packages/tracetools_trace-0.2.10-py3.6.egg-info
+[2.182s] running install_scripts
+[2.221s] Installing trace script to /opt/workspace/install/tracetools_trace/lib/tracetools_trace
+[2.225s] writing list of installed files to '/opt/workspace/build/tracetools_trace/install.log'
+[2.778s] Invoked command in '/opt/workspace/src/micro-ROS/ros_tracing/ros2_tracing/tracetools_trace' returned '0': AMENT_PREFIX_PATH=/opt/workspace/install/ament_xmllint:/opt/workspace/install/ament_copyright:/opt/workspace/install/ament_pep257:/opt/workspace/install/ament_flake8:/opt/workspace/install/ament_lint:${AMENT_PREFIX_PATH} PATH=/opt/workspace/install/ament_xmllint/bin:/opt/workspace/install/ament_copyright/bin:/opt/workspace/install/ament_pep257/bin:/opt/workspace/install/ament_flake8/bin:${PATH} PYTHONPATH=/opt/workspace/install/tracetools_trace/lib/python3.6/site-packages:/opt/workspace/install/ament_xmllint/lib/python3.6/site-packages:/opt/workspace/install/ament_copyright/lib/python3.6/site-packages:/opt/workspace/install/ament_pep257/lib/python3.6/site-packages:/opt/workspace/install/ament_flake8/lib/python3.6/site-packages:/opt/workspace/install/ament_lint/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base /opt/workspace/build/tracetools_trace build --build-base /opt/workspace/build/tracetools_trace/build install --prefix /opt/workspace/install/tracetools_trace --record /opt/workspace/build/tracetools_trace/install.log --single-version-externally-managed

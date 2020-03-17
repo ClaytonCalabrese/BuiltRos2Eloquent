@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcomponent_manager.a  CMakeFiles/component_manager.dir/src/component_manager.cpp.o
+/usr/bin/ranlib libcomponent_manager.a

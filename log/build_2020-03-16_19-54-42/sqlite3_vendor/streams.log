@@ -1,0 +1,33 @@
+[0.029s] Invoking command in '/opt/workspace/build/sqlite3_vendor': CMAKE_PREFIX_PATH=/opt/ros/eloquent /usr/bin/cmake /opt/workspace/src/ros2/rosbag2/sqlite3_vendor -DCMAKE_INSTALL_PREFIX=/opt/workspace/install/sqlite3_vendor
+[0.137s] -- The C compiler identification is GNU 7.4.0
+[0.239s] -- The CXX compiler identification is GNU 7.4.0
+[0.247s] -- Check for working C compiler: /usr/bin/cc
+[0.372s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.374s] -- Detecting C compiler ABI info
+[0.515s] -- Detecting C compiler ABI info - done
+[0.528s] -- Detecting C compile features
+[0.923s] -- Detecting C compile features - done
+[0.927s] -- Check for working CXX compiler: /usr/bin/c++
+[1.101s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[1.102s] -- Detecting CXX compiler ABI info
+[1.267s] -- Detecting CXX compiler ABI info - done
+[1.280s] -- Detecting CXX compile features
+[1.930s] -- Detecting CXX compile features - done
+[1.948s] -- Found SQLite3: /usr/lib/x86_64-linux-gnu/libsqlite3.so  
+[1.948s] -- Found SQLite3. Using SQLite3 from system.
+[1.950s] -- Configuring done
+[1.952s] -- Generating done
+[1.955s] -- Build files have been written to: /opt/workspace/build/sqlite3_vendor
+[1.958s] Invoked command in '/opt/workspace/build/sqlite3_vendor' returned '0': CMAKE_PREFIX_PATH=/opt/ros/eloquent /usr/bin/cmake /opt/workspace/src/ros2/rosbag2/sqlite3_vendor -DCMAKE_INSTALL_PREFIX=/opt/workspace/install/sqlite3_vendor
+[1.963s] Invoking command in '/opt/workspace/build/sqlite3_vendor': CMAKE_PREFIX_PATH=/opt/ros/eloquent /usr/bin/cmake --build /opt/workspace/build/sqlite3_vendor -- -j8 -l8
+[2.044s] Invoked command in '/opt/workspace/build/sqlite3_vendor' returned '0': CMAKE_PREFIX_PATH=/opt/ros/eloquent /usr/bin/cmake --build /opt/workspace/build/sqlite3_vendor -- -j8 -l8
+[2.089s] Invoking command in '/opt/workspace/build/sqlite3_vendor': CMAKE_PREFIX_PATH=/opt/ros/eloquent /usr/bin/cmake --build /opt/workspace/build/sqlite3_vendor --target install -- -j8 -l8
+[2.201s] [36mInstall the project...[0m
+[2.218s] -- Install configuration: ""
+[2.218s] -- Installing: /opt/workspace/install/sqlite3_vendor/share/sqlite3_vendor/cmake
+[2.219s] -- Installing: /opt/workspace/install/sqlite3_vendor/share/sqlite3_vendor/cmake/Modules
+[2.219s] -- Installing: /opt/workspace/install/sqlite3_vendor/share/sqlite3_vendor/cmake/Modules/FindSQLite3.cmake
+[2.223s] -- Installing: /opt/workspace/install/sqlite3_vendor/share/sqlite3_vendor/package.xml
+[2.224s] -- Installing: /opt/workspace/install/sqlite3_vendor/share/sqlite3_vendor/cmake/sqlite3_vendorConfig.cmake
+[2.224s] -- Installing: /opt/workspace/install/sqlite3_vendor/share/sqlite3_vendor/cmake/sqlite3_vendorConfig-version.cmake
+[2.232s] Invoked command in '/opt/workspace/build/sqlite3_vendor' returned '0': CMAKE_PREFIX_PATH=/opt/ros/eloquent /usr/bin/cmake --build /opt/workspace/build/sqlite3_vendor --target install -- -j8 -l8

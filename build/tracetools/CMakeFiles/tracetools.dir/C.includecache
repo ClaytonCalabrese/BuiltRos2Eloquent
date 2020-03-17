@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/opt/workspace/src/micro-ROS/ros_tracing/ros2_tracing/tracetools/include/tracetools/tp_call.h
+lttng/tracepoint.h
+-
+stdint.h
+-
+lttng/tracepoint-event.h
+-
+
+/opt/workspace/src/micro-ROS/ros_tracing/ros2_tracing/tracetools/include/tracetools/tracetools.h
+stdint.h
+-
+string.h
+-
+stdbool.h
+-
+tracetools/config.h
+/opt/workspace/src/micro-ROS/ros_tracing/ros2_tracing/tracetools/include/tracetools/tracetools/config.h
+tracetools/visibility_control.hpp
+/opt/workspace/src/micro-ROS/ros_tracing/ros2_tracing/tracetools/include/tracetools/tracetools/visibility_control.hpp
+
+/opt/workspace/src/micro-ROS/ros_tracing/ros2_tracing/tracetools/include/tracetools/visibility_control.hpp
+
+/opt/workspace/src/micro-ROS/ros_tracing/ros2_tracing/tracetools/src/tracetools.c
+tracetools/tracetools.h
+/opt/workspace/src/micro-ROS/ros_tracing/ros2_tracing/tracetools/src/tracetools/tracetools.h
+tracetools/tp_call.h
+/opt/workspace/src/micro-ROS/ros_tracing/ros2_tracing/tracetools/src/tracetools/tp_call.h
+
+include/tracetools/config.h
+

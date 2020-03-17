@@ -1,0 +1,340 @@
+[0.191s] -- The C compiler identification is GNU 7.4.0
+[0.307s] -- The CXX compiler identification is GNU 7.4.0
+[0.315s] -- Check for working C compiler: /usr/bin/cc
+[0.494s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.496s] -- Detecting C compiler ABI info
+[0.652s] -- Detecting C compiler ABI info - done
+[0.665s] -- Detecting C compile features
+[1.141s] -- Detecting C compile features - done
+[1.148s] -- Check for working CXX compiler: /usr/bin/c++
+[1.333s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[1.336s] -- Detecting CXX compiler ABI info
+[1.554s] -- Detecting CXX compiler ABI info - done
+[1.570s] -- Detecting CXX compile features
+[2.344s] -- Detecting CXX compile features - done
+[2.348s] -- Found ament_cmake: 0.8.2 (/opt/workspace/install/ament_cmake/share/ament_cmake/cmake)
+[2.396s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[2.399s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[2.995s] -- Configuring done
+[3.003s] -- Generating done
+[3.006s] -- Build files have been written to: /opt/workspace/build/rviz_assimp_vendor
+[3.115s] [35m[1mScanning dependencies of target assimp-4.1.0[0m
+[3.139s] [ 12%] [34m[1mCreating directories for 'assimp-4.1.0'[0m
+[3.275s] [ 25%] [34m[1mPerforming download step (download, verify and extract) for 'assimp-4.1.0'[0m
+[3.296s] -- Downloading...
+[3.296s]    dst='/opt/workspace/build/rviz_assimp_vendor/assimp-4.1.0-prefix/src/v4.1.0.tar.gz'
+[3.296s]    timeout='600 seconds'
+[3.297s] -- Using src='https://github.com/assimp/assimp/archive/v4.1.0.tar.gz'
+[3.560s] -- [download 100% complete]
+[12.380s] -- verifying file...
+[12.380s]        file='/opt/workspace/build/rviz_assimp_vendor/assimp-4.1.0-prefix/src/v4.1.0.tar.gz'
+[12.488s] -- Downloading... done
+[12.540s] -- extracting...
+[12.540s]      src='/opt/workspace/build/rviz_assimp_vendor/assimp-4.1.0-prefix/src/v4.1.0.tar.gz'
+[12.541s]      dst='/opt/workspace/build/rviz_assimp_vendor/assimp-4.1.0-prefix/src/assimp-4.1.0'
+[12.541s] -- extracting... [tar xfz]
+[13.226s] -- extracting... [analysis]
+[13.227s] -- extracting... [rename]
+[13.227s] -- extracting... [clean up]
+[13.227s] -- extracting... done
+[13.266s] [ 37%] [34m[1mNo patch step for 'assimp-4.1.0'[0m
+[13.311s] [ 50%] [34m[1mNo update step for 'assimp-4.1.0'[0m
+[13.370s] [ 62%] [34m[1mPerforming configure step for 'assimp-4.1.0'[0m
+[13.529s] -- The C compiler identification is GNU 7.4.0
+[13.662s] -- The CXX compiler identification is GNU 7.4.0
+[13.675s] -- Check for working C compiler: /usr/bin/cc
+[13.821s] -- Check for working C compiler: /usr/bin/cc -- works
+[13.823s] -- Detecting C compiler ABI info
+[13.997s] -- Detecting C compiler ABI info - done
+[14.029s] -- Detecting C compile features
+[14.528s] -- Detecting C compile features - done
+[14.537s] -- Check for working CXX compiler: /usr/bin/c++
+[14.692s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[14.694s] -- Detecting CXX compiler ABI info
+[14.877s] -- Detecting CXX compiler ABI info - done
+[14.908s] -- Detecting CXX compile features
+[15.743s] -- Detecting CXX compile features - done
+[15.745s] -- Shared libraries enabled
+[15.770s] -- Looking for ZLIB...
+[15.778s] -- Found PkgConfig: /usr/bin/pkg-config (found version "0.29.1") 
+[15.781s] -- Checking for module 'zzip-zlib-config'
+[15.785s] --   No package 'zzip-zlib-config' found
+[15.803s] -- Found ZLIB: optimized;/usr/lib/x86_64-linux-gnu/libz.so;debug;/usr/lib/x86_64-linux-gnu/libz.so
+[15.811s] -- Checking for module 'minizip'
+[15.815s] --   No package 'minizip' found
+[15.836s] -- Found rt: /usr/lib/x86_64-linux-gnu/librt.so  
+[15.836s] -- Enabled formats: AMF 3DS AC ASE ASSBIN ASSXML B3D BVH COLLADA DXF CSM HMP IRRMESH IRR LWO LWS MD2 MD3 MD5 MDC MDL NFF NDO OFF OBJ OGRE OPENGEX PLY MS3D COB BLEND IFC XGL FBX Q3D Q3BSP RAW SIB SMD STL TERRAGEN 3D X X3D GLTF 3MF MMD
+[15.836s] -- Disabled formats:
+[15.847s] -- Configuring done
+[16.022s] -- Generating done
+[16.025s] -- Build files have been written to: /opt/workspace/build/rviz_assimp_vendor/assimp-4.1.0-prefix/src/assimp-4.1.0-build
+[16.070s] [ 75%] [34m[1mPerforming build step for 'assimp-4.1.0'[0m
+[16.146s] [35m[1mScanning dependencies of target IrrXML[0m
+[16.183s] [  0%] [32mBuilding CXX object contrib/irrXML/CMakeFiles/IrrXML.dir/irrXML.cpp.o[0m
+[17.491s] [  0%] [32m[1mLinking CXX static library libIrrXML.a[0m
+[17.557s] [  0%] Built target IrrXML
+[17.603s] [35m[1mScanning dependencies of target assimp[0m
+[18.348s] [  1%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/Assimp.cpp.o[0m
+[20.475s] [  1%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/CInterfaceIOWrapper.cpp.o[0m
+[21.189s] [  2%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/Importer.cpp.o[0m
+[24.233s] [  2%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/SGSpatialSort.cpp.o[0m
+[25.021s] [  3%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/VertexTriangleAdjacency.cpp.o[0m
+[25.657s] [  3%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/SpatialSort.cpp.o[0m
+[26.574s] [  4%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/SceneCombiner.cpp.o[0m
+[28.389s] [  4%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/ScenePreprocessor.cpp.o[0m
+[29.081s] [  5%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/SkeletonMeshBuilder.cpp.o[0m
+[29.964s] [  5%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/SplitByBoneCountProcess.cpp.o[0m
+[31.510s] [  6%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/ScaleProcess.cpp.o[0m
+[32.175s] [  6%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/StandardShapes.cpp.o[0m
+[32.850s] [  7%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/TargetAnimation.cpp.o[0m
+[33.615s] [  7%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/RemoveComments.cpp.o[0m
+[34.043s] [  8%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/Subdivision.cpp.o[0m
+[35.866s] [  8%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/scene.cpp.o[0m
+[36.414s] [  9%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/Bitmap.cpp.o[0m
+[36.924s] [  9%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/Version.cpp.o[0m
+[37.458s] [ 10%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/CreateAnimMesh.cpp.o[0m
+[37.965s] [ 10%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/DefaultLogger.cpp.o[0m
+[38.946s] [ 11%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/Exporter.cpp.o[0m
+[41.368s] [ 11%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/AssimpCExport.cpp.o[0m
+[42.314s] [ 12%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/CalcTangentsProcess.cpp.o[0m
+[43.536s] [ 12%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/ComputeUVMappingProcess.cpp.o[0m
+[44.686s] [ 13%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/ConvertToLHProcess.cpp.o[0m
+[45.496s] [ 13%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/FindDegenerates.cpp.o[0m
+[46.562s] [ 14%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/FindInstancesProcess.cpp.o[0m
+[47.790s] [ 14%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/FindInvalidDataProcess.cpp.o[0m
+[48.971s] [ 15%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/FixNormalsStep.cpp.o[0m
+[49.920s] [ 15%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/GenFaceNormalsProcess.cpp.o[0m
+[50.697s] [ 16%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/GenVertexNormalsProcess.cpp.o[0m
+[51.879s] [ 16%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/PretransformVertices.cpp.o[0m
+[53.343s] [ 17%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/ImproveCacheLocality.cpp.o[0m
+[54.194s] [ 17%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/JoinVerticesProcess.cpp.o[0m
+[55.325s] [ 18%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/LimitBoneWeightsProcess.cpp.o[0m
+[56.333s] [ 18%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/RemoveRedundantMaterials.cpp.o[0m
+[57.096s] [ 19%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/RemoveVCProcess.cpp.o[0m
+[57.723s] [ 19%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/SortByPTypeProcess.cpp.o[0m
+[58.699s] [ 20%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/SplitLargeMeshes.cpp.o[0m
+[59.770s] [ 20%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/TextureTransform.cpp.o[0m
+[60.649s] [ 21%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/TriangulateProcess.cpp.o[0m
+[61.718s] [ 21%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/ValidateDataStructure.cpp.o[0m
+[62.883s] [ 22%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/OptimizeGraph.cpp.o[0m
+[64.024s] [ 22%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/OptimizeMeshes.cpp.o[0m
+[64.906s] [ 22%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/DeboneProcess.cpp.o[0m
+[66.460s] [ 23%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/ProcessHelper.cpp.o[0m
+[67.729s] [ 23%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/MakeVerboseFormat.cpp.o[0m
+[68.449s] [ 24%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/MaterialSystem.cpp.o[0m
+[69.141s] [ 24%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/StepExporter.cpp.o[0m
+[70.895s] [ 25%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/AMFImporter.cpp.o[0m
+[72.200s] [ 25%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/AMFImporter_Geometry.cpp.o[0m
+[72.949s] [ 26%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/AMFImporter_Material.cpp.o[0m
+[73.653s] [ 26%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/AMFImporter_Postprocess.cpp.o[0m
+[75.171s] [ 27%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/3DSConverter.cpp.o[0m
+[76.704s] [ 27%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/3DSLoader.cpp.o[0m
+[79.229s] [ 28%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/3DSExporter.cpp.o[0m
+[81.015s] [ 28%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/ACLoader.cpp.o[0m
+[83.271s] [ 29%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/ASELoader.cpp.o[0m
+[85.603s] [ 29%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/ASEParser.cpp.o[0m
+[87.662s] [ 30%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/AssbinExporter.cpp.o[0m
+[88.601s] [ 30%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/AssbinLoader.cpp.o[0m
+[89.203s] [ 31%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/AssxmlExporter.cpp.o[0m
+[90.008s] [ 31%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/B3DImporter.cpp.o[0m
+[91.711s] [ 33%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/DefaultIOSystem.cpp.o[0m
+[91.711s] [ 33%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/BVHLoader.cpp.o[0m
+[92.302s] [ 33%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/ColladaLoader.cpp.o[0m
+[93.301s] [ 34%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/ColladaParser.cpp.o[0m
+[94.326s] [ 34%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/ColladaExporter.cpp.o[0m
+[95.391s] [ 34%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/DefaultIOStream.cpp.o[0m
+[96.102s] [ 35%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/ImporterRegistry.cpp.o[0m
+[100.812s] [ 35%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/IRRMeshLoader.cpp.o[0m
+[101.946s] [ 36%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/IRRShared.cpp.o[0m
+[102.570s] [ 36%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/IRRLoader.cpp.o[0m
+[104.548s] [ 37%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/LWOAnimation.cpp.o[0m
+[105.378s] [ 37%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/LWOBLoader.cpp.o[0m
+[106.204s] [ 38%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/LWOLoader.cpp.o[0m
+[108.805s] [ 38%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/LWOMaterial.cpp.o[0m
+[109.749s] [ 39%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/LWSLoader.cpp.o[0m
+[111.452s] [ 39%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/MD2Loader.cpp.o[0m
+[112.105s] [ 40%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/MD3Loader.cpp.o[0m
+[113.121s] [ 40%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/MD5Loader.cpp.o[0m
+[113.736s] [ 41%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/HMPLoader.cpp.o[0m
+[114.702s] [ 42%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/MD5Parser.cpp.o[0m
+[114.885s] [ 42%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/MDCLoader.cpp.o[0m
+[115.951s] [ 43%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/MDLLoader.cpp.o[0m
+[116.330s] [ 43%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/CSMLoader.cpp.o[0m
+[118.562s] [ 43%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/NDOLoader.cpp.o[0m
+[119.741s] [ 44%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/OFFLoader.cpp.o[0m
+[120.579s] [ 44%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/ObjFileImporter.cpp.o[0m
+[121.650s] [ 45%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/ObjFileMtlImporter.cpp.o[0m
+[122.511s] [ 45%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/ObjFileParser.cpp.o[0m
+[122.511s] [ 46%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/NFFLoader.cpp.o[0m
+[123.528s] [ 47%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/ObjExporter.cpp.o[0m
+[124.014s] [ 47%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/MDLMaterialLoader.cpp.o[0m
+[124.185s] [ 47%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/OgreImporter.cpp.o[0m
+[124.909s] [ 48%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/OgreStructs.cpp.o[0m
+[125.560s] [ 48%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/OgreBinarySerializer.cpp.o[0m
+[125.752s] [ 48%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/OgreXmlSerializer.cpp.o[0m
+[126.804s] [ 49%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/OgreMaterial.cpp.o[0m
+[127.871s] [ 50%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/DXFLoader.cpp.o[0m
+[128.505s] [ 50%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/PostStepRegistry.cpp.o[0m
+[129.302s] [ 50%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/OpenGEXExporter.cpp.o[0m
+[129.416s] [ 51%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/OpenGEXImporter.cpp.o[0m
+[129.548s] [ 51%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/PlyLoader.cpp.o[0m
+[129.869s] [ 52%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/PlyParser.cpp.o[0m
+[130.747s] [ 52%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/PlyExporter.cpp.o[0m
+[132.757s] [ 53%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/BlenderScene.cpp.o[0m
+[136.768s] [ 53%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/BlenderModifier.cpp.o[0m
+[137.297s] [ 53%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/BlenderDNA.cpp.o[0m
+[138.128s] [ 54%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/BlenderBMesh.cpp.o[0m
+[138.656s] [ 54%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/BlenderTessellator.cpp.o[0m
+[139.673s] [ 55%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/IFCLoader.cpp.o[0m
+[139.784s] [ 56%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/BlenderLoader.cpp.o[0m
+[139.931s] [ 56%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/IFCReaderGen1.cpp.o[0m
+[140.981s] [ 57%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/IFCReaderGen2.cpp.o[0m
+[146.864s] [ 57%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/IFCMaterial.cpp.o[0m
+[147.882s] [ 58%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/IFCGeometry.cpp.o[0m
+[148.900s] [ 58%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/IFCUtil.cpp.o[0m
+[149.958s] [ 58%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/COBLoader.cpp.o[0m
+[151.016s] [ 59%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/MS3DLoader.cpp.o[0m
+[151.417s] [ 60%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/BaseProcess.cpp.o[0m
+[157.140s] [ 60%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/STEPFileEncoding.cpp.o[0m
+[157.816s] [ 61%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/STEPFileReader.cpp.o[0m
+[158.833s] [ 62%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/XGLLoader.cpp.o[0m
+[159.861s] [ 62%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/IFCOpenings.cpp.o[0m
+[160.696s] [ 63%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/IFCBoolean.cpp.o[0m
+[167.434s] [ 64%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/FBXConverter.cpp.o[0m
+[169.452s] [ 64%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/FBXTokenizer.cpp.o[0m
+[170.306s] [ 65%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/FBXParser.cpp.o[0m
+[171.981s] [ 65%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/FBXUtil.cpp.o[0m
+[172.577s] [ 66%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/FBXDocument.cpp.o[0m
+[172.592s] [ 66%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/FBXProperties.cpp.o[0m
+[173.608s] [ 67%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/FBXMeshGeometry.cpp.o[0m
+[174.232s] [ 67%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/FBXImporter.cpp.o[0m
+[174.282s] [ 67%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/FBXMaterial.cpp.o[0m
+[175.358s] [ 67%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/IFCCurve.cpp.o[0m
+[175.473s] [ 68%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/IFCProfile.cpp.o[0m
+[176.123s] [ 69%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/FBXModel.cpp.o[0m
+[176.569s] [ 69%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/FBXAnimation.cpp.o[0m
+[176.610s] [ 70%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/FBXNodeAttribute.cpp.o[0m
+[180.834s] [ 71%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/Q3BSPFileImporter.cpp.o[0m
+[181.935s] [ 71%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/Q3BSPZipArchive.cpp.o[0m
+[182.556s] [ 72%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/RawLoader.cpp.o[0m
+[183.629s] [ 72%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/SIBImporter.cpp.o[0m
+[185.282s] [ 73%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/SMDLoader.cpp.o[0m
+[186.686s] [ 73%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/STLLoader.cpp.o[0m
+[187.722s] [ 73%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/STLExporter.cpp.o[0m
+[188.451s] [ 74%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/TerragenLoader.cpp.o[0m
+[189.078s] [ 74%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/UnrealLoader.cpp.o[0m
+[190.277s] [ 75%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/XFileImporter.cpp.o[0m
+[191.662s] [ 75%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/XFileParser.cpp.o[0m
+[192.677s] [ 76%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/XFileExporter.cpp.o[0m
+[192.679s] [ 76%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/Q3BSPFileParser.cpp.o[0m
+[193.743s] [ 77%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/Q3DLoader.cpp.o[0m
+[193.790s] [ 77%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/FBXDocumentUtil.cpp.o[0m
+[194.120s] [ 77%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/X3DExporter.cpp.o[0m
+[194.332s] [ 78%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/FBXBinaryTokenizer.cpp.o[0m
+[194.343s] [ 79%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/X3DImporter.cpp.o[0m
+[195.370s] [ 79%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/X3DImporter_Geometry2D.cpp.o[0m
+[195.391s] [ 79%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/FBXDeformer.cpp.o[0m
+[195.804s] [ 80%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/X3DImporter_Geometry3D.cpp.o[0m
+[196.028s] [ 80%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/X3DImporter_Group.cpp.o[0m
+[199.681s] [ 80%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/X3DImporter_Shape.cpp.o[0m
+[200.388s] [ 81%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/X3DImporter_Texturing.cpp.o[0m
+[201.117s] [ 81%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/FIReader.cpp.o[0m
+[202.128s] [ 82%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/X3DVocabulary.cpp.o[0m
+[202.515s] [ 83%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/X3DImporter_Rendering.cpp.o[0m
+[203.531s] [ 83%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/glTFImporter.cpp.o[0m
+[203.754s] [ 83%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/X3DImporter_Postprocess.cpp.o[0m
+[204.677s] [ 84%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/glTFExporter.cpp.o[0m
+[205.628s] [ 84%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/glTF2Importer.cpp.o[0m
+[206.688s] [ 85%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/glTF2Exporter.cpp.o[0m
+[212.096s] [ 86%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/D3MFExporter.cpp.o[0m
+[212.655s] [ 86%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/D3MFOpcPackage.cpp.o[0m
+[213.042s] [ 87%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/MMDImporter.cpp.o[0m
+[213.753s] [ 87%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/MMDPmxParser.cpp.o[0m
+[214.770s] [ 88%] [32mBuilding C object code/CMakeFiles/assimp.dir/__/contrib/unzip/ioapi.c.o[0m
+[214.855s] [ 88%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/D3MFImporter.cpp.o[0m
+[215.266s] [ 88%] [32mBuilding C object code/CMakeFiles/assimp.dir/__/contrib/unzip/unzip.c.o[0m
+[215.444s] [ 89%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/__/contrib/poly2tri/poly2tri/common/shapes.cc.o[0m
+[216.018s] [ 89%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/__/contrib/poly2tri/poly2tri/sweep/advancing_front.cc.o[0m
+[216.041s] [ 90%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/__/contrib/poly2tri/poly2tri/sweep/cdt.cc.o[0m
+[216.508s] [ 90%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/__/contrib/poly2tri/poly2tri/sweep/sweep.cc.o[0m
+[216.686s] [ 91%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/__/contrib/poly2tri/poly2tri/sweep/sweep_context.cc.o[0m
+[217.688s] [ 91%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/__/contrib/openddlparser/code/DDLNode.cpp.o[0m
+[218.226s] [ 92%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/__/contrib/openddlparser/code/OpenDDLCommon.cpp.o[0m
+[218.518s] [ 92%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/__/contrib/openddlparser/code/OpenDDLExport.cpp.o[0m
+[218.963s] [ 93%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/__/contrib/openddlparser/code/Value.cpp.o[0m
+[219.330s] [ 93%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/__/contrib/openddlparser/code/OpenDDLStream.cpp.o[0m
+[219.571s] [ 94%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/__/contrib/Open3DGC/o3dgcArithmeticCodec.cpp.o[0m
+[219.729s] [ 94%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/__/contrib/Open3DGC/o3dgcDynamicVectorDecoder.cpp.o[0m
+[219.893s] [ 95%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/__/contrib/Open3DGC/o3dgcDynamicVectorEncoder.cpp.o[0m
+[220.052s] [ 95%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/__/contrib/Open3DGC/o3dgcTools.cpp.o[0m
+[220.077s] [ 96%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/__/contrib/Open3DGC/o3dgcTriangleFans.cpp.o[0m
+[220.258s] [ 96%] [32mBuilding C object code/CMakeFiles/assimp.dir/__/contrib/zip/src/zip.c.o[0m
+[220.676s] [ 97%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/__/contrib/openddlparser/code/OpenDDLParser.cpp.o[0m
+[221.533s] [ 97%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/__/contrib/clipper/clipper.cpp.o[0m
+[223.318s] [ 98%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/X3DImporter_Networking.cpp.o[0m
+[223.320s] [ 99%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/X3DImporter_Light.cpp.o[0m
+[223.322s] [ 99%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/X3DImporter_Metadata.cpp.o[0m
+[224.610s] [ 99%] [32mBuilding CXX object code/CMakeFiles/assimp.dir/BaseImporter.cpp.o[0m
+[227.819s] [100%] [32m[1mLinking CXX shared library libassimp.so[0m
+[236.251s] [100%] Built target assimp
+[236.283s] [ 87%] [34m[1mPerforming install step for 'assimp-4.1.0'[0m
+[236.339s] [  0%] Built target IrrXML
+[236.529s] [100%] Built target assimp
+[236.552s] [36mInstall the project...[0m
+[236.563s] -- Install configuration: ""
+[236.563s] -- Installing: /opt/workspace/build/rviz_assimp_vendor/assimp_install/lib/cmake/assimp-4.1/assimp-config.cmake
+[236.563s] -- Installing: /opt/workspace/build/rviz_assimp_vendor/assimp_install/lib/cmake/assimp-4.1/assimp-config-version.cmake
+[236.564s] -- Installing: /opt/workspace/build/rviz_assimp_vendor/assimp_install/lib/pkgconfig/assimp.pc
+[236.564s] -- Installing: /opt/workspace/build/rviz_assimp_vendor/assimp_install/lib/libIrrXML.a
+[236.565s] -- Installing: /opt/workspace/build/rviz_assimp_vendor/assimp_install/lib/libassimp.so.4.1.0
+[236.650s] -- Installing: /opt/workspace/build/rviz_assimp_vendor/assimp_install/lib/libassimp.so.4
+[236.651s] -- Installing: /opt/workspace/build/rviz_assimp_vendor/assimp_install/lib/libassimp.so
+[236.651s] -- Installing: /opt/workspace/build/rviz_assimp_vendor/assimp_install/include/assimp/anim.h
+[236.651s] -- Installing: /opt/workspace/build/rviz_assimp_vendor/assimp_install/include/assimp/ai_assert.h
+[236.651s] -- Installing: /opt/workspace/build/rviz_assimp_vendor/assimp_install/include/assimp/camera.h
+[236.651s] -- Installing: /opt/workspace/build/rviz_assimp_vendor/assimp_install/include/assimp/color4.h
+[236.652s] -- Installing: /opt/workspace/build/rviz_assimp_vendor/assimp_install/include/assimp/color4.inl
+[236.652s] -- Installing: /opt/workspace/build/rviz_assimp_vendor/assimp_install/include/assimp/config.h
+[236.652s] -- Installing: /opt/workspace/build/rviz_assimp_vendor/assimp_install/include/assimp/defs.h
+[236.652s] -- Installing: /opt/workspace/build/rviz_assimp_vendor/assimp_install/include/assimp/Defines.h
+[236.652s] -- Installing: /opt/workspace/build/rviz_assimp_vendor/assimp_install/include/assimp/cfileio.h
+[236.653s] -- Installing: /opt/workspace/build/rviz_assimp_vendor/assimp_install/include/assimp/light.h
+[236.653s] -- Installing: /opt/workspace/build/rviz_assimp_vendor/assimp_install/include/assimp/material.h
+[236.653s] -- Installing: /opt/workspace/build/rviz_assimp_vendor/assimp_install/include/assimp/material.inl
+[236.653s] -- Installing: /opt/workspace/build/rviz_assimp_vendor/assimp_install/include/assimp/matrix3x3.h
+[236.653s] -- Installing: /opt/workspace/build/rviz_assimp_vendor/assimp_install/include/assimp/matrix3x3.inl
+[236.654s] -- Installing: /opt/workspace/build/rviz_assimp_vendor/assimp_install/include/assimp/matrix4x4.h
+[236.654s] -- Installing: /opt/workspace/build/rviz_assimp_vendor/assimp_install/include/assimp/matrix4x4.inl
+[236.654s] -- Installing: /opt/workspace/build/rviz_assimp_vendor/assimp_install/include/assimp/mesh.h
+[236.654s] -- Installing: /opt/workspace/build/rviz_assimp_vendor/assimp_install/include/assimp/postprocess.h
+[236.654s] -- Installing: /opt/workspace/build/rviz_assimp_vendor/assimp_install/include/assimp/quaternion.h
+[236.655s] -- Installing: /opt/workspace/build/rviz_assimp_vendor/assimp_install/include/assimp/quaternion.inl
+[236.655s] -- Installing: /opt/workspace/build/rviz_assimp_vendor/assimp_install/include/assimp/scene.h
+[236.655s] -- Installing: /opt/workspace/build/rviz_assimp_vendor/assimp_install/include/assimp/metadata.h
+[236.655s] -- Installing: /opt/workspace/build/rviz_assimp_vendor/assimp_install/include/assimp/texture.h
+[236.655s] -- Installing: /opt/workspace/build/rviz_assimp_vendor/assimp_install/include/assimp/types.h
+[236.656s] -- Installing: /opt/workspace/build/rviz_assimp_vendor/assimp_install/include/assimp/vector2.h
+[236.656s] -- Installing: /opt/workspace/build/rviz_assimp_vendor/assimp_install/include/assimp/vector2.inl
+[236.656s] -- Installing: /opt/workspace/build/rviz_assimp_vendor/assimp_install/include/assimp/vector3.h
+[236.656s] -- Installing: /opt/workspace/build/rviz_assimp_vendor/assimp_install/include/assimp/vector3.inl
+[236.656s] -- Installing: /opt/workspace/build/rviz_assimp_vendor/assimp_install/include/assimp/version.h
+[236.656s] -- Installing: /opt/workspace/build/rviz_assimp_vendor/assimp_install/include/assimp/cimport.h
+[236.657s] -- Installing: /opt/workspace/build/rviz_assimp_vendor/assimp_install/include/assimp/importerdesc.h
+[236.657s] -- Installing: /opt/workspace/build/rviz_assimp_vendor/assimp_install/include/assimp/Importer.hpp
+[236.657s] -- Installing: /opt/workspace/build/rviz_assimp_vendor/assimp_install/include/assimp/DefaultLogger.hpp
+[236.657s] -- Installing: /opt/workspace/build/rviz_assimp_vendor/assimp_install/include/assimp/ProgressHandler.hpp
+[236.657s] -- Installing: /opt/workspace/build/rviz_assimp_vendor/assimp_install/include/assimp/IOStream.hpp
+[236.657s] -- Installing: /opt/workspace/build/rviz_assimp_vendor/assimp_install/include/assimp/IOSystem.hpp
+[236.658s] -- Installing: /opt/workspace/build/rviz_assimp_vendor/assimp_install/include/assimp/Logger.hpp
+[236.658s] -- Installing: /opt/workspace/build/rviz_assimp_vendor/assimp_install/include/assimp/LogStream.hpp
+[236.658s] -- Installing: /opt/workspace/build/rviz_assimp_vendor/assimp_install/include/assimp/NullLogger.hpp
+[236.658s] -- Installing: /opt/workspace/build/rviz_assimp_vendor/assimp_install/include/assimp/cexport.h
+[236.659s] -- Installing: /opt/workspace/build/rviz_assimp_vendor/assimp_install/include/assimp/Exporter.hpp
+[236.659s] -- Installing: /opt/workspace/build/rviz_assimp_vendor/assimp_install/include/assimp/DefaultIOStream.h
+[236.659s] -- Installing: /opt/workspace/build/rviz_assimp_vendor/assimp_install/include/assimp/DefaultIOSystem.h
+[236.659s] -- Installing: /opt/workspace/build/rviz_assimp_vendor/assimp_install/include/assimp/SceneCombiner.h
+[236.659s] -- Installing: /opt/workspace/build/rviz_assimp_vendor/assimp_install/include/assimp/Compiler/pushpack1.h
+[236.659s] -- Installing: /opt/workspace/build/rviz_assimp_vendor/assimp_install/include/assimp/Compiler/poppack1.h
+[236.660s] -- Installing: /opt/workspace/build/rviz_assimp_vendor/assimp_install/include/assimp/Compiler/pstdint.h
+[236.677s] [100%] [34m[1mCompleted 'assimp-4.1.0'[0m
+[236.718s] [100%] Built target assimp-4.1.0

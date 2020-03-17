@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/opt/workspace/src/ros2/tlsf/tlsf/include/tlsf/tlsf.h
+sys/types.h
+-
+
+/opt/workspace/src/ros2/tlsf/tlsf/src/target.h
+pthread.h
+-
+
+/opt/workspace/src/ros2/tlsf/tlsf/src/tlsf.c
+string.h
+-
+target.h
+/opt/workspace/src/ros2/tlsf/tlsf/src/target.h
+unistd.h
+-
+sys/mman.h
+-
+tlsf.h
+/opt/workspace/src/ros2/tlsf/tlsf/src/tlsf.h
+stdio.h
+-
+

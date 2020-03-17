@@ -1,0 +1,72 @@
+[0.460s] -- The C compiler identification is GNU 7.4.0
+[0.585s] -- The CXX compiler identification is GNU 7.4.0
+[0.597s] -- Check for working C compiler: /usr/bin/cc
+[0.765s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.767s] -- Detecting C compiler ABI info
+[0.929s] -- Detecting C compiler ABI info - done
+[0.943s] -- Detecting C compile features
+[1.442s] -- Detecting C compile features - done
+[1.448s] -- Check for working CXX compiler: /usr/bin/c++
+[1.628s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[1.630s] -- Detecting CXX compiler ABI info
+[1.815s] -- Detecting CXX compiler ABI info - done
+[1.828s] -- Detecting CXX compile features
+[2.623s] -- Detecting CXX compile features - done
+[2.635s] -- Found ament_cmake: 0.8.2 (/opt/workspace/install/ament_cmake/share/ament_cmake/cmake)
+[2.737s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[2.737s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[3.340s] -- Found rclcpp: 0.8.4 (/opt/workspace/install/rclcpp/share/rclcpp/cmake)
+[3.442s] -- Found rosidl_adapter: 0.8.2 (/opt/workspace/install/rosidl_adapter/share/rosidl_adapter/cmake)
+[3.547s] -- Found rmw_implementation_cmake: 0.8.1 (/opt/workspace/install/rmw_implementation_cmake/share/rmw_implementation_cmake/cmake)
+[3.547s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[3.548s] -- Looking for pthread.h
+[3.734s] -- Looking for pthread.h - found
+[3.736s] -- Looking for pthread_create
+[3.913s] -- Looking for pthread_create - not found
+[3.914s] -- Looking for pthread_create in pthreads
+[4.054s] -- Looking for pthread_create in pthreads - not found
+[4.054s] -- Looking for pthread_create in pthread
+[4.213s] -- Looking for pthread_create in pthread - found
+[4.216s] -- Found Threads: TRUE  
+[4.326s] -- Found std_msgs: 0.8.1 (/opt/workspace/install/std_msgs/share/std_msgs/cmake)
+[4.793s] -- Configuring done
+[4.864s] -- Generating done
+[4.868s] -- Build files have been written to: /opt/workspace/build/examples_rclcpp_minimal_publisher
+[5.002s] [35m[1mScanning dependencies of target publisher_member_function[0m
+[5.089s] [ 16%] [32mBuilding CXX object CMakeFiles/publisher_member_function.dir/member_function.cpp.o[0m
+[10.072s] [ 33%] [32m[1mLinking CXX executable publisher_member_function[0m
+[10.653s] [ 33%] Built target publisher_member_function
+[10.680s] [35m[1mScanning dependencies of target publisher_not_composable[0m
+[10.755s] [ 50%] [32mBuilding CXX object CMakeFiles/publisher_not_composable.dir/not_composable.cpp.o[0m
+[15.176s] [ 66%] [32m[1mLinking CXX executable publisher_not_composable[0m
+[15.750s] [ 66%] Built target publisher_not_composable
+[15.779s] [35m[1mScanning dependencies of target publisher_lambda[0m
+[15.866s] [ 83%] [32mBuilding CXX object CMakeFiles/publisher_lambda.dir/lambda.cpp.o[0m
+[20.692s] [100%] [32m[1mLinking CXX executable publisher_lambda[0m
+[21.258s] [100%] Built target publisher_lambda
+[21.517s] [ 33%] Built target publisher_member_function
+[21.586s] [ 66%] Built target publisher_not_composable
+[21.656s] [100%] Built target publisher_lambda
+[21.705s] [36mInstall the project...[0m
+[21.728s] -- Install configuration: ""
+[21.729s] -- Installing: /opt/workspace/install/examples_rclcpp_minimal_publisher/lib/examples_rclcpp_minimal_publisher/publisher_lambda
+[21.730s] -- Set runtime path of "/opt/workspace/install/examples_rclcpp_minimal_publisher/lib/examples_rclcpp_minimal_publisher/publisher_lambda" to ""
+[21.731s] -- Installing: /opt/workspace/install/examples_rclcpp_minimal_publisher/lib/examples_rclcpp_minimal_publisher/publisher_member_function
+[21.733s] -- Set runtime path of "/opt/workspace/install/examples_rclcpp_minimal_publisher/lib/examples_rclcpp_minimal_publisher/publisher_member_function" to ""
+[21.733s] -- Installing: /opt/workspace/install/examples_rclcpp_minimal_publisher/lib/examples_rclcpp_minimal_publisher/publisher_not_composable
+[21.735s] -- Set runtime path of "/opt/workspace/install/examples_rclcpp_minimal_publisher/lib/examples_rclcpp_minimal_publisher/publisher_not_composable" to ""
+[21.735s] -- Installing: /opt/workspace/install/examples_rclcpp_minimal_publisher/share/ament_index/resource_index/package_run_dependencies/examples_rclcpp_minimal_publisher
+[21.736s] -- Installing: /opt/workspace/install/examples_rclcpp_minimal_publisher/share/ament_index/resource_index/parent_prefix_path/examples_rclcpp_minimal_publisher
+[21.736s] -- Installing: /opt/workspace/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/environment/ament_prefix_path.sh
+[21.737s] -- Installing: /opt/workspace/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/environment/ament_prefix_path.dsv
+[21.737s] -- Installing: /opt/workspace/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/environment/path.sh
+[21.737s] -- Installing: /opt/workspace/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/environment/path.dsv
+[21.737s] -- Installing: /opt/workspace/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/local_setup.bash
+[21.738s] -- Installing: /opt/workspace/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/local_setup.sh
+[21.738s] -- Installing: /opt/workspace/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/local_setup.zsh
+[21.738s] -- Installing: /opt/workspace/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/local_setup.dsv
+[21.739s] -- Installing: /opt/workspace/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/package.dsv
+[21.740s] -- Installing: /opt/workspace/install/examples_rclcpp_minimal_publisher/share/ament_index/resource_index/packages/examples_rclcpp_minimal_publisher
+[21.740s] -- Installing: /opt/workspace/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/cmake/examples_rclcpp_minimal_publisherConfig.cmake
+[21.740s] -- Installing: /opt/workspace/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/cmake/examples_rclcpp_minimal_publisherConfig-version.cmake
+[21.741s] -- Installing: /opt/workspace/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/package.xml

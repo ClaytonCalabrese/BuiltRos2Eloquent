@@ -1,0 +1,37 @@
+[2.488s] Invoking command in '/opt/workspace/src/ament/ament_lint/ament_cppcheck': PYTHONPATH=/opt/workspace/install/ament_cppcheck/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base /opt/workspace/build/ament_cppcheck build --build-base /opt/workspace/build/ament_cppcheck/build install --prefix /opt/workspace/install/ament_cppcheck --record /opt/workspace/build/ament_cppcheck/install.log --single-version-externally-managed
+[2.858s] running egg_info
+[2.858s] creating /opt/workspace/build/ament_cppcheck/ament_cppcheck.egg-info
+[2.859s] writing /opt/workspace/build/ament_cppcheck/ament_cppcheck.egg-info/PKG-INFO
+[2.859s] writing dependency_links to /opt/workspace/build/ament_cppcheck/ament_cppcheck.egg-info/dependency_links.txt
+[2.859s] writing entry points to /opt/workspace/build/ament_cppcheck/ament_cppcheck.egg-info/entry_points.txt
+[2.859s] writing requirements to /opt/workspace/build/ament_cppcheck/ament_cppcheck.egg-info/requires.txt
+[2.860s] writing top-level names to /opt/workspace/build/ament_cppcheck/ament_cppcheck.egg-info/top_level.txt
+[2.860s] writing manifest file '/opt/workspace/build/ament_cppcheck/ament_cppcheck.egg-info/SOURCES.txt'
+[2.920s] reading manifest file '/opt/workspace/build/ament_cppcheck/ament_cppcheck.egg-info/SOURCES.txt'
+[2.922s] writing manifest file '/opt/workspace/build/ament_cppcheck/ament_cppcheck.egg-info/SOURCES.txt'
+[2.922s] running build
+[2.923s] running build_py
+[2.923s] creating /opt/workspace/build/ament_cppcheck/build
+[2.923s] creating /opt/workspace/build/ament_cppcheck/build/lib
+[2.923s] creating /opt/workspace/build/ament_cppcheck/build/lib/ament_cppcheck
+[2.924s] copying ament_cppcheck/__init__.py -> /opt/workspace/build/ament_cppcheck/build/lib/ament_cppcheck
+[2.924s] copying ament_cppcheck/main.py -> /opt/workspace/build/ament_cppcheck/build/lib/ament_cppcheck
+[2.924s] running install
+[2.924s] running install_lib
+[2.924s] creating /opt/workspace/install/ament_cppcheck/lib/python3.6/site-packages/ament_cppcheck
+[2.925s] copying /opt/workspace/build/ament_cppcheck/build/lib/ament_cppcheck/__init__.py -> /opt/workspace/install/ament_cppcheck/lib/python3.6/site-packages/ament_cppcheck
+[2.925s] copying /opt/workspace/build/ament_cppcheck/build/lib/ament_cppcheck/main.py -> /opt/workspace/install/ament_cppcheck/lib/python3.6/site-packages/ament_cppcheck
+[2.925s] byte-compiling /opt/workspace/install/ament_cppcheck/lib/python3.6/site-packages/ament_cppcheck/__init__.py to __init__.cpython-36.pyc
+[2.926s] byte-compiling /opt/workspace/install/ament_cppcheck/lib/python3.6/site-packages/ament_cppcheck/main.py to main.cpython-36.pyc
+[2.928s] running install_data
+[2.928s] copying package.xml -> /opt/workspace/install/ament_cppcheck/share/ament_cppcheck
+[2.928s] creating /opt/workspace/install/ament_cppcheck/share/ament_index
+[2.929s] creating /opt/workspace/install/ament_cppcheck/share/ament_index/resource_index
+[2.929s] creating /opt/workspace/install/ament_cppcheck/share/ament_index/resource_index/packages
+[2.929s] copying resource/ament_cppcheck -> /opt/workspace/install/ament_cppcheck/share/ament_index/resource_index/packages
+[2.929s] running install_egg_info
+[2.931s] Copying /opt/workspace/build/ament_cppcheck/ament_cppcheck.egg-info to /opt/workspace/install/ament_cppcheck/lib/python3.6/site-packages/ament_cppcheck-0.8.1-py3.6.egg-info
+[2.932s] running install_scripts
+[2.958s] Installing ament_cppcheck script to /opt/workspace/install/ament_cppcheck/bin
+[2.958s] writing list of installed files to '/opt/workspace/build/ament_cppcheck/install.log'
+[3.130s] Invoked command in '/opt/workspace/src/ament/ament_lint/ament_cppcheck' returned '0': PYTHONPATH=/opt/workspace/install/ament_cppcheck/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base /opt/workspace/build/ament_cppcheck build --build-base /opt/workspace/build/ament_cppcheck/build install --prefix /opt/workspace/install/ament_cppcheck --record /opt/workspace/build/ament_cppcheck/install.log --single-version-externally-managed

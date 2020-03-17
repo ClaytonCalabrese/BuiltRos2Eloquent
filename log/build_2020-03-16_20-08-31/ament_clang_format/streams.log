@@ -1,0 +1,21 @@
+[2.008s] Invoking command in '/opt/workspace/src/ament/ament_lint/ament_clang_format': AMENT_PREFIX_PATH=/opt/workspace/install/ament_copyright:/opt/workspace/install/ament_pep257:/opt/workspace/install/ament_flake8:/opt/workspace/install/ament_lint:${AMENT_PREFIX_PATH} PATH=/opt/workspace/install/ament_copyright/bin:/opt/workspace/install/ament_pep257/bin:/opt/workspace/install/ament_flake8/bin:${PATH} PYTHONPATH=/opt/workspace/install/ament_clang_format/lib/python3.6/site-packages:/opt/workspace/install/ament_copyright/lib/python3.6/site-packages:/opt/workspace/install/ament_pep257/lib/python3.6/site-packages:/opt/workspace/install/ament_flake8/lib/python3.6/site-packages:/opt/workspace/install/ament_lint/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base /opt/workspace/build/ament_clang_format build --build-base /opt/workspace/build/ament_clang_format/build install --prefix /opt/workspace/install/ament_clang_format --record /opt/workspace/build/ament_clang_format/install.log --single-version-externally-managed
+[2.429s] running egg_info
+[2.430s] writing /opt/workspace/build/ament_clang_format/ament_clang_format.egg-info/PKG-INFO
+[2.430s] writing dependency_links to /opt/workspace/build/ament_clang_format/ament_clang_format.egg-info/dependency_links.txt
+[2.430s] writing entry points to /opt/workspace/build/ament_clang_format/ament_clang_format.egg-info/entry_points.txt
+[2.431s] writing requirements to /opt/workspace/build/ament_clang_format/ament_clang_format.egg-info/requires.txt
+[2.431s] writing top-level names to /opt/workspace/build/ament_clang_format/ament_clang_format.egg-info/top_level.txt
+[2.517s] reading manifest file '/opt/workspace/build/ament_clang_format/ament_clang_format.egg-info/SOURCES.txt'
+[2.520s] writing manifest file '/opt/workspace/build/ament_clang_format/ament_clang_format.egg-info/SOURCES.txt'
+[2.520s] running build
+[2.521s] running build_py
+[2.521s] running install
+[2.522s] running install_lib
+[2.524s] running install_data
+[2.525s] running install_egg_info
+[2.529s] removing '/opt/workspace/install/ament_clang_format/lib/python3.6/site-packages/ament_clang_format-0.8.1-py3.6.egg-info' (and everything under it)
+[2.530s] Copying /opt/workspace/build/ament_clang_format/ament_clang_format.egg-info to /opt/workspace/install/ament_clang_format/lib/python3.6/site-packages/ament_clang_format-0.8.1-py3.6.egg-info
+[2.531s] running install_scripts
+[2.567s] Installing ament_clang_format script to /opt/workspace/install/ament_clang_format/bin
+[2.568s] writing list of installed files to '/opt/workspace/build/ament_clang_format/install.log'
+[2.737s] Invoked command in '/opt/workspace/src/ament/ament_lint/ament_clang_format' returned '0': AMENT_PREFIX_PATH=/opt/workspace/install/ament_copyright:/opt/workspace/install/ament_pep257:/opt/workspace/install/ament_flake8:/opt/workspace/install/ament_lint:${AMENT_PREFIX_PATH} PATH=/opt/workspace/install/ament_copyright/bin:/opt/workspace/install/ament_pep257/bin:/opt/workspace/install/ament_flake8/bin:${PATH} PYTHONPATH=/opt/workspace/install/ament_clang_format/lib/python3.6/site-packages:/opt/workspace/install/ament_copyright/lib/python3.6/site-packages:/opt/workspace/install/ament_pep257/lib/python3.6/site-packages:/opt/workspace/install/ament_flake8/lib/python3.6/site-packages:/opt/workspace/install/ament_lint/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base /opt/workspace/build/ament_clang_format build --build-base /opt/workspace/build/ament_clang_format/build install --prefix /opt/workspace/install/ament_clang_format --record /opt/workspace/build/ament_clang_format/install.log --single-version-externally-managed

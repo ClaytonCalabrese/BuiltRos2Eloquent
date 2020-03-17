@@ -1,0 +1,30 @@
+{
+  "package_name": "rosgraph_msgs",
+  "output_dir": "/opt/workspace/build/rosgraph_msgs/rosidl_generator_py/rosgraph_msgs",
+  "template_dir": "/opt/workspace/install/rosidl_generator_py/share/rosidl_generator_py/cmake/../resource",
+  "idl_tuples": [
+    "/opt/workspace/build/rosgraph_msgs/rosidl_adapter/rosgraph_msgs:msg/Clock.idl"
+  ],
+  "ros_interface_dependencies": [
+    "builtin_interfaces:/opt/workspace/install/builtin_interfaces/share/builtin_interfaces/msg/Duration.idl",
+    "builtin_interfaces:/opt/workspace/install/builtin_interfaces/share/builtin_interfaces/msg/Time.idl"
+  ],
+  "target_dependencies": [
+    "/opt/workspace/install/rosidl_generator_py/share/rosidl_generator_py/cmake/../../../lib/rosidl_generator_py/rosidl_generator_py",
+    "/opt/workspace/install/rosidl_generator_py/lib/python3.6/site-packages/rosidl_generator_py/__init__.py",
+    "/opt/workspace/install/rosidl_generator_py/lib/python3.6/site-packages/rosidl_generator_py/generate_py_impl.py",
+    "/opt/workspace/install/rosidl_generator_py/share/rosidl_generator_py/cmake/../resource/_action_pkg_typesupport_entry_point.c.em",
+    "/opt/workspace/install/rosidl_generator_py/share/rosidl_generator_py/cmake/../resource/_action.py.em",
+    "/opt/workspace/install/rosidl_generator_py/share/rosidl_generator_py/cmake/../resource/_idl_pkg_typesupport_entry_point.c.em",
+    "/opt/workspace/install/rosidl_generator_py/share/rosidl_generator_py/cmake/../resource/_idl_support.c.em",
+    "/opt/workspace/install/rosidl_generator_py/share/rosidl_generator_py/cmake/../resource/_idl.py.em",
+    "/opt/workspace/install/rosidl_generator_py/share/rosidl_generator_py/cmake/../resource/_msg_pkg_typesupport_entry_point.c.em",
+    "/opt/workspace/install/rosidl_generator_py/share/rosidl_generator_py/cmake/../resource/_msg_support.c.em",
+    "/opt/workspace/install/rosidl_generator_py/share/rosidl_generator_py/cmake/../resource/_msg.py.em",
+    "/opt/workspace/install/rosidl_generator_py/share/rosidl_generator_py/cmake/../resource/_srv_pkg_typesupport_entry_point.c.em",
+    "/opt/workspace/install/rosidl_generator_py/share/rosidl_generator_py/cmake/../resource/_srv.py.em",
+    "/opt/workspace/build/rosgraph_msgs/rosidl_adapter/rosgraph_msgs/msg/Clock.idl",
+    "/opt/workspace/install/builtin_interfaces/share/builtin_interfaces/msg/Duration.idl",
+    "/opt/workspace/install/builtin_interfaces/share/builtin_interfaces/msg/Time.idl"
+  ]
+}

@@ -1,0 +1,4 @@
+[3.376s] CMake Warning at CMakeLists.txt:19 (message):
+[3.377s]   Could not find ADLINK OpenSplice - skipping 'rmw_opensplice_cpp'
+[3.378s] 
+[3.378s] 

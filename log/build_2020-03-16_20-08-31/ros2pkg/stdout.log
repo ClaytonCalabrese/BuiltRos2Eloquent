@@ -1,0 +1,113 @@
+[6.168s] running egg_info
+[6.169s] creating /opt/workspace/build/ros2pkg/ros2pkg.egg-info
+[6.172s] writing /opt/workspace/build/ros2pkg/ros2pkg.egg-info/PKG-INFO
+[6.172s] writing dependency_links to /opt/workspace/build/ros2pkg/ros2pkg.egg-info/dependency_links.txt
+[6.173s] writing entry points to /opt/workspace/build/ros2pkg/ros2pkg.egg-info/entry_points.txt
+[6.173s] writing requirements to /opt/workspace/build/ros2pkg/ros2pkg.egg-info/requires.txt
+[6.173s] writing top-level names to /opt/workspace/build/ros2pkg/ros2pkg.egg-info/top_level.txt
+[6.186s] writing manifest file '/opt/workspace/build/ros2pkg/ros2pkg.egg-info/SOURCES.txt'
+[6.281s] reading manifest file '/opt/workspace/build/ros2pkg/ros2pkg.egg-info/SOURCES.txt'
+[6.284s] writing manifest file '/opt/workspace/build/ros2pkg/ros2pkg.egg-info/SOURCES.txt'
+[6.285s] running build
+[6.285s] running build_py
+[6.286s] creating /opt/workspace/build/ros2pkg/build
+[6.286s] creating /opt/workspace/build/ros2pkg/build/lib
+[6.286s] creating /opt/workspace/build/ros2pkg/build/lib/ros2pkg
+[6.287s] copying ros2pkg/__init__.py -> /opt/workspace/build/ros2pkg/build/lib/ros2pkg
+[6.287s] creating /opt/workspace/build/ros2pkg/build/lib/ros2pkg/api
+[6.287s] copying ros2pkg/api/__init__.py -> /opt/workspace/build/ros2pkg/build/lib/ros2pkg/api
+[6.287s] copying ros2pkg/api/create.py -> /opt/workspace/build/ros2pkg/build/lib/ros2pkg/api
+[6.288s] creating /opt/workspace/build/ros2pkg/build/lib/ros2pkg/verb
+[6.288s] copying ros2pkg/verb/__init__.py -> /opt/workspace/build/ros2pkg/build/lib/ros2pkg/verb
+[6.288s] copying ros2pkg/verb/executables.py -> /opt/workspace/build/ros2pkg/build/lib/ros2pkg/verb
+[6.288s] copying ros2pkg/verb/xml.py -> /opt/workspace/build/ros2pkg/build/lib/ros2pkg/verb
+[6.289s] copying ros2pkg/verb/create.py -> /opt/workspace/build/ros2pkg/build/lib/ros2pkg/verb
+[6.289s] copying ros2pkg/verb/list.py -> /opt/workspace/build/ros2pkg/build/lib/ros2pkg/verb
+[6.289s] copying ros2pkg/verb/prefix.py -> /opt/workspace/build/ros2pkg/build/lib/ros2pkg/verb
+[6.290s] creating /opt/workspace/build/ros2pkg/build/lib/ros2pkg/command
+[6.290s] copying ros2pkg/command/__init__.py -> /opt/workspace/build/ros2pkg/build/lib/ros2pkg/command
+[6.290s] copying ros2pkg/command/pkg.py -> /opt/workspace/build/ros2pkg/build/lib/ros2pkg/command
+[6.291s] creating /opt/workspace/build/ros2pkg/build/lib/ros2pkg/resource
+[6.291s] creating /opt/workspace/build/ros2pkg/build/lib/ros2pkg/resource/ament_python
+[6.291s] copying ros2pkg/resource/ament_python/main.py.em -> /opt/workspace/build/ros2pkg/build/lib/ros2pkg/resource/ament_python
+[6.292s] copying ros2pkg/resource/ament_python/test_pep257.py.em -> /opt/workspace/build/ros2pkg/build/lib/ros2pkg/resource/ament_python
+[6.292s] copying ros2pkg/resource/ament_python/test_copyright.py.em -> /opt/workspace/build/ros2pkg/build/lib/ros2pkg/resource/ament_python
+[6.292s] copying ros2pkg/resource/ament_python/setup.cfg.em -> /opt/workspace/build/ros2pkg/build/lib/ros2pkg/resource/ament_python
+[6.293s] copying ros2pkg/resource/ament_python/resource_file.em -> /opt/workspace/build/ros2pkg/build/lib/ros2pkg/resource/ament_python
+[6.293s] copying ros2pkg/resource/ament_python/setup.py.em -> /opt/workspace/build/ros2pkg/build/lib/ros2pkg/resource/ament_python
+[6.293s] copying ros2pkg/resource/ament_python/init.py.em -> /opt/workspace/build/ros2pkg/build/lib/ros2pkg/resource/ament_python
+[6.294s] copying ros2pkg/resource/ament_python/test_flake8.py.em -> /opt/workspace/build/ros2pkg/build/lib/ros2pkg/resource/ament_python
+[6.294s] creating /opt/workspace/build/ros2pkg/build/lib/ros2pkg/resource/cpp
+[6.294s] copying ros2pkg/resource/cpp/library.cpp.em -> /opt/workspace/build/ros2pkg/build/lib/ros2pkg/resource/cpp
+[6.295s] copying ros2pkg/resource/cpp/main.cpp.em -> /opt/workspace/build/ros2pkg/build/lib/ros2pkg/resource/cpp
+[6.295s] copying ros2pkg/resource/cpp/visibility_control.h.em -> /opt/workspace/build/ros2pkg/build/lib/ros2pkg/resource/cpp
+[6.295s] copying ros2pkg/resource/cpp/header.hpp.em -> /opt/workspace/build/ros2pkg/build/lib/ros2pkg/resource/cpp
+[6.296s] creating /opt/workspace/build/ros2pkg/build/lib/ros2pkg/resource/ament_cmake
+[6.296s] copying ros2pkg/resource/ament_cmake/CMakeLists.txt.em -> /opt/workspace/build/ros2pkg/build/lib/ros2pkg/resource/ament_cmake
+[6.307s] creating /opt/workspace/build/ros2pkg/build/lib/ros2pkg/resource/cmake
+[6.307s] copying ros2pkg/resource/cmake/CMakeLists.txt.em -> /opt/workspace/build/ros2pkg/build/lib/ros2pkg/resource/cmake
+[6.307s] copying ros2pkg/resource/cmake/Config.cmake.in.em -> /opt/workspace/build/ros2pkg/build/lib/ros2pkg/resource/cmake
+[6.308s] copying ros2pkg/resource/cmake/ConfigVersion.cmake.in.em -> /opt/workspace/build/ros2pkg/build/lib/ros2pkg/resource/cmake
+[6.308s] creating /opt/workspace/build/ros2pkg/build/lib/ros2pkg/resource/package_environment
+[6.308s] copying ros2pkg/resource/package_environment/package.xml.em -> /opt/workspace/build/ros2pkg/build/lib/ros2pkg/resource/package_environment
+[6.309s] running install
+[6.309s] running install_lib
+[6.312s] creating /opt/workspace/install/ros2pkg/lib/python3.6/site-packages/ros2pkg
+[6.313s] copying /opt/workspace/build/ros2pkg/build/lib/ros2pkg/__init__.py -> /opt/workspace/install/ros2pkg/lib/python3.6/site-packages/ros2pkg
+[6.314s] creating /opt/workspace/install/ros2pkg/lib/python3.6/site-packages/ros2pkg/resource
+[6.314s] creating /opt/workspace/install/ros2pkg/lib/python3.6/site-packages/ros2pkg/resource/ament_python
+[6.314s] copying /opt/workspace/build/ros2pkg/build/lib/ros2pkg/resource/ament_python/main.py.em -> /opt/workspace/install/ros2pkg/lib/python3.6/site-packages/ros2pkg/resource/ament_python
+[6.315s] copying /opt/workspace/build/ros2pkg/build/lib/ros2pkg/resource/ament_python/test_pep257.py.em -> /opt/workspace/install/ros2pkg/lib/python3.6/site-packages/ros2pkg/resource/ament_python
+[6.315s] copying /opt/workspace/build/ros2pkg/build/lib/ros2pkg/resource/ament_python/test_copyright.py.em -> /opt/workspace/install/ros2pkg/lib/python3.6/site-packages/ros2pkg/resource/ament_python
+[6.315s] copying /opt/workspace/build/ros2pkg/build/lib/ros2pkg/resource/ament_python/setup.cfg.em -> /opt/workspace/install/ros2pkg/lib/python3.6/site-packages/ros2pkg/resource/ament_python
+[6.315s] copying /opt/workspace/build/ros2pkg/build/lib/ros2pkg/resource/ament_python/resource_file.em -> /opt/workspace/install/ros2pkg/lib/python3.6/site-packages/ros2pkg/resource/ament_python
+[6.315s] copying /opt/workspace/build/ros2pkg/build/lib/ros2pkg/resource/ament_python/setup.py.em -> /opt/workspace/install/ros2pkg/lib/python3.6/site-packages/ros2pkg/resource/ament_python
+[6.315s] copying /opt/workspace/build/ros2pkg/build/lib/ros2pkg/resource/ament_python/init.py.em -> /opt/workspace/install/ros2pkg/lib/python3.6/site-packages/ros2pkg/resource/ament_python
+[6.316s] copying /opt/workspace/build/ros2pkg/build/lib/ros2pkg/resource/ament_python/test_flake8.py.em -> /opt/workspace/install/ros2pkg/lib/python3.6/site-packages/ros2pkg/resource/ament_python
+[6.316s] creating /opt/workspace/install/ros2pkg/lib/python3.6/site-packages/ros2pkg/resource/cpp
+[6.316s] copying /opt/workspace/build/ros2pkg/build/lib/ros2pkg/resource/cpp/library.cpp.em -> /opt/workspace/install/ros2pkg/lib/python3.6/site-packages/ros2pkg/resource/cpp
+[6.316s] copying /opt/workspace/build/ros2pkg/build/lib/ros2pkg/resource/cpp/main.cpp.em -> /opt/workspace/install/ros2pkg/lib/python3.6/site-packages/ros2pkg/resource/cpp
+[6.316s] copying /opt/workspace/build/ros2pkg/build/lib/ros2pkg/resource/cpp/visibility_control.h.em -> /opt/workspace/install/ros2pkg/lib/python3.6/site-packages/ros2pkg/resource/cpp
+[6.317s] copying /opt/workspace/build/ros2pkg/build/lib/ros2pkg/resource/cpp/header.hpp.em -> /opt/workspace/install/ros2pkg/lib/python3.6/site-packages/ros2pkg/resource/cpp
+[6.343s] creating /opt/workspace/install/ros2pkg/lib/python3.6/site-packages/ros2pkg/resource/ament_cmake
+[6.343s] copying /opt/workspace/build/ros2pkg/build/lib/ros2pkg/resource/ament_cmake/CMakeLists.txt.em -> /opt/workspace/install/ros2pkg/lib/python3.6/site-packages/ros2pkg/resource/ament_cmake
+[6.343s] creating /opt/workspace/install/ros2pkg/lib/python3.6/site-packages/ros2pkg/resource/cmake
+[6.343s] copying /opt/workspace/build/ros2pkg/build/lib/ros2pkg/resource/cmake/CMakeLists.txt.em -> /opt/workspace/install/ros2pkg/lib/python3.6/site-packages/ros2pkg/resource/cmake
+[6.344s] copying /opt/workspace/build/ros2pkg/build/lib/ros2pkg/resource/cmake/Config.cmake.in.em -> /opt/workspace/install/ros2pkg/lib/python3.6/site-packages/ros2pkg/resource/cmake
+[6.344s] copying /opt/workspace/build/ros2pkg/build/lib/ros2pkg/resource/cmake/ConfigVersion.cmake.in.em -> /opt/workspace/install/ros2pkg/lib/python3.6/site-packages/ros2pkg/resource/cmake
+[6.344s] creating /opt/workspace/install/ros2pkg/lib/python3.6/site-packages/ros2pkg/resource/package_environment
+[6.344s] copying /opt/workspace/build/ros2pkg/build/lib/ros2pkg/resource/package_environment/package.xml.em -> /opt/workspace/install/ros2pkg/lib/python3.6/site-packages/ros2pkg/resource/package_environment
+[6.344s] creating /opt/workspace/install/ros2pkg/lib/python3.6/site-packages/ros2pkg/api
+[6.345s] copying /opt/workspace/build/ros2pkg/build/lib/ros2pkg/api/__init__.py -> /opt/workspace/install/ros2pkg/lib/python3.6/site-packages/ros2pkg/api
+[6.345s] copying /opt/workspace/build/ros2pkg/build/lib/ros2pkg/api/create.py -> /opt/workspace/install/ros2pkg/lib/python3.6/site-packages/ros2pkg/api
+[6.345s] creating /opt/workspace/install/ros2pkg/lib/python3.6/site-packages/ros2pkg/verb
+[6.346s] copying /opt/workspace/build/ros2pkg/build/lib/ros2pkg/verb/__init__.py -> /opt/workspace/install/ros2pkg/lib/python3.6/site-packages/ros2pkg/verb
+[6.346s] copying /opt/workspace/build/ros2pkg/build/lib/ros2pkg/verb/executables.py -> /opt/workspace/install/ros2pkg/lib/python3.6/site-packages/ros2pkg/verb
+[6.346s] copying /opt/workspace/build/ros2pkg/build/lib/ros2pkg/verb/xml.py -> /opt/workspace/install/ros2pkg/lib/python3.6/site-packages/ros2pkg/verb
+[6.346s] copying /opt/workspace/build/ros2pkg/build/lib/ros2pkg/verb/create.py -> /opt/workspace/install/ros2pkg/lib/python3.6/site-packages/ros2pkg/verb
+[6.346s] copying /opt/workspace/build/ros2pkg/build/lib/ros2pkg/verb/list.py -> /opt/workspace/install/ros2pkg/lib/python3.6/site-packages/ros2pkg/verb
+[6.347s] copying /opt/workspace/build/ros2pkg/build/lib/ros2pkg/verb/prefix.py -> /opt/workspace/install/ros2pkg/lib/python3.6/site-packages/ros2pkg/verb
+[6.347s] creating /opt/workspace/install/ros2pkg/lib/python3.6/site-packages/ros2pkg/command
+[6.347s] copying /opt/workspace/build/ros2pkg/build/lib/ros2pkg/command/__init__.py -> /opt/workspace/install/ros2pkg/lib/python3.6/site-packages/ros2pkg/command
+[6.347s] copying /opt/workspace/build/ros2pkg/build/lib/ros2pkg/command/pkg.py -> /opt/workspace/install/ros2pkg/lib/python3.6/site-packages/ros2pkg/command
+[6.347s] byte-compiling /opt/workspace/install/ros2pkg/lib/python3.6/site-packages/ros2pkg/__init__.py to __init__.cpython-36.pyc
+[6.348s] byte-compiling /opt/workspace/install/ros2pkg/lib/python3.6/site-packages/ros2pkg/api/__init__.py to __init__.cpython-36.pyc
+[6.348s] byte-compiling /opt/workspace/install/ros2pkg/lib/python3.6/site-packages/ros2pkg/api/create.py to create.cpython-36.pyc
+[6.348s] byte-compiling /opt/workspace/install/ros2pkg/lib/python3.6/site-packages/ros2pkg/verb/__init__.py to __init__.cpython-36.pyc
+[6.348s] byte-compiling /opt/workspace/install/ros2pkg/lib/python3.6/site-packages/ros2pkg/verb/executables.py to executables.cpython-36.pyc
+[6.348s] byte-compiling /opt/workspace/install/ros2pkg/lib/python3.6/site-packages/ros2pkg/verb/xml.py to xml.cpython-36.pyc
+[6.349s] byte-compiling /opt/workspace/install/ros2pkg/lib/python3.6/site-packages/ros2pkg/verb/create.py to create.cpython-36.pyc
+[6.349s] byte-compiling /opt/workspace/install/ros2pkg/lib/python3.6/site-packages/ros2pkg/verb/list.py to list.cpython-36.pyc
+[6.349s] byte-compiling /opt/workspace/install/ros2pkg/lib/python3.6/site-packages/ros2pkg/verb/prefix.py to prefix.cpython-36.pyc
+[6.349s] byte-compiling /opt/workspace/install/ros2pkg/lib/python3.6/site-packages/ros2pkg/command/__init__.py to __init__.cpython-36.pyc
+[6.350s] byte-compiling /opt/workspace/install/ros2pkg/lib/python3.6/site-packages/ros2pkg/command/pkg.py to pkg.cpython-36.pyc
+[6.351s] running install_data
+[6.351s] copying package.xml -> /opt/workspace/install/ros2pkg/share/ros2pkg
+[6.351s] creating /opt/workspace/install/ros2pkg/share/ament_index
+[6.351s] creating /opt/workspace/install/ros2pkg/share/ament_index/resource_index
+[6.352s] creating /opt/workspace/install/ros2pkg/share/ament_index/resource_index/packages
+[6.352s] copying resource/ros2pkg -> /opt/workspace/install/ros2pkg/share/ament_index/resource_index/packages
+[6.352s] running install_egg_info
+[6.352s] Copying /opt/workspace/build/ros2pkg/ros2pkg.egg-info to /opt/workspace/install/ros2pkg/lib/python3.6/site-packages/ros2pkg-0.8.7-py3.6.egg-info
+[6.352s] running install_scripts
+[6.400s] writing list of installed files to '/opt/workspace/build/ros2pkg/install.log'
